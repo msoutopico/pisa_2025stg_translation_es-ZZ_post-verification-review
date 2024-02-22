@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <!DOCTYPE omegat [
-<!ENTITY DOMAIN "https://git-codecommit.eu-central-1.amazonaws.com/v1/repos">
-<!ENTITY TARGET_LANG "sv-SE">
+<!ENTITY DOMAIN "https://github.com/msoutopico">
+<!ENTITY TARGET_LANG "es-ZZ">
 <!ENTITY PREV_STEP "verification-review">
 <!ENTITY THIS_STEP "post-verification-review">
-<!ENTITY THIS_REPO "pisa_2025stg_translation_es-ZZ_&THIS_STEP;">
+<!ENTITY THIS_REPO "pisa_2025stg_translation_&TARGET_LANG;_&THIS_STEP;">
 ]>
 <omegat>
   <project version="1.0">
