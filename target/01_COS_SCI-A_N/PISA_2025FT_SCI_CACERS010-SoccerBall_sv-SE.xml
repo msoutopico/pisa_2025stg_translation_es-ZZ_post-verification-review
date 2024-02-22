@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc633267c10d23d/passage NEW.xml">
+            <label key="d67a0fbc633267c10d23d_9142a2faea1da3a5a61f778cdd62e520_1">
+                <text>Fotboll</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_b6efd88ec305eff626cbb67e4227c9a3_2">
+                <text>Jenny spelar in en video av sig själv när hon tränar fotboll.</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_688269df2d246275ddbd1ba33197b62f_3">
+                <text>Den här dagen blåser och regnar det inte.</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_32ec54d40b08b46c4bb4cc108a5f399e_4">
+                <text>en fotboll</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/d67a0fbc633267c10d23d/passage NEW.xml">
+            <label key="d67a0fbc633267c10d23d_9142a2faea1da3a5a61f778cdd62e520_1">
+                <text>Fotboll</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_b6efd88ec305eff626cbb67e4227c9a3_2">
+                <text>Jenny spelar in en video av sig själv när hon tränar fotboll.</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_688269df2d246275ddbd1ba33197b62f_3">
+                <text>Den här dagen blåser och regnar det inte.</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_32ec54d40b08b46c4bb4cc108a5f399e_4">
+                <text>en fotboll</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/d67a0fbc633267c10d23d/passage NEW.xml">
+            <label key="d67a0fbc633267c10d23d_9142a2faea1da3a5a61f778cdd62e520_1">
+                <text>Fotboll</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_b6efd88ec305eff626cbb67e4227c9a3_2">
+                <text>Jenny spelar in en video av sig själv när hon tränar fotboll.</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_688269df2d246275ddbd1ba33197b62f_3">
+                <text>Den här dagen blåser och regnar det inte.</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_32ec54d40b08b46c4bb4cc108a5f399e_4">
+                <text>en fotboll</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/d67a0fbc633267c10d23d/passage NEW.xml">
+            <label key="d67a0fbc633267c10d23d_9142a2faea1da3a5a61f778cdd62e520_1">
+                <text>Fotboll</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_b6efd88ec305eff626cbb67e4227c9a3_2">
+                <text>Jenny spelar in en video av sig själv när hon tränar fotboll.</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_688269df2d246275ddbd1ba33197b62f_3">
+                <text>Den här dagen blåser och regnar det inte.</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_32ec54d40b08b46c4bb4cc108a5f399e_4">
+                <text>en fotboll</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/d67a0fbc633267c10d23d/passage NEW.xml">
+            <label key="d67a0fbc633267c10d23d_9142a2faea1da3a5a61f778cdd62e520_1">
+                <text>Fotboll</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_b6efd88ec305eff626cbb67e4227c9a3_2">
+                <text>Jenny spelar in en video av sig själv när hon tränar fotboll.</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_688269df2d246275ddbd1ba33197b62f_3">
+                <text>Den här dagen blåser och regnar det inte.</text>
+            </label>
+            <label key="d67a0fbc633267c10d23d_32ec54d40b08b46c4bb4cc108a5f399e_4">
+                <text>en fotboll</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i633269a2789ed16159ef230c94a45fba7c">
+            <label key="i633269a2789ed16159ef230c94a45fba7c_8ba50e8711ff2c1b12dc8a98252ed2ef_1">
+                <text>Jenny filmar sig själv när hon sparkar samma boll i luften fyra gånger med en vinkel på 45°.</text>
+            </label>
+            <label key="i633269a2789ed16159ef230c94a45fba7c_1ed2c858665c2296cc7c3f0154d52382_2">
+                <text>Efter varje spark landar bollen på olika ställen på marken.</text>
+            </label>
+            <label key="i633269a2789ed16159ef230c94a45fba7c_964b97788c2e29b16b368d95a4b4dbfc_3">
+                <text>45°</text>
+            </label>
+            <label key="i633269a2789ed16159ef230c94a45fba7c_2fb06b24e4443e994ecb8e9477725789_4">
+                <text>spark 1</text>
+            </label>
+            <label key="i633269a2789ed16159ef230c94a45fba7c_e36e96d5a2c32f70068d56448a836171_5">
+                <text>spark 2</text>
+            </label>
+            <label key="i633269a2789ed16159ef230c94a45fba7c_915b0eb9083267b7b5cfd4b4c51ee16e_6">
+                <text>spark 3</text>
+            </label>
+            <label key="i633269a2789ed16159ef230c94a45fba7c_523a13938675b4a0ecd219111ff4c88b_7">
+                <text>spark 4</text>
+            </label>
+            <label key="i633269a2789ed16159ef230c94a45fba7c_e1433c59b8fd3b470ea905b32a36cd7d_8">
+                <text>Vad var orsaken till att bollen landade på fyra olika ställen?</text>
+            </label>
+            <label key="i633269a2789ed16159ef230c94a45fba7c_choice_1_e30ccf49750024789ec5e8f6f91f8e4c_9">
+                <text>bollens vikt</text>
+            </label>
+            <label key="i633269a2789ed16159ef230c94a45fba7c_choice_2_3957364c7b31c4626df946198f73ea3e_10">
+                <text>vinkeln som bollen sparkades i</text>
+            </label>
+            <label key="i633269a2789ed16159ef230c94a45fba7c_choice_3_71490f072168e1f48dc5c51b1fcd59f4_11">
+                <text>kraften som bollen sparkades med</text>
+            </label>
+            <label key="i633269a2789ed16159ef230c94a45fba7c_choice_4_7f99e7b4b2a7a2287835b59441d3273a_12">
+                <text>riktningen som bollen sparkades i </text>
+            </label>
+        </item>
+        <item id="i633270189d43615593957ae21be7b1ff09">
+            <label key="i633270189d43615593957ae21be7b1ff09_af71593bd5492a60929012cfddcba7c0_1">
+                <text>Bilden nedan visar ögonblicket när Jenny sparkar bollen.</text>
+            </label>
+            <label key="i633270189d43615593957ae21be7b1ff09_ef23b2b0864d6d91efd86eb70b6b9232_2">
+                <text>riktningen som bollen sparkas i</text>
+            </label>
+            <label key="i633270189d43615593957ae21be7b1ff09_4a36c2daf49964fef7941e08674063c8_3">
+                <text>Välj den bild där pilen bäst visar riktningen på kraften från bollen som verkar på Jennys fot.</text>
+            </label>
+        </item>
+        <item id="i633271551f9d11927a4cdd8567381002a">
+            <label key="i633271551f9d11927a4cdd8567381002a_d41da6d6ee145cc3024bd2c701f31090_1">
+                <text>Vilken kraft gör att bollen faller tillbaka till marken?</text>
+            </label>
+            <label key="i633271551f9d11927a4cdd8567381002a_d44fb259766455531fa13ed425a6c9e5_2">
+                <text>Skriv namnet på denna kraft i textrutan.</text>
+            </label>
+        </item>
+        <item id="i633274840eecc1625c5a59a863007b8a3">
+            <label key="i633274840eecc1625c5a59a863007b8a3_63f4dff011815cefdae514b5781ca203_1">
+                <text>Jenny undrar vad som skulle hända om hon också sparkade en boll med större area än hennes fotboll. The balls have equal mass and elasticity.</text>
+            </label>
+            <label key="i633274840eecc1625c5a59a863007b8a3_4e671cebb69d0db16ca0b255b17f733d_2">
+                <text>Jenny sparkar båda bollarna med samma kraft och i samma riktning.</text>
+            </label>
+            <label key="i633274840eecc1625c5a59a863007b8a3_fbe247100bb16246720a31a57d85ee13_3">
+                <text>Kommer bytet till den större bollen leda till följande resultat?</text>
+            </label>
+            <label key="i633274840eecc1625c5a59a863007b8a3_02ab71cab2b0dcedc5416ee596deb60d_4">
+                <text>Välj 'Ja' eller 'Nej' för varje resultat.</text>
+            </label>
+            <label key="i633274840eecc1625c5a59a863007b8a3_Y_d385175f643c160b541b53601316c587_5">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i633274840eecc1625c5a59a863007b8a3_N_640a42d9dd99460d2d4f4eba8e4b7ccf_6">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i633274840eecc1625c5a59a863007b8a3_Row1_73d5b746886d661385857878c4f0cf74_7">
+                <text>Den större bollen skulle nå högre.</text>
+            </label>
+            <label key="i633274840eecc1625c5a59a863007b8a3_Row2_32379484061c428302810e484860e0d7_8">
+                <text>Den större bollen skulle färdas en kortare horisontell sträcka. </text>
+            </label>
+            <label key="i633274840eecc1625c5a59a863007b8a3_Row3_501f3c3db7970501cd5fd5894c75ee29_9">
+                <text>Den större bollen skulle färdas en längre totalsträcka.</text>
+            </label>
+        </item>
+        <item id="i633277262d8f0155778cfa41b4d45f196e">
+            <label key="i633277262d8f0155778cfa41b4d45f196e_310ecf192ca8a7200328eac393c7961a_1">
+                <text>Jenny sparkar fotbollen i luften.</text>
+            </label>
+            <label key="i633277262d8f0155778cfa41b4d45f196e_ae6586325ea51ca60566f57f3f8e47b8_2">
+                <text>Den faller till marken och studsar sedan upp i luften igen.</text>
+            </label>
+            <label key="i633277262d8f0155778cfa41b4d45f196e_7fc56270e7a70fa81a5935b72eacbe29_3">
+                <text>A</text>
+            </label>
+            <label key="i633277262d8f0155778cfa41b4d45f196e_624454c76dcc58a2f3d7b6653dc8c6e1_4">
+                <text>
+                    B
+                </text>
+            </label>
+            <label key="i633277262d8f0155778cfa41b4d45f196e_7f7e93b6769c248a83209b744f0b2b75_5">
+                <text>
+                    C
+                </text>
+            </label>
+            <label key="i633277262d8f0155778cfa41b4d45f196e_b4159f59eba7b52f044b481b1d5d2df3_6">
+                <text>
+                    D
+                </text>
+            </label>
+            <label key="i633277262d8f0155778cfa41b4d45f196e_e2c60c1bd30c5b2841ef756454f76f7d_7">
+                <text>Which of positions A, B, C or D will the soccer ball bounce up to?</text>
+            </label>
+            <label key="i633277262d8f0155778cfa41b4d45f196e_choice_1_6bdb75d056d9684c1ae2bf8354a26027_8">
+                <text>Position A</text>
+            </label>
+            <label key="i633277262d8f0155778cfa41b4d45f196e_choice_2_4be9454d730b741f050fe94de6f0bc53_9">
+                <text>Position B</text>
+            </label>
+            <label key="i633277262d8f0155778cfa41b4d45f196e_choice_3_7a581c42df0be78cb788a7e41cf2430d_10">
+                <text>Position C</text>
+            </label>
+            <label key="i633277262d8f0155778cfa41b4d45f196e_choice_4_9f4c2b1f4b20843ecc2ede935deacfd9_11">
+                <text>Position D</text>
+            </label>
+        </item>
+    </items>
+</file>

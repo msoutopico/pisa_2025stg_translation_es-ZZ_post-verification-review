@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/65543b6d6973d5.35153583/passage NEW.xml">
+            <label key="65543b6d6973d5.35153583_619df760a2b70f2a06285ba7c9188ad7_1">
+                <text>Global uppvärmning</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d6035ce263caba29ea9dae88b93ea666_2">
+                <text>Koldioxid (CO₂) är en växthusgas som hindrar värmestrålning från jorden. Detta leder till uppvärmning av jordens yta.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_faa69ef9fe050b093c4ae8d1de3ef751_3">
+                <text>I cirka 200 år har mänsklig aktivitet lett till ökande utsläpp av koldioxid i atmosfären. Klimatforskare över hela världen är överens om att detta leder till en gradvis ökning av den globala medeltemperaturen.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_ef2192313ade1236262861c7391fb567_4">
+                <text>Enligt forskare måste ökningen av den globala medeltemperaturen hållas under 2 °C för att undvika drastiska klimatförändringar. </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_2052391ab48786af86980c0a1ba00fd7_5">
+                <text>Forskare använder datamodellering för att utvärdera vilken effekt ytterligare CO₂-utsläpp från mänskliga aktiviteter har på ökningen av den globala medeltemperaturen. Diagrammet nedanför visar sannolikheterna för en 1,5 °C temperaturökning och en 2 °C ökning, beroende på hur mycket mer CO₂ som släpps ut i atmosfären.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_47b27fd65b31333471171cbe1011d30b_6">
+                <text>Massan av koldioxid anges i gigaton (Gt).</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d1eae7448e39e9946278a85a036cd352_7">
+                <text>
+                    Ytterligare mängd CO₂ (Gt)
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f2d4188ab7268e5713c351430111b3e6_8">
+                <text>
+                    Ökning av global medeltemperatur.
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_bfb4e8d837d38b2be0464fe95dfb4a68_9">
+                <text>
+                    Begränsad till 1,5°C
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f9132f04193cd3d3f0a1a99a11661a3b_10">
+                <text>
+                    Begränsad till 2°C
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f0dd4a99fba6075a9494772b58f95280_11">
+                <text>1400</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_6f3e29a35278d71c7f65495871231324_12">
+                <text>1 300</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_fe2d010308a6b3799a3d9c728ee74244_13">
+                <text>1200</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_1e6e0a04d20f50967c64dac2d639a577_14">
+                <text>1100</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_a9b7ba70783b617e9998dc4dd82eb3c5_15">
+                <text>1000</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_acf4b89d3d503d8252c9c4ba75ddbf6d_16">
+                <text>900</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_7a53928fa4dd31e82c6ef826f341daec_17">
+                <text>800</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_e5841df2166dd424a57127423d276bbe_18">
+                <text>700</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d490d7b4576290fa60eb31b5fc917ad1_19">
+                <text>600</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_cee631121c2ec9232f3a2f028ad5c89b_20">
+                <text>500</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_18d8042386b79e2c279fd162df0205c8_21">
+                <text>400</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_94f6d7e04a4d452035300f18b984988c_22">
+                <text>300</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_3644a684f98ea8fe223c713b77189a77_23">
+                <text>200</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f899139df5e1059396431415e770c6dd_24">
+                <text>100</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_7173c6d358073ea38f60cf31fad8d936_25">
+                <text>67 % sannolikhet</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_2905f6da2976722016686ca3b0f4c58d_26">
+                <text><img alt="CACERS023S1_global-warming_T_legend2.svg" src="a54a8901cc998ef870ff0773bb7281ea5933242027e8ecc130b4060a26413a86" width="1%"/>‌<br/>50 % sannolikhet</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65543b6d6973d5.35153583/passage NEW.xml">
+            <label key="65543b6d6973d5.35153583_619df760a2b70f2a06285ba7c9188ad7_1">
+                <text>Global uppvärmning</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d6035ce263caba29ea9dae88b93ea666_2">
+                <text>Koldioxid (CO₂) är en växthusgas som hindrar värmestrålning från jorden. Detta leder till uppvärmning av jordens yta.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_faa69ef9fe050b093c4ae8d1de3ef751_3">
+                <text>I cirka 200 år har mänsklig aktivitet lett till ökande utsläpp av koldioxid i atmosfären. Klimatforskare över hela världen är överens om att detta leder till en gradvis ökning av den globala medeltemperaturen.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_ef2192313ade1236262861c7391fb567_4">
+                <text>Enligt forskare måste ökningen av den globala medeltemperaturen hållas under 2 °C för att undvika drastiska klimatförändringar. </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_2052391ab48786af86980c0a1ba00fd7_5">
+                <text>Forskare använder datamodellering för att utvärdera vilken effekt ytterligare CO₂-utsläpp från mänskliga aktiviteter har på ökningen av den globala medeltemperaturen. Diagrammet nedanför visar sannolikheterna för en 1,5 °C temperaturökning och en 2 °C ökning, beroende på hur mycket mer CO₂ som släpps ut i atmosfären.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_47b27fd65b31333471171cbe1011d30b_6">
+                <text>Massan av koldioxid anges i gigaton (Gt).</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d1eae7448e39e9946278a85a036cd352_7">
+                <text>
+                    Ytterligare mängd CO₂ (Gt)
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f2d4188ab7268e5713c351430111b3e6_8">
+                <text>
+                    Ökning av global medeltemperatur.
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_bfb4e8d837d38b2be0464fe95dfb4a68_9">
+                <text>
+                    Begränsad till 1,5°C
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f9132f04193cd3d3f0a1a99a11661a3b_10">
+                <text>
+                    Begränsad till 2°C
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f0dd4a99fba6075a9494772b58f95280_11">
+                <text>1400</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_6f3e29a35278d71c7f65495871231324_12">
+                <text>1 300</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_fe2d010308a6b3799a3d9c728ee74244_13">
+                <text>1200</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_1e6e0a04d20f50967c64dac2d639a577_14">
+                <text>1100</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_a9b7ba70783b617e9998dc4dd82eb3c5_15">
+                <text>1000</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_acf4b89d3d503d8252c9c4ba75ddbf6d_16">
+                <text>900</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_7a53928fa4dd31e82c6ef826f341daec_17">
+                <text>800</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_e5841df2166dd424a57127423d276bbe_18">
+                <text>700</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d490d7b4576290fa60eb31b5fc917ad1_19">
+                <text>600</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_cee631121c2ec9232f3a2f028ad5c89b_20">
+                <text>500</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_18d8042386b79e2c279fd162df0205c8_21">
+                <text>400</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_94f6d7e04a4d452035300f18b984988c_22">
+                <text>300</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_3644a684f98ea8fe223c713b77189a77_23">
+                <text>200</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f899139df5e1059396431415e770c6dd_24">
+                <text>100</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_7173c6d358073ea38f60cf31fad8d936_25">
+                <text>67 % sannolikhet</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_2905f6da2976722016686ca3b0f4c58d_26">
+                <text><img alt="CACERS023S1_global-warming_T_legend2.svg" src="a54a8901cc998ef870ff0773bb7281ea5933242027e8ecc130b4060a26413a86" width="1%"/>‌<br/>50 % sannolikhet</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65543b6d6973d5.35153583/passage NEW.xml">
+            <label key="65543b6d6973d5.35153583_619df760a2b70f2a06285ba7c9188ad7_1">
+                <text>Global uppvärmning</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d6035ce263caba29ea9dae88b93ea666_2">
+                <text>Koldioxid (CO₂) är en växthusgas som hindrar värmestrålning från jorden. Detta leder till uppvärmning av jordens yta.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_faa69ef9fe050b093c4ae8d1de3ef751_3">
+                <text>I cirka 200 år har mänsklig aktivitet lett till ökande utsläpp av koldioxid i atmosfären. Klimatforskare över hela världen är överens om att detta leder till en gradvis ökning av den globala medeltemperaturen.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_ef2192313ade1236262861c7391fb567_4">
+                <text>Enligt forskare måste ökningen av den globala medeltemperaturen hållas under 2 °C för att undvika drastiska klimatförändringar. </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_2052391ab48786af86980c0a1ba00fd7_5">
+                <text>Forskare använder datamodellering för att utvärdera vilken effekt ytterligare CO₂-utsläpp från mänskliga aktiviteter har på ökningen av den globala medeltemperaturen. Diagrammet nedanför visar sannolikheterna för en 1,5 °C temperaturökning och en 2 °C ökning, beroende på hur mycket mer CO₂ som släpps ut i atmosfären.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_47b27fd65b31333471171cbe1011d30b_6">
+                <text>Massan av koldioxid anges i gigaton (Gt).</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d1eae7448e39e9946278a85a036cd352_7">
+                <text>
+                    Ytterligare mängd CO₂ (Gt)
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f2d4188ab7268e5713c351430111b3e6_8">
+                <text>
+                    Ökning av global medeltemperatur.
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_bfb4e8d837d38b2be0464fe95dfb4a68_9">
+                <text>
+                    Begränsad till 1,5°C
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f9132f04193cd3d3f0a1a99a11661a3b_10">
+                <text>
+                    Begränsad till 2°C
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f0dd4a99fba6075a9494772b58f95280_11">
+                <text>1400</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_6f3e29a35278d71c7f65495871231324_12">
+                <text>1 300</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_fe2d010308a6b3799a3d9c728ee74244_13">
+                <text>1200</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_1e6e0a04d20f50967c64dac2d639a577_14">
+                <text>1100</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_a9b7ba70783b617e9998dc4dd82eb3c5_15">
+                <text>1000</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_acf4b89d3d503d8252c9c4ba75ddbf6d_16">
+                <text>900</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_7a53928fa4dd31e82c6ef826f341daec_17">
+                <text>800</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_e5841df2166dd424a57127423d276bbe_18">
+                <text>700</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d490d7b4576290fa60eb31b5fc917ad1_19">
+                <text>600</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_cee631121c2ec9232f3a2f028ad5c89b_20">
+                <text>500</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_18d8042386b79e2c279fd162df0205c8_21">
+                <text>400</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_94f6d7e04a4d452035300f18b984988c_22">
+                <text>300</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_3644a684f98ea8fe223c713b77189a77_23">
+                <text>200</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f899139df5e1059396431415e770c6dd_24">
+                <text>100</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_7173c6d358073ea38f60cf31fad8d936_25">
+                <text>67 % sannolikhet</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_2905f6da2976722016686ca3b0f4c58d_26">
+                <text><img alt="CACERS023S1_global-warming_T_legend2.svg" src="a54a8901cc998ef870ff0773bb7281ea5933242027e8ecc130b4060a26413a86" width="1%"/>‌<br/>50 % sannolikhet</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65543b6d6973d5.35153583/passage NEW.xml">
+            <label key="65543b6d6973d5.35153583_619df760a2b70f2a06285ba7c9188ad7_1">
+                <text>Global uppvärmning</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d6035ce263caba29ea9dae88b93ea666_2">
+                <text>Koldioxid (CO₂) är en växthusgas som hindrar värmestrålning från jorden. Detta leder till uppvärmning av jordens yta.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_faa69ef9fe050b093c4ae8d1de3ef751_3">
+                <text>I cirka 200 år har mänsklig aktivitet lett till ökande utsläpp av koldioxid i atmosfären. Klimatforskare över hela världen är överens om att detta leder till en gradvis ökning av den globala medeltemperaturen.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_ef2192313ade1236262861c7391fb567_4">
+                <text>Enligt forskare måste ökningen av den globala medeltemperaturen hållas under 2 °C för att undvika drastiska klimatförändringar. </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_2052391ab48786af86980c0a1ba00fd7_5">
+                <text>Forskare använder datamodellering för att utvärdera vilken effekt ytterligare CO₂-utsläpp från mänskliga aktiviteter har på ökningen av den globala medeltemperaturen. Diagrammet nedanför visar sannolikheterna för en 1,5 °C temperaturökning och en 2 °C ökning, beroende på hur mycket mer CO₂ som släpps ut i atmosfären.</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_47b27fd65b31333471171cbe1011d30b_6">
+                <text>Massan av koldioxid anges i gigaton (Gt).</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d1eae7448e39e9946278a85a036cd352_7">
+                <text>
+                    Ytterligare mängd CO₂ (Gt)
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f2d4188ab7268e5713c351430111b3e6_8">
+                <text>
+                    Ökning av global medeltemperatur.
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_bfb4e8d837d38b2be0464fe95dfb4a68_9">
+                <text>
+                    Begränsad till 1,5°C
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f9132f04193cd3d3f0a1a99a11661a3b_10">
+                <text>
+                    Begränsad till 2°C
+                </text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f0dd4a99fba6075a9494772b58f95280_11">
+                <text>1400</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_6f3e29a35278d71c7f65495871231324_12">
+                <text>1 300</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_fe2d010308a6b3799a3d9c728ee74244_13">
+                <text>1200</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_1e6e0a04d20f50967c64dac2d639a577_14">
+                <text>1100</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_a9b7ba70783b617e9998dc4dd82eb3c5_15">
+                <text>1000</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_acf4b89d3d503d8252c9c4ba75ddbf6d_16">
+                <text>900</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_7a53928fa4dd31e82c6ef826f341daec_17">
+                <text>800</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_e5841df2166dd424a57127423d276bbe_18">
+                <text>700</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_d490d7b4576290fa60eb31b5fc917ad1_19">
+                <text>600</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_cee631121c2ec9232f3a2f028ad5c89b_20">
+                <text>500</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_18d8042386b79e2c279fd162df0205c8_21">
+                <text>400</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_94f6d7e04a4d452035300f18b984988c_22">
+                <text>300</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_3644a684f98ea8fe223c713b77189a77_23">
+                <text>200</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_f899139df5e1059396431415e770c6dd_24">
+                <text>100</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_7173c6d358073ea38f60cf31fad8d936_25">
+                <text>67 % sannolikhet</text>
+            </label>
+            <label key="65543b6d6973d5.35153583_2905f6da2976722016686ca3b0f4c58d_26">
+                <text><img alt="CACERS023S1_global-warming_T_legend2.svg" src="a54a8901cc998ef870ff0773bb7281ea5933242027e8ecc130b4060a26413a86" width="1%"/>‌<br/>50 % sannolikhet</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i636ae57abee7a14366dd6e179aa9610545">
+            <label key="i636ae57abee7a14366dd6e179aa9610545_5231be21c0bacb10a1be419ee112cd3b_1">
+                <text>Industrialiseringen började i mitten av 1700-talet och pågår än idag.</text>
+            </label>
+            <label key="i636ae57abee7a14366dd6e179aa9610545_00c5f7aa1239ed852452f9142e367cd8_2">
+                <text>Industrialiseringen har inneburit att många länder gått från ett jordbrukssamhälle till ett samhälle som bygger på tillverkning.</text>
+            </label>
+            <label key="i636ae57abee7a14366dd6e179aa9610545_54c952f7cc0431b2697562b2acdeb554_3">
+                <text>Under denna tid har storskalig skövling av urskogar skett på platser som till exempel Amazonas regnskog.</text>
+            </label>
+            <label key="i636ae57abee7a14366dd6e179aa9610545_54563cb66827b9edb3f05694730a095a_4">
+                <text>Förklara hur var och en av följande mänskliga aktiviteter bidrar till den ökande koldioxidhalten i atmosfären.</text>
+            </label>
+            <label key="i636ae57abee7a14366dd6e179aa9610545_bceae56d1df457f7f927ca559011afc2_5">
+                <text>Industrialisering</text>
+            </label>
+            <label key="i636ae57abee7a14366dd6e179aa9610545_34f630b12c4f2de07a3ddc45926d467b_6">
+                <text>Skogsskövling</text>
+            </label>
+        </item>
+        <item id="i636ae3b27f3cf510471384e7e229f68510">
+            <label key="i636ae3b27f3cf510471384e7e229f68510_0b0c8888199c259b10d772f4f0844fb6_1">
+                <text>Vilken mängd koldioxid som släpps ut till följd av mänsklig aktivitet skulle med 67 % sannolikhet begränsa uppvärmningen till 1,5 °C enligt diagrammet?</text>
+            </label>
+            <label key="i636ae3b27f3cf510471384e7e229f68510_A_45173af2b3390a5b577e825c1770211a_2">
+                <text>400 Gt</text>
+            </label>
+            <label key="i636ae3b27f3cf510471384e7e229f68510_B_4193d3dc0b3f606dbfe6d2ef4c361fda_3">
+                <text>500 Gt</text>
+            </label>
+            <label key="i636ae3b27f3cf510471384e7e229f68510_C_b89b67d52b2a59d75fed92b716cc36a6_4">
+                <text>1 150 Gt</text>
+            </label>
+            <label key="i636ae3b27f3cf510471384e7e229f68510_D_6919439fe2bc1eed77d2b606edebb618_5">
+                <text>1 350 Gt</text>
+            </label>
+        </item>
+        <item id="i636ae8fe3f90c14366be166827f9e09beb">
+            <label key="i636ae8fe3f90c14366be166827f9e09beb_4e6e192131ce93e2dc4fb97c58d3b2de_1">
+                <text>Vilken av följande faktorer har <strong>minst</strong> påverkan på modellens förutsägelser av temperatur?</text>
+            </label>
+            <label key="i636ae8fe3f90c14366be166827f9e09beb_A_787b3a30fa4d28e64747dd309f1479bc_2">
+                <text>typ och mängd av andra växthusgaser i atmosfären</text>
+            </label>
+            <label key="i636ae8fe3f90c14366be166827f9e09beb_B_ad29983aa9eeef4ea2cb52796a66b738_3">
+                <text>de geografiska platserna där mänskliga aktiviteter genererar växthusgas</text>
+            </label>
+            <label key="i636ae8fe3f90c14366be166827f9e09beb_C_9e0982b3541edc933c809e888b22d38d_4">
+                <text>mängden väderdata som används i modellen för att göra förutsägelser</text>
+            </label>
+            <label key="i636ae8fe3f90c14366be166827f9e09beb_D_a3978c927207a032d307616d201e2d9d_5">
+                <text>antalet bestämningsfaktorer som påverkar den globala temperaturen och som används i modellen för att göra förutsägelser</text>
+            </label>
+        </item>
+        <item id="i636ae3d07b55d1414759a6242bf7cbd0a5">
+            <label key="i636ae3d07b55d1414759a6242bf7cbd0a5_da52b4514c611c8b81ed3ee9e4a13de9_1">
+                <text>Länder världen över står inför utmaningen att minska sina koldioxidutsläpp.</text>
+            </label>
+            <label key="i636ae3d07b55d1414759a6242bf7cbd0a5_a4dd489275a321eb6c054f3383cd1b0f_2">
+                <text>Leder följande faktorer till större svårighet att minska CO₂-utsläpp?</text>
+            </label>
+            <label key="i636ae3d07b55d1414759a6242bf7cbd0a5_bdbb58c32e5f4ba6473153f68ea65874_3">
+                <text>Välj 'Ja' eller 'Nej' för varje faktor.</text>
+            </label>
+            <label key="i636ae3d07b55d1414759a6242bf7cbd0a5_Y_fdc1563a8afc5411a7aba3beeb918bd4_4">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i636ae3d07b55d1414759a6242bf7cbd0a5_N_758eaa648d8250f58a4ec4251f2ea215_5">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i636ae3d07b55d1414759a6242bf7cbd0a5_Row1_470bf1de8f6add00646b4d3db925165a_6">
+                <text>Efterfrågan på elektricitet ökar.</text>
+            </label>
+            <label key="i636ae3d07b55d1414759a6242bf7cbd0a5_Row2_81eb91a4296371f423ae70e0eaf45f36_7">
+                <text>Användningen av förnybara energikällor ökar.</text>
+            </label>
+            <label key="i636ae3d07b55d1414759a6242bf7cbd0a5_Row3_f61ce3c03adb3a814353508ae71fe17a_8">
+                <text>Vissa förnybara energikällor är inte lika tillförlitliga som energi från fossila bränslen.</text>
+            </label>
+            <label key="i636ae3d07b55d1414759a6242bf7cbd0a5_Row4_5fd5cfdcea429108591cfe6911664997_9">
+                <text>Tillverkning av elbilar medför utsläpp av växthusgaser.</text>
+            </label>
+        </item>
+    </items>
+</file>

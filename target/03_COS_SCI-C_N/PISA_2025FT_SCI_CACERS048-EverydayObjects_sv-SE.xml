@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64702130404e38.89447078/passage NEW.xml">
+            <label key="64702130404e38.89447078_5fdaef2afe66082403304e60d189c0e4_1">
+                <text>Vardagsföremål</text>
+            </label>
+            <label key="64702130404e38.89447078_93d396dd95885c71d2c0eb849df1edae_2">
+                <text>Detta är några vardagsföremål.</text>
+            </label>
+            <label key="64702130404e38.89447078_fbf4c1431830897eef3d4546ddc74013_3">
+                <text><img alt="CACERS048S1_everyday-objects_1.svg" src="a32e99438bc978c6f78e41a028f25f84ac577ed7f55343a60f15c862db08d607" width="99%"/>‌Metallskruv </text>
+            </label>
+            <label key="64702130404e38.89447078_0024ea8f902cbe61707fcf74f5e0aa31_4">
+                <text><img alt="CACERS048S1_everyday-objects_2.svg" src="d184317376972b3ca19a6b4816f84178ef4082cc1e3da811e1cbd201c1144e79" width="99%"/>‌Plastsked </text>
+            </label>
+            <label key="64702130404e38.89447078_9eb2f30cbe8ffd4781280e9158a75b90_5">
+                <text><img alt="CACERS048S1_everyday-objects_3.svg" src="03b80337ad9d5db48450b62beeb25fba62f924a78a8b8590d4bdeebd2a52a369" width="99%"/>‌Träskål </text>
+            </label>
+            <label key="64702130404e38.89447078_c04dee16cce9f1bc857468037a628b4d_6">
+                <text><img alt="CACERS048S1_everyday-objects_4.svg" src="7f6adb652e90344c671cf9545512726d705c9eec0675b939b4905ae76170185e" width="99%"/>‌ Papperspåse </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i638d6aa37a8272221e153c541443bce35">
+            <label key="i638d6aa37a8272221e153c541443bce35_198160ced1709d34c5e5740e1619247d_1">
+                <text>Vilket föremål kommer att leda elektricitet om det ansluts till en krets?</text>
+            </label>
+            <label key="i638d6aa37a8272221e153c541443bce35_A_87ed30cef1d60cc4ed9025031f081bdb_2">
+                <text>metallskruv</text>
+            </label>
+            <label key="i638d6aa37a8272221e153c541443bce35_B_d5a8e42481d714fc8f68c3413a55013e_3">
+                <text>plastsked</text>
+            </label>
+            <label key="i638d6aa37a8272221e153c541443bce35_C_75f652a51774407af1d88859a20b173b_4">
+                <text>träskål</text>
+            </label>
+            <label key="i638d6aa37a8272221e153c541443bce35_D_798aa3ebb01d72ca0227a8495c23f228_5">
+                <text>papperspåse</text>
+            </label>
+        </item>
+        <item id="i638d6abfb1e5a2222ebd5903548a91203">
+            <label key="i638d6abfb1e5a2222ebd5903548a91203_39186fac68ce3590c8bfe11194c504bb_1">
+                <text><div>Metallskruven och plastskeden placerades 10 cm från varandra i direkt solljus.</div><div></div><p></p><div>Efter 20 minuter mättes yttemperaturen på varje föremål.</div><p></p><div>Tabellen nedan visar föremålens temperaturer.</div><p></p><div><table><thead><tr><th class="txt-lft" scope="col">Föremål</th><th scope="col">Yttemperatur (°C) innan belysning med solljus</th><th scope="col">Yttemperatur (°C) efter belysning med solljus</th></tr></thead><tbody><tr><td><p>Metallskruv</p></td><td class="txt-ctr">21</td><td class="txt-ctr">28</td></tr><tr><td><p>Plastsked</p></td><td class="txt-ctr">21</td><td class="txt-ctr">22</td></tr></tbody></table><p></p></div>Vilket av följande påståenden har stöd av datan?</text>
+            </label>
+            <label key="i638d6abfb1e5a2222ebd5903548a91203_A_4c15066627176d45ddbe0d25ff72d4e8_2">
+                <text>Metallskruven låg på en soligare plats än plastskeden.</text>
+            </label>
+            <label key="i638d6abfb1e5a2222ebd5903548a91203_B_b223239adce7507a542f544e03f6b3d9_3">
+                <text>Metallskruven absorberade mer energi än plastskeden.</text>
+            </label>
+            <label key="i638d6abfb1e5a2222ebd5903548a91203_C_8229e49e7a069fc6c7ae298ffa7d1b64_4">
+                <text>Endast metaller absorberar värme.</text>
+            </label>
+            <label key="i638d6abfb1e5a2222ebd5903548a91203_D_a4c0d62e7271833afc12199696fda22a_5">
+                <text>Plastmaterial blir inte varma.</text>
+            </label>
+        </item>
+        <item id="i638d6ac8dca4022180031284e81ce2094">
+            <label key="i638d6ac8dca4022180031284e81ce2094_6f15914652e8ebcb6050860c05e02f88_1">
+                <text>
+                    En elev vill ta reda på om föremålen kan brytas ner (ruttna eller förstöras).
+                </text>
+            </label>
+            <label key="i638d6ac8dca4022180031284e81ce2094_84812b095f614a2a7f5915369649134a_2">
+                <text>
+                    Vilken av följande information skulle bäst bidra till att avgöra om föremålen bryts ner?
+                </text>
+            </label>
+            <label key="i638d6ac8dca4022180031284e81ce2094_A_c12ddeb5f9723f820d54bcb9c1ff4ce9_3">
+                <text>det material som föremålen är gjorda av</text>
+            </label>
+            <label key="i638d6ac8dca4022180031284e81ce2094_B_672148759b2fb088a9fcc1ad8b82d1aa_4">
+                <text>om föremålen kan återvinnas</text>
+            </label>
+            <label key="i638d6ac8dca4022180031284e81ce2094_C_139961793c94625c285793ad123379bc_5">
+                <text>föremålens hårdhet</text>
+            </label>
+            <label key="i638d6ac8dca4022180031284e81ce2094_D_3651ce9a8ade30ad6b7f340ca0e5ff0d_6">
+                <text>föremålens ålder</text>
+            </label>
+        </item>
+        <item id="i638d6ad3955e241715c6c077dfd933133">
+            <label key="i638d6ad3955e241715c6c077dfd933133_f99230e00ca2ce3cf1b22b0e78eafbf2_1">
+                <text>En elev vill ta reda på vilket av fyra föremål som är skörast. Spröda föremål går lätt sönder.</text>
+            </label>
+            <label key="i638d6ad3955e241715c6c077dfd933133_e4333cc95275d2467137f3e85fd020e3_2">
+                <text>Vilken av följande informationskällor vore mest relevant?</text>
+            </label>
+            <label key="i638d6ad3955e241715c6c077dfd933133_A_271e53c5e3ef9667ff55cb44baf11eac_3">
+                <text>elevens erfarenhet av spröda föremål</text>
+            </label>
+            <label key="i638d6ad3955e241715c6c077dfd933133_B_4c5463d6923cc714c74dc73c59dc747b_4">
+                <text>beskrivningar av föremålen från respektive tillverkare</text>
+            </label>
+            <label key="i638d6ad3955e241715c6c077dfd933133_C_569a9d4928ad143472f6d5e45d38c38c_5">
+                <text>resultaten av en onlineundersökning av människors erfarenheter av att använda de fyra föremålen</text>
+            </label>
+            <label key="i638d6ad3955e241715c6c077dfd933133_D_3bb5fb2efc9b48e07255e518f97068a8_6">
+                <text>resultaten av ett experiment där vart och ett av de fyra föremålen böjs</text>
+            </label>
+        </item>
+    </items>
+</file>

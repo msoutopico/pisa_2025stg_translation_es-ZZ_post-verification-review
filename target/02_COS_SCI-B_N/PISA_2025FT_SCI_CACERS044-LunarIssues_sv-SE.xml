@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64701ef00b5f74.64367183/passage NEW.xml">
+            <label key="64701ef00b5f74.64367183_4878fb37582b5bab6b44780db82c4a3e_1">
+                <text>Påverkan från månen</text>
+            </label>
+            <label key="64701ef00b5f74.64367183_96cd6edc60a4702e2760a1e802dadc76_2">
+                <text>Det finns en utbredd uppfattning hos många idag om att fullmånen påverkar människors hälsa.</text>
+            </label>
+            <label key="64701ef00b5f74.64367183_a8712bce17aa86ab7e80c835a2bdf0d2_3">
+                <text>Denna uppfattning har funnits i hundratals, om inte tusentals, år.</text>
+            </label>
+            <label key="64701ef00b5f74.64367183_6dbc70ac892674b5095ea82580fe90f3_4">
+                <text>Hittills finns det inget vetenskapligt stöd för denna tro.</text>
+            </label>
+            <label key="64701ef00b5f74.64367183_4fc7efea5906f4661b06309d17964e61_5">
+                <text>Fullmåne och moln</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64701f066e1be8.35638807/passage NEW 1.xml">
+            <label key="64701f066e1be8.35638807_4878fb37582b5bab6b44780db82c4a3e_1">
+                <text>Påverkan från månen</text>
+            </label>
+            <label key="64701f066e1be8.35638807_70d5120c1072d96386d49b347645af9b_2">
+                <text>I en vetenskaplig tidskrift redovisades en studie av 17 966 personer som behandlats på sjukhus.</text>
+            </label>
+            <label key="64701f066e1be8.35638807_3aaedd671bebcfe1b9e043dea0c15dc6_3">
+                <text>Studien identifierade inte något samband mellan människors hälsa och fullmånen.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64701f18b43c78.44048384/passage NEW 2.xml">
+            <label key="64701f18b43c78.44048384_4878fb37582b5bab6b44780db82c4a3e_1">
+                <text>Påverkan från månen</text>
+            </label>
+            <label key="64701f18b43c78.44048384_186655ad2d987b5275c330ef78cd8ded_2">
+                <text>Att påstå att det finns ett samband mellan fullmånen och människors hälsa är ett exempel på pseudovetenskap. Det beror på att påståendet har visat sig vara osant med hjälp av vetenskapliga metoder.</text>
+            </label>
+            <label key="64701f18b43c78.44048384_ad830844ac3c80acc2d133b49d011e38_3">
+                <text>Pseudovetenskapliga påståenden kan komma från forskning baserad på en felaktig premiss, bristfällig experimentdesign eller data av dålig kvalitet.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a0dde90c94d278821ce13b9955f109bc">
+            <label key="i63a0dde90c94d278821ce13b9955f109bc_33d89401a1831438ff6db01a561e30c9_1">
+                <text>I vilken av dessa källor skulle du leta efter vetenskapliga bevis för ett samband mellan fullmånen och förändringar i människors humör?</text>
+            </label>
+            <label key="i63a0dde90c94d278821ce13b9955f109bc_db8dbd56209f976a38bce7d483bb0cbe_2">
+                <text>rapporter som publicerats i dagstidningarna</text>
+            </label>
+            <label key="i63a0dde90c94d278821ce13b9955f109bc_6e22543a2171d58b27ff39d3795e9d00_3">
+                <text>artiklar i medicinska tidskrifter, som har granskats av experter före publicering</text>
+            </label>
+            <label key="i63a0dde90c94d278821ce13b9955f109bc_df7a23cecc3b5f5fb66a551bbd184028_4">
+                <text>historiska dokument av medicinska helare och filosofer</text>
+            </label>
+            <label key="i63a0dde90c94d278821ce13b9955f109bc_0883a19432e8eeb0b1ccbcba7ef7f1ac_5">
+                <text>personliga observationer som publicerats på Internet</text>
+            </label>
+        </item>
+        <item id="i63a0de1a3e8ed143136762d5cf0a449978">
+            <label key="i63a0de1a3e8ed143136762d5cf0a449978_752818caa2f0127e16af911a194bdb81_1">
+                <text>Det kan finnas många orsaker till att människor fortfarande tror att månen påverkar människors hälsa.</text>
+            </label>
+            <label key="i63a0de1a3e8ed143136762d5cf0a449978_efa8c8cdd453462d561d6a4d20065cad_2">
+                <text>En hypotes är att en persons uppfattningar har samband med hennes utbildningsnivå (gymnasium, universitet, forskning)</text>
+            </label>
+            <label key="i63a0de1a3e8ed143136762d5cf0a449978_c458870fb1f1408e43db5c9aa434266b_3">
+                <text>Föreslå två grupper av vuxna som skulle kunna tillfrågas för att testa denna hypotes.</text>
+            </label>
+            <label key="i63a0de1a3e8ed143136762d5cf0a449978_38b6e6f8100bffd8d1fd760f17e82e12_4">
+                <text>Första gruppen av vuxna:</text>
+            </label>
+            <label key="i63a0de1a3e8ed143136762d5cf0a449978_98f50138a5d1b58a35440e7beb494551_5">
+                <text>Andra gruppen av vuxna:</text>
+            </label>
+        </item>
+        <item id="i63a0de5a71269278753a8a21a00165d67f">
+            <label key="i63a0de5a71269278753a8a21a00165d67f_6fbeaa0c895f5bd7d964f01c5beb407e_1">
+                <text>Är dessa påståenden förenliga med vetenskapliga metoder?</text>
+            </label>
+            <label key="i63a0de5a71269278753a8a21a00165d67f_a8c38cd5723dd799a00d4ac84d71561e_2">
+                <text>Välj 'Ja' eller 'Nej' för varje påstående.</text>
+            </label>
+            <label key="i63a0de5a71269278753a8a21a00165d67f_fdc1563a8afc5411a7aba3beeb918bd4_3">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i63a0de5a71269278753a8a21a00165d67f_758eaa648d8250f58a4ec4251f2ea215_4">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i63a0de5a71269278753a8a21a00165d67f_7d10dcbdf0c14873e962a35f7b2c7397_5">
+                <text>Data som stöder en hypotes presenteras, men data som inte stöder hypotesen ignoreras.</text>
+            </label>
+            <label key="i63a0de5a71269278753a8a21a00165d67f_cd9c1812d5a1993bebe048b540187d1d_6">
+                <text>Förutsägelserna i en hypotes kan testas i ett experiment.</text>
+            </label>
+            <label key="i63a0de5a71269278753a8a21a00165d67f_3b325bb64359875a0289992280d1fc8a_7">
+                <text>En allmänt spridd uppfattning används som sakligt stöd för en hypotes.</text>
+            </label>
+            <label key="i63a0de5a71269278753a8a21a00165d67f_163c5b4aea47a588773d8db8d60667a0_8">
+                <text>En hypotes är sann eftersom den inte har bevisats vara falsk.</text>
+            </label>
+            <label key="i63a0de5a71269278753a8a21a00165d67f_ecdc49f26fcfc4d210b9cc0db8bd54da_9">
+                <text>Resultaten från publicerade data kan reproduceras av andra forskare.</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/655452c7d73f32.29976940/passage NEW.xml">
+            <label key="655452c7d73f32.29976940_f39d0104a19ae1235d9e1343ffe424bb_1">
+                <text>För varm för att hantera</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d84d38e025b1bf6a1ae21d6dbec8092c_2">
+                <text>Som en del av växthuseffekten absorberar koldioxid (CO₂) i jordens atmosfär termisk energi (värme). </text>
+            </label>
+            <label key="655452c7d73f32.29976940_8b17021e42b78fb7a72246344ab7b838_3">
+                <text>Detta visas i experimentet som presenteras här nedan.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_78fb5fb3cc063c20eab05b29e4ba20c9_4">
+                <text>En plastflaska innehåller luft från atmosfären (0,04 % CO₂) och den andra är fylld med luft som innehåller 50 % CO₂. Båda placeras på en elektrisk värmeplatta täckt med sand i 20 minuter.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_072c5a91b6b96d213c308a7b1fb012ec_5">
+                <text>Termometrarna visar temperaturen inuti varje flaska före och efter experimentets slut.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_6">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_7">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_8">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_0ae6aa914a076e5ba44ec9b1ec7bc354_9">
+                <text>luft (0,04 % CO₂)</text>
+            </label>
+            <label key="655452c7d73f32.29976940_e187ff8c041aadd175e36a3ec0b7ea59_10">
+                <text>50 % luft, 50 % CO₂</text>
+            </label>
+            <label key="655452c7d73f32.29976940_9053763d92adf3c613a6250368f7369a_11">
+                <text>29 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_fea33aa1bd475efbe68f42bc1fad72c5_12">
+                <text>43 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_9053763d92adf3c613a6250368f7369a_13">
+                <text>29 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_fea33aa1bd475efbe68f42bc1fad72c5_14">
+                <text>43 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_0ae6aa914a076e5ba44ec9b1ec7bc354_15">
+                <text>luft (0,04 % CO₂)</text>
+            </label>
+            <label key="655452c7d73f32.29976940_e187ff8c041aadd175e36a3ec0b7ea59_16">
+                <text>50 % luft, 50 % CO₂</text>
+            </label>
+            <label key="655452c7d73f32.29976940_871bb50d6f10a12fd1feaf5aaf0256d1_17">
+                <text>
+                    <strong>‌Innan experimentet‌</strong>
+                </text>
+            </label>
+            <label key="655452c7d73f32.29976940_f8a97f4ee000ceade50614e1d9d662a5_18">
+                <text>
+                    <strong>‌I slutet av experimentet‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655452c7d73f32.29976940/passage NEW.xml">
+            <label key="655452c7d73f32.29976940_f39d0104a19ae1235d9e1343ffe424bb_1">
+                <text>För varm för att hantera</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d84d38e025b1bf6a1ae21d6dbec8092c_2">
+                <text>Som en del av växthuseffekten absorberar koldioxid (CO₂) i jordens atmosfär termisk energi (värme). </text>
+            </label>
+            <label key="655452c7d73f32.29976940_8b17021e42b78fb7a72246344ab7b838_3">
+                <text>Detta visas i experimentet som presenteras här nedan.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_78fb5fb3cc063c20eab05b29e4ba20c9_4">
+                <text>En plastflaska innehåller luft från atmosfären (0,04 % CO₂) och den andra är fylld med luft som innehåller 50 % CO₂. Båda placeras på en elektrisk värmeplatta täckt med sand i 20 minuter.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_072c5a91b6b96d213c308a7b1fb012ec_5">
+                <text>Termometrarna visar temperaturen inuti varje flaska före och efter experimentets slut.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_6">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_7">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_8">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_0ae6aa914a076e5ba44ec9b1ec7bc354_9">
+                <text>luft (0,04 % CO₂)</text>
+            </label>
+            <label key="655452c7d73f32.29976940_e187ff8c041aadd175e36a3ec0b7ea59_10">
+                <text>50 % luft, 50 % CO₂</text>
+            </label>
+            <label key="655452c7d73f32.29976940_9053763d92adf3c613a6250368f7369a_11">
+                <text>29 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_fea33aa1bd475efbe68f42bc1fad72c5_12">
+                <text>43 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_9053763d92adf3c613a6250368f7369a_13">
+                <text>29 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_fea33aa1bd475efbe68f42bc1fad72c5_14">
+                <text>43 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_0ae6aa914a076e5ba44ec9b1ec7bc354_15">
+                <text>luft (0,04 % CO₂)</text>
+            </label>
+            <label key="655452c7d73f32.29976940_e187ff8c041aadd175e36a3ec0b7ea59_16">
+                <text>50 % luft, 50 % CO₂</text>
+            </label>
+            <label key="655452c7d73f32.29976940_871bb50d6f10a12fd1feaf5aaf0256d1_17">
+                <text>
+                    <strong>‌Innan experimentet‌</strong>
+                </text>
+            </label>
+            <label key="655452c7d73f32.29976940_f8a97f4ee000ceade50614e1d9d662a5_18">
+                <text>
+                    <strong>‌I slutet av experimentet‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655452c7d73f32.29976940/passage NEW.xml">
+            <label key="655452c7d73f32.29976940_f39d0104a19ae1235d9e1343ffe424bb_1">
+                <text>För varm för att hantera</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d84d38e025b1bf6a1ae21d6dbec8092c_2">
+                <text>Som en del av växthuseffekten absorberar koldioxid (CO₂) i jordens atmosfär termisk energi (värme). </text>
+            </label>
+            <label key="655452c7d73f32.29976940_8b17021e42b78fb7a72246344ab7b838_3">
+                <text>Detta visas i experimentet som presenteras här nedan.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_78fb5fb3cc063c20eab05b29e4ba20c9_4">
+                <text>En plastflaska innehåller luft från atmosfären (0,04 % CO₂) och den andra är fylld med luft som innehåller 50 % CO₂. Båda placeras på en elektrisk värmeplatta täckt med sand i 20 minuter.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_072c5a91b6b96d213c308a7b1fb012ec_5">
+                <text>Termometrarna visar temperaturen inuti varje flaska före och efter experimentets slut.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_6">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_7">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_8">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_0ae6aa914a076e5ba44ec9b1ec7bc354_9">
+                <text>luft (0,04 % CO₂)</text>
+            </label>
+            <label key="655452c7d73f32.29976940_e187ff8c041aadd175e36a3ec0b7ea59_10">
+                <text>50 % luft, 50 % CO₂</text>
+            </label>
+            <label key="655452c7d73f32.29976940_9053763d92adf3c613a6250368f7369a_11">
+                <text>29 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_fea33aa1bd475efbe68f42bc1fad72c5_12">
+                <text>43 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_9053763d92adf3c613a6250368f7369a_13">
+                <text>29 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_fea33aa1bd475efbe68f42bc1fad72c5_14">
+                <text>43 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_0ae6aa914a076e5ba44ec9b1ec7bc354_15">
+                <text>luft (0,04 % CO₂)</text>
+            </label>
+            <label key="655452c7d73f32.29976940_e187ff8c041aadd175e36a3ec0b7ea59_16">
+                <text>50 % luft, 50 % CO₂</text>
+            </label>
+            <label key="655452c7d73f32.29976940_871bb50d6f10a12fd1feaf5aaf0256d1_17">
+                <text>
+                    <strong>‌Innan experimentet‌</strong>
+                </text>
+            </label>
+            <label key="655452c7d73f32.29976940_f8a97f4ee000ceade50614e1d9d662a5_18">
+                <text>
+                    <strong>‌I slutet av experimentet‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655452c7d73f32.29976940/passage NEW.xml">
+            <label key="655452c7d73f32.29976940_f39d0104a19ae1235d9e1343ffe424bb_1">
+                <text>För varm för att hantera</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d84d38e025b1bf6a1ae21d6dbec8092c_2">
+                <text>Som en del av växthuseffekten absorberar koldioxid (CO₂) i jordens atmosfär termisk energi (värme). </text>
+            </label>
+            <label key="655452c7d73f32.29976940_8b17021e42b78fb7a72246344ab7b838_3">
+                <text>Detta visas i experimentet som presenteras här nedan.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_78fb5fb3cc063c20eab05b29e4ba20c9_4">
+                <text>En plastflaska innehåller luft från atmosfären (0,04 % CO₂) och den andra är fylld med luft som innehåller 50 % CO₂. Båda placeras på en elektrisk värmeplatta täckt med sand i 20 minuter.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_072c5a91b6b96d213c308a7b1fb012ec_5">
+                <text>Termometrarna visar temperaturen inuti varje flaska före och efter experimentets slut.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_6">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_7">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_8">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_0ae6aa914a076e5ba44ec9b1ec7bc354_9">
+                <text>luft (0,04 % CO₂)</text>
+            </label>
+            <label key="655452c7d73f32.29976940_e187ff8c041aadd175e36a3ec0b7ea59_10">
+                <text>50 % luft, 50 % CO₂</text>
+            </label>
+            <label key="655452c7d73f32.29976940_9053763d92adf3c613a6250368f7369a_11">
+                <text>29 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_fea33aa1bd475efbe68f42bc1fad72c5_12">
+                <text>43 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_9053763d92adf3c613a6250368f7369a_13">
+                <text>29 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_fea33aa1bd475efbe68f42bc1fad72c5_14">
+                <text>43 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_0ae6aa914a076e5ba44ec9b1ec7bc354_15">
+                <text>luft (0,04 % CO₂)</text>
+            </label>
+            <label key="655452c7d73f32.29976940_e187ff8c041aadd175e36a3ec0b7ea59_16">
+                <text>50 % luft, 50 % CO₂</text>
+            </label>
+            <label key="655452c7d73f32.29976940_871bb50d6f10a12fd1feaf5aaf0256d1_17">
+                <text>
+                    <strong>‌Innan experimentet‌</strong>
+                </text>
+            </label>
+            <label key="655452c7d73f32.29976940_f8a97f4ee000ceade50614e1d9d662a5_18">
+                <text>
+                    <strong>‌I slutet av experimentet‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655452c7d73f32.29976940/passage NEW.xml">
+            <label key="655452c7d73f32.29976940_f39d0104a19ae1235d9e1343ffe424bb_1">
+                <text>För varm för att hantera</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d84d38e025b1bf6a1ae21d6dbec8092c_2">
+                <text>Som en del av växthuseffekten absorberar koldioxid (CO₂) i jordens atmosfär termisk energi (värme). </text>
+            </label>
+            <label key="655452c7d73f32.29976940_8b17021e42b78fb7a72246344ab7b838_3">
+                <text>Detta visas i experimentet som presenteras här nedan.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_78fb5fb3cc063c20eab05b29e4ba20c9_4">
+                <text>En plastflaska innehåller luft från atmosfären (0,04 % CO₂) och den andra är fylld med luft som innehåller 50 % CO₂. Båda placeras på en elektrisk värmeplatta täckt med sand i 20 minuter.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_072c5a91b6b96d213c308a7b1fb012ec_5">
+                <text>Termometrarna visar temperaturen inuti varje flaska före och efter experimentets slut.</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_6">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_7">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_d497a2e9a1756b6658533c1872ce7c5c_8">
+                <text>20 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_0ae6aa914a076e5ba44ec9b1ec7bc354_9">
+                <text>luft (0,04 % CO₂)</text>
+            </label>
+            <label key="655452c7d73f32.29976940_e187ff8c041aadd175e36a3ec0b7ea59_10">
+                <text>50 % luft, 50 % CO₂</text>
+            </label>
+            <label key="655452c7d73f32.29976940_9053763d92adf3c613a6250368f7369a_11">
+                <text>29 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_fea33aa1bd475efbe68f42bc1fad72c5_12">
+                <text>43 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_9053763d92adf3c613a6250368f7369a_13">
+                <text>29 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_fea33aa1bd475efbe68f42bc1fad72c5_14">
+                <text>43 °C</text>
+            </label>
+            <label key="655452c7d73f32.29976940_0ae6aa914a076e5ba44ec9b1ec7bc354_15">
+                <text>luft (0,04 % CO₂)</text>
+            </label>
+            <label key="655452c7d73f32.29976940_e187ff8c041aadd175e36a3ec0b7ea59_16">
+                <text>50 % luft, 50 % CO₂</text>
+            </label>
+            <label key="655452c7d73f32.29976940_871bb50d6f10a12fd1feaf5aaf0256d1_17">
+                <text>
+                    <strong>‌Innan experimentet‌</strong>
+                </text>
+            </label>
+            <label key="655452c7d73f32.29976940_f8a97f4ee000ceade50614e1d9d662a5_18">
+                <text>
+                    <strong>‌I slutet av experimentet‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i635893c1908de20013c2c7f36d13bd632">
+            <label key="i635893c1908de20013c2c7f36d13bd632_213ea180ed5f93af12ee2d0001861872_1">
+                <text>Diagrammet nedan visar en förenklad modell av växthuseffekten.<div>Vilken process i den förenklade modellen motsvarar sandens uppvärmning av gaserna i flaskorna i demonstrationen?</div></text>
+            </label>
+            <label key="i635893c1908de20013c2c7f36d13bd632_11b3b562e357eb4e2e567cd020ecb299_2">
+                <text>Välj en av ”1”, ”2”, ”3” eller ”4” för att identifiera rätt process.</text>
+            </label>
+            <label key="i635893c1908de20013c2c7f36d13bd632_ef6572e4cd58bb39a3f4e82fc64fe9f0_3">
+                <text>Solen</text>
+            </label>
+            <label key="i635893c1908de20013c2c7f36d13bd632_76afeb6a29b31852629ec9aa7730be20_4">
+                <text>en del värme sprids ut i rymden</text>
+            </label>
+            <label key="i635893c1908de20013c2c7f36d13bd632_ff2364a0be3d20e46cc69efb36afe9a5_5">
+                <text>rymden</text>
+            </label>
+            <label key="i635893c1908de20013c2c7f36d13bd632_a1234b3161b4fbfdfb96dd576b65bbea_6">
+                <text>moln</text>
+            </label>
+            <label key="i635893c1908de20013c2c7f36d13bd632_05e94e8cbc28f5837d0c355917c05fea_7">
+                <text>Atmosfär</text>
+            </label>
+            <label key="i635893c1908de20013c2c7f36d13bd632_5cdd21c97f86686cc505e02fd32a7523_8">
+                <text>Jorden</text>
+            </label>
+            <label key="i635893c1908de20013c2c7f36d13bd632_c4ca4238a0b923820dcc509a6f75849b_9">
+                <text>1</text>
+            </label>
+            <label key="i635893c1908de20013c2c7f36d13bd632_c81e728d9d4c2f636f067f89cc14862c_10">
+                <text>2</text>
+            </label>
+            <label key="i635893c1908de20013c2c7f36d13bd632_eccbc87e4b5ce2fe28308fd9f2a7baf3_11">
+                <text>3</text>
+            </label>
+            <label key="i635893c1908de20013c2c7f36d13bd632_a87ff679a2f3e71d9181a67b7542122c_12">
+                <text>4</text>
+            </label>
+        </item>
+        <item id="i635898af8d30c19983b5c11c196683733">
+            <label key="i635898af8d30c19983b5c11c196683733_d905076ae429ac70bab0fc5609660147_1">
+                <text>Nämn en egenskap som plastflaskor har och förklara hur denna egenskap gjorde dem användbara för detta experiment</text>
+            </label>
+        </item>
+        <item id="i635899787ab1d21111fe94377bd896ee0a">
+            <label key="i635899787ab1d21111fe94377bd896ee0a_98441cca3ac57829b97bf4b7b538d70b_1">
+                <text>Vid detta experiment används sand på en värmeplatta för att värma flaskorna.</text>
+            </label>
+            <label key="i635899787ab1d21111fe94377bd896ee0a_4b754d11888f8ecab104fe01ecee4008_2">
+                <text>Vilken av följande förändringar av experimentet skulle bättre representera vad som händer i naturlig miljö?</text>
+            </label>
+            <label key="i635899787ab1d21111fe94377bd896ee0a_A_150a51e61763e808bbbbd46bfd66c8c2_3">
+                <text>lägga flaskorna i en ugn så att de värms upp mer jämnt</text>
+            </label>
+            <label key="i635899787ab1d21111fe94377bd896ee0a_B_114ed66c15acce6dac6f39ff3facafba_4">
+                <text>lägga flaskorna i solljuset</text>
+            </label>
+            <label key="i635899787ab1d21111fe94377bd896ee0a_C_953f95e8c89f57d8e63e3a4cd0112f96_5">
+                <text>använda en värmekälla ovanför flaskorna</text>
+            </label>
+            <label key="i635899787ab1d21111fe94377bd896ee0a_D_6673f6672bb37e20c077f2598874c39a_6">
+                <text>värma flaskorna längre tid</text>
+            </label>
+        </item>
+        <item id="i63589a7a64e832300802a49b12aa7d992">
+            <label key="i63589a7a64e832300802a49b12aa7d992_936c016d62352b4e0182818dc09749c6_1">
+                <text>CO₂ absorberar och lagrar värmeenergi, och frigör sedan värmeenergin.</text>
+            </label>
+            <label key="i63589a7a64e832300802a49b12aa7d992_f8967aa9f38741520f0cd1c66ad81416_2">
+                <text>Vilken av dessa termer beskriver den typ av värmeöverföring som sker?</text>
+            </label>
+            <label key="i63589a7a64e832300802a49b12aa7d992_A_cb231e090948a815d1d8185dff5c4d53_3">
+                <text>strömning</text>
+            </label>
+            <label key="i63589a7a64e832300802a49b12aa7d992_B_bbd6f5830872bd72914a3fa577ae7eb4_4">
+                <text>ledning</text>
+            </label>
+            <label key="i63589a7a64e832300802a49b12aa7d992_C_3e3c9ae229ceebf86aa8f21602f03aca_5">
+                <text>passiv överföring</text>
+            </label>
+            <label key="i63589a7a64e832300802a49b12aa7d992_D_ac8029ea78f88ce74c4a1d730e67c78a_6">
+                <text>strålning</text>
+            </label>
+        </item>
+        <item id="i63589b14cde7f157038953a38da3b8711c">
+            <label key="i63589b14cde7f157038953a38da3b8711c_33c3bcb796dbe438157fa24d7808c320_1">
+                <text>Demonstrationen visar den effekt som CO₂ har på temperaturen i jordens atmosfär.</text>
+            </label>
+            <label key="i63589b14cde7f157038953a38da3b8711c_b84c4122df1027ea3e89d42866fc3639_2">
+                <text>CO₂ från en vanlig gasflaska (som finns att köpa) användes för demonstrationen.</text>
+            </label>
+            <label key="i63589b14cde7f157038953a38da3b8711c_15455be427d250ff7450925bfc9cb395_3">
+                <text>Mycket av den CO₂ som tillförs jordens atmosfär kommer från förbränning av fossila bränslen.</text>
+            </label>
+            <label key="i63589b14cde7f157038953a38da3b8711c_53a2fa6125f59bf08d0e1d4de4fb646a_4">
+                <text>Påverkar det faktum att tillförseln av CO₂ har olika källor, giltigheten i denna demonstration?<div></div><div>Välj 'Ja' eller 'Nej'.</div></text>
+            </label>
+            <label key="i63589b14cde7f157038953a38da3b8711c_choice_1_93cba07454f06a4a960172bbd6e2a435_5">
+                <text>Ja</text>
+            </label>
+            <label key="i63589b14cde7f157038953a38da3b8711c_choice_2_bafd7322c6e97d25b6299b5d6fe8920b_6">
+                <text>Nej</text>
+            </label>
+            <label key="i63589b14cde7f157038953a38da3b8711c_14a742a5c8a85e7bdbb23e8e791c910b_7">
+                <text>Förklara ditt val.</text>
+            </label>
+        </item>
+    </items>
+</file>

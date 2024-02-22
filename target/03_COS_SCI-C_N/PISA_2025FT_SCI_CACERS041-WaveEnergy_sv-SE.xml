@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6470346a223c60.62378664/passage NEW.xml">
+            <label key="6470346a223c60.62378664_4bd624fe100ed1ae0e7c0dfe2a0e784c_1">
+                <text>Vågenergi</text>
+            </label>
+            <label key="6470346a223c60.62378664_bb35ed2deaf2d6fb999cd9baf8f1fecd_2">
+                <text>Animationen visar ett kraftverk där elektricitet genereras av havsvågors rörelse.</text>
+            </label>
+            <label key="6470346a223c60.62378664_c265243035fa7c59994d44063e48f443_3">
+                <text>Havsvågorna gör att vattennivån i kraftverket stiger och sjunker.</text>
+            </label>
+            <label key="6470346a223c60.62378664_0b55265ae540630a2254cafc9d41beb2_4">
+                <text>Denna förändring av vattennivån leder till en luftrörelse genom turbinen.</text>
+            </label>
+            <label key="6470346a223c60.62378664_ec44809232ca5c84f90263af9087d5ea_5">
+                <text>Luften roterar turbinbladen oavbrutet och detta genererar elektricitet.</text>
+            </label>
+            <label key="6470346a223c60.62378664_d03ff052a42dc5773a3e348ccf8a9393_6">
+                <text>Bladen i turbinen är formade så att de bara kan rotera i en riktning.</text>
+            </label>
+            <label key="6470346a223c60.62378664_cd59fc728251c79fe8dcea4630952d92_7">
+                <text>turbin</text>
+            </label>
+            <label key="6470346a223c60.62378664_0f3b5110afac7c490e9599d25232a311_8">
+                <text>vatten i kammaren</text>
+            </label>
+            <label key="6470346a223c60.62378664_45d20b1d2cc2d52e74b3cbf1750a2e31_9">
+                <text>hav</text>
+            </label>
+            <label key="6470346a223c60.62378664_2c066a2146523d85b740cc849f673971_10">
+                <text>blad</text>
+            </label>
+            <label key="6470346a223c60.62378664_dea2b4215e0c0b4f76966cd02af51e6a_11">
+                <text>luft kan flöda in i och ut ur kraftverket</text>
+            </label>
+            <label key="6470346a223c60.62378664_4f87e11515021207051de75793d2d4b9_12">
+                <text>kraftverk</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6470346a223c60.62378664/passage NEW.xml">
+            <label key="6470346a223c60.62378664_4bd624fe100ed1ae0e7c0dfe2a0e784c_1">
+                <text>Vågenergi</text>
+            </label>
+            <label key="6470346a223c60.62378664_bb35ed2deaf2d6fb999cd9baf8f1fecd_2">
+                <text>Animationen visar ett kraftverk där elektricitet genereras av havsvågors rörelse.</text>
+            </label>
+            <label key="6470346a223c60.62378664_c265243035fa7c59994d44063e48f443_3">
+                <text>Havsvågorna gör att vattennivån i kraftverket stiger och sjunker.</text>
+            </label>
+            <label key="6470346a223c60.62378664_0b55265ae540630a2254cafc9d41beb2_4">
+                <text>Denna förändring av vattennivån leder till en luftrörelse genom turbinen.</text>
+            </label>
+            <label key="6470346a223c60.62378664_ec44809232ca5c84f90263af9087d5ea_5">
+                <text>Luften roterar turbinbladen oavbrutet och detta genererar elektricitet.</text>
+            </label>
+            <label key="6470346a223c60.62378664_d03ff052a42dc5773a3e348ccf8a9393_6">
+                <text>Bladen i turbinen är formade så att de bara kan rotera i en riktning.</text>
+            </label>
+            <label key="6470346a223c60.62378664_cd59fc728251c79fe8dcea4630952d92_7">
+                <text>turbin</text>
+            </label>
+            <label key="6470346a223c60.62378664_0f3b5110afac7c490e9599d25232a311_8">
+                <text>vatten i kammaren</text>
+            </label>
+            <label key="6470346a223c60.62378664_45d20b1d2cc2d52e74b3cbf1750a2e31_9">
+                <text>hav</text>
+            </label>
+            <label key="6470346a223c60.62378664_2c066a2146523d85b740cc849f673971_10">
+                <text>blad</text>
+            </label>
+            <label key="6470346a223c60.62378664_dea2b4215e0c0b4f76966cd02af51e6a_11">
+                <text>luft kan flöda in i och ut ur kraftverket</text>
+            </label>
+            <label key="6470346a223c60.62378664_4f87e11515021207051de75793d2d4b9_12">
+                <text>kraftverk</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6470346a223c60.62378664/passage NEW.xml">
+            <label key="6470346a223c60.62378664_4bd624fe100ed1ae0e7c0dfe2a0e784c_1">
+                <text>Vågenergi</text>
+            </label>
+            <label key="6470346a223c60.62378664_bb35ed2deaf2d6fb999cd9baf8f1fecd_2">
+                <text>Animationen visar ett kraftverk där elektricitet genereras av havsvågors rörelse.</text>
+            </label>
+            <label key="6470346a223c60.62378664_c265243035fa7c59994d44063e48f443_3">
+                <text>Havsvågorna gör att vattennivån i kraftverket stiger och sjunker.</text>
+            </label>
+            <label key="6470346a223c60.62378664_0b55265ae540630a2254cafc9d41beb2_4">
+                <text>Denna förändring av vattennivån leder till en luftrörelse genom turbinen.</text>
+            </label>
+            <label key="6470346a223c60.62378664_ec44809232ca5c84f90263af9087d5ea_5">
+                <text>Luften roterar turbinbladen oavbrutet och detta genererar elektricitet.</text>
+            </label>
+            <label key="6470346a223c60.62378664_d03ff052a42dc5773a3e348ccf8a9393_6">
+                <text>Bladen i turbinen är formade så att de bara kan rotera i en riktning.</text>
+            </label>
+            <label key="6470346a223c60.62378664_cd59fc728251c79fe8dcea4630952d92_7">
+                <text>turbin</text>
+            </label>
+            <label key="6470346a223c60.62378664_0f3b5110afac7c490e9599d25232a311_8">
+                <text>vatten i kammaren</text>
+            </label>
+            <label key="6470346a223c60.62378664_45d20b1d2cc2d52e74b3cbf1750a2e31_9">
+                <text>hav</text>
+            </label>
+            <label key="6470346a223c60.62378664_2c066a2146523d85b740cc849f673971_10">
+                <text>blad</text>
+            </label>
+            <label key="6470346a223c60.62378664_dea2b4215e0c0b4f76966cd02af51e6a_11">
+                <text>luft kan flöda in i och ut ur kraftverket</text>
+            </label>
+            <label key="6470346a223c60.62378664_4f87e11515021207051de75793d2d4b9_12">
+                <text>kraftverk</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6392b124c8f57149428eb6e9ccff1dae7a">
+            <label key="i6392b124c8f57149428eb6e9ccff1dae7a_c4e807c23518e19dd78b671fba3cfa15_1">
+                <text>Vilka av följande påståenden förklarar varför bladen roterar i turbinen?</text>
+            </label>
+            <label key="i6392b124c8f57149428eb6e9ccff1dae7a_89b1c1de80f35eb0f385836481797561_2">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i6392b124c8f57149428eb6e9ccff1dae7a_A_43e8fa0fee5b35ca4f9eab97f6ee5a11_3">
+                <text>Vattennivån i kraftverket stiger, vilket pressar luft genom turbinen.</text>
+            </label>
+            <label key="i6392b124c8f57149428eb6e9ccff1dae7a_B_aaec738eae77f8d270d402c9c9b252d4_4">
+                <text>Vattennivån i kraftverket sjunker, vilket pressar luft genom turbinen.</text>
+            </label>
+            <label key="i6392b124c8f57149428eb6e9ccff1dae7a_C_8fc6858cc8f44033cf1b840dc5beb7db_5">
+                <text>Vattennivån i kraftverket stiger, vilket suger luft genom turbinen.</text>
+            </label>
+            <label key="i6392b124c8f57149428eb6e9ccff1dae7a_D_cc1094a562c9f0f2c9f84b876e2b885a_6">
+                <text>Vattennivån i kraftverket sjunker, vilket suger luft genom turbinen.</text>
+            </label>
+        </item>
+        <item id="i6392b0eb2d4d82327c9a283b9e8a0986d">
+            <label key="i6392b0eb2d4d82327c9a283b9e8a0986d_770e9cc254913f23b32541ca0f756ff4_1">
+                <text>Vilket av diagrammen visar turbinbladens hastighet och rotationsriktning när vågorna slår in i kraftverket?</text>
+            </label>
+            <label key="i6392b0eb2d4d82327c9a283b9e8a0986d_96b443dc37898c60ed7175152c046bda_2">
+                <text>Turbinbladens hastighet (varv/min medsols)</text>
+            </label>
+            <label key="i6392b0eb2d4d82327c9a283b9e8a0986d_2fe265ff90fdc8c95e0e40bc536484e1_3">
+                <text>Tid (sekunder)</text>
+            </label>
+            <label key="i6392b0eb2d4d82327c9a283b9e8a0986d_96b443dc37898c60ed7175152c046bda_4">
+                <text>Turbinbladens hastighet (varv/min medsols)</text>
+            </label>
+            <label key="i6392b0eb2d4d82327c9a283b9e8a0986d_2fe265ff90fdc8c95e0e40bc536484e1_5">
+                <text>Tid (sekunder)</text>
+            </label>
+            <label key="i6392b0eb2d4d82327c9a283b9e8a0986d_96b443dc37898c60ed7175152c046bda_6">
+                <text>Turbinbladens hastighet (varv/min medsols)</text>
+            </label>
+            <label key="i6392b0eb2d4d82327c9a283b9e8a0986d_2fe265ff90fdc8c95e0e40bc536484e1_7">
+                <text>Tid (sekunder)</text>
+            </label>
+            <label key="i6392b0eb2d4d82327c9a283b9e8a0986d_96b443dc37898c60ed7175152c046bda_8">
+                <text>Turbinbladens hastighet (varv/min medsols)</text>
+            </label>
+            <label key="i6392b0eb2d4d82327c9a283b9e8a0986d_2fe265ff90fdc8c95e0e40bc536484e1_9">
+                <text>Tid (sekunder)</text>
+            </label>
+        </item>
+        <item id="i6392b117bfde717982b19aa8bb2d8dc271">
+            <label key="i6392b117bfde717982b19aa8bb2d8dc271_bd028f9bba7017d5dda0781a43a72df0_1">
+                <text>Att generera elektricitet med hjälp av vågenergi ger upphov till fyra typer av problem: ekonomiska, miljömässiga, sociala/politiska och tekniska/vetenskapliga.</text>
+            </label>
+            <label key="i6392b117bfde717982b19aa8bb2d8dc271_aa09c01358c4b853b7ea1c448934e916_2">
+                <text>Klassificera vart och ett av problemen i följande tabell.</text>
+            </label>
+            <label key="i6392b117bfde717982b19aa8bb2d8dc271_85c026f7ae26509a923de8e874196b7a_3">
+                <text>Välj 'Ekonomiskt', 'Miljömässigt', 'Socialt/politiskt' eller 'Tekniskt/vetenskapligt' för varje problem.</text>
+            </label>
+            <label key="i6392b117bfde717982b19aa8bb2d8dc271_Social-political_c440a55af30d2d69600013514c304e79_4">
+                <text>
+                    <strong>‌Ekonomiskt‌</strong>
+                </text>
+            </label>
+            <label key="i6392b117bfde717982b19aa8bb2d8dc271_Environmental_ab5cb64d8891c830b9743b6587d13ea0_5">
+                <text>
+                    <strong>‌Miljömässigt‌</strong>
+                </text>
+            </label>
+            <label key="i6392b117bfde717982b19aa8bb2d8dc271_Technical-scientific_c9fd7fcdb8a89ec1503a558637767967_6">
+                <text>
+                    <strong>‌Socialt/politiskt‌</strong>
+                </text>
+            </label>
+            <label key="i6392b117bfde717982b19aa8bb2d8dc271_Economic_3923a5ece93ed188a097d1ac69d46ab4_7">
+                <text>
+                    <b>‌Tekniskt/vetenskapligt‌</b>
+                </text>
+            </label>
+            <label key="i6392b117bfde717982b19aa8bb2d8dc271_Row1_31ad6cdd9730ec4388f2f5aed6aa43f4_8">
+                <text>Boende protesterar mot byggandet av kraftverken eftersom de förfular den vackra naturen vid kusten.</text>
+            </label>
+            <label key="i6392b117bfde717982b19aa8bb2d8dc271_Row2_14aa1675bb34998f52c67551cd33e461_9">
+                <text>Vågorna är ofta oregelbundna vilket betyder att elproduktionen inte kan garanteras för kunderna.</text>
+            </label>
+            <label key="i6392b117bfde717982b19aa8bb2d8dc271_Row3_5cb46f77218e7f27814a24295433eb7b_10">
+                <text>Att bygga kraftverk förändrar habitatet på havsbottnen.</text>
+            </label>
+            <label key="i6392b117bfde717982b19aa8bb2d8dc271_Row4_2325f4cb9bac679fe54ffa12d70e3d27_11">
+                <text>Det är nödvändigt att utveckla processer för att undvika att havsvattnet korroderar metalldelar.</text>
+            </label>
+        </item>
+    </items>
+</file>

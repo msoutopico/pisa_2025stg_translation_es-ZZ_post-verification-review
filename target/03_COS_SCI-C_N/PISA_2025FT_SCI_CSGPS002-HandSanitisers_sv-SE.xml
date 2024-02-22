@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64b11237f28eb2.67281135/passage NEW.xml">
+            <label key="64b11237f28eb2.67281135_74d80f18a4cf4b7deca684fb2fc60f88_1">
+                <text>Handdesinfektionsmedel</text>
+            </label>
+            <label key="64b11237f28eb2.67281135_93551e967afbb4af6d821370576db2cf_2">
+                <text>Det finns två typer av handdesinfektionsmedel:</text>
+            </label>
+            <label key="64b11237f28eb2.67281135_4cf0a049ed7ea7196d8122e20083be83_3">
+                <text>Typ 1: alkohol-<strong>fria</strong> handdesinfektionsmedel innehåller endast antiseptiska kemikalier som inte är alkoholer. Dessa handdesinfektionsmedel förhindrar tillväxt av mikroorganismer som orsakar sjukdomar. Vissa kan döda bakteriesporer och svampar.</text>
+            </label>
+            <label key="64b11237f28eb2.67281135_9b2ed39f8fc41fa61625f323f4a416e0_4">
+                <text>Typ 2: alkohol-<strong>baserade</strong> handdesinfektionsmedel innehåller en eller flera typer av alkohol. Dessa handdesinfektionsmedel dödar bakterier snabbt.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64b1124d8f7998.37730167/passage NEW 1.xml">
+            <label key="64b1124d8f7998.37730167_74d80f18a4cf4b7deca684fb2fc60f88_1">
+                <text>Handdesinfektionsmedel</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_1ff1950a7331f5a8cf5413d93bdaa5e2_2">
+                <text>Informationen i denna tabell beskriver ingredienserna i alkoholbaserade (typ 2) handdesinfektionsmedel.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_36a853b127c97f34ccf4ee7d607df75d_3">
+                <text>Ingredienser i alkoholbaserat handdesinfektionsmedel</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_a66d62518bf8dcd3236dd9264e292a45_4">
+                <text>Beskrivning av ingredienser</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_a61571b0d8a320c0472b17b8582253c8_5">
+                <text>Alkoholer, till exempel etanol, isopropylalkohol </text>
+            </label>
+            <label key="64b1124d8f7998.37730167_3b759667d5b572598a4f0b7eceb4902b_6">
+                <text>Huvudingrediens i alkoholbaserade handdesinfektionsmedel som dödar bakterier.<br/>En koncentration på 60 % till 95 % krävs.<br/>Lättantändlig: antänder (fattar eld) snabbt vid exponering för öppen låga.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_9a299a78beed906d500ee1bfa209c57f_7">
+                <text>Väteperoxid</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_40cd05d278bf93b4744376b55073242d_8">
+                <text>Dödar organismer som till exempel bakteriesporer.<br/>Frätande: orsakar skada på mänsklig vävnad genom kemisk verkan.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_c9366eea5e94a3714de1cc65a873005d_9">
+                <text>Glycerol</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_436386929959a0b18fabf88fa51310f9_10">
+                <text>Gör alkoholbaserade handdesinfektionsmedel tjockare.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_4576b90fa1aad28e9083b9a5103e7c50_11">
+                <text>Dofter och färgämnen</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_a6b5b5bf153152b518e3d707c09916aa_12">
+                <text>Förbättrar utseende och doft på alkoholbaserade handdesinfektionsmedel.<br/>Kan orsaka allergiska reaktioner.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_942d3f603930b12668dac3ed89f7b4be_13">
+                <text>Detta är produktetiketterna på två märken av alkoholbaserade (typ 2) handdesinfektionsmedel.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_95e1fa0a78e7feb2366bcd29d9221ccd_14">
+                <text>Märke A:</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_210c9e13155de6cf4edb59f1fbbaf4e8_15">
+                <text>Ingredienser</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_34b91035a2761364a558fcc39c9fa94b_16">
+                <text>70 % etanol. Övrigt: vatten, glycerol och doftämne</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_8ae2a5b447f654bd4d75d5ec3c40a4c8_17">
+                <text>Användningsområden</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_d413ce2287009709f295ddb3b24b1458_18">
+                <text>Använd handdesinfektionsmedlet för att minska mängden bakterier på huden</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_0eaadb4fcb48a0a0ed7bc9868be9fbaa_19">
+                <text>Varning</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_59a3d32607a4c13b21c2c1102785a062_20">
+                <text>När du använder denna produkt, använd den inte i eller nära ögonen. Om du råkat svälja produkten tala med en läkare.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_a32589749c363adb020e7126b5e7ee3a_21">
+                <text>Bruksanvisning</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_d7bb7d0b2f7c453858c674ffb6578f70_22">
+                <text>Häll på händerna.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_9d21d76557d9d3a6e7266f239665a711_23">
+                <text>Gnid i 20 sekunder.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_e91d6742d7aa313866f58e10565c070b_24">
+                <text>Vikt = 100 g</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_dd717fc29c79f19ea4e312dd69955b1d_25">
+                <text>Märke B:</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_210c9e13155de6cf4edb59f1fbbaf4e8_26">
+                <text>Ingredienser</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_dcf8736c791f0d44c488254c9ebc49b0_27">
+                <text>70 % etanol. Övrigt: vatten, väteperoxid och glycerol</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_8ae2a5b447f654bd4d75d5ec3c40a4c8_28">
+                <text>Användningsområden</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_f52523c2645332f76e840f1527c1866a_29">
+                <text>Använd handdesinfektionsmedlet för att minska mängden bakterier på huden</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_0eaadb4fcb48a0a0ed7bc9868be9fbaa_30">
+                <text>Varning</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_59a3d32607a4c13b21c2c1102785a062_31">
+                <text>När du använder denna produkt, använd den inte i eller nära ögonen. Om du råkat svälja produkten tala med en läkare.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_a32589749c363adb020e7126b5e7ee3a_32">
+                <text>Bruksanvisning</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_d7bb7d0b2f7c453858c674ffb6578f70_33">
+                <text>Häll på händerna.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_d7074b66502f51051dfe29409d399b2b_34">
+                <text>Gnid torrt.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_e91d6742d7aa313866f58e10565c070b_35">
+                <text>Vikt = 100 g</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64b1124d8f7998.37730167/passage NEW 1.xml">
+            <label key="64b1124d8f7998.37730167_74d80f18a4cf4b7deca684fb2fc60f88_1">
+                <text>Handdesinfektionsmedel</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_1ff1950a7331f5a8cf5413d93bdaa5e2_2">
+                <text>Informationen i denna tabell beskriver ingredienserna i alkoholbaserade (typ 2) handdesinfektionsmedel.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_36a853b127c97f34ccf4ee7d607df75d_3">
+                <text>Ingredienser i alkoholbaserat handdesinfektionsmedel</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_a66d62518bf8dcd3236dd9264e292a45_4">
+                <text>Beskrivning av ingredienser</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_a61571b0d8a320c0472b17b8582253c8_5">
+                <text>Alkoholer, till exempel etanol, isopropylalkohol </text>
+            </label>
+            <label key="64b1124d8f7998.37730167_3b759667d5b572598a4f0b7eceb4902b_6">
+                <text>Huvudingrediens i alkoholbaserade handdesinfektionsmedel som dödar bakterier.<br/>En koncentration på 60 % till 95 % krävs.<br/>Lättantändlig: antänder (fattar eld) snabbt vid exponering för öppen låga.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_9a299a78beed906d500ee1bfa209c57f_7">
+                <text>Väteperoxid</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_40cd05d278bf93b4744376b55073242d_8">
+                <text>Dödar organismer som till exempel bakteriesporer.<br/>Frätande: orsakar skada på mänsklig vävnad genom kemisk verkan.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_c9366eea5e94a3714de1cc65a873005d_9">
+                <text>Glycerol</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_436386929959a0b18fabf88fa51310f9_10">
+                <text>Gör alkoholbaserade handdesinfektionsmedel tjockare.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_4576b90fa1aad28e9083b9a5103e7c50_11">
+                <text>Dofter och färgämnen</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_a6b5b5bf153152b518e3d707c09916aa_12">
+                <text>Förbättrar utseende och doft på alkoholbaserade handdesinfektionsmedel.<br/>Kan orsaka allergiska reaktioner.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_942d3f603930b12668dac3ed89f7b4be_13">
+                <text>Detta är produktetiketterna på två märken av alkoholbaserade (typ 2) handdesinfektionsmedel.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_95e1fa0a78e7feb2366bcd29d9221ccd_14">
+                <text>Märke A:</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_210c9e13155de6cf4edb59f1fbbaf4e8_15">
+                <text>Ingredienser</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_34b91035a2761364a558fcc39c9fa94b_16">
+                <text>70 % etanol. Övrigt: vatten, glycerol och doftämne</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_8ae2a5b447f654bd4d75d5ec3c40a4c8_17">
+                <text>Användningsområden</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_d413ce2287009709f295ddb3b24b1458_18">
+                <text>Använd handdesinfektionsmedlet för att minska mängden bakterier på huden</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_0eaadb4fcb48a0a0ed7bc9868be9fbaa_19">
+                <text>Varning</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_59a3d32607a4c13b21c2c1102785a062_20">
+                <text>När du använder denna produkt, använd den inte i eller nära ögonen. Om du råkat svälja produkten tala med en läkare.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_a32589749c363adb020e7126b5e7ee3a_21">
+                <text>Bruksanvisning</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_d7bb7d0b2f7c453858c674ffb6578f70_22">
+                <text>Häll på händerna.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_9d21d76557d9d3a6e7266f239665a711_23">
+                <text>Gnid i 20 sekunder.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_e91d6742d7aa313866f58e10565c070b_24">
+                <text>Vikt = 100 g</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_dd717fc29c79f19ea4e312dd69955b1d_25">
+                <text>Märke B:</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_210c9e13155de6cf4edb59f1fbbaf4e8_26">
+                <text>Ingredienser</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_dcf8736c791f0d44c488254c9ebc49b0_27">
+                <text>70 % etanol. Övrigt: vatten, väteperoxid och glycerol</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_8ae2a5b447f654bd4d75d5ec3c40a4c8_28">
+                <text>Användningsområden</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_f52523c2645332f76e840f1527c1866a_29">
+                <text>Använd handdesinfektionsmedlet för att minska mängden bakterier på huden</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_0eaadb4fcb48a0a0ed7bc9868be9fbaa_30">
+                <text>Varning</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_59a3d32607a4c13b21c2c1102785a062_31">
+                <text>När du använder denna produkt, använd den inte i eller nära ögonen. Om du råkat svälja produkten tala med en läkare.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_a32589749c363adb020e7126b5e7ee3a_32">
+                <text>Bruksanvisning</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_d7bb7d0b2f7c453858c674ffb6578f70_33">
+                <text>Häll på händerna.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_d7074b66502f51051dfe29409d399b2b_34">
+                <text>Gnid torrt.</text>
+            </label>
+            <label key="64b1124d8f7998.37730167_e91d6742d7aa313866f58e10565c070b_35">
+                <text>Vikt = 100 g</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i638ecf721c44e12826c37ef8d9cd808963">
+            <label key="i638ecf721c44e12826c37ef8d9cd808963_2c2604983e232c049905663fd0c967f4_1">
+                <text>Beskriver påståendena i tabellen handdesinfektionsmedlens egenskaper?</text>
+            </label>
+            <label key="i638ecf721c44e12826c37ef8d9cd808963_106c9a1ddb073847ba2d34441344804a_2">
+                <text>Välj 'Ja' eller 'Nej' eller 'Inte tillräcklig information för att avgöra' för varje påstående.</text>
+            </label>
+            <label key="i638ecf721c44e12826c37ef8d9cd808963_Y_fdc1563a8afc5411a7aba3beeb918bd4_3">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i638ecf721c44e12826c37ef8d9cd808963_N_758eaa648d8250f58a4ec4251f2ea215_4">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i638ecf721c44e12826c37ef8d9cd808963_M_29c799d4dcc999a6ffd7f715afb54d3c_5">
+                <text>
+                    <strong>‌Inte tillräcklig information för att avgöra‌</strong>
+                </text>
+            </label>
+            <label key="i638ecf721c44e12826c37ef8d9cd808963_Row1_7b80c2fa15e0473cd63ab7f5ce6adc56_6">
+                <text>Alla handdesinfektionsmedel av typ 1 är inte lättantändliga, men alla desinfektionsmedel av typ 2 är lättantändliga (fattar lätt eld).</text>
+            </label>
+            <label key="i638ecf721c44e12826c37ef8d9cd808963_Row2_4597f971c50048ca9974bc40ed081325_7">
+                <text>Vissa handdesinfektionsmedel av typ 1 och alla handdesinfektionsmedel av typ 2 kan döda bakteriesporer och svampar.</text>
+            </label>
+            <label key="i638ecf721c44e12826c37ef8d9cd808963_Row3_f0dcc855b3e88ecf8c42eda5ba1fd9b0_8">
+                <text>Handdesinfektionsmedel av typ 1 dödar bakterier mindre effektivt än desinfektionsmedel av typ 2.</text>
+            </label>
+        </item>
+        <item id="i638fdde80ebaf3078296869aed0cccd6fe">
+            <label key="i638fdde80ebaf3078296869aed0cccd6fe_45914c6f7d74ab13553c935dcc866cd1_1">
+                <text>Vissa ämnen kan orsaka skador på levande organismer.</text>
+            </label>
+            <label key="i638fdde80ebaf3078296869aed0cccd6fe_22ce2928ba85fd011c74da7ec58a400d_2">
+                <text>Vilka faropiktogram ska stå på etiketterna för handdesinfektionsmedel från Märke A och Märke B?</text>
+            </label>
+            <label key="i638fdde80ebaf3078296869aed0cccd6fe_64c31d30aceebb51fe2b8c069bd4d8e5_3">
+                <text>Välj ”Endast Märke A”, ”Endast Märke B”, ”Både Märke A och Märke B” eller ”Varken Märke A eller Märke B” för att visa faropiktogram för varje handdesinfektionsmedel.</text>
+            </label>
+            <label key="i638fdde80ebaf3078296869aed0cccd6fe_Y_ba195e2929491c52cfeb071a7e9570e7_4">
+                <text>
+                    <strong>‌Bara märke A‌</strong>
+                </text>
+            </label>
+            <label key="i638fdde80ebaf3078296869aed0cccd6fe_N_a067b493c96e22065e350b928baac361_5">
+                <text>
+                    <strong>‌Bara märke B‌</strong>
+                </text>
+            </label>
+            <label key="i638fdde80ebaf3078296869aed0cccd6fe_M_42823296c267c86288eea3fe717db334_6">
+                <text>
+                    <strong>‌Både märke A och märke B‌</strong>
+                </text>
+            </label>
+            <label key="i638fdde80ebaf3078296869aed0cccd6fe_choice_1_1d4899193b9d96449d5f9590cc21355f_7">
+                <text>
+                    <b>‌Varken märke A eller märke B‌</b>
+                </text>
+            </label>
+            <label key="i638fdde80ebaf3078296869aed0cccd6fe_Row1_0afcbf70c39571567713451db693d3b8_8">
+                <text>Skadlig / irriterande</text>
+            </label>
+            <label key="i638fdde80ebaf3078296869aed0cccd6fe_Row2_092f20920cbb55b8f5679b2b1f99d2ea_9">
+                <text>Lättantändlig</text>
+            </label>
+            <label key="i638fdde80ebaf3078296869aed0cccd6fe_Row3_d1e5c791be8fb959e8d9c893f8b7427e_10">
+                <text>Frätande</text>
+            </label>
+        </item>
+        <item id="i638fe1875609344324a5f62fdf29604f5c">
+            <label key="i638fe1875609344324a5f62fdf29604f5c_acaf3eb0c47eb5ba86036efb72c2ac8c_1">
+                <text>En agarplatta är ett tunt lager näringsgel i en petriskål, som används för att odla mikroorganismer, inklusive bakterier.</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_8da1813015c72b599e7d3a9a48d2fc4e_2">
+                <text>En grupp elever använder agarplattor för att undersöka om handdesinfektionsmedel av märke A dödar bakterier effektivare än handdesinfektionsmedel av märke B. För att testa det utför eleverna följande experiment:</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_91b32f0f8abeb2961248ca12396ed6e2_3">
+                <text><strong>Steg 1</strong>: varje elev häller 5 g handdesinfektion av märke A på sina händer och gnider händerna i 20 sekunder.</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_0fe864e4eca0e67f476d4a1d3d1880cd_4">
+                <text><strong>Steg 2</strong>: varje elev trycker fingertopparna varsamt mot en agarplatta. Varje elev använder en egen agarplatta.</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_52dd30662e26263aa3372cd574b0d2b3_5">
+                <text><strong>Steg 3</strong>: de förvarar agarplattorna vid 37 °C i 3 dagar.</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_98101c7405f99724ed399ca9e79d3cd9_6">
+                <text><strong>Steg 4</strong>: de observerar bakterietillväxten på agarplattorna.</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_de85b6d01efb4e73ea77eaf8809376a6_7">
+                <text>Vilka faktorer kan hållas oförändrade när experimentet upprepas med handdesinfektionsmedel av märke B?</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_89b1c1de80f35eb0f385836481797561_8">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_choice_1_7a9c7ef14fe8e7ec6e21832763aa85c8_9">
+                <text>mängden desinfektionsmedel varje elev använder</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_choice_2_19b7677b0fbe3e50c331ceed486beda3_10">
+                <text>antal bakterier på varje elevs fingertoppar innan handdesinfektionsmedlet appliceras</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_choice_3_0e7c63ef395b83eaa8f337aab322d6c6_11">
+                <text>antal fingertoppar som varje elev trycker mot agarplattan</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_choice_4_49df82306c03ec3d8c43316d70e06ef9_12">
+                <text>temperatur som agarplattorna förvaras i</text>
+            </label>
+            <label key="i638fe1875609344324a5f62fdf29604f5c_choice_5_a10ac76c3734a0c1ffcbed630fa5732c_13">
+                <text>antal dagar som agarplattorna förvaras före observation</text>
+            </label>
+        </item>
+    </items>
+</file>

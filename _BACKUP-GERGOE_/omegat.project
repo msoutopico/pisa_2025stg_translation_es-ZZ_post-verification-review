@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE omegat [
+<!ENTITY DOMAIN "https://git-codecommit.eu-central-1.amazonaws.com/v1/repos">
+<!ENTITY TARGET_LANG "es-ZZ">
+<!ENTITY PREV_STEP "verification-review">
+<!ENTITY THIS_STEP "post-verification-review">
+<!ENTITY THIS_REPO "pisa_2025stg_translation_&TARGET_LANG;_&THIS_STEP;">
+]>
+<omegat>
+    <project version="1.0">
+        <source_dir>__DEFAULT__</source_dir>
+        <source_dir_excludes>
+            <mask>**/.svn/**</mask>
+            <mask>**/CVS/**</mask>
+            <mask>**/.cvs/**</mask>
+            <mask>**/.git/**</mask>
+            <mask>**/.hg/**</mask>
+            <mask>**/.repositories/**</mask>
+            <mask>**/desktop.ini</mask>
+            <mask>**/Thumbs.db</mask>
+            <mask>**/.DS_Store</mask>
+            <mask>**/~$*</mask>
+            <mask>*S002*.xml</mask>
+            <mask>*S003*.xml</mask>
+            <mask>*S004*.xml</mask>
+            <mask>*S005*.xml</mask>
+            <mask>*S007*.xml</mask>
+            <mask>*S008*.xml</mask>
+            <mask>*S010*.xml</mask>
+            <mask>*S011*.xml</mask>
+            <mask>*S014*.xml</mask>
+            <mask>*S019*.xml</mask>
+            <mask>*S021*.xml</mask>
+        </source_dir_excludes>
+        <target_dir>__DEFAULT__</target_dir>
+        <tm_dir>__DEFAULT__</tm_dir>
+        <glossary_dir>__DEFAULT__</glossary_dir>
+        <glossary_file>__DEFAULT__</glossary_file>
+        <dictionary_dir>__DEFAULT__</dictionary_dir>
+        <source_lang>en</source_lang>
+        <target_lang>&TARGET_LANG;</target_lang>
+        <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
+        <target_tok>org.omegat.tokenizer.LuceneRussianTokenizer</target_tok>
+        <sentence_seg>true</sentence_seg>
+        <support_default_translations>true</support_default_translations>
+        <remove_tags>false</remove_tags>
+        <repositories>
+          <repository type="git" url="&DOMAIN;/&THIS_REPO;.git">
+          <!-- self -->
+            <mapping local="/" repository="/" />
+          </repository>
+          <repository type="git" url="&DOMAIN;/pisa_2025stg_translation_common.git">
+            <!-- source files -->
+              <mapping local="source/" repository="source/00_empty/"/>
+            <!-- project settings -->
+            <mapping local="omegat/filters.xml" repository="config/filters.xml" />
+            <mapping local="omegat/okf_xml@oat.fprm" repository="config/okf_xml@oat.fprm" />
+            <mapping local="omegat/okf_xml@qti.fprm" repository="config/okf_xml@qti.fprm" />
+            <mapping local="omegat/segmentation.conf" repository="config/segmentation.conf" />
+          </repository>
+        </repositories>
+    </project>
+</omegat>

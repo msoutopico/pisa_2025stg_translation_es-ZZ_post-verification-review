@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64703bf2dc1fb5.58272754/passage NEW.xml">
+            <label key="64703bf2dc1fb5.58272754_457ba641340a812b28f949a26fca3e7b_1">
+                <text>Blixtar</text>
+            </label>
+            <label key="64703bf2dc1fb5.58272754_ad2f427123ce33e6bb6ed0f856d90b23_2">
+                <text>En blixt är en naturlig elektrostatisk urladdning som uppstår i jordens atmosfär.</text>
+            </label>
+            <label key="64703bf2dc1fb5.58272754_5ec1d86d4825a296af8d93930d05dc6e_3">
+                <text>Åska är det ljud som orsakas av den snabba uppvärmning av luft som inträffar när en blixt bildas.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64703c22b50e81.88824708/passage NEW 2.xml">
+            <label key="64703c22b50e81.88824708_457ba641340a812b28f949a26fca3e7b_1">
+                <text>Blixtar</text>
+            </label>
+            <label key="64703c22b50e81.88824708_33fffa027aa84ebe5aeda4eca21f4d45_2">
+                <text>Det har föreslagits att energin från blixtnedslag skulle kunna samlas in och lagras för framtida användning.</text>
+            </label>
+            <label key="64703c22b50e81.88824708_4c9cdf98033824c936c9cded9d4b1abc_3">
+                <text>Det första steget för att uppnå detta skulle vara att avgöra var blixtar ofta slår ner.</text>
+            </label>
+            <label key="64703c22b50e81.88824708_6a2e97c736d56f4432665b2b15fc8931_4">
+                <text>Följande diagram visar antalet blixtnedslag varje månad från maj till september i tre olika områden.</text>
+            </label>
+            <label key="64703c22b50e81.88824708_4bf5dadb63d59b9be5ba48be04d3dab2_5">
+                <text>
+                    <strong>‌Antal blixtnedslag per månad - område 1‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_985ead9be00524f462469d489b613ead_6">
+                <text>
+                    <strong>‌Antal blixtnedslag‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_fb8cd8f2c304553a9dfbfbd13b33b9b3_7">
+                <text>​May</text>
+            </label>
+            <label key="64703c22b50e81.88824708_688937ccaf2a2b0c45a1c9bbba09698d_8">
+                <text>Juni</text>
+            </label>
+            <label key="64703c22b50e81.88824708_a2866cd6efaa65c92278d4771a9eaec7_9">
+                <text>Jul</text>
+            </label>
+            <label key="64703c22b50e81.88824708_22f1a4667604b8557c9b209c201b4bc6_10">
+                <text>Aug</text>
+            </label>
+            <label key="64703c22b50e81.88824708_ff07559bc06ba6ed552dfc6ad46ef943_11">
+                <text>Sept</text>
+            </label>
+            <label key="64703c22b50e81.88824708_deba4f82731b5cab1c337647c51a9399_12">
+                <text>
+                    <strong>‌​Month‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_2bab2c573e1a95189dabcb395cc5a60c_13">
+                <text>
+                    <strong>‌Antal blixtnedslag per månad - område 2‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_985ead9be00524f462469d489b613ead_14">
+                <text>
+                    <strong>‌Antal blixtnedslag‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_195fbb57ffe7449796d23466085ce6d8_15">
+                <text>Maj</text>
+            </label>
+            <label key="64703c22b50e81.88824708_688937ccaf2a2b0c45a1c9bbba09698d_16">
+                <text>Juni</text>
+            </label>
+            <label key="64703c22b50e81.88824708_867688ca1d1663c6520a3b45a30635ae_17">
+                <text>​July</text>
+            </label>
+            <label key="64703c22b50e81.88824708_22f1a4667604b8557c9b209c201b4bc6_18">
+                <text>Aug</text>
+            </label>
+            <label key="64703c22b50e81.88824708_ff07559bc06ba6ed552dfc6ad46ef943_19">
+                <text>Sept</text>
+            </label>
+            <label key="64703c22b50e81.88824708_68a331aba311fe5212d5a52688f0813c_20">
+                <text>
+                    <strong>‌Månad‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_3aac850e3accce5ce945b357c9d52d99_21">
+                <text>
+                    <strong>‌Antal blixtnedslag per månad - område 3‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_985ead9be00524f462469d489b613ead_22">
+                <text>
+                    <strong>‌Antal blixtnedslag‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_195fbb57ffe7449796d23466085ce6d8_23">
+                <text>Maj</text>
+            </label>
+            <label key="64703c22b50e81.88824708_688937ccaf2a2b0c45a1c9bbba09698d_24">
+                <text>Juni</text>
+            </label>
+            <label key="64703c22b50e81.88824708_1b539f6f34e8503c97f6d3421346b63c_25">
+                <text>Juli</text>
+            </label>
+            <label key="64703c22b50e81.88824708_22f1a4667604b8557c9b209c201b4bc6_26">
+                <text>Aug</text>
+            </label>
+            <label key="64703c22b50e81.88824708_ff07559bc06ba6ed552dfc6ad46ef943_27">
+                <text>Sept</text>
+            </label>
+            <label key="64703c22b50e81.88824708_68a331aba311fe5212d5a52688f0813c_28">
+                <text>
+                    <strong>‌Månad‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64703c22b50e81.88824708/passage NEW 2.xml">
+            <label key="64703c22b50e81.88824708_457ba641340a812b28f949a26fca3e7b_1">
+                <text>Blixtar</text>
+            </label>
+            <label key="64703c22b50e81.88824708_33fffa027aa84ebe5aeda4eca21f4d45_2">
+                <text>Det har föreslagits att energin från blixtnedslag skulle kunna samlas in och lagras för framtida användning.</text>
+            </label>
+            <label key="64703c22b50e81.88824708_4c9cdf98033824c936c9cded9d4b1abc_3">
+                <text>Det första steget för att uppnå detta skulle vara att avgöra var blixtar ofta slår ner.</text>
+            </label>
+            <label key="64703c22b50e81.88824708_6a2e97c736d56f4432665b2b15fc8931_4">
+                <text>Följande diagram visar antalet blixtnedslag varje månad från maj till september i tre olika områden.</text>
+            </label>
+            <label key="64703c22b50e81.88824708_4bf5dadb63d59b9be5ba48be04d3dab2_5">
+                <text>
+                    <strong>‌Antal blixtnedslag per månad - område 1‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_985ead9be00524f462469d489b613ead_6">
+                <text>
+                    <strong>‌Antal blixtnedslag‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_fb8cd8f2c304553a9dfbfbd13b33b9b3_7">
+                <text>​May</text>
+            </label>
+            <label key="64703c22b50e81.88824708_688937ccaf2a2b0c45a1c9bbba09698d_8">
+                <text>Juni</text>
+            </label>
+            <label key="64703c22b50e81.88824708_a2866cd6efaa65c92278d4771a9eaec7_9">
+                <text>Jul</text>
+            </label>
+            <label key="64703c22b50e81.88824708_22f1a4667604b8557c9b209c201b4bc6_10">
+                <text>Aug</text>
+            </label>
+            <label key="64703c22b50e81.88824708_ff07559bc06ba6ed552dfc6ad46ef943_11">
+                <text>Sept</text>
+            </label>
+            <label key="64703c22b50e81.88824708_deba4f82731b5cab1c337647c51a9399_12">
+                <text>
+                    <strong>‌​Month‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_2bab2c573e1a95189dabcb395cc5a60c_13">
+                <text>
+                    <strong>‌Antal blixtnedslag per månad - område 2‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_985ead9be00524f462469d489b613ead_14">
+                <text>
+                    <strong>‌Antal blixtnedslag‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_195fbb57ffe7449796d23466085ce6d8_15">
+                <text>Maj</text>
+            </label>
+            <label key="64703c22b50e81.88824708_688937ccaf2a2b0c45a1c9bbba09698d_16">
+                <text>Juni</text>
+            </label>
+            <label key="64703c22b50e81.88824708_867688ca1d1663c6520a3b45a30635ae_17">
+                <text>​July</text>
+            </label>
+            <label key="64703c22b50e81.88824708_22f1a4667604b8557c9b209c201b4bc6_18">
+                <text>Aug</text>
+            </label>
+            <label key="64703c22b50e81.88824708_ff07559bc06ba6ed552dfc6ad46ef943_19">
+                <text>Sept</text>
+            </label>
+            <label key="64703c22b50e81.88824708_68a331aba311fe5212d5a52688f0813c_20">
+                <text>
+                    <strong>‌Månad‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_3aac850e3accce5ce945b357c9d52d99_21">
+                <text>
+                    <strong>‌Antal blixtnedslag per månad - område 3‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_985ead9be00524f462469d489b613ead_22">
+                <text>
+                    <strong>‌Antal blixtnedslag‌</strong>
+                </text>
+            </label>
+            <label key="64703c22b50e81.88824708_195fbb57ffe7449796d23466085ce6d8_23">
+                <text>Maj</text>
+            </label>
+            <label key="64703c22b50e81.88824708_688937ccaf2a2b0c45a1c9bbba09698d_24">
+                <text>Juni</text>
+            </label>
+            <label key="64703c22b50e81.88824708_1b539f6f34e8503c97f6d3421346b63c_25">
+                <text>Juli</text>
+            </label>
+            <label key="64703c22b50e81.88824708_22f1a4667604b8557c9b209c201b4bc6_26">
+                <text>Aug</text>
+            </label>
+            <label key="64703c22b50e81.88824708_ff07559bc06ba6ed552dfc6ad46ef943_27">
+                <text>Sept</text>
+            </label>
+            <label key="64703c22b50e81.88824708_68a331aba311fe5212d5a52688f0813c_28">
+                <text>
+                    <strong>‌Månad‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63b4f9a80db2b17356e01d8a91437511f0">
+            <label key="i63b4f9a80db2b17356e01d8a91437511f0_a354074d38428c8c0516e9f18ce04e58_1">
+                <text>När blixten slår ner ser en observatör omedelbart en ljusblixt. Åskan inträffar samtidigt, men observatören hör det något senare.</text>
+            </label>
+            <label key="i63b4f9a80db2b17356e01d8a91437511f0_42c3eae5dc0b7efa56de90320d870667_2">
+                <text>Fördröjningen beror på faktorer såsom avståndet mellan observatören och platsen där blixten slår ner.</text>
+            </label>
+            <label key="i63b4f9a80db2b17356e01d8a91437511f0_3fc41b9353c5a352e0eddb9686338e33_3">
+                <text>Vilket av följande påståenden förklarar bäst varför blixten syns innan åskan hörs?</text>
+            </label>
+            <label key="i63b4f9a80db2b17356e01d8a91437511f0_A_e9a41d2d110a6a711ebe81379a0cebd9_4">
+                <text>Ljusets hastighet genom luften är högre än ljudets hastighet genom luften.</text>
+            </label>
+            <label key="i63b4f9a80db2b17356e01d8a91437511f0_B_942a94254217d09f5b2c10bf7517f02c_5">
+                <text>Ljuset behöver inte färdas genom luften för att synas, men ljudet måste färdas genom luften för att höras.</text>
+            </label>
+            <label key="i63b4f9a80db2b17356e01d8a91437511f0_C_e4ff0ff5d0ad2ad1b638ff3b01605d40_6">
+                <text>Ljuspartiklar är inte lika tunga som ljudpartiklar och är därför lättare att upptäcka.</text>
+            </label>
+            <label key="i63b4f9a80db2b17356e01d8a91437511f0_D_26875e0cd3893311430be08b6ac1469e_7">
+                <text>Ögonen registrerar ljus snabbare än öronen registrerar ljud.</text>
+            </label>
+        </item>
+        <item id="i63b4f9db08e3221160776c34798bc02ed9">
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_a74003cf3ecbef34bb4afa21e2f20dbc_1">
+                <text><div>Kör simuleringen för att samla in data för att svara på nedanstående fråga.</div><div></div>Does the amount of energy produced by a lightning strike affect the time between seeing lightning strike and hearing thunder?</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_A_93cba07454f06a4a960172bbd6e2a435_2">
+                <text>Ja</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_B_bafd7322c6e97d25b6299b5d6fe8920b_3">
+                <text>Nej</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_33fc7a8d21ba1127463e0c6c60b382d0_4">
+                <text>Förklara ditt svar med hjälp av resultaten från simuleringen.</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_457ba641340a812b28f949a26fca3e7b_5">
+                <text>Blixtar</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_357c2378cde8311f3d2b6b15c0881632_6">
+                <text>Simuleringen kan användas för att undersöka hur lång tid det tar mellan när en observatör ser en blixt och när den hör åska. <br/>Följande faktorer kan undersökas i simuleringen:</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_b9a270eea7672c5248104e9ad33e252a_7">
+                <text>amount of energy produced by the lightning strike and</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_de3d43689a88e4ef6c295dad145392ae_8">
+                <text>avstånd mellan blixten och observatören.</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_e1d42070d11f4e125dd41933a7931336_9">
+                <text>Instruktioner</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_c1584e4907bd460f1192cc0717028ad4_10">
+                <text>Move the slider to select the ‘Amount of energy produced by lightning strike’.</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_754ac2adf7d71e3c2509ec418bdd3e8b_11">
+                <text>Flytta reglaget för att välja 'Avstånd mellan blixt och person'</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_8e6a0bc008a73821e3b493e5da3f5335_12">
+                <text>Klicka på knappen "Kör".</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_69a5416ca3a2c96ee566f9558e197fd0_13">
+                <text>Tabellen har fyra rader för dina data. För att radera någon rad med data, klicka på symbolen '-' i fjärde kolumnen.</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_679fa1d20272e1f6368b9869fdc36ed9_14">
+                <text>Amount of energy produced by lightning strike</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_53cced8d281a1a0ace3cb6594daaa4f7_15">
+                <text>låg</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_075a3e36a0a52dcbc568c05788e8a713_16">
+                <text>medel</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_8d966b2253a917086c8604959e152243_17">
+                <text>hög</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_b877e51a30ac2c9399e57692868eda8e_18">
+                <text>Avstånd mellan blixtnedslag och person (km)</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_c81e728d9d4c2f636f067f89cc14862c_19">
+                <text>2</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_eccbc87e4b5ce2fe28308fd9f2a7baf3_20">
+                <text>3</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_e4da3b7fbbce2345d7772b0674a318d5_21">
+                <text>5</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_d3d9446802a44259755d38e6d163e820_22">
+                <text>10</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_312e8871e100927905ef41f52831a16c_23">
+                <text>
+                    <button class="btn" id="run-button">Kör</button>
+                </text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_9cddb224b1922d583e2f0a3499f97604_24">
+                <text>Energi från blixtnedslag</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_b877e51a30ac2c9399e57692868eda8e_25">
+                <text>Avstånd mellan blixtnedslag och person (km)</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_c064aeb721c5b064d2f93584e527bbf5_26">
+                <text>Fördröjning i tid mellan att blixten syns och åskan hörs (s)</text>
+            </label>
+            <label key="i63b4f9db08e3221160776c34798bc02ed9_28b4a51acbc8c485a509fe1e0569de43_27">
+                <text>You must delete some rows.</text>
+            </label>
+        </item>
+        <item id="i63b4fa1d3f6612221856510ece5432917">
+            <label key="i63b4fa1d3f6612221856510ece5432917_499d0ac3fff1153e4e0f11600841b155_1">
+                <text>Hur skulle du kunna använda resultaten från simuleringen för att beräkna åskans hastighet?</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_457ba641340a812b28f949a26fca3e7b_2">
+                <text>Blixtar</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_357c2378cde8311f3d2b6b15c0881632_3">
+                <text>Simuleringen kan användas för att undersöka hur lång tid det tar mellan när en observatör ser en blixt och när den hör åska. <br/>Följande faktorer kan undersökas i simuleringen:</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_b9a270eea7672c5248104e9ad33e252a_4">
+                <text>amount of energy produced by the lightning strike and</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_de3d43689a88e4ef6c295dad145392ae_5">
+                <text>avstånd mellan blixten och observatören.</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_e1d42070d11f4e125dd41933a7931336_6">
+                <text>Instruktioner</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_c1584e4907bd460f1192cc0717028ad4_7">
+                <text>Move the slider to select the ‘Amount of energy produced by lightning strike’.</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_754ac2adf7d71e3c2509ec418bdd3e8b_8">
+                <text>Flytta reglaget för att välja 'Avstånd mellan blixt och person'</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_8e6a0bc008a73821e3b493e5da3f5335_9">
+                <text>Klicka på knappen "Kör".</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_69a5416ca3a2c96ee566f9558e197fd0_10">
+                <text>Tabellen har fyra rader för dina data. För att radera någon rad med data, klicka på symbolen '-' i fjärde kolumnen.</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_679fa1d20272e1f6368b9869fdc36ed9_11">
+                <text>Amount of energy produced by lightning strike</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_53cced8d281a1a0ace3cb6594daaa4f7_12">
+                <text>låg</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_075a3e36a0a52dcbc568c05788e8a713_13">
+                <text>medel</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_8d966b2253a917086c8604959e152243_14">
+                <text>hög</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_b877e51a30ac2c9399e57692868eda8e_15">
+                <text>Avstånd mellan blixtnedslag och person (km)</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_c81e728d9d4c2f636f067f89cc14862c_16">
+                <text>2</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_eccbc87e4b5ce2fe28308fd9f2a7baf3_17">
+                <text>3</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_e4da3b7fbbce2345d7772b0674a318d5_18">
+                <text>5</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_d3d9446802a44259755d38e6d163e820_19">
+                <text>10</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_312e8871e100927905ef41f52831a16c_20">
+                <text>
+                    <button class="btn" id="run-button">Kör</button>
+                </text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_9cddb224b1922d583e2f0a3499f97604_21">
+                <text>Energi från blixtnedslag</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_b877e51a30ac2c9399e57692868eda8e_22">
+                <text>Avstånd mellan blixtnedslag och person (km)</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_c064aeb721c5b064d2f93584e527bbf5_23">
+                <text>Fördröjning i tid mellan att blixten syns och åskan hörs (s)</text>
+            </label>
+            <label key="i63b4fa1d3f6612221856510ece5432917_28b4a51acbc8c485a509fe1e0569de43_24">
+                <text>You must delete some rows.</text>
+            </label>
+        </item>
+        <item id="i642ccb82b7efc2225cb208783ff6f9d37">
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_979f01ea82a931fc138148de8be78be2_1">
+                <text>Använd simuleringen för att förutsäga hur lång tid det skulle ta för ljudet av åskan från ett blixtnedslag att nå en observatör 20 kilometer bort.</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_7ba314ae0e87f03d4fae51247119b973_2">
+                <text><textEntryInteraction base="10" expectedLength="12" patternMask="" placeholderText="" responseIdentifier="CCZES100Q04"/> sekunder</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_457ba641340a812b28f949a26fca3e7b_3">
+                <text>Blixtar</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_357c2378cde8311f3d2b6b15c0881632_4">
+                <text>Simuleringen kan användas för att undersöka hur lång tid det tar mellan när en observatör ser en blixt och när den hör åska. <br/>Följande faktorer kan undersökas i simuleringen:</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_b9a270eea7672c5248104e9ad33e252a_5">
+                <text>amount of energy produced by the lightning strike and</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_de3d43689a88e4ef6c295dad145392ae_6">
+                <text>avstånd mellan blixten och observatören.</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_e1d42070d11f4e125dd41933a7931336_7">
+                <text>Instruktioner</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_c1584e4907bd460f1192cc0717028ad4_8">
+                <text>Move the slider to select the ‘Amount of energy produced by lightning strike’.</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_754ac2adf7d71e3c2509ec418bdd3e8b_9">
+                <text>Flytta reglaget för att välja 'Avstånd mellan blixt och person'</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_8e6a0bc008a73821e3b493e5da3f5335_10">
+                <text>Klicka på knappen "Kör".</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_69a5416ca3a2c96ee566f9558e197fd0_11">
+                <text>Tabellen har fyra rader för dina data. För att radera någon rad med data, klicka på symbolen '-' i fjärde kolumnen.</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_679fa1d20272e1f6368b9869fdc36ed9_12">
+                <text>Amount of energy produced by lightning strike</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_53cced8d281a1a0ace3cb6594daaa4f7_13">
+                <text>låg</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_075a3e36a0a52dcbc568c05788e8a713_14">
+                <text>medel</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_8d966b2253a917086c8604959e152243_15">
+                <text>hög</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_b877e51a30ac2c9399e57692868eda8e_16">
+                <text>Avstånd mellan blixtnedslag och person (km)</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_c81e728d9d4c2f636f067f89cc14862c_17">
+                <text>2</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_eccbc87e4b5ce2fe28308fd9f2a7baf3_18">
+                <text>3</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_e4da3b7fbbce2345d7772b0674a318d5_19">
+                <text>5</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_d3d9446802a44259755d38e6d163e820_20">
+                <text>10</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_312e8871e100927905ef41f52831a16c_21">
+                <text>
+                    <button class="btn" id="run-button">Kör</button>
+                </text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_9cddb224b1922d583e2f0a3499f97604_22">
+                <text>Energi från blixtnedslag</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_b877e51a30ac2c9399e57692868eda8e_23">
+                <text>Avstånd mellan blixtnedslag och person (km)</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_c064aeb721c5b064d2f93584e527bbf5_24">
+                <text>Fördröjning i tid mellan att blixten syns och åskan hörs (s)</text>
+            </label>
+            <label key="i642ccb82b7efc2225cb208783ff6f9d37_28b4a51acbc8c485a509fe1e0569de43_25">
+                <text>You must delete some rows.</text>
+            </label>
+        </item>
+        <item id="i63b4fab7b46392221228857788213079e">
+            <label key="i63b4fab7b46392221228857788213079e_b01e579e378a5f2d5b85671d4a4baa22_1">
+                <text>Vilket område hade flest blixtnedslag från maj till september enligt diagrammen?</text>
+            </label>
+            <label key="i63b4fab7b46392221228857788213079e_A_ea17b3f8b0c5cf68f562206861cd30a2_2">
+                <text>Område 1</text>
+            </label>
+            <label key="i63b4fab7b46392221228857788213079e_B_d523266c916d082fd76862156d45d692_3">
+                <text>Område 2</text>
+            </label>
+            <label key="i63b4fab7b46392221228857788213079e_C_7e659bc91e83f7009e158f8ee19b8383_4">
+                <text>Område 3</text>
+            </label>
+        </item>
+        <item id="i63b4faeca3ec12220071fc891f0403fc1">
+            <label key="i63b4faeca3ec12220071fc891f0403fc1_8db066c1659a19c2c36f88f17214dadc_1">
+                <text>Vilket av följande påståenden stöds av data i diagrammen?</text>
+            </label>
+            <label key="i63b4faeca3ec12220071fc891f0403fc1_A_46f28981d480f70e7c23b54af0825aa7_2">
+                <text>Område 1 hade minst variation i antalet blixtnedslag varje månad.</text>
+            </label>
+            <label key="i63b4faeca3ec12220071fc891f0403fc1_B_d932a9fd28335250e116fc0ef750fef1_3">
+                <text>Område 3 hade flest antal blixtnedslag varje månad.</text>
+            </label>
+            <label key="i63b4faeca3ec12220071fc891f0403fc1_C_a1c196df14041873b47e9833f056b7ea_4">
+                <text>Alla områden fick största antal blixtnedslag i juli.</text>
+            </label>
+            <label key="i63b4faeca3ec12220071fc891f0403fc1_D_fbb8da87492337b9906181b8c8925dae_5">
+                <text>Varje område hade en ökning i antalet blixtnedslag från maj till juli.</text>
+            </label>
+        </item>
+    </items>
+</file>

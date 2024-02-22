@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/646411b6af8e33.49647124/passage NEW.xml">
+            <label key="646411b6af8e33.49647124_988ccf02a04dd716a1e16b07f20495db_1">
+                <text>Carbon Monoxide_VERIFICATION</text>
+            </label>
+            <label key="646411b6af8e33.49647124_87ab36a0c11bc9108dba5dce04d7dfc0_2">
+                <text>A factory is using gas sensors to measure the concentration of carbon monoxide (CO) to ensure workers’ safety_VERIFICATION The concentration is measured in parts per million (ppm).</text>
+            </label>
+            <label key="646411b6af8e33.49647124_ff77c8b09555f2a35255adcb2aa9cfc2_3">
+                <text>The sensor measures the level of CO and displays the average concentration for the previous 60 seconds.</text>
+            </label>
+            <label key="646411b6af8e33.49647124_41701ce616ca5b28d8267594138a0d86_4">
+                <text>20&#x00a0;ppm CO </text>
+            </label>
+            <label key="646411b6af8e33.49647124_9793bf49ea4e0d6925c1716e87675de9_5">
+                <text>The electronics of the sensor produces a voltage from 0 V to 5 V, depending on the concentration of carbon monoxide.</text>
+            </label>
+            <label key="646411b6af8e33.49647124_16140a0a94ca69d49b85e17333616b1b_6">
+                <text>The sensor produces 0 V when the concentration of CO is 20&#x00a0;ppm or less.</text>
+            </label>
+            <label key="646411b6af8e33.49647124_7f7f19e317f5e9058a502fedcce8d0e7_7">
+                <text>The sensor produces 5 V when the concentration of CO is 100&#x00a0;ppm or more.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/1242ffd8634cdf096cbc0/passage NEW 2.xml">
+            <label key="1242ffd8634cdf096cbc0_03fd170d3755e35f029cc7cbcec57354_1">
+                <text>Series 1:</text>
+            </label>
+            <label key="1242ffd8634cdf096cbc0_cd2fe2037d2b7132c74b9a2d082f85be_2">
+                <text>26, 20, 25, 20, 22</text>
+            </label>
+            <label key="1242ffd8634cdf096cbc0_e73aa35006bfb2fef9664b1872ef4b79_3">
+                <text>average = 22.6&#x00a0;ppm</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/9f25f291634cdf6730f47/passage NEW 3.xml">
+            <label key="9f25f291634cdf6730f47_9416ca43f3bafe346baf36e5545fbf71_1">
+                <text>Series 2:</text>
+            </label>
+            <label key="9f25f291634cdf6730f47_64d1b989e47be286d05d183cf100c741_2">
+                <text>35, 31, 33, 36, 33</text>
+            </label>
+            <label key="9f25f291634cdf6730f47_80edc719160d66c382856fc2b1d817e1_3">
+                <text>average = 33.6&#x00a0;ppm</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6343761a2ffe2163926f0682b4168d7b5">
+            <label key="i6343761a2ffe2163926f0682b4168d7b5_fd1934127972d545c5ebe2e6fb96c1c2_1">
+                <text>A worker at the factory estimates that, when the sensor displays a concentration of CO as 60&#x00a0;ppm, the voltage produced by the sensor is 2.5 V.</text>
+            </label>
+            <label key="i6343761a2ffe2163926f0682b4168d7b5_b8149a2ae4a86bd4d1a34d35797948b0_2">
+                <text>On what assumption did the worker base the estimate?</text>
+            </label>
+            <label key="i6343761a2ffe2163926f0682b4168d7b5_d41d8cd98f00b204e9800998ecf8427e_3">
+                <text/>
+            </label>
+        </item>
+        <item id="i6343768516766163909ae49d633b1a53c">
+            <label key="i6343768516766163909ae49d633b1a53c_f7cd1eaa216e65523dcc76a9949b57ec_1">
+                <text>Sensors can experience small, random fluctuations in voltage, even when the CO concentration is constant. </text>
+            </label>
+            <label key="i6343768516766163909ae49d633b1a53c_3351f0d5995faaed491d5fad1c8c1f83_2">
+                <text>What is the advantage of the sensor displaying the average concentration value when the concentration is constant?</text>
+            </label>
+            <label key="i6343768516766163909ae49d633b1a53c_090677eafafbbfa8af4aa5ae4526399c_3">
+                <text>Lower CO concentrations will be able to be detected.</text>
+            </label>
+            <label key="i6343768516766163909ae49d633b1a53c_89c405d2f4b968dca0ed0f73c663a2c5_4">
+                <text>Quick changes in CO concentration will be detected.&#x00a0;</text>
+            </label>
+            <label key="i6343768516766163909ae49d633b1a53c_2b115421aef05978e6d4a2a5a53b682e_5">
+                <text>The sensor will better detect sudden fluctuations in CO concentration.</text>
+            </label>
+            <label key="i6343768516766163909ae49d633b1a53c_f2fd4fd6ebcc70ad4d119c203ec6b054_6">
+                <text>The displayed average CO concentration will not show small fluctuations.</text>
+            </label>
+        </item>
+        <item id="i634376fe77af511368aaeda07960bdac2a">
+            <label key="i634376fe77af511368aaeda07960bdac2a_3b563f914c0396f1e5d333fb2acdc22e_1">
+                <text>The factory workers collect the following two series of concentration values (ppm) at different times of the day.</text>
+            </label>
+            <label key="i634376fe77af511368aaeda07960bdac2a_7dfe24feef7618681d045eb1f15e6761_2">
+                <text>There was the same amount of time between measurements in both series.</text>
+            </label>
+            <label key="i634376fe77af511368aaeda07960bdac2a_f2319c9d557bc835632e82e3c8624147_3">
+                <text>They calculate the average value of each series.</text>
+            </label>
+            <label key="i634376fe77af511368aaeda07960bdac2a_bb74d304e1ffadb37cd4ac4b6234cc39_4">
+                <text>Which series has an average that more accurately represents the actual CO average concentration during the measurement period?</text>
+            </label>
+            <label key="i634376fe77af511368aaeda07960bdac2a_1c1f6f5a379c00091bef49edbe49197a_5">
+                <text>Select either ‘Series 1’ or ‘Series 2’.</text>
+            </label>
+            <label key="i634376fe77af511368aaeda07960bdac2a_14a742a5c8a85e7bdbb23e8e791c910b_6">
+                <text>Explain your choice.</text>
+            </label>
+        </item>
+        <item id="i63437b2d198171431644f5b360f4a4983f">
+            <label key="i63437b2d198171431644f5b360f4a4983f_8dc818b4c1b9bf372ac6cdba9434358f_1">
+                <text>There are three identical sensors in different places around a room in the factory.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_b30ba8e67ea80c81711c07f6d3269ea4_2">
+                <text>The first is near the workers’ desks (not a source of CO).</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_c76b3a82decccdd29620928b0583c7a0_3">
+                <text>The second is near a gas heater (a possible source of CO).</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_7d1e43bfd83ac1744ae8b32326404ed6_4">
+                <text>The third is near an incinerator (a possible source of CO).</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_4b829b47c270dfd04d123ccefeac7e96_5">
+                <text>Before any possible CO source is turned on, the sensors all display the average background CO concentration in the room.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_99a69fb3278f39eab532630f8165375d_6">
+                <text>Then, both the heater and the incinerator are turned on for 5 minutes.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_53eb7256eb0137f8574f13c3c482cbc1_7">
+                <text>The sensor display near the heater reaches the highest value.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_c24372bee4ef7da6229cd69238fc1b6f_8">
+                <text>What should the sensors display after the carbon monoxide sources are turned off?<div/><div>Select the correct answer.</div></text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_d22a7e8b8fa64c2f3e38b97812b5fb03_9">
+                <text>The other two sensors will soon also display the same value as the sensor near the gas heater.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_fd84726d7a677ba414d3b40c57a21498_10">
+                <text>The value displayed on the sensor near the heater will quickly decrease to the initial background value.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_ea0705508e45d39c66eee23a687d58ac_11">
+                <text>The value displayed on each sensor will remain the same.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_055adf3ad3d691f94d0c31089e351728_12">
+                <text>The concentrations displayed on the sensors will converge to the same value.</text>
+            </label>
+        </item>
+    </items>
+</file>

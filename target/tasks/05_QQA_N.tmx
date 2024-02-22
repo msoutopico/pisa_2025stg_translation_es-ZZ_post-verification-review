@@ -1,0 +1,4121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaTScript" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" segtype="sentence" srclang="en"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We have extra laboratory staff that help support &lt;school science&gt; teaching.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T141725Z" creationid="holemm" creationdate="20231107T141725Z">
+        <seg>Vi har extrapersonal i skollabbet som hjälper till i NO-undervisningen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Some schools organise instruction differently for students with different abilities.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>En del skolor organiserar undervisningen på olika sätt för elever med olika förmågor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Required</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T165010Z" creationid="holemm" creationdate="20231109T165010Z">
+        <seg>Obligatoriska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Spanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please move the slider to the number of minutes per &lt;class period&gt;.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T172706Z" creationid="holemm" creationdate="20231107T172706Z">
+        <seg>(Dra reglaget till antalet minuter per lektion.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teacher mentoring</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Handledning av lärare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Which of the statements below best describes the situation for students in &lt;national modal grade for 15-year-olds&gt; at your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T135909Z" creationid="holemm" creationdate="20231109T135909Z">
+        <seg>Vilket av nedanstående påståenden beskriver bäst situationen för elever i årskurs 9 på din skola? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Students who are learning &lt;English²&gt; as their only &lt;foreign language²&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T160513Z" creationid="holemm" creationdate="20231113T160513Z">
+        <seg>Elever som studerar engelska som sitt enda moderna språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School science&gt; achievement data are tracked over time by an administrative authority</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T110811Z" creationid="holemm" creationdate="20231109T110811Z">
+        <seg>Resultat i NO-ämnen följs upp över tid av en myndighet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Personnel for pedagogical support, irrespective of the &lt;grade levels&gt;/ages they support</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T161450Z" creationid="holemm" creationdate="20231107T161450Z">
+        <seg>Personal för stödundervisning, oavsett årskurs och ålder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes, all or most of them</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T153612Z" creationid="holemm" creationdate="20231113T153612Z">
+        <seg>Ja, alla eller de flesta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School science&gt; teachers &lt;fully certified&gt; by &lt;the appropriate authority&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T124002Z" creationid="holemm" creationdate="20231107T123902Z">
+        <seg>Lärare i NO-ämnen med lärarlegitimation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School science&gt; teachers who are female</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T123821Z" creationid="holemm" creationdate="20231107T123821Z">
+        <seg>Kvinnliga lärare i NO-ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Club with a focus on computers (e.g. programming or coding)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Föreningar med fokus på datorer (t.ex. programmering eller kodning)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Students who are learning other &lt;foreign languages²&gt;, but not &lt;English²&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T160526Z" creationid="holemm" creationdate="20231113T160526Z">
+        <seg>Elever som studerar andra moderna språk men inte engelska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Overall, how prepared do you feel your school is for providing remote instruction if your school building closed to students for an extended period in the future?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Hur förberedd känner du att din skola är överlag när det gäller att tillhandahålla distansundervisning om skolans lokaler skulle stängas för elever under en längre period i framtiden?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To what extent do you agree with the following statements about your school’s capacity to enhance learning and teaching using digital devices?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T144027Z" creationid="holemm" creationdate="20231109T144027Z">
+        <seg>I vilken utsträckning håller du med om följande påståenden om din skolas kapacitet att använda digital utrustning för att främja inlärning och undervisning?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(&lt;Remedial lessons&gt; refer to any lessons offered in addition to regular lessons to meet the school’s &lt;English¹&gt; learning goals.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T191843Z" creationid="holemm" creationdate="20231113T113232Z">
+        <seg>(Stödundervisning avser sådana lektioner som erbjuds förutom vanliga lektioner för att eleverna ska nå skolans mål i engelska.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One or more specific career guidance counsellors &lt;g1&gt;employed&lt;/g1&gt; at school have the main responsibility for career guidance.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T135153Z" creationid="holemm" creationdate="20231109T135153Z">
+        <seg>En eller flera specifika studie- och yrkesvägledare som är &lt;g1&gt;anställda&lt;/g1&gt; på skolan har huvudansvaret för studie- och yrkesvägledningen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Both &lt;enrichment&gt; and &lt;remedial&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T143404Z" creationid="holemm" creationdate="20231109T143404Z">
+        <seg>Både extra fördjupning och stödundervisning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inadequate or poor quality teaching materials and pedagogical resources</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T145940Z" creationid="holemm" creationdate="20231113T145940Z">
+        <seg>Läromedel och pedagogiska resurser som är bristfälliga eller av dålig kvalitet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other teachers of &lt;modern foreign languages¹&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T155859Z" creationid="holemm" creationdate="20231113T155859Z">
+        <seg>Övriga lärare i moderna språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Regular consultation aimed at school improvement with one or more experts over a period of at least six months</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Regelbunden rådgivning med en eller flera experter under en period på minst sex månader som syftar till att förbättra skolan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Observation of classes by inspectors or other persons external to the school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Observation av klasser av inspektörer eller andra personer som inte hör till skolan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Determining teachers’ salary increases</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Bestämma lärarnas löneförhöjningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Remedial lessons&gt; only</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T175010Z" creationid="holemm" creationdate="20231109T175010Z">
+        <seg>Enbart stödundervisning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Student fees or school charges paid by parents or guardians</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Elevavgifter eller skolavgifter som betalas av föräldrar eller vårdnadshavare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>During the last 12 months, how often did you or other members of the &lt;school management team&gt; engage in the following activities?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T171834Z" creationid="holemm" creationdate="20231107T171834Z">
+        <seg>Hur ofta har du eller andra medlemmar i skolans ledningsgrupp ägnat er åt att utföra följande aktiviteter under de senaste 12 månaderna?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Very likely</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Mycket troligt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Taking actions to support co-operation among teachers to develop new teaching practices</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vidta åtgärder för att stödja samarbetet mellan lärare för att utveckla nya undervisningsmetoder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="gergoe" changedate="20240216T151120Z">
+        <seg>Andra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lack of professional development opportunities for &lt;English¹&gt; teaching staff</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T152434Z" creationid="holemm" creationdate="20231113T152434Z">
+        <seg>Brist på möjligheter till fortbildning för lärare i engelska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Regular discussions with other teachers at school, for example in working groups</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T173652Z" creationid="holemm" creationdate="20231109T173652Z">
+        <seg>Regelbundna diskussioner med andra lärare på skolan, t.ex. i arbetsgrupper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Which of the following &lt;foreign languages²&gt; can students in &lt;national modal grade for 15-year-olds&gt; take at your school this school year?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T163509Z" creationid="holemm" creationdate="20231109T154321Z">
+        <seg>Vilka av följande moderna språk kan elever i årskurs 9 läsa på din skola under detta läsår? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3-5 times a year</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>3–5 gånger om året</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(This is a school managed directly or indirectly by a public education authority, government agency, or governing board appointed by government or elected by public franchise.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T142110Z" creationid="holemm" creationdate="20231107T142110Z">
+        <seg>(Det är en skola som direkt eller indirekt drivs av en offentlig utbildningsinstans, statlig eller kommunal myndighet eller styrelse som har utnämnts av regeringen eller utsetts genom allmänt privilegium.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school organises multilingual events (e.g. language weeks).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T143615Z" creationid="holemm" creationdate="20231113T143615Z">
+        <seg>Vår skola anordnar flerspråkiga evenemang (t.ex språkveckor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>During &lt;the last academic year&gt;, did teachers in your school engage in the following forms of professional development related to teaching with &lt;digital resources&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T172631Z" creationid="holemm" creationdate="20231109T172631Z">
+        <seg>Har lärarna på din skola ägnat sig åt följande typer av fortbildning med koppling till undervisning med digitala lärresurser under detta läsår?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To give students advice on how to manage negative emotions related to learning (e.g. frustration, anxiety, boredom)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174541Z" creationid="holemm" creationdate="20231109T174541Z">
+        <seg>Ge eleverna råd om hur de hanterar negativa känslor kopplade till studierna (t.ex. frustration, oro, uttråkning)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>External evaluation: Evaluation as part of a process controlled and headed by an external body.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T112616Z" creationid="holemm" creationdate="20231109T112616Z">
+        <seg>Extern utvärdering: Utvärdering som en del av en process styrd och ledd av en extern organisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Coaching as part of a formal school arrangement</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T173609Z" creationid="holemm" creationdate="20231109T173609Z">
+        <seg>Handledning som organiserats formellt av skolan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The school’s Internet bandwidth or speed is sufficient</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T182954Z" creationid="holemm" creationdate="20231109T151821Z">
+        <seg>Skolans bandbredd eller internethastighet är tillräcklig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Effective professional resources for teachers to learn how to use digital devices are available</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T152727Z" creationid="holemm" creationdate="20231109T152727Z">
+        <seg>Lärarna har tillgång till effektiva yrkesmässiga resurser för att lära sig använda digital utrustning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Establishing teachers’ starting salaries, including setting pay scales</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T171417Z" creationid="holemm" creationdate="20231107T171417Z">
+        <seg>Bestämma lärarnas ingångslön, inklusive bestämma lönetariffer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information about future careers</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Information om framtida yrkesbanor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thinking about the last &lt;g2&gt;external evaluation&lt;/g2&gt; in your school: Did the following occur?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T112529Z" creationid="holemm" creationdate="20231109T112529Z">
+        <seg>Fundera över den senaste &lt;g2&gt;externa utvärderingen&lt;/g2&gt; på din skola: Inträffade något av följande?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers of other subjects (e.g. &lt;history&gt;, &lt;science&gt;)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T153741Z" creationid="holemm" creationdate="20231113T153741Z">
+        <seg>Lärare i andra ämnen (t.ex. historia, NO-ämnen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The use of digital devices is restricted to the computer laboratories.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T171721Z" creationid="holemm" creationdate="20231109T171721Z">
+        <seg>Användningen av digitala enheter är begränsad till särskilda datasalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For students in &lt;national modal grade for 15-year-olds&gt;, does your school provide the following study help?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T123345Z" creationid="holemm" creationdate="20231113T123345Z">
+        <seg>Tillhandahåller din skola följande studiehjälp åt elever i årskurs 9? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not for any subjects</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Inte i några ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>High priority</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174045Z" creationid="holemm" creationdate="20231109T174045Z">
+        <seg>Hög prioritet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Addressing individual students’ needs (e.g. differentiated learning, differentiated instruction)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T135934Z" creationid="holemm" creationdate="20231108T135934Z">
+        <seg>Möjlighet att tillgodose enskilda elevers behov (t.ex. differentierad inlärning, differentierad undervisning)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School science&gt; achievement data are posted publicly (e.g. in the media)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T110731Z" creationid="holemm" creationdate="20231109T110731Z">
+        <seg>Resultat i NO-ämnen anslås offentligt (t.ex. i media)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please select either “yes” or “no” to indicate the use of &lt;standardised tests&gt; and teacher-developed tests for each of the specified purposes.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T114023Z" creationid="holemm" creationdate="20231109T114023Z">
+        <seg>(Välj antingen ”ja” eller ”nej” för att ange användningen av standardiserade prov och lärarutvecklade prov för vart och ett av de angivna skälen.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Disagree</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Håller inte med</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School governing board&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T171044Z" creationid="holemm" creationdate="20231107T171044Z">
+        <seg>Skolans styrelse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>26% to 50%</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240105T163250Z" creationid="holemm" creationdate="20231113T160421Z">
+        <seg>26-50 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Which of the following types of in-house professional development exist for staff who teach &lt;school science&gt; at your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T133519Z" creationid="holemm" creationdate="20231108T133519Z">
+        <seg>Vilka av följande typer av intern fortbildning finns för lärare som undervisar i NO-ämnen på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school invites visitors to speak in &lt;foreign languages²&gt; to students.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T143637Z" creationid="holemm" creationdate="20231113T143637Z">
+        <seg>Vår skola bjuder in gäster för att prata med eleverna på moderna språk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What is your school’s policy about this for students in &lt;national modal grade for 15-year-olds&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T131907Z" creationid="holemm" creationdate="20231108T131907Z">
+        <seg>Hur gör din skola med detta när det gäller elever i årskurs 9? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other non-teaching staff</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Annan ej undervisande personal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>%</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>❦</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="cApStAn" changedate="20250101T020101Z" creationid="cApStAn" creationdate="20250101T020101Z">
+        <seg>❦</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We used the data to plan specific action for the improvement of teaching.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vi använde informationen för att planera specifika åtgärder för att förbättra undervisningen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The school has a specific programme to promote collaboration on the use of digital devices among teachers.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skolan har en särskild utbildning för att främja samarbete kring användandet av digitala enheter bland lärarna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Science teaching staff at your school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T144857Z" creationid="holemm" creationdate="20231108T144857Z">
+        <seg>Lärare i NO-ämnen på din skola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;g2&gt;Include both full-time and part-time teachers.&lt;/g2&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T121505Z" creationid="holemm" creationdate="20231107T121505Z">
+        <seg>&lt;g2&gt;Inkludera både heltidsanställda och deltidsanställda lärare.&lt;/g2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>36-40 students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>36-40 elever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers establish rules for when students may use digital devices during lessons.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Lärarna bestämmer reglerna för när eleverna kan använda digitala enheter under lektionstid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Earth and space&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231003T205050Z" creationid="holemm" creationdate="20231003T205050Z">
+        <seg>Jorden och rymden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Physical injury caused by students to teachers or non-teaching staff</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T123551Z" creationid="holemm" creationdate="20231113T123551Z">
+        <seg>Fysiska skador orsakade av elever på lärare eller annan ej undervisande personal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We use &lt;digital resources&gt; to help low-achieving students catch up with their peers.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T122932Z" creationid="holemm" creationdate="20231113T122932Z">
+        <seg>Vi använder digitala lärresurser för att hjälpa lågpresterande elever komma ikapp sina klasskamrater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How many of the following are on the &lt;school science&gt; staff of your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T121417Z" creationid="holemm" creationdate="20231107T121417Z">
+        <seg>Hur många av följande lärare i NO-ämnen finns på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Students can bring the school’s digital devices home for educational purposes.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T171752Z" creationid="holemm" creationdate="20231109T171752Z">
+        <seg>Eleverna får ta med sig skolans digitala enheter hem för studieändamål.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We used the data to plan specific action for school development.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vi använde informationen för att planera specifika åtgärder för skolans utveckling.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Vandalism</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vandalism</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_SCQ-SchoolQuestionnaire.xml</prop>
+      <prop type="id">SC427_SC427Q0102_06c2cea18679d64399783748fa367bdd_4_0</prop>
+      <tuv xml:lang="en">
+        <seg>One</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240108T120313Z" creationid="Ver_EHJ" creationdate="20240108T120313Z">
+        <seg>Ett</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mandatory &lt;standardised tests&gt;, e.g. &lt;country specific example&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T113015Z" creationid="holemm" creationdate="20231109T113015Z">
+        <seg>Obligatoriska standardiserade prov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are two or more other schools in this area that compete for our students.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>I upptagningsområdet finns ytterligare två eller flera skolor som konkurrerar om våra elever.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What is the average size of &lt;English¹&gt; classes in &lt;national modal grade for 15-year-olds&gt; in your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T144807Z" creationid="holemm" creationdate="20231113T144807Z">
+        <seg>Vilken är den genomsnittliga storleken på klasserna/undervisningsgrupperna i engelska i årskurs 9 i din skola? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Including receptionists, secretaries, and administration assistants</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Inklusive receptionister, sekreterare och administrationsassistenter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Low academic achievement</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Lågt studieresultat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Class size is reduced to cater to the special needs of these students.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T143315Z" creationid="holemm" creationdate="20231107T143315Z">
+        <seg>Dessa elever går i mindre klasser som är utformade för att tillgodose deras specifika behov.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A few times a month</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Några gånger i månaden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To group students for instructional purposes</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>För att dela in eleverna i grupper för undervisningsändamål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To teach students how to use the feedback they receive from teachers</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174318Z" creationid="holemm" creationdate="20231109T174318Z">
+        <seg>Lära eleverna hur de använder den feedback de får från sina lärare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sporting team or sporting activities</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Idrottsförening eller idrottsverksamhet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are the following statements true for the &lt;science department&gt; of your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T141215Z" creationid="holemm" creationdate="20231107T141215Z">
+        <seg>Vilka av följande påståenden stämmer för NO-avdelningen på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Integer number</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T123426Z" creationid="holemm" creationdate="20231107T123426Z">
+        <seg>Heltal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Foreign languages²&gt; (at least one)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T165357Z" creationid="holemm" creationdate="20231109T165357Z">
+        <seg>Moderna språk (minst ett)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;g1&gt;‌</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="cApStAn" changedate="20250101T020101Z" creationid="cApStAn" creationdate="20250101T020101Z">
+        <seg>&lt;g1&gt;‌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thinking about students’ last &lt;school report&gt;: Approximately what percentage of the students in &lt;national modal grade for 15-year-olds&gt; received the following types of &lt;marks&gt; in &lt;school science&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T193909Z" creationid="holemm" creationdate="20231107T193909Z">
+        <seg>Fundera över elevernas senaste betyg: Ungefär vilken procentandel av eleverna i årskurs 9 fick följande betyg i NO? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other language</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Annat språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not very prepared</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Inte särskilt förberedd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To make judgements about teachers’ effectiveness</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>För att göra bedömningar av lärarnas effektivitet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Students who are learning at least one &lt;foreign language²&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T160534Z" creationid="holemm" creationdate="20231113T160534Z">
+        <seg>Elever som studerar minst ett modernt språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>100%</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>100 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Which of the following &lt;school science&gt; courses were available to &lt;national modal grade for 15-year-olds&gt; last school year or this year?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T133943Z" creationid="holemm" creationdate="20231109T120831Z">
+        <seg>Vilka av följande NO-ämnen erbjöds eleverna i årskurs 9 under föregående läsår eller detta läsår? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Marks&gt; below the &lt;pass mark&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T194100Z" creationid="holemm" creationdate="20231107T194100Z">
+        <seg>Betyg under gränsen för godkänd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Likely</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Troligt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please select one response.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>(Välj ett svar.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All other teachers should be considered part-time.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T121624Z" creationid="holemm" creationdate="20231107T121624Z">
+        <seg>Alla andra lärare ska betraktas som deltidsanställda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Marks&gt; at or above the &lt;pass mark&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T193939Z" creationid="holemm" creationdate="20231107T193939Z">
+        <seg>Betyg på eller över gränsen för godkänd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A public school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T142006Z" creationid="holemm" creationdate="20231107T142006Z">
+        <seg>En kommunal skola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My school promotes solutions to environmental issues</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T170826Z" creationid="holemm" creationdate="20231109T170744Z">
+        <seg>På min skola verkar vi för att lösa miljöproblem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Establishing student disciplinary policies and procedures</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Upprätta ordningsregler och rutiner för eleverna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;English¹&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231003T200405Z" creationid="holemm" creationdate="20231003T200405Z">
+        <seg>Engelska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please consider only development activities that staff undertake as part of their work.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T153559Z" creationid="holemm" creationdate="20231113T153559Z">
+        <seg>(Ta bara med fortbildning de anställda deltar i som en del av sitt arbete.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Students bring their own digital devices for learning at school.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T172143Z" creationid="holemm" creationdate="20231109T172143Z">
+        <seg>Eleverna tar med sig sina egna digitala enheter till skolan för studieändamål.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approximately, how many interactive whiteboards are available in the school altogether?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ungefär hur många interaktiva whiteboards (smartboards) finns totalt tillgängliga på skolan?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please select one response in each row.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>(Välj ett svar på varje rad.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_SCQ-SchoolQuestionnaire.xml</prop>
+      <prop type="id">SC168_0798fbbd7612368be47390d752c3987d_15_0</prop>
+      <tuv xml:lang="en">
+        <seg>Including principals, assistant principals, and other staff whose main activity is management</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240116T131711Z" creationid="Ver_EHJ" creationdate="20240116T131711Z">
+        <seg>Inklusive rektorer, biträdande rektorer och annan personal med huvudsakligt ledningsansvar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do the following statements apply to your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Stämmer följande påståenden för din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>‌&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="cApStAn" changedate="20250101T020101Z" creationid="cApStAn" creationdate="20250101T020101Z">
+        <seg>‌&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Observation visits to business premises, public organisations, or non-governmental organisations</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T173548Z" creationid="holemm" creationdate="20231109T173548Z">
+        <seg>Studiebesök hos företag, offentliga eller icke-statliga organisationer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Average time in minutes of a &lt;class period&gt; of &lt;school science&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T173044Z" creationid="holemm" creationdate="20231107T172754Z">
+        <seg>Genomsnittligt antal minuter i en lektion i NO-ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>31-35 students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>31-35 elever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In our school, students are encouraged to communicate remotely (e.g. via &lt;Skype ®&gt; or mail) with people speaking other languages.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T143558Z" creationid="holemm" creationdate="20231113T143558Z">
+        <seg>På vår skola uppmuntras eleverna att kommunicera med personer som talar andra språk (t.ex. via Skype, Google Meet eller e-post).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The school has sufficient qualified technical assistant staff</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T152935Z" creationid="holemm" creationdate="20231109T152935Z">
+        <seg>Skolan har tillräckligt med kvalificerad personal som kan ge teknisk support.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The term &lt;standardised tests&gt; includes standardised mandatory tests (mandated e.g. by national, state or district authorities) as well as standardised non-mandatory tests (e.g. publicly or commercially available standardised test material).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T114753Z" creationid="holemm" creationdate="20231109T114648Z">
+        <seg>Termen standardiserade prov inkluderar standardiserade obligatoriska prov (på uppdrag av nationella, regionala eller kommunala myndigheter) liksom standardiserade icke-obligatoriska prov (t.ex. offentligt eller kommersiellt tillgängligt standardiserat provmaterial).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information about internships</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Information om praktik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Online courses/seminars (e.g. MOOCs, webinars)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T172942Z" creationid="holemm" creationdate="20231109T172942Z">
+        <seg>Kurser/-seminarier på internet (t.ex. MOOC:ar, webbinarier)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School science&gt; achievement data are provided directly to parents or guardians</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T111024Z" creationid="holemm" creationdate="20231109T111024Z">
+        <seg>Resultat i NO-ämnen tillhandahålls direkt till föräldrar eller vårdnadshavare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please enter a number in each space provided.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T123301Z" creationid="holemm" creationdate="20231107T122110Z">
+        <seg>(Skriv rätt antal i rutorna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Taking actions to ensure that teachers take responsibility for improving their teaching skills</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vidta åtgärder för att garantera att lärarna tar ansvar för att förbättra sina undervisningsfärdigheter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Nej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invited parents or guardians to volunteer for school activities</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Bjudit in föräldrar eller vårdnadshavare att arbeta frivilligt med skolans aktiviteter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Art club or art activities</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Konstförening eller konstnärliga aktiviteter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers establish rules in collaboration with students about their use of &lt;digital resources&gt; at school or in class.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T193315Z" creationid="holemm" creationdate="20231107T193315Z">
+        <seg>Lärarna bestämmer reglerna i samarbete med eleverna kring deras användande av digitala verktyg i skolan eller under lektionstid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Remedial English¹ lessons &gt; are sought voluntarily by students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T154240Z" creationid="holemm" creationdate="20231113T153823Z">
+        <seg>Stödundervisning i engelska efterfrågas frivilligt av eleverna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The number of digital devices for instruction is sufficient</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T182958Z" creationid="holemm" creationdate="20231109T151850Z">
+        <seg>Antalet digitala enheter för undervisning är tillräckligt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About what percentage of your total funding for a typical school year comes from the following sources?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ungefär hur stor andel i procent av den totala budgeten under ett normalt skolår kommer från följande källor?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please count only those teachers who have taught or will teach &lt;school science&gt; during the current school year.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T121843Z" creationid="holemm" creationdate="20231107T121843Z">
+        <seg>Räkna enbart de lärare som har undervisat eller kommer att undervisa i NO-ämnen under det här läsåret.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The laboratory materials are in good shape.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T141536Z" creationid="holemm" creationdate="20231107T141536Z">
+        <seg>Laboratoriematerialen är i gott skick.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School science&gt; pedagogy/instruction</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T134558Z" creationid="holemm" creationdate="20231108T134558Z">
+        <seg>Pedagogik/undervisning inom NO-ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In any &lt;foreign language²&gt; (including &lt;English²&gt;)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T160721Z" creationid="holemm" creationdate="20231113T160721Z">
+        <seg>På något modernt språk (inräknat engelska)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>High academic achievement</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Högt studieresultat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers have sufficient time to prepare lessons integrating digital devices</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T152604Z" creationid="holemm" creationdate="20231109T152604Z">
+        <seg>Lärarna har tillräckligt med tid att förbereda lektioner där digital utrustning används.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school supports activities that encourage students’ expression of diverse identities (e.g. national, religious, ethnic or social identities).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T194109Z" creationid="holemm" creationdate="20231113T143921Z">
+        <seg>Vår skola stödjer aktiviteter som uppmuntrar eleverna att ge uttryck för olika identiteter (t.ex. nationella, religiösa, etniska eller sociala identiteter).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please move the slider to the appropriate percentage.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T174153Z" creationid="holemm" creationdate="20231108T144718Z">
+        <seg>(Flytta reglaget till rätt procentandel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Band, orchestra or choir</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skolband, skolorkester eller skolkör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A town (15 000 to about 100 000 people)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Större tätort (15 000 till ungefär 100 000 invånare)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>During the last three months, what percentage of teaching staff in your school has attended a programme of professional development?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Hur stor andel av lärarna i din skola har under de tre senaste månaderna deltagit i fortbildning?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The school has a policy on how to use &lt;digital devices&gt; in science instruction (e.g. amount of computer use in science lessons, use of specific scientific computer programs).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T141105Z" creationid="holemm" creationdate="20231109T141105Z">
+        <seg>Skolan har en policy för hur digitala verktyg ska användas inom NO-undervisningen (t.ex. omfattningen av datoranvändning under lektionerna i NO-ämnen, användningen av specifika datorprogram för naturvetenskap).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What is the average size of &lt;test language&gt; classes in &lt;national modal grade for 15-year-olds&gt; in your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T192223Z" creationid="holemm" creationdate="20231107T192223Z">
+        <seg>Vilken är den genomsnittliga storleken på klasserna/undervisningsgrupperna i svenska i årskurs 9 i din skola? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These tests are consistent in design, content, administration and scoring.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T114703Z" creationid="holemm" creationdate="20231109T114703Z">
+        <seg>Dessa prov är konsekventa i utformning, innehåll, administration och poängsättning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Courses in this subject are not available</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T165316Z" creationid="holemm" creationdate="20231109T165316Z">
+        <seg>Det finns inga kurser i detta ämne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learning at least one &lt;foreign language²&gt; is compulsory in &lt;national modal grade for 15-year-olds&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T170706Z" creationid="holemm" creationdate="20231107T143929Z">
+        <seg>Det är obligatoriskt att läsa minst ett modernt språk i årskurs 9. Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Monthly</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Varje månad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An effective online learning support platform is available</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T152824Z" creationid="holemm" creationdate="20231109T152824Z">
+        <seg>Det finns en effektiv stödplattform för onlineinlärning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School Science&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T165324Z" creationid="holemm" creationdate="20231109T165324Z">
+        <seg>NO-ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Does not apply</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ej tillämpligt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Science teachers in the school follow a standardised curriculum that specifies content at least on a monthly basis.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T141234Z" creationid="holemm" creationdate="20231109T141234Z">
+        <seg>Lärarna i NO-ämnen på skolan följer en standardiserad läroplan som specificerar innehållet på åtminstone månatlig basis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About once or twice a year</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ungefär en eller två gånger om året</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conferences delivered by researchers, teachers or other professionals</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T173223Z" creationid="holemm" creationdate="20231109T173223Z">
+        <seg>Konferenser som anordnas av forskare, lärare eller andra yrkespersoner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formulating the school budget</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Besluta om skolans budget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To what extent is each of the following behaviours a problem in your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>I vilken omfattning är vart och ett av följande beteenden ett problem på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school organises in-service workshops, which deal with specific issues that our &lt;school science&gt; teachers face.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T133812Z" creationid="holemm" creationdate="20231108T133557Z">
+        <seg>Vår skola organiserar interna workshops som tar upp specifika frågor som våra lärare i NO-ämnen ställs inför.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>School administrative personnel</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skolans administrativa personal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231011T145923Z" creationid="holemm" creationdate="20231011T145923Z">
+        <seg>Italienska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do the following statements on compulsory language learning apply to your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T143555Z" creationid="holemm" creationdate="20231107T143555Z">
+        <seg>Stämmer följande påståenden om obligatorisk språkundervisning för din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Strongly disagree</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Håller absolut inte med</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Standardised-tests&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240116T124438Z" creationid="Ver_EHJ" creationdate="20240116T124438Z">
+        <seg>Standardiserade prov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Moderate extent</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>I måttlig utsträckning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Learning &lt;English²&gt; is compulsory in &lt;national modal grade for 15-year-olds&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T170720Z" creationid="holemm" creationdate="20231107T143957Z">
+        <seg>Det är obligatoriskt att läsa engelska i årskurs 9. Om du arbetar på en gymnasieskola avser frågan årskurs 1. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>With respect to the PISA test in your school, have you done any of the following?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Har du gjort något av följande på din skola med anledning av PISA-provet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Parents’ or guardians’ request</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Föräldrars eller vårdnadshavares begäran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>External evaluation</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Extern utvärdering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Government (includes departments, local, regional, state and national)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Stat och kommun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In &lt;English²&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T160804Z" creationid="holemm" creationdate="20231113T160804Z">
+        <seg>På engelska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>41-45 students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>41-45 elever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Career guidance is sought voluntarily by students.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Studie- och yrkesvägledning efterfrågas frivilligt av eleverna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>German</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231011T145914Z" creationid="holemm" creationdate="20231011T145914Z">
+        <seg>Tyska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A policy refers to established rules or procedures.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>En policy refererar till fastställda regler eller förfaranden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My school encourages teachers to demonstrate or do experiments to explain environmental issues</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T170639Z" creationid="holemm" creationdate="20231109T170639Z">
+        <seg>På min skola uppmuntras lärarna att demonstrera eller göra experiment för att förklara miljöfrågor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes, based on school initiative</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ja, på initiativ av skolan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Integrating digital resources into &lt;school science&gt; instruction</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T114513Z" creationid="holemm" creationdate="20231113T114513Z">
+        <seg>Integration av digitala verktyg i undervisningen i NO-ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Enrichment&gt; only</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T142940Z" creationid="holemm" creationdate="20231109T142940Z">
+        <seg>Enbart extra fördjupning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To monitor the school’s progress from year to year</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>För att följa skolans framsteg från år till år</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What is the purpose of these additional &lt;school science&gt; lessons?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T142831Z" creationid="holemm" creationdate="20231109T142831Z">
+        <seg> Vad är syftet med dessa extralektioner i NO-ämnen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No &lt;foreign languages²&gt; are offered in my school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T163946Z" creationid="holemm" creationdate="20231109T163946Z">
+        <seg>På min skola erbjuds inga moderna språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Environmental protection activities</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T142318Z" creationid="holemm" creationdate="20231109T142318Z">
+        <seg>Miljöskyddande aktiviteter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Staff help with homework</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Personal som hjälper till med läxor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Agree</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Håller med</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We are interested in the options parents or guardians have when choosing a school for their children.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vi är intresserade av föräldrars eller vårdnadshavares möjligheter att välja skola åt sina barn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do the following statements apply in your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Gäller följande påståenden på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If none of your teachers participated in any professional development activities select “0” (zero).)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T144745Z" creationid="holemm" creationdate="20231108T144745Z">
+        <seg>Om ingen lärare deltog i någon fortbildning svarar du &quot;0&quot; (noll).)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Providing parents or guardians with information on the school and student performance</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Förse föräldrar eller vårdnadshavare med information om skolan och elevens prestationer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To what extent do you agree or disagree with the following statements about your school’s purposes to teach using &lt;digital resources&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240108T124614Z" creationid="holemm" creationdate="20231113T122309Z">
+        <seg>I vilken utsträckning håller du med om följande påståenden om skolans syfte med att använda digitala lärresurser i undervisningen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We have enough laboratory material that all courses can regularly use it.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T141553Z" creationid="holemm" creationdate="20231107T141553Z">
+        <seg>Vi har tillräckligt mycket laboratoriematerial för att alla klasser ska kunna använda det regelbundet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My school encourages the use of a range of source materials (e.g., documentaries, articles) to discuss environmental issues in class</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T170723Z" creationid="holemm" creationdate="20231109T170723Z">
+        <seg>På min skola uppmuntras användningen av olika källmaterial (t.ex. dokumentärer, artiklar) för att diskutera miljöfrågor på lektionerna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It changes across the programmes offered by the school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T143740Z" creationid="holemm" creationdate="20231107T143740Z">
+        <seg>Det varierar för de olika programmen som skolan erbjuder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deciding which courses are offered</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Bestämma om vilka kurser som ska erbjudas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_FLASCQ-FLASchoolQuestionnaires.xml</prop>
+      <prop type="id">SC482FL_SC482FLQ01_6adf97f83acf6453d4a6a4b1070f3754_3_0</prop>
+      <tuv xml:lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T155242Z" creationid="holemm" creationdate="20231113T155242Z">
+        <seg>Inget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For some subjects</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>I vissa ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Students have to share a digital device in the classroom because there are not enough devices for each student.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T171503Z" creationid="holemm" creationdate="20231109T171503Z">
+        <seg>Eleverna måste dela på digitala enheter i klassen eftersom det inte finns tillräckligt många för varje elev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please consider regular lessons as well as other learning activities offered by the school.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T154403Z" creationid="holemm" creationdate="20231109T154403Z">
+        <seg>(Ta med såväl vanliga lektioner som andra undervisningsaktiviteter som erbjuds av skolan).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>26-30 students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>26-30 elever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;English¹&gt; teachers (teachers teaching &lt;English¹&gt; as well as other &lt;modern foreign languages1&gt; should be counted as &lt;English¹&gt; teachers).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T155727Z" creationid="holemm" creationdate="20231113T155727Z">
+        <seg>Lärare i engelska (lärare som undervisar i engelska samt i andra moderna språk ska räknas som lärare i engelska).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes, some of them</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T153642Z" creationid="holemm" creationdate="20231113T153642Z">
+        <seg>Ja, en del av dem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In your school, how likely is it that a student in &lt;national modal grade for 15-year-olds&gt; would be transferred to another school for the following reasons?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T170337Z" creationid="holemm" creationdate="20231107T170337Z">
+        <seg>Hur troligt är det på din skola att en elev i årskurs 9 kommer att flyttas till en annan skola av följande skäl? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School science&gt; curriculum</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T135538Z" creationid="holemm" creationdate="20231108T135139Z">
+        <seg>Kursplaner för NO-ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The school does not define the areas which are judged.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T112250Z" creationid="holemm" creationdate="20231109T112250Z">
+        <seg>Skolan definierar inte vilka områden som ska bedömas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Special learning needs</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Behov av särskilt undervisningsstöd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The use of &lt;cell phones&gt; is not allowed on the school premises.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T193126Z" creationid="holemm" creationdate="20231107T193126Z">
+        <seg>Användning av mobiltelefoner är inte tillåten i skolans lokaler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approximately, how many data projectors are available in the school altogether?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ungefär hur många dataprojektorer finns totalt tillgängliga på skolan?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_SCQ-SchoolQuestionnaire.xml</prop>
+      <prop type="id">SC262_3c7642b81809102ff2377d663da4f2cf_2_0</prop>
+      <tuv xml:lang="en">
+        <seg>(Please think of different kinds of digital devices such as for example desktop computers, portable laptops and tablet computers.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T171416Z" creationid="holemm" creationdate="20231109T171416Z">
+        <seg>(Tänk på olika digitala enheter som t.ex. stationära datorer, bärbara datorer och surfplattor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We don’t have this type of staff member</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240116T122425Z" creationid="Ver_EHJ" creationdate="20240116T122425Z">
+        <seg>Vi har inte den här typen av anställda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approximately, how many desktop or laptop computers with internet connection are available &lt;g1&gt;for teachers&lt;/g1&gt; &lt;g2&gt;in your school&lt;/g2&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T165714Z" creationid="holemm" creationdate="20231107T165714Z">
+        <seg>Ungefär hur många stationära eller bärbara datorer med internetuppkoppling finns tillgängliga &lt;g1&gt;för lärare&lt;/g1&gt; &lt;g2&gt;på din skola&lt;/g2&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Which of the following types of in-house professional development exist at your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vilka av följande typer av intern fortbildning förekommer på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What priority is given to the following objectives of teaching at your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174017Z" creationid="holemm" creationdate="20231109T174017Z">
+        <seg>Vilken prioritet ges till följande undervisningsmål på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Students are grouped by ability into different classes.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Eleverna grupperas efter förmåga i olika klasser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Average minutes in a &lt;class period&gt; across all subjects, including &lt;school science&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T172930Z" creationid="holemm" creationdate="20231107T172930Z">
+        <seg>Genomsnittligt antal minuter i en lektion i alla ämnen, inklusive NO-ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please select all that apply.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>(Välj alla som passar in.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To teach students how to give feedback to each other as part of group work</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174559Z" creationid="holemm" creationdate="20231109T174559Z">
+        <seg>Lära eleverna hur de ger varandra feedback som del av grupparbete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A private school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T142213Z" creationid="holemm" creationdate="20231107T142213Z">
+        <seg>En fristående skola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Is your school’s capacity to provide instruction hindered by any of the following issues?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T163509Z" creationid="holemm" creationdate="20231107T163509Z">
+        <seg>Utgör något av följande ett hinder för din skolas möjligheter att bedriva undervisning?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formal qualification programmes (e.g. a degree programme)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T173321Z" creationid="holemm" creationdate="20231109T173321Z">
+        <seg>Formella utbildningprogram (t.ex. program som leder till en examen)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Benefactors, donations, bequests, sponsorships, parent or guardian fundraising</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Donatorer, sponsorer, legat, gåvor eller insamlingar från föräldrar eller vårdnadshavare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chemistry</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231003T205016Z" creationid="holemm" creationdate="20231003T205016Z">
+        <seg>Kemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Volunteering or service activities, e.g. &lt;national examples&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T141522Z" creationid="holemm" creationdate="20231109T141522Z">
+        <seg>Frivilliga hjälpinsatser t.ex. Operation Dagsverke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In which &lt;foreign languages²&gt; can students learn subjects other than languages (e.g. &lt;history, science&gt;) in your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T154738Z" creationid="holemm" creationdate="20231113T154738Z">
+        <seg>På vilka moderna språk kan elever lära sig andra ämnen än språk (t.ex. historia, NO-ämnen) på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Without differentiation depending on the prior achievement level of the students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Utan differentiering med utgångspunkt från elevernas tidigare prestationsnivå</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Behavioural problems</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Uppförandeproblem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The school has a specific programme to prepare students for responsible internet behaviour.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skolan har en särskild utbildning för att förbereda eleverna på ett ansvarsfullt uppträdande på internet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To make decisions about students’ retention or promotion</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>För att fatta beslut om eleven ska gå om en årskurs eller avancera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are the following practices for multicultural and multilingual learning implemented in your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T143100Z" creationid="holemm" creationdate="20231113T143100Z">
+        <seg>Bedrivs följande undervisningsaktiviteter för att främja mångkulturellt och flerspråkigt lärande på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We use &lt;digital resources&gt; to track students’ progress.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T122850Z" creationid="holemm" creationdate="20231113T122850Z">
+        <seg>Vi använder digitala lärresurser för att följa elevernas framsteg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The school has a written statement about the general use of digital devices on the school premises.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skolan har en skriftlig policy om den allmänna användningen av digitala enheter i skolans lokaler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers are provided with incentives to integrate digital devices in their teaching</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T191612Z" creationid="holemm" creationdate="20231109T152904Z">
+        <seg>Det finns incitament för att lärarna ska integrera digital utrustning i sin undervisning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Included parents or guardians in making school decisions</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Inkluderat föräldrar eller vårdnadshavare i skolans beslut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Written specification of student performance standards</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skriftlig dokumentation av elevernas prestationer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We put measures derived from the results of external evaluations into practice.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vi implementerade åtgärder hämtade ur resultaten från den externa utvärderingen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Number</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Antal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We use &lt;digital resources&gt; to engage high-achieving students.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T122953Z" creationid="holemm" creationdate="20231113T122953Z">
+        <seg>Vi använder digitala lärresurser för att engagera högpresterande elever.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The results of external evaluation led to changes in school policies.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Resultaten från den externa utvärderingen har lett till ändringar av skolans riktlinjer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school organises in-service workshops which deal with specific issues that our school faces.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vår skola organiserar interna workshops som tar upp specifika frågor som vår skola ställs inför.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Students who are learning &lt;English²&gt; and other &lt;foreign languages²&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T160501Z" creationid="holemm" creationdate="20231113T160501Z">
+        <seg>Elever som studerar engelska och andra moderna språk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Providing feedback to teachers based on observations of instruction in the classroom</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ge feedback till lärare baserat på observationer av undervisningen i klassrummet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Generally, in your school, how often are students &lt;in national modal grade for 15-year-olds&gt; assessed using the following methods?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T112837Z" creationid="holemm" creationdate="20231109T112837Z">
+        <seg>Hur ofta bedöms elever i årskurs 9 i allmänhet med hjälp av följande metoder? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We use &lt;digital resources&gt; to provide personalised learning opportunities.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T122645Z" creationid="holemm" creationdate="20231113T122645Z">
+        <seg>Vi använder digitala lärresurser för att tillhandahålla personanpassade möjligheter till inlärning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One or more specific career guidance counsellors who regularly &lt;g1&gt;visit&lt;/g1&gt; the school have the main responsibility for career guidance.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T135233Z" creationid="holemm" creationdate="20231109T135233Z">
+        <seg>En eller flera specifika studie- och yrkesvägledare som regelbundet &lt;g1&gt;besöker&lt;/g1&gt; skolan har huvudansvaret för studie- och yrkesvägledningen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Does your school apply the following type of policy or rule for students in &lt;national modal grade for 15-year-olds&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T172252Z" creationid="holemm" creationdate="20231109T171316Z">
+        <seg>Tillämpar din skola följande typ av policy eller regel för elever i årskurs 9? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Two</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Två</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In your school, are &lt;standardised tests&gt; and/or teacher-developed tests of students in &lt;national modal grade for 15-year-olds&gt; used for any of the following purposes?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T113851Z" creationid="holemm" creationdate="20231109T113851Z">
+        <seg>Används standardiserade prov och/eller lärarutvecklade prov till elever i årskurs 9 på din skola av något av följande skäl? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>School yearbook, newspaper or magazine</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skolårsbok, skoltidning eller skoltidskrift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not applicable</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ej tillämpligt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lack of &lt;digital resources&gt; (e.g. desktop or laptop computers, internet access, learning management systems or school learning platforms)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T163821Z" creationid="holemm" creationdate="20231107T163821Z">
+        <seg>En brist på digitala verktyg (t.ex. stationära eller bärbara datorer, tillgång till internet, system för undervisningshantering eller skolplattformar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before transferring to regular classes, these students attend a preparatory programme aimed at developing &lt;test language&gt; skills (e.g. reading literacy, grammar, vocabulary, communication).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T143147Z" creationid="holemm" creationdate="20231107T143147Z">
+        <seg>Innan de flyttas över till vanliga klasser går dessa elever i förberedelseklass för att utveckla sina kunskaper i svenska (t.ex. läsning, grammatik, ordförråd, kommunikation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Does your school offer professional development to &lt;school science&gt; teachers in any of the following areas?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T134510Z" creationid="holemm" creationdate="20231108T134510Z">
+        <seg>Erbjuder din skola fortbildning för lärare i NO-ämnen i något av följande?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>French</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231011T145819Z" creationid="holemm" creationdate="20231011T145819Z">
+        <seg>Franska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inadequate or poor quality educational material (e.g., textbooks, IT equipment, library or laboratory material)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T163704Z" creationid="holemm" creationdate="20231107T163704Z">
+        <seg>Bristfälligt eller otillräckligt undervisningsmaterial (t.ex. läroböcker, it-utrustning, bibliotek eller laboratoriematerial).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There is one other school in this area that competes for our students.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>I upptagningsområdet finns ytterligare en skola som konkurrerar om våra elever.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>School play or school musical</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skolpjäs eller skolmusikal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I have shared information about the PISA test administration with the parents or guardians of students at my school.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T170210Z" creationid="holemm" creationdate="20231107T120502Z">
+        <seg>Jag har delat information om genomförandet av PISA-provet med föräldrar eller vårdnadshavare till eleverna på min skola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers &lt;fully certified&gt; by &lt;the appropriate authority&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T155424Z" creationid="holemm" creationdate="20231107T155424Z">
+        <seg>Lärare med lärarlegitimation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Very well prepared</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Mycket väl förberedd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Each student is provided with a digital device to use at school.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T171431Z" creationid="holemm" creationdate="20231109T171431Z">
+        <seg>Varje elev får en digital enhet att använda i skolan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I have shared information about the PISA test administration with the staff at my school.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T120031Z" creationid="holemm" creationdate="20231107T120031Z">
+        <seg>Jag har delat information om genomförandet av PISA-provet med personalen på min skola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers or members of &lt;school management team&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T170951Z" creationid="holemm" creationdate="20231107T170951Z">
+        <seg>Lärare eller medlemmar i skolans ledningsgrupp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Profanity</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Svordomar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;National or federal authority&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T171210Z" creationid="holemm" creationdate="20231107T171210Z">
+        <seg>Statlig myndighet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lack of educational material (e.g., textbooks, IT equipment, library or laboratory material)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T163634Z" creationid="holemm" creationdate="20231107T163634Z">
+        <seg>Brist på undervisningsmaterial (t.ex. läroböcker, it-utrustning, bibliotek eller laboratoriematerial).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Remedial English¹ lessons &gt; are compulsory for the students taking them</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T154336Z" creationid="holemm" creationdate="20231113T153941Z">
+        <seg>Stödundervisning i engelska är obligatorisk för de elever som deltar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Both &lt;remedial lessons&gt; and &lt;enrichment activities&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T141754Z" creationid="holemm" creationdate="20231113T141754Z">
+        <seg>Både stödundervisning och extra fördjupning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Five</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Fem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How strongly do you agree with the following statements?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231003T164625Z" creationid="holemm" creationdate="20231003T164625Z">
+        <seg>Hur mycket håller du med om följande påståenden?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All teachers share the responsibility for career guidance.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Alla lärare delar ansvaret för studie- och yrkesvägledningen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school invites specialists to conduct in-service training for teachers.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vår skola bjuder in specialister för att genomföra intern fortbildning för lärarna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To inform parents or guardians about their child’s progress</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>För att informera föräldrar eller vårdnadshavare om barnets framsteg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About once or twice a month</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ungefär en eller två gånger i månaden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Regional or state authority&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T171156Z" creationid="holemm" creationdate="20231107T171156Z">
+        <seg>Regional eller länsmyndighet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Implementation of a standardised policy for &lt;school science&gt; subjects (i.e. school curriculum with shared instructional materials accompanied by staff development and training)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T111620Z" creationid="holemm" creationdate="20231109T111620Z">
+        <seg>Implementering av en standardiserad policy för NO-ämnena (dvs. skolans läroplan med gemensamma läromedel tillsammans med personalutveckling och fortbildning)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Intimidation or verbal abuse among students (including texting, emailing, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Hot eller verbala kränkningar bland eleverna (inklusive sms, e-post, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information about future educational opportunities</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Information om framtida utbildningsmöjligheter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Total</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Totalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231011T145933Z" creationid="holemm" creationdate="20231011T145933Z">
+        <seg>Ryska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school organises in-service workshops for specific &lt;school science&gt; teachers (e.g. newly appointed teachers).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T102134Z" creationid="holemm" creationdate="20231108T133605Z">
+        <seg>Vår skola organiserar interna workshops för specifika lärare i NO-ämnen (t.ex. nyanställda lärare).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Does your school offer career guidance to students in &lt;national modal grade for 15-year-olds&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T134918Z" creationid="holemm" creationdate="20231109T134918Z">
+        <seg>Erbjuder din skola studie- och yrkesvägledning till elever i årskurs 9? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Every day or almost every day</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Varje dag eller nästan varje dag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How many of the following teachers are on the staff of your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Hur många av följande lärare ingår i personalen på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Standardised tests&gt; are consistent in design, content, administration, and scoring.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T115024Z" creationid="holemm" creationdate="20231109T113723Z">
+        <seg>Standardiserade prov är konsekventa när det gäller utformning, innehåll, administration och poängsättning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;English¹&gt; teachers</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T153648Z" creationid="holemm" creationdate="20231113T153648Z">
+        <seg>Lärare i engelska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Collaborating with teachers to solve classroom discipline problems</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Samarbeta med lärare för att lösa disciplinproblem i klassrummet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lack of resources for &lt;English¹&gt; &lt;enrichment&gt; language activities</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T151609Z" creationid="holemm" creationdate="20231113T151609Z">
+        <seg>Brist på resurser för aktiviteter för extra fördjupning i engelska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At your school, what is the total number of students in the &lt;national modal grade for 15-year-olds&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T165110Z" creationid="holemm" creationdate="20231107T165110Z">
+        <seg>Hur många elever finns i årskurs 9 vid din skola? Om du arbetar vid en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School science&gt; assessment</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T135511Z" creationid="holemm" creationdate="20231108T135511Z">
+        <seg>Bedömning av NO-ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To support students’ capacity to plan, monitor and evaluate their learning</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174151Z" creationid="holemm" creationdate="20231109T174151Z">
+        <seg>Stötta elevernas förmåga att planera, följa upp och utvärdera sin inlärning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Observing instruction in the classroom</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T171938Z" creationid="holemm" creationdate="20231107T171938Z">
+        <seg>Observera undervisning i klassrummet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>15 students or fewer</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>15 elever eller färre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choosing which learning materials are used</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Välja vilka läromedel som ska användas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It depends on the programme offered by the school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T112619Z" creationid="holemm" creationdate="20231113T112619Z">
+        <seg>Det varierar för de olika programmen som skolan erbjuder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Appointing or hiring teachers</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Utse eller anställa lärare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In &lt;school science&gt; my school teaches environmental issues as a topic</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T120057Z" creationid="holemm" creationdate="20231113T115508Z">
+        <seg>Inom NO-ämnena utbildar min skola om miljöfrågor som ett särskilt ämne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lack of teaching materials and pedagogical resources</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T145848Z" creationid="holemm" creationdate="20231113T145848Z">
+        <seg>Brist på läromedel och pedagogiska resurser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Systematic recording of student test results and graduation rates</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Systematisk dokumentation av elevers provresultat och examinationsgrad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dismissing or suspending teachers from employment</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Avskeda eller stänga av lärare från anställning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Reading test language&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T165334Z" creationid="holemm" creationdate="20231109T165334Z">
+        <seg>Svenska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please consider that non-teaching staff may fall into multiple categories.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>(Tänk på att övrig personal kan ingå i flera olika kategorier.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Enrichment activities&gt; only</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T141615Z" creationid="holemm" creationdate="20231113T141615Z">
+        <seg>Enbart extra fördjupning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My school formally assesses students’ knowledge of environmental issues</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T171018Z" creationid="holemm" creationdate="20231109T171018Z">
+        <seg>På min skola bedöms elevernas kunskaper om miljöfrågor formellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Full-time</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Heltid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school organises in-service workshops for specific groups of teachers (e.g. newly appointed teachers).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vår skola organiserar interna workshops för specifika grupper av lärare (t.ex. nyanställda lärare).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Local or municipal authority&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T171138Z" creationid="holemm" creationdate="20231107T171138Z">
+        <seg>Lokal eller kommunal myndighet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers of other &lt;modern foreign languages¹&gt; (except &lt;English¹&gt;)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T153707Z" creationid="holemm" creationdate="20231113T153707Z">
+        <seg>Lärare i andra moderna språk (förutom engelska)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inadequate or poorly qualified assisting staff</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T163553Z" creationid="holemm" creationdate="20231107T163553Z">
+        <seg>Bristfälligt eller otillräckligt kvalificerad stödpersonal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Which of the following statements best describes the schooling available to students in your location?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vilket av följande alternativ beskriver bäst den skolundervisning som är tillgänglig för eleverna på din ort?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approximately, how many of these desktop, laptop or computers are connected to the Internet?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T165134Z" creationid="holemm" creationdate="20231107T165134Z">
+        <seg>Ungefär hur många av dessa stationära eller bärbara datorer är anslutna till internet?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lack of resources for remote &lt;English¹&gt; teaching and learning</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T152307Z" creationid="holemm" creationdate="20231113T152307Z">
+        <seg>Brist på resurser när det gäller undervisning och inlärning i engelska på distans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Does your school provide the following types of information to students in &lt;national modal grade for 15-year-olds&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T135638Z" creationid="holemm" creationdate="20231109T135638Z">
+        <seg>Tillhandahåller skolan följande typer av information till elever i årskurs 9? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We use &lt;digital resources&gt; to enhance students’ capacity to work in groups.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T122719Z" creationid="holemm" creationdate="20231113T122719Z">
+        <seg>Vi använder digitala lärresurser för att förbättra elevernas förmåga att arbeta i grupp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To award certificates to students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>För att ge diplom till elever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>16-20 students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>16-20 elever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are the following subjects required or optional for students in &lt;national modal grade for 15-year-olds&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T112214Z" creationid="holemm" creationdate="20231109T165001Z">
+        <seg>Är följande ämnen obligatoriska eller valfria för elever som går i årskurs 9? Om du arbetar på en gymnasieskola avser frågan årskurs 1. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_FLASCQ-FLASchoolQuestionnaires.xml</prop>
+      <prop type="id">SC174FL_SC174FLQ0101_6adf97f83acf6453d4a6a4b1070f3754_3_0</prop>
+      <tuv xml:lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240105T163015Z" creationid="Ver_EHJ" creationdate="20240105T163015Z">
+        <seg>Inga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Never</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Aldrig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A programme of professional development here is a formal programme designed to enhance teaching skills or pedagogical practices.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T144518Z" creationid="holemm" creationdate="20231108T144518Z">
+        <seg>Fortbildning är ett formellt program som är utformat för att förbättra undervisningsförmågan eller de pedagogiska färdigheterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As of &lt;February 1, 2025&gt;, what was the total school enrolment (number of students)?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T150311Z" creationid="holemm" creationdate="20231107T150311Z">
+        <seg>Hur många elever totalt var inskrivna vid skolan den 1 februari 2024?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231011T145927Z" creationid="holemm" creationdate="20231011T145927Z">
+        <seg>Japanska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teacher peer review (of lesson plans, assessment instruments, lessons)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Lärarkollegors granskning (av lektionsplaner, bedömningsinstrument, lektioner)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school spends extra money on up-to-date &lt;school science&gt; equipment.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T141735Z" creationid="holemm" creationdate="20231107T141735Z">
+        <seg>Vår skola lägger extrapengar på modern NO-utrustning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Results can be compared across students and schools.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T113600Z" creationid="holemm" creationdate="20231109T113600Z">
+        <seg>Resultaten kan jämföras mellan elever och skolor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To enhance students’ capacity to learn on their own</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174124Z" creationid="holemm" creationdate="20231109T174124Z">
+        <seg>Stärka elevernas förmåga att lära sig på egen hand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resolving problems with the lesson timetable in this school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T172309Z" creationid="holemm" creationdate="20231107T172309Z">
+        <seg>Åtgärda problem med schemat för den här skolan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>External school evaluation: Evaluation as part of a process controlled and headed by an external body.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T112142Z" creationid="holemm" creationdate="20231109T112142Z">
+        <seg>Extern utvärdering: Utvärdering som en del av en process styrd och ledd av en extern organisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We use &lt;digital resources&gt; to strengthen students’ skills to learn on their own.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T122542Z" creationid="holemm" creationdate="20231113T122542Z">
+        <seg>Vi använder digitala lärresurser för att stärka elevernas förmåga att lära sig på egen hand.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In your school, what percentage of &lt;national modal grade for 15-year-olds&gt; students learn subjects other than &lt;modern foreign languages¹&gt; (e.g. &lt;history, science&gt;) in the following &lt;foreign languages²&gt; ?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240105T163504Z" creationid="holemm" creationdate="20231113T160712Z">
+        <seg>Hur stor andel av eleverna i årskurs 9 i procent studerar andra ämnen än moderna språk (t.ex. historia, NO-ämnen) på följande moderna språk på din skola för närvarande? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_FLASCQ-FLASchoolQuestionnaires.xml</prop>
+      <prop type="id">SC174FL_SC174FLQ0102_06c2cea18679d64399783748fa367bdd_4_0</prop>
+      <tuv xml:lang="en">
+        <seg>One</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240105T163026Z" creationid="Ver_EHJ" creationdate="20240105T163026Z">
+        <seg>Ett</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Initiated communications with parents or guardians about school programmes</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Initierat samtal med föräldrar eller vårdnadshavare om organiserade skolaktiviteter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;English¹&gt; teaching staff with inadequate &lt;English²&gt; language proficiency</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T145351Z" creationid="holemm" creationdate="20231113T145351Z">
+        <seg>Lärare i engelska som saknar tillräckliga kunskaper i engelska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>There are no other schools in this area that compete for our students.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>I upptagningsområdet finns inga andra skolor som konkurrerar om våra elever.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please enter a number for each response.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T171817Z" creationid="holemm" creationdate="20231107T145758Z">
+        <seg>(Skriv en siffra för varje svar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers in TOTAL</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>TOTALT antal lärare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cheating</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T123237Z" creationid="holemm" creationdate="20231113T123237Z">
+        <seg>Fusk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>46-50 students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>46-50 elever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Including psychologists, nurses, and counsellors</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T162935Z" creationid="holemm" creationdate="20231107T162935Z">
+        <seg>Inklusive psykologer, skolsköterskor och kuratorer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The programme must last for at least one day in total and have a focus on teaching and education.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T144710Z" creationid="holemm" creationdate="20231108T144710Z">
+        <seg>Programmet måste totalt vara i åtminstone en dag och måste vara inriktat på undervisning och utbildning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>During &lt;the last academic year&gt;, have any of the following methods been used to monitor the practice of teachers at your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T115311Z" creationid="holemm" creationdate="20231109T115311Z">
+        <seg>Har någon av följande metoder använts för att observera lärarnas undervisning på din skola under detta läsår?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To identify aspects of instruction or the curriculum that could be improved</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>För att identifiera aspekter av undervisningen eller kursplaner som kan förbättras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_SCQ-SchoolQuestionnaire.xml</prop>
+      <prop type="id">SC016_9e66ace7670d03335cf32b8675157c3d_2_0</prop>
+      <tuv xml:lang="en">
+        <seg>Enter “0” (zero) if there are none.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T145923Z" creationid="holemm" creationdate="20231107T145923Z">
+        <seg>Skriv ”0” (noll) i förekommande fall.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Physical injury caused by students to other students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Fysiska skador orsakade av elever på andra elever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Does your school offer any of the following options to students in &lt;national modal grade for 15-year-olds&gt; whose &lt;heritage language&gt; is not the &lt;test language&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T142909Z" creationid="holemm" creationdate="20231107T142732Z">
+        <seg>Erbjuder din skola något av följande till elever i årskurs 9 som har ett annat modersmål än svenska? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More than 50 students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Fler än 50 elever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To guide students’ learning</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>För att vägleda elevernas inlärning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In &lt;school science&gt; my school teaches environmental issues within other topics</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T120234Z" creationid="holemm" creationdate="20231113T115630Z">
+        <seg>Inom NO-ämnena utbildar min skola om miljöfrågor inom ramen för andra ämnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approximately, how many tablet devices (e.g. &lt;iPad®&gt;, &lt;Galaxy Book®&gt;, &lt;Fire®&gt;) are available for these students for educational purposes?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T171845Z" creationid="holemm" creationdate="20231107T165426Z">
+        <seg>Ungefär hur många surfplattor (t.ex. iPad, Galaxy Tab) finns tillgängliga för eleverna för utbildningsändamål?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approving students for admission to the school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Godkänna elever för intagning till skolan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Taking actions to ensure that teachers feel responsible for their students’ learning outcomes</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T172120Z" creationid="holemm" creationdate="20231107T172120Z">
+        <seg>Vidta åtgärder för att garantera att lärarna känner ansvar för elevernas studieresultat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The goal of the following set of questions is to gather information about the student-&lt;digital device&gt; ratio for students in the &lt;national modal grade for 15-year-olds&gt; at your school.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T164910Z" creationid="holemm" creationdate="20231107T164558Z">
+        <seg>Syftet med följande frågor är att samla information om förhållandet mellan antal elever och antal digitala enheter för elever i årskurs 9 vid din skola. Om du arbetar vid en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How many minutes, on average, are there in a &lt;class period&gt; for &lt;national modal grade for 15-year-olds&gt; taking the following subjects?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T172633Z" creationid="holemm" creationdate="20231107T172633Z">
+        <seg>Hur många minuter i genomsnitt innehåller en lektion i årskurs 9 i följande ämnen? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I have spoken to teachers at my school about the importance of the PISA test.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Jag har pratat med lärarna på min skola om vikten av PISA-provet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Regarding the qualification level, please refer only to the teacher’s &lt;g3&gt;highest qualification level&lt;/g3&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240116T134458Z" creationid="Ver_EHJ" creationdate="20240116T134053Z">
+        <seg>Ange lärarnas &lt;g3&gt;högsta utbildning&lt;/g3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Biology</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231003T205030Z" creationid="holemm" creationdate="20231003T205030Z">
+        <seg>Biologi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>It may or may not lead to a recognised qualification.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T174113Z" creationid="holemm" creationdate="20231108T144545Z">
+        <seg>Det kan men behöver inte, leda till en vedertagen behörighet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Low priority</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174029Z" creationid="holemm" creationdate="20231109T174029Z">
+        <seg>Låg prioritet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Determining course content, including &lt;national/regional&gt; curricula</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T171601Z" creationid="holemm" creationdate="20231107T171601Z">
+        <seg>Bestämma kursinnehåll, inklusive nationell läroplan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Small extent</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>I liten utsträckning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The number of digital devices connected to the Internet is sufficient</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T182949Z" creationid="holemm" creationdate="20231109T151733Z">
+        <seg>Antalet digitala enheter som är anslutna till internet är tillräckligt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lot</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Mycket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Specific teachers have the main responsibility for career guidance.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Specifika lärare har huvudansvaret för studie- och yrkesvägledningen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School science&gt; content</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T135758Z" creationid="holemm" creationdate="20231108T134543Z">
+        <seg>Innehåll i NO-ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We use &lt;digital resources&gt; to make teaching more effective.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T122504Z" creationid="holemm" creationdate="20231113T122504Z">
+        <seg>Vi använder digitala lärresurser för att göra undervisningen mer effektiv.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(If you do not have or use &lt;digital resources&gt;, please select “Does not apply”.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T122413Z" creationid="holemm" creationdate="20231113T122413Z">
+        <seg>(Om du inte har eller använder digitala lärresurser väljer du &quot;ej tillämpligt&quot;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Medium priority</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174040Z" creationid="holemm" creationdate="20231109T174040Z">
+        <seg>Medelhög prioritet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Deciding on budget allocations</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Besluta om budgetfördelningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Digital resources&gt; refer to digital devices or hardware (e.g. computers, tablets, smartphones, 3D printers), software (e.g. programs, apps, communications tools, educational learning tools), and online resources (e.g. websites, web portals).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T121903Z" creationid="holemm" creationdate="20231113T121903Z">
+        <seg>Digitala lärresurser avser digitala enheter eller maskinvara (t.ex. datorer, surfplattor, smartphones, 3D-skrivare), programvara (t.ex. program, appar, kommunikationsverktyg, pedagogiska lärprogram) samt resurser på internet (t.ex. webbplatser, webbportaler).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Students are grouped by ability within their classes.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Eleverna grupperas efter förmåga inom sina respektive klasser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not likely</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Inte troligt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Provided information to parents or guardians about how to help students with homework and other curriculum-related activities</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Gett information till föräldrar eller vårdnadshavare om hur man kan hjälpa elever med läxor och andra läroplansrelaterade aktiviteter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Principal</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Rektor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(This is a school managed directly or indirectly by a non-government organisation; e.g., a church, trade union, business, or other private institution.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T142135Z" creationid="holemm" creationdate="20231107T142135Z">
+        <seg>(Det är en skola som direkt eller indirekt drivs av en icke-statlig organisation; t.ex. ett religiöst samfund, ett företag, eller andra privata institutioner.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter “0” (zero) if there are none.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T122437Z" creationid="holemm" creationdate="20231107T122208Z">
+        <seg>Skriv ”0” (noll) om det inte finns några.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In our school, we celebrate festivities from other cultures.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T143509Z" creationid="holemm" creationdate="20231113T143509Z">
+        <seg>På vår skola firar vi högtider från andra kulturer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Science competitions, e.g. &lt;national examples&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T174954Z" creationid="holemm" creationdate="20231109T142256Z">
+        <seg>Tävlingar i naturvetenskap, t.ex. teknikåttan </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Chinese (e.g. Cantonese, Mandarin)&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231011T145903Z" creationid="holemm" creationdate="20231011T145903Z">
+        <seg>Kinesiska (t.ex. mandarin, kantonesiska)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Working on a professional development plan for this school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Arbeta med en professionell utvecklingsplan för den här skolan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Is your school’s capacity to provide &lt;English²&gt; learning opportunities hindered by any of the following issues?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T144950Z" creationid="holemm" creationdate="20231113T144950Z">
+        <seg>Utgör något av följande ett hinder för din skolas möjligheter att bedriva undervisning i engelska?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Principal or senior staff observations of lessons</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Rektors eller ledningspersonals observationer av lektioner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1% to 25%</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240105T163245Z" creationid="holemm" creationdate="20231113T160414Z">
+        <seg>1-25 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Intimidation or verbal abuse of teachers or non-teaching staff (including texting, emailing, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Hot eller verbala kränkningar mot lärare eller annan ej undervisande personal (inklusive sms, e-post, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Chess club</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Schackklubbar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Participation in professional networks/communities of practice</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T173815Z" creationid="holemm" creationdate="20231109T173815Z">
+        <seg>Medverkan i yrkesnätverk /praxisgemenskaper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school invites specialists to conduct in-service training for &lt;school science&gt; teachers.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231108T133552Z" creationid="holemm" creationdate="20231108T133552Z">
+        <seg>Vår skola bjuder in specialister för att genomföra intern fortbildning för lärare i NO-ämnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tests or assessments of student achievement</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Prov eller bedömningar av elevers prestationer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Observation visits to other schools</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T173521Z" creationid="holemm" creationdate="20231109T173457Z">
+        <seg>Studiebesök på andra skolor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Science club</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T174835Z" creationid="holemm" creationdate="20231109T141827Z">
+        <seg>Naturvetenskapliga föreningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Courses/seminars attended in person</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T121918Z" creationid="holemm" creationdate="20231109T173129Z">
+        <seg>Kurser/seminarier med deltagande på plats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I have spoken to parents or guardians about the importance of the PISA test.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Jag har pratat med föräldrar eller vårdnadshavare om vikten av PISA-provet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Who has the &lt;g2&gt;main responsibility&lt;/g2&gt; for the following at your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T170933Z" creationid="holemm" creationdate="20231107T170933Z">
+        <seg>Vem har &lt;g2&gt;huvudansvaret&lt;/g2&gt; för följande på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Provided information to parents or guardians about how to help students improve their skills in science</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T115733Z" creationid="holemm" creationdate="20231109T115733Z">
+        <seg>Gett information till föräldrar eller vårdnadshavare om hur man kan hjälpa elever att förbättra sina färdigheter i naturvetenskap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To train students to carry out complex projects over multiple days</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174631Z" creationid="holemm" creationdate="20231109T174631Z">
+        <seg>Lära eleverna att genomföra komplexa projekt över flera dagar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I have shared information about the PISA test administration with the students at my school.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T120129Z" creationid="holemm" creationdate="20231107T120129Z">
+        <seg>Jag har delat information om genomförandet av PISA-provet med eleverna på min skola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In your school, are &lt;school science&gt; achievement data used in the following ways?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T110345Z" creationid="holemm" creationdate="20231109T110345Z">
+        <seg>Används resultat i NO-ämnen på följande sätt på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1-2 times a year</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>1–2 gånger om året</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>51% to 75%</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240105T163255Z" creationid="holemm" creationdate="20231113T160428Z">
+        <seg>51-75 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approximately, how many e-book readers (i.e. portable device for reading books on screen, e.g. &lt;Amazon® Kindle™&gt;, &lt;Kobo&gt;) are available for these students for educational purposes?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T174051Z" creationid="holemm" creationdate="20231107T165621Z">
+        <seg>Ungefär hur många läsplattor (dvs. bärbara enheter för att läsa böcker på skärm, t.ex. Amazon Kindle, Kobo) finns tillgängliga för eleverna för utbildningsändamål?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Seeking written feedback from students (e.g. regarding lessons, teachers or resources)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skriftlig feedback från elever (t.ex. om lektioner, lärare eller resurser)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My school promotes how they conserve energy in the school to the broader school community</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T121255Z" creationid="holemm" creationdate="20231113T121255Z">
+        <seg>Min skola informerar bredare inom och utanför skolan om hur de sparar energi på skolan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Optional</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T165020Z" creationid="holemm" creationdate="20231109T165020Z">
+        <seg>Valfria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Never or almost never</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Aldrig eller nästan aldrig</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A village, hamlet or rural area (fewer than 3 000 people)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Mindre ort eller samhälle på landsbygden (färre än 3 000 invånare)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My school teaches environmental issues in many subjects at school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T170657Z" creationid="holemm" creationdate="20231109T170312Z">
+        <seg>Min skola utbildar om miljöfrågor inom många ämnen i skolan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More than 75%</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240105T163300Z" creationid="holemm" creationdate="20231113T160444Z">
+        <seg>Fler än 75 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Achievement data include &lt;g2&gt;aggregated&lt;/g2&gt; school or grade-level test scores or grades, or graduation rates.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T110704Z" creationid="holemm" creationdate="20231109T110704Z">
+        <seg>Resultatdata inkluderar &lt;g2&gt;sammanlagda&lt;/g2&gt; provresultat eller betyg på årskursnivå eller slutbetyg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>During &lt;the last academic year&gt;, how often has the school staff done each of the following?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T115536Z" creationid="holemm" creationdate="20231109T115536Z">
+        <seg>Hur ofta har skolans personal gjort något av följande under detta läsår?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To some extent</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Till viss del</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please tick as many boxes as applicable.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T144713Z" creationid="holemm" creationdate="20231107T144713Z">
+        <seg>(Kryssa för de rutor som passar in).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How many foreign languages are being taught at your school &lt;this academic year&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T165708Z" creationid="holemm" creationdate="20231109T165708Z">
+        <seg>Hur många främmande språk undervisas på din skola under innevarande läsår?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before transferring to regular classes, these students receive some instruction in school subjects through their &lt;heritage language&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T143207Z" creationid="holemm" creationdate="20231107T143207Z">
+        <seg>Innan de flyttas över till vanliga klasser får dessa elever viss undervisning i skolämnen på sitt modersmål.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Establishing student assessment policies, including &lt;national/regional&gt; assessments</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T171529Z" creationid="holemm" creationdate="20231107T171529Z">
+        <seg>Upprätta rutiner för elevbedömning, inklusive nationella bedömningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Career guidance is formally scheduled into students’ time at school.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Studie- och yrkesvägledning finns schemalagd i elevernas undervisning på skolan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Does your school offer additional &lt;school science&gt; lessons apart from &lt;school science&gt; lessons offered during the usual school hours?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T123214Z" creationid="holemm" creationdate="20231113T123214Z">
+        <seg>Erbjuder din skola ytterligare lektioner i NO-ämnen utöver de lektioner i NO-ämnen som erbjuds under reguljär lektionstid?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Non-mandatory &lt;standardised tests&gt; (e.g. publicly or commercially available standardised test material like &lt;country specific example&gt;)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T113244Z" creationid="holemm" creationdate="20231109T113244Z">
+        <seg>Icke-obligatoriska standardiserade prov (t.ex. offentligt eller kommersiellt standardiserat provmaterial)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A city (100 000 to about 1 000 000 people)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T114725Z" creationid="holemm" creationdate="20231107T114725Z">
+        <seg>En större stad (100 000 invånare eller fler)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_FLASCQ-FLASchoolQuestionnaires.xml</prop>
+      <prop type="id">SC164FL_SC164FL_01_27cf1f66b7c931209255ed3696e587ed_3_0</prop>
+      <tuv xml:lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240105T163155Z" creationid="Ver_EHJ" creationdate="20240105T163155Z">
+        <seg>Ingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inadequate or poorly qualified teaching staff</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T163529Z" creationid="holemm" creationdate="20231107T163529Z">
+        <seg>Bristfälligt eller otillräckligt kvalificerade lärare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inadequate or poor quality physical infrastructure (e.g., building, grounds, heating/cooling, lighting and acoustic systems)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T163748Z" creationid="holemm" creationdate="20231107T163748Z">
+        <seg>Fysisk infrastruktur som är otillräcklig eller med dålig kvalité (t.ex. byggnader, utomhusområden, uppvärmning/kylning, belysning och akustiska system).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About once or twice a week</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ungefär en eller två gånger i veckan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To compare the school to &lt;district or national&gt; performance</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T114507Z" creationid="holemm" creationdate="20231109T114507Z">
+        <seg>För att jämföra skolan med nationella resultat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Which of the following statements best describes the situation for &lt;remedial English¹ lessons&gt; for &lt;national modal grade for 15-year olds&gt; in your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T154147Z" creationid="holemm" creationdate="20231113T154147Z">
+        <seg>Vilket av nedanstående påståenden beskriver bäst situationen för elever i årskurs 9 på din skola när det gäller stödundervisning i engelska? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The school has a specific policy about using social networks (e.g. &lt;Facebook®&gt;) in teaching and learning.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T193504Z" creationid="holemm" creationdate="20231107T193504Z">
+        <seg>Skolan har ett specifikt regelverk kring användandet av sociala nätverk (t.ex. Snapchat or Tik Tok) i undervisning och inlärning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lack of physical infrastructure (e.g., building, grounds, heating/cooling, lighting and acoustic systems)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T163722Z" creationid="holemm" creationdate="20231107T163722Z">
+        <seg>Brist på fysisk infrastruktur (t.ex. byggnader, utomhusområden, uppvärmning/kylning, belysning och akustiska system).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mathematics</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Matematik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I have encouraged the students at my school to do their best during the PISA test.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Jag har uppmuntrat eleverna på min skola att göra sitt bästa på PISA-provet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school offers an exchange programme with one or more schools in other countries.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T192411Z" creationid="holemm" creationdate="20231113T143120Z">
+        <seg>Vår skola erbjuder utbytesprogram med en eller flera skolor i andra länder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers have the necessary technical and pedagogical skills to integrate digital devices in instruction</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T152643Z" creationid="holemm" creationdate="20231109T152643Z">
+        <seg>Lärarna har de tekniska och pedagogiska kunskaper som krävs för att integrera digital utrustning i undervisningen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Written specification of the school’s curricular profile and educational goals</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T111248Z" creationid="holemm" creationdate="20231109T111248Z">
+        <seg>Skriftlig dokumentation av skolans utbildningsprofil och utbildningsmål</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The school has formal guidelines for the use of digital devices for teaching and learning in specific subjects.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skolan har formella riktlinjer för användningen av digitala enheter för undervisning och inlärning av specifika ämnen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information about student financing (e.g. student loans or grants)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Information om studiemedel (t.ex. studielån eller stipendier)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_SCQ-SchoolQuestionnaire.xml</prop>
+      <prop type="id">SC412_SC412Q01_6adf97f83acf6453d4a6a4b1070f3754_3_0</prop>
+      <tuv xml:lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T144919Z" creationid="holemm" creationdate="20231107T144758Z">
+        <seg>Inget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>We use &lt;digital resources&gt; to help students learn how to use them safely outside of school.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T122819Z" creationid="holemm" creationdate="20231113T122819Z">
+        <seg>Vi använder digitala lärresurser för att eleverna ska lära sig hur man använder dem säkert utanför skolan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Number of girls:</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Antal flickor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not at all</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Inte alls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Number of boys:</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Antal pojkar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Once a week or more</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>En gång i veckan eller oftare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Collaborating with principals from other schools on difficult work tasks</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T172343Z" creationid="holemm" creationdate="20231107T172343Z">
+        <seg>Samarbeta med rektorer från andra skolor för att lösa svåra arbetsuppgifter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These students attend regular classes and receive additional periods of instruction aimed at developing &lt;test language&gt; skills (e.g. reading literacy, grammar, vocabulary, communication).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T143107Z" creationid="holemm" creationdate="20231107T143107Z">
+        <seg>Dessa elever går i vanliga klasser och får extralektioner för att utveckla sina kunskaper i svenska (t.ex. läsning, grammatik, ordförråd, kommunikation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Theft</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Stöld</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;This academic year&gt;, which of the following activities does your school offer to students in the &lt;national modal grade for 15-year-olds&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T141446Z" creationid="holemm" creationdate="20231109T141446Z">
+        <seg>Vilka av följande aktiviteter erbjuder din skola elever i årskurs 9 under detta läsår? Om du arbetar vid en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The school has a scheduled time for teachers to meet to share, evaluate or develop instructional materials and approaches that employ digital devices.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skolan har avsatt tid för lärarna att träffas för att dela med sig av, utvärdera eller utveckla undervisningsmaterial och tillvägagångssätt kring digitala enheter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Strongly agree</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Håller absolut med</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Initiated communications with parents or guardians about their child’s progress</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Initierat samtal med föräldrar eller vårdnadshavare om deras barns framsteg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Not prepared at all</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Inte alls förberedd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal evaluation/Self-evaluation</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T111150Z" creationid="holemm" creationdate="20231109T111150Z">
+        <seg>Intern skolutvärdering /självutvärdering</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What is the average size of &lt;school science&gt; classes in &lt;national modal grade for 15-year-olds&gt; in your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T192923Z" creationid="holemm" creationdate="20231107T192923Z">
+        <seg>Vilken är den genomsnittliga storleken på klasserna/undervisningsgrupperna i NO-ämnen i årskurs 9 i din skola? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_FLASCQ-FLASchoolQuestionnaires.xml</prop>
+      <prop type="id">SC163FL_SC163FLQ10_4e60091c73fa417abdc11f418eb52613_13_0</prop>
+      <tuv xml:lang="en">
+        <seg>&lt;Language 601&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T112055Z" creationid="holemm" creationdate="20231113T112055Z">
+        <seg>Portugisiska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In your school, what percentage of students in &lt;national modal grade for 15-year-olds&gt; are currently learning the following &lt;foreign languages²&gt;?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T160115Z" creationid="holemm" creationdate="20231113T160115Z">
+        <seg>Hur stor andel av eleverna i årskurs 9 i procent studerar följande moderna språk på din skola för närvarande? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lack of &lt;English¹&gt; teaching staff</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T180110Z" creationid="holemm" creationdate="20231109T180110Z">
+        <seg>Brist på lärare i engelska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>These students receive significant amounts of instruction in their &lt;heritage language&gt; aimed at developing proficiency in both languages.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T143231Z" creationid="holemm" creationdate="20231107T143231Z">
+        <seg>Dessa elever får en avsevärd del av undervisningen på sitt modersmål för att utveckla sina kunskaper i båda språken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Staff includes teachers, personnel for pedagogical support, school administrative personnel, and school management personnel.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>(I personalen ingår lärare, stödpersonal i undervisningen, skolans administrativa personal samt skolledningen.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Large extent</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>I stor utsträckning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Which of the following definitions best describes the community in which your school is located?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Vilket av följande alternativ beskriver bäst det samhälle där din skola är belägen?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;School science&gt; teachers in TOTAL</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T123656Z" creationid="holemm" creationdate="20231107T123620Z">
+        <seg>Lärare i NO-ämnen TOTALT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school organises multicultural events (e.g. cultural diversity day).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T143438Z" creationid="holemm" creationdate="20231113T143438Z">
+        <seg>Vår skola anordnar mångkulturella evenemang (t.ex. kulturella mångfaldens dag).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_FLASCQ-FLASchoolQuestionnaires.xml</prop>
+      <prop type="id">SC480FL_SC480FL_01_27cf1f66b7c931209255ed3696e587ed_3_0</prop>
+      <tuv xml:lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240105T163548Z" creationid="Ver_EHJ" creationdate="20240105T163548Z">
+        <seg>Ingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In which &lt;foreign languages²&gt; can students learn subjects other than languages (e.g. history, science) in your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T144612Z" creationid="holemm" creationdate="20231107T144612Z">
+        <seg>På vilka moderna språk kan elever lära sig andra ämnen än språk (t.ex. historia, NO-ämnen) på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Very little</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Mycket lite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More than once a month</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Mer än en gång i månaden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_SCQ-SchoolQuestionnaire.xml</prop>
+      <prop type="id">SC427_SC427Q0101_6adf97f83acf6453d4a6a4b1070f3754_3_0</prop>
+      <tuv xml:lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240108T120301Z" creationid="Ver_EHJ" creationdate="20240108T120301Z">
+        <seg>Inget</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>How many of the following types of employees are on the staff of your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T155704Z" creationid="holemm" creationdate="20231113T155626Z">
+        <seg>Hur många av följande anställda ingår i personalen på din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A small town (3 000 to about 15 000 people)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Medelstor tätort (3 000 till ungefär 15 000 invånare)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>School management personnel</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Skolledning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lack of resources for &lt;remedial English¹ lessons&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T152201Z" creationid="holemm" creationdate="20231113T152201Z">
+        <seg>Brist på resurser för stödundervisning i engelska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inadequate or poor quality &lt;digital resources&gt; (e.g. desktop or laptop computers, internet access, learning management systems or school learning platforms)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T164039Z" creationid="holemm" creationdate="20231107T164039Z">
+        <seg>Otillräckliga eller undermåliga digitala verktyg (t.ex. stationära eller bärbara datorer, tillgång till internet, system för undervisningshantering eller skolplattformar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>21-25 students</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>21-25 elever</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teachers’ judgmental ratings</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Lärares bedömningar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Is your school a public or a private school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Är din skola en kommunal skola eller en fristående skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Internal school evaluation: Evaluation as part of a process controlled by a school in which the school defines which areas are judged; the evaluation may be conducted by members of the school or by persons/institutions commissioned by the school.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T112051Z" creationid="holemm" creationdate="20231109T112051Z">
+        <seg>Intern skolutvärdering: Utvärdering som en del av en process som styrs av en skola där skolan definierar vilka områden som bedöms. Utvärderingen kan utföras av någon på skolan eller av någon på uppdrag av skolan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approximately, how many desktop or laptop computers are available for these students for educational purposes?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ungefär hur många stationära eller bärbara datorer finns tillgängliga för dessa elever för utbildningsändamål?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For all subjects</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>I alla ämnen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No priority</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174024Z" creationid="holemm" creationdate="20231109T174024Z">
+        <seg>Ingen prioritet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Enrichment activities&gt; refer to any activities offered in addition to regular lessons for students who are interested in further learning, for example conversation clubs, trips abroad, and language competition.)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T141801Z" creationid="holemm" creationdate="20231113T141546Z">
+        <seg>Extra fördjupning avser alla aktiviteter som erbjuds vid sidan av vanliga lektioner för elever som vill lära sig mer – till exempel språkcaféer, utlandsresor och språktävlingar.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For each type of position listed below, please indicate the number of &lt;g2&gt;non-teaching&lt;/g2&gt; staff currently working in this school.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T161342Z" creationid="holemm" creationdate="20231107T161342Z">
+        <seg>För varje typ av tjänst som anges nedan ska du ange antalet &lt;g2&gt;övrig&lt;/g2&gt; personal som arbetar på den här skolan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Part-time</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Deltid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Please think of different kinds of digital devices such as for example desktop computers, portable laptops, tablet computers or interactive whiteboards)</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T153253Z" creationid="holemm" creationdate="20231109T153253Z">
+        <seg>(Tänk på olika typer av digital utrustning som t.ex. stationära datorer, bärbara datorer, surfplattor och interaktiva skrivtavlor.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Systematic recording of data such as teacher or student attendance and professional development</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Systematisk dokumentation av t.ex. lärares och elevers närvaro samt professionella utveckling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;English²&gt;</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231010T123712Z" creationid="holemm" creationdate="20231010T123712Z">
+        <seg>Engelska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The availability of adequate software is sufficient</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T183036Z" creationid="holemm" creationdate="20231109T152210Z">
+        <seg>Tillgången på lämplig programvara är tillräcklig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>During the last 12 months, have the following staff members below participated in professional development activities to improve their own &lt;English²&gt; proficiency?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T153508Z" creationid="holemm" creationdate="20231113T153508Z">
+        <seg>Har följande anställda deltagit i fortbildning för att förbättra sina egna kunskaper i engelska under de senaste 12 månaderna?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Physics</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231003T205001Z" creationid="holemm" creationdate="20231003T205001Z">
+        <seg>Fysik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Well prepared</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Väl förberedd</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A full-time teacher is employed at least 90% of the time as a teacher for the full school year.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T121608Z" creationid="holemm" creationdate="20231107T121608Z">
+        <seg>En heltidsanställd lärare är anställd som lärare minst 90 % av tiden under ett helt läsår.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Who has the &lt;g2&gt;main responsibility&lt;/g2&gt; for career guidance of students in &lt;national modal grade for 15-year-olds&gt; at your school?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T135101Z" creationid="holemm" creationdate="20231109T135101Z">
+        <seg>Vem har &lt;g2&gt;huvudansvaret&lt;/g2&gt; för studie- och yrkesvägledning för eleverna i årskurs 9 på din skola? Om du arbetar på en gymnasieskola avser frågan årskurs 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>What types of additional &lt;English¹&gt; activities does your school offer?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T112953Z" creationid="holemm" creationdate="20231113T112953Z">
+        <seg>Vilka typer av ytterligare aktiviteter i engelska erbjuder din skola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Peer-to-peer tutoring</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Elevledd handledning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do the following arrangements aimed at quality assurance and improvements exist in your school and where do they come from?</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Används följande åtgärder för kvalitetssäkring och förbättringar på din skola och vem har bestämt dessa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Six or more</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T170107Z" creationid="holemm" creationdate="20231109T170107Z">
+        <seg>Sex eller fler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Four</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Fyra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>My school organises field trips so that students can investigate environmental issues</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T170648Z" creationid="holemm" creationdate="20231109T170551Z">
+        <seg>Min skola organiserar utflykter för att elever ska få möjlighet att undersöka miljöfrågor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">05_QQA_N/PISA_2025FT_QQ_FLASCQ-FLASchoolQuestionnaires.xml</prop>
+      <prop type="id">SC216FL_SC216FLQ0101_6adf97f83acf6453d4a6a4b1070f3754_4_0</prop>
+      <tuv xml:lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="Ver_EHJ" changedate="20240105T140031Z" creationid="Ver_EHJ" creationdate="20240105T140031Z">
+        <seg>Inga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;English¹&gt; teaching staff with inadequate teacher training</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T145320Z" creationid="holemm" creationdate="20231113T145215Z">
+        <seg>Lärare i engelska som saknar tillräcklig lärarutbildning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To teach students when and how they should seek for help in their study</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T174240Z" creationid="holemm" creationdate="20231109T174240Z">
+        <seg>Lära eleverna när och hur de ska söka hjälp med sina studier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes, this is mandatory, e.g. based on district or ministry policies</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Ja, detta är obligatoriskt, t.ex. baserat på lokala eller nationella riktlinjer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All teaching staff at your school</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Alla lärare på din skola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To adapt teaching to the students’ needs</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>För att anpassa undervisningen till elevernas behov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Digital devices are used for extracurricular activities at school.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T171640Z" creationid="holemm" creationdate="20231109T171640Z">
+        <seg>Digitala enheter används för fritidsaktiviteter på skolan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teacher-developed tests</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Lärarutvecklade prov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reviewing school administrative procedures and reports</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T172214Z" creationid="holemm" creationdate="20231107T172214Z">
+        <seg>Granska skolans administrativa rutiner och rapporter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lack of assisting staff</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T163538Z" creationid="holemm" creationdate="20231107T163538Z">
+        <seg>Brist på stödpersonal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Three</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Tre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Digital devices at the school are sufficiently powerful in terms of computing capacity</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T183002Z" creationid="holemm" creationdate="20231109T152121Z">
+        <seg>Skolans digitala utrustning är tillräckligt kraftfull med avseende på beräkningskapacitet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Personnel focused on student well-being</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T162640Z" creationid="holemm" creationdate="20231107T162640Z">
+        <seg>Personal som arbetar med elevhälsa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A lack of teaching staff</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231107T163516Z" creationid="holemm" creationdate="20231107T163516Z">
+        <seg>Brist på lärare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The school has sufficient supporting staff to solve technical problems</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T153149Z" creationid="holemm" creationdate="20231109T153149Z">
+        <seg>Skolan har tillräckligt med supportpersonal för att lösa tekniska problem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Our school adopts different approaches to educate students about cultural differences (e.g. teamwork, peer to peer learning, simulations, art, etc.).</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T144037Z" creationid="holemm" creationdate="20231113T144037Z">
+        <seg>Vår skola använder sig av olika metoder för att utbilda elever om kulturella skillnader (t.ex. samarbete, att lära sig av sina klasskamrater, simuleringar, konst, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Room(s) where the students can do their homework</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Rum där eleverna kan göra sina läxor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Remedial&gt; only</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231109T143007Z" creationid="holemm" creationdate="20231109T143007Z">
+        <seg>Enbart stödundervisning</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>To compare the school with other schools</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>För att jämföra skolan med andra skolor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Including all teacher aides or other non-teaching professionals who provide instruction or support teachers in providing instruction, professional curriculum/instructional specialists, and educational media specialists.</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE" changeid="holemm" changedate="20231113T170537Z" creationid="holemm" creationdate="20231113T113855Z">
+        <seg>Inklusive alla stödpedagoger eller annan ej undervisande personal som stödjer lärarna i deras undervisning samt IKT-pedagoger.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A few times a year</seg>
+      </tuv>
+      <tuv xml:lang="sv-SE">
+        <seg>Några gånger om året</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

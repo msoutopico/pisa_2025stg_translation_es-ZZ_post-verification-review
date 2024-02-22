@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64b1115b36a292.42259665/passage NEW.xml">
+            <label key="64b1115b36a292.42259665_59b56f13ae9c9c8196c6a663d6df262a_1">
+                <text>Surt regn</text>
+            </label>
+            <label key="64b1115b36a292.42259665_e46338b77ae3b688d328632020fd8edf_2">
+                <text>Surhetsgraden och alkaliniteten hos kemikalier kan mätas med en pH-skala. En pH-skala har värden som går från 0 (mycket sur) till14 (mycket basisk eller alkalisk) Ett ämne som varken är surt eller basiskt beskrivs som neutralt och har ett pH på 7.</text>
+            </label>
+            <label key="64b1115b36a292.42259665_e5ada362ebf3c3ae7030afcbe140bfb3_3">
+                <text>Surt nedfall är när någon form av sur förorening faller från atmosfären ner på jordens yta. Det sura nedfallet kan vara blött (som till exempel surt regn, slask, snö och dimma) eller torrt (som till exempel sura gaser och dammpartiklar). Surt nedfall korroderar byggnader och orsakar miljöproblem.</text>
+            </label>
+            <label key="64b1115b36a292.42259665_ef3403a0b17520e033d87ac228ceb999_4">
+                <text>
+                    <strong>‌pH-skala‌</strong>
+                </text>
+            </label>
+            <label key="64b1115b36a292.42259665_985679536bf2de0c75dffcef84333f10_5">
+                <text>sur</text>
+            </label>
+            <label key="64b1115b36a292.42259665_f17aaabc20bfe045075927934fed52d2_6">
+                <text>basisk</text>
+            </label>
+            <label key="64b1115b36a292.42259665_5da248ea6840aca1ae2b417b17982a89_7">
+                <text>neutral</text>
+            </label>
+            <label key="64b1115b36a292.42259665_c4ca4238a0b923820dcc509a6f75849b_8">
+                <text>1</text>
+            </label>
+            <label key="64b1115b36a292.42259665_c81e728d9d4c2f636f067f89cc14862c_9">
+                <text>2</text>
+            </label>
+            <label key="64b1115b36a292.42259665_eccbc87e4b5ce2fe28308fd9f2a7baf3_10">
+                <text>3</text>
+            </label>
+            <label key="64b1115b36a292.42259665_a87ff679a2f3e71d9181a67b7542122c_11">
+                <text>4</text>
+            </label>
+            <label key="64b1115b36a292.42259665_e4da3b7fbbce2345d7772b0674a318d5_12">
+                <text>5</text>
+            </label>
+            <label key="64b1115b36a292.42259665_1679091c5a880faf6fb5e6087eb1b2dc_13">
+                <text>6</text>
+            </label>
+            <label key="64b1115b36a292.42259665_8f14e45fceea167a5a36dedd4bea2543_14">
+                <text>7</text>
+            </label>
+            <label key="64b1115b36a292.42259665_c9f0f895fb98ab9159f51fd0297e236d_15">
+                <text>8</text>
+            </label>
+            <label key="64b1115b36a292.42259665_45c48cce2e2d7fbdea1afc51c7c6ad26_16">
+                <text>9</text>
+            </label>
+            <label key="64b1115b36a292.42259665_d3d9446802a44259755d38e6d163e820_17">
+                <text>10</text>
+            </label>
+            <label key="64b1115b36a292.42259665_6512bd43d9caa6e02c990b0a82652dca_18">
+                <text>11</text>
+            </label>
+            <label key="64b1115b36a292.42259665_c20ad4d76fe97759aa27a0c99bff6710_19">
+                <text>12</text>
+            </label>
+            <label key="64b1115b36a292.42259665_c51ce410c124a10e0db5e4b97fc2af39_20">
+                <text>13</text>
+            </label>
+            <label key="64b1115b36a292.42259665_aab3238922bcc25a6f606eb525ffdc56_21">
+                <text>14</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64b1115b36a292.42259665/passage NEW.xml">
+            <label key="64b1115b36a292.42259665_59b56f13ae9c9c8196c6a663d6df262a_1">
+                <text>Surt regn</text>
+            </label>
+            <label key="64b1115b36a292.42259665_e46338b77ae3b688d328632020fd8edf_2">
+                <text>Surhetsgraden och alkaliniteten hos kemikalier kan mätas med en pH-skala. En pH-skala har värden som går från 0 (mycket sur) till14 (mycket basisk eller alkalisk) Ett ämne som varken är surt eller basiskt beskrivs som neutralt och har ett pH på 7.</text>
+            </label>
+            <label key="64b1115b36a292.42259665_e5ada362ebf3c3ae7030afcbe140bfb3_3">
+                <text>Surt nedfall är när någon form av sur förorening faller från atmosfären ner på jordens yta. Det sura nedfallet kan vara blött (som till exempel surt regn, slask, snö och dimma) eller torrt (som till exempel sura gaser och dammpartiklar). Surt nedfall korroderar byggnader och orsakar miljöproblem.</text>
+            </label>
+            <label key="64b1115b36a292.42259665_ef3403a0b17520e033d87ac228ceb999_4">
+                <text>
+                    <strong>‌pH-skala‌</strong>
+                </text>
+            </label>
+            <label key="64b1115b36a292.42259665_985679536bf2de0c75dffcef84333f10_5">
+                <text>sur</text>
+            </label>
+            <label key="64b1115b36a292.42259665_f17aaabc20bfe045075927934fed52d2_6">
+                <text>basisk</text>
+            </label>
+            <label key="64b1115b36a292.42259665_5da248ea6840aca1ae2b417b17982a89_7">
+                <text>neutral</text>
+            </label>
+            <label key="64b1115b36a292.42259665_c4ca4238a0b923820dcc509a6f75849b_8">
+                <text>1</text>
+            </label>
+            <label key="64b1115b36a292.42259665_c81e728d9d4c2f636f067f89cc14862c_9">
+                <text>2</text>
+            </label>
+            <label key="64b1115b36a292.42259665_eccbc87e4b5ce2fe28308fd9f2a7baf3_10">
+                <text>3</text>
+            </label>
+            <label key="64b1115b36a292.42259665_a87ff679a2f3e71d9181a67b7542122c_11">
+                <text>4</text>
+            </label>
+            <label key="64b1115b36a292.42259665_e4da3b7fbbce2345d7772b0674a318d5_12">
+                <text>5</text>
+            </label>
+            <label key="64b1115b36a292.42259665_1679091c5a880faf6fb5e6087eb1b2dc_13">
+                <text>6</text>
+            </label>
+            <label key="64b1115b36a292.42259665_8f14e45fceea167a5a36dedd4bea2543_14">
+                <text>7</text>
+            </label>
+            <label key="64b1115b36a292.42259665_c9f0f895fb98ab9159f51fd0297e236d_15">
+                <text>8</text>
+            </label>
+            <label key="64b1115b36a292.42259665_45c48cce2e2d7fbdea1afc51c7c6ad26_16">
+                <text>9</text>
+            </label>
+            <label key="64b1115b36a292.42259665_d3d9446802a44259755d38e6d163e820_17">
+                <text>10</text>
+            </label>
+            <label key="64b1115b36a292.42259665_6512bd43d9caa6e02c990b0a82652dca_18">
+                <text>11</text>
+            </label>
+            <label key="64b1115b36a292.42259665_c20ad4d76fe97759aa27a0c99bff6710_19">
+                <text>12</text>
+            </label>
+            <label key="64b1115b36a292.42259665_c51ce410c124a10e0db5e4b97fc2af39_20">
+                <text>13</text>
+            </label>
+            <label key="64b1115b36a292.42259665_aab3238922bcc25a6f606eb525ffdc56_21">
+                <text>14</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64705d6f1b41a4.74292818/passage NEW 1.xml">
+            <label key="64705d6f1b41a4.74292818_59b56f13ae9c9c8196c6a663d6df262a_1">
+                <text>Surt regn</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_c64199c5cc79cbc7da29e58e0f5c382a_2">
+                <text>Kraftverk släpper ut svaveldioxid (SO₂) och kvävedioxid (NO₂) när de förbränner fossila bränslen för att generera elektricitet. Fordonsavgaser innehåller också dessa två gaser.</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_1d64b29fe62ce74513b3010a840c3973_3">
+                <text>Bilden visar hur surt regn bildas när svaveldioxid och kvävedioxid reagerar med andra kemikalier i atmosfären. Dessa reaktioner skapar sura föroreningar som faller till marken som surt regn.</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_2facff8729838097237ce7df96ef7723_4">
+                <text>H₂SO₄</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_07a7e47676df559a0d1928f824bf7b40_5">
+                <text>HNO₃</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_b0e48d72ff484d0e1afb38bbc01cb12d_6">
+                <text>Surt regn</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_7e25b972e192b01004b62346ee9975a5_7">
+                <text>vind</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_d022fd5c4f7eb377e1eded53f4afd722_8">
+                <text>SO₂</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_ed21687560e169aaafdad239e52b8d08_9">
+                <text>växter dör</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_3ef9475ac009d568c7243a56a5b9e965_10">
+                <text>NO₂</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_d022fd5c4f7eb377e1eded53f4afd722_11">
+                <text>SO₂</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_0af24ccd65fbc5202a17887fc65d57bb_12">
+                <text>avdunstning</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_45d20b1d2cc2d52e74b3cbf1750a2e31_13">
+                <text>hav</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_3ef9475ac009d568c7243a56a5b9e965_14">
+                <text>NO₂</text>
+            </label>
+            <label key="64705d6f1b41a4.74292818_d022fd5c4f7eb377e1eded53f4afd722_15">
+                <text>SO₂</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655459ee8ee296.21030923/passage NEW 2.xml">
+            <label key="655459ee8ee296.21030923_59b56f13ae9c9c8196c6a663d6df262a_1">
+                <text>Surt regn</text>
+            </label>
+            <label key="655459ee8ee296.21030923_c863ebc04c71cf3af61938dc0a6fecb3_2">
+                <text>Vissa växt- och djurarter tål varierande pH-förutsättningar. Diagrammet visar effekten av pH på antalet individer av fyra olika arter som finns i en sötvattensjö.</text>
+            </label>
+            <label key="655459ee8ee296.21030923_2472447205cffa717c31452aeb549517_3">
+                <text>Antal individer/S</text>
+            </label>
+            <label key="655459ee8ee296.21030923_94b6c77f101a80b8007a45529ab5cb74_4">
+                <text>vattnets pH</text>
+            </label>
+            <label key="655459ee8ee296.21030923_f899139df5e1059396431415e770c6dd_5">
+                <text>100</text>
+            </label>
+            <label key="655459ee8ee296.21030923_8613985ec49eb8f757ae6439e879bb2a_6">
+                <text>90</text>
+            </label>
+            <label key="655459ee8ee296.21030923_f033ab37c30201f73f142449d037028d_7">
+                <text>80</text>
+            </label>
+            <label key="655459ee8ee296.21030923_7cbbc409ec990f19c78c75bd1e06f215_8">
+                <text>70</text>
+            </label>
+            <label key="655459ee8ee296.21030923_072b030ba126b2f4b2374f342be9ed44_9">
+                <text>60</text>
+            </label>
+            <label key="655459ee8ee296.21030923_c0c7c76d30bd3dcaefc96f40275bdc0a_10">
+                <text>50</text>
+            </label>
+            <label key="655459ee8ee296.21030923_d645920e395fedad7bbbed0eca3fe2e0_11">
+                <text>40</text>
+            </label>
+            <label key="655459ee8ee296.21030923_34173cb38f07f89ddbebc2ac9128303f_12">
+                <text>30</text>
+            </label>
+            <label key="655459ee8ee296.21030923_98f13708210194c475687be6106a3b84_13">
+                <text>20</text>
+            </label>
+            <label key="655459ee8ee296.21030923_d3d9446802a44259755d38e6d163e820_14">
+                <text>10</text>
+            </label>
+            <label key="655459ee8ee296.21030923_e4da3b7fbbce2345d7772b0674a318d5_15">
+                <text>5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_ad9995c0d305d650bc1a138f32113af7_16">
+                <text>5,5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_1679091c5a880faf6fb5e6087eb1b2dc_17">
+                <text>6</text>
+            </label>
+            <label key="655459ee8ee296.21030923_f884cc5c56f9c9a8d4d61568ff64db9c_18">
+                <text>6,5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_8f14e45fceea167a5a36dedd4bea2543_19">
+                <text>7</text>
+            </label>
+            <label key="655459ee8ee296.21030923_0d640498fb206f2d67e1829ba976d945_20">
+                <text>7,5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_c9f0f895fb98ab9159f51fd0297e236d_21">
+                <text>8</text>
+            </label>
+            <label key="655459ee8ee296.21030923_61ffe99541fed8ca6fcf9091d954fb03_22">
+                <text>Art A</text>
+            </label>
+            <label key="655459ee8ee296.21030923_3d35fcfcf87261cc962a880fa47667ff_23">
+                <text>Art B</text>
+            </label>
+            <label key="655459ee8ee296.21030923_4d57f2c66dfbccc43c4bb25af8546f6b_24">
+                <text>Art C</text>
+            </label>
+            <label key="655459ee8ee296.21030923_efdf2c3f194bd694f89edeff75ec5b3e_25">
+                <text>Art D</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655459ee8ee296.21030923/passage NEW 2.xml">
+            <label key="655459ee8ee296.21030923_59b56f13ae9c9c8196c6a663d6df262a_1">
+                <text>Surt regn</text>
+            </label>
+            <label key="655459ee8ee296.21030923_c863ebc04c71cf3af61938dc0a6fecb3_2">
+                <text>Vissa växt- och djurarter tål varierande pH-förutsättningar. Diagrammet visar effekten av pH på antalet individer av fyra olika arter som finns i en sötvattensjö.</text>
+            </label>
+            <label key="655459ee8ee296.21030923_2472447205cffa717c31452aeb549517_3">
+                <text>Antal individer/S</text>
+            </label>
+            <label key="655459ee8ee296.21030923_94b6c77f101a80b8007a45529ab5cb74_4">
+                <text>vattnets pH</text>
+            </label>
+            <label key="655459ee8ee296.21030923_f899139df5e1059396431415e770c6dd_5">
+                <text>100</text>
+            </label>
+            <label key="655459ee8ee296.21030923_8613985ec49eb8f757ae6439e879bb2a_6">
+                <text>90</text>
+            </label>
+            <label key="655459ee8ee296.21030923_f033ab37c30201f73f142449d037028d_7">
+                <text>80</text>
+            </label>
+            <label key="655459ee8ee296.21030923_7cbbc409ec990f19c78c75bd1e06f215_8">
+                <text>70</text>
+            </label>
+            <label key="655459ee8ee296.21030923_072b030ba126b2f4b2374f342be9ed44_9">
+                <text>60</text>
+            </label>
+            <label key="655459ee8ee296.21030923_c0c7c76d30bd3dcaefc96f40275bdc0a_10">
+                <text>50</text>
+            </label>
+            <label key="655459ee8ee296.21030923_d645920e395fedad7bbbed0eca3fe2e0_11">
+                <text>40</text>
+            </label>
+            <label key="655459ee8ee296.21030923_34173cb38f07f89ddbebc2ac9128303f_12">
+                <text>30</text>
+            </label>
+            <label key="655459ee8ee296.21030923_98f13708210194c475687be6106a3b84_13">
+                <text>20</text>
+            </label>
+            <label key="655459ee8ee296.21030923_d3d9446802a44259755d38e6d163e820_14">
+                <text>10</text>
+            </label>
+            <label key="655459ee8ee296.21030923_e4da3b7fbbce2345d7772b0674a318d5_15">
+                <text>5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_ad9995c0d305d650bc1a138f32113af7_16">
+                <text>5,5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_1679091c5a880faf6fb5e6087eb1b2dc_17">
+                <text>6</text>
+            </label>
+            <label key="655459ee8ee296.21030923_f884cc5c56f9c9a8d4d61568ff64db9c_18">
+                <text>6,5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_8f14e45fceea167a5a36dedd4bea2543_19">
+                <text>7</text>
+            </label>
+            <label key="655459ee8ee296.21030923_0d640498fb206f2d67e1829ba976d945_20">
+                <text>7,5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_c9f0f895fb98ab9159f51fd0297e236d_21">
+                <text>8</text>
+            </label>
+            <label key="655459ee8ee296.21030923_61ffe99541fed8ca6fcf9091d954fb03_22">
+                <text>Art A</text>
+            </label>
+            <label key="655459ee8ee296.21030923_3d35fcfcf87261cc962a880fa47667ff_23">
+                <text>Art B</text>
+            </label>
+            <label key="655459ee8ee296.21030923_4d57f2c66dfbccc43c4bb25af8546f6b_24">
+                <text>Art C</text>
+            </label>
+            <label key="655459ee8ee296.21030923_efdf2c3f194bd694f89edeff75ec5b3e_25">
+                <text>Art D</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655459ee8ee296.21030923/passage NEW 2.xml">
+            <label key="655459ee8ee296.21030923_59b56f13ae9c9c8196c6a663d6df262a_1">
+                <text>Surt regn</text>
+            </label>
+            <label key="655459ee8ee296.21030923_c863ebc04c71cf3af61938dc0a6fecb3_2">
+                <text>Vissa växt- och djurarter tål varierande pH-förutsättningar. Diagrammet visar effekten av pH på antalet individer av fyra olika arter som finns i en sötvattensjö.</text>
+            </label>
+            <label key="655459ee8ee296.21030923_2472447205cffa717c31452aeb549517_3">
+                <text>Antal individer/S</text>
+            </label>
+            <label key="655459ee8ee296.21030923_94b6c77f101a80b8007a45529ab5cb74_4">
+                <text>vattnets pH</text>
+            </label>
+            <label key="655459ee8ee296.21030923_f899139df5e1059396431415e770c6dd_5">
+                <text>100</text>
+            </label>
+            <label key="655459ee8ee296.21030923_8613985ec49eb8f757ae6439e879bb2a_6">
+                <text>90</text>
+            </label>
+            <label key="655459ee8ee296.21030923_f033ab37c30201f73f142449d037028d_7">
+                <text>80</text>
+            </label>
+            <label key="655459ee8ee296.21030923_7cbbc409ec990f19c78c75bd1e06f215_8">
+                <text>70</text>
+            </label>
+            <label key="655459ee8ee296.21030923_072b030ba126b2f4b2374f342be9ed44_9">
+                <text>60</text>
+            </label>
+            <label key="655459ee8ee296.21030923_c0c7c76d30bd3dcaefc96f40275bdc0a_10">
+                <text>50</text>
+            </label>
+            <label key="655459ee8ee296.21030923_d645920e395fedad7bbbed0eca3fe2e0_11">
+                <text>40</text>
+            </label>
+            <label key="655459ee8ee296.21030923_34173cb38f07f89ddbebc2ac9128303f_12">
+                <text>30</text>
+            </label>
+            <label key="655459ee8ee296.21030923_98f13708210194c475687be6106a3b84_13">
+                <text>20</text>
+            </label>
+            <label key="655459ee8ee296.21030923_d3d9446802a44259755d38e6d163e820_14">
+                <text>10</text>
+            </label>
+            <label key="655459ee8ee296.21030923_e4da3b7fbbce2345d7772b0674a318d5_15">
+                <text>5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_ad9995c0d305d650bc1a138f32113af7_16">
+                <text>5,5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_1679091c5a880faf6fb5e6087eb1b2dc_17">
+                <text>6</text>
+            </label>
+            <label key="655459ee8ee296.21030923_f884cc5c56f9c9a8d4d61568ff64db9c_18">
+                <text>6,5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_8f14e45fceea167a5a36dedd4bea2543_19">
+                <text>7</text>
+            </label>
+            <label key="655459ee8ee296.21030923_0d640498fb206f2d67e1829ba976d945_20">
+                <text>7,5</text>
+            </label>
+            <label key="655459ee8ee296.21030923_c9f0f895fb98ab9159f51fd0297e236d_21">
+                <text>8</text>
+            </label>
+            <label key="655459ee8ee296.21030923_61ffe99541fed8ca6fcf9091d954fb03_22">
+                <text>Art A</text>
+            </label>
+            <label key="655459ee8ee296.21030923_3d35fcfcf87261cc962a880fa47667ff_23">
+                <text>Art B</text>
+            </label>
+            <label key="655459ee8ee296.21030923_4d57f2c66dfbccc43c4bb25af8546f6b_24">
+                <text>Art C</text>
+            </label>
+            <label key="655459ee8ee296.21030923_efdf2c3f194bd694f89edeff75ec5b3e_25">
+                <text>Art D</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i638e89c5977ff127665a80c06896ac95cf">
+            <label key="i638e89c5977ff127665a80c06896ac95cf_3345b7e8b1a78d8d9b13d76e85004ddf_1">
+                <text>pH i vanligt (inte surt) regnvatten är omkring 5,6.</text>
+            </label>
+            <label key="i638e89c5977ff127665a80c06896ac95cf_addfa6d7d847f1c9f34ed3e86e9a0e25_2">
+                <text>Vilket av följande pH-värden skulle surt regn mest sannolikt ha?</text>
+            </label>
+            <label key="i638e89c5977ff127665a80c06896ac95cf_A_9110a7803abee686fdb3eb2cde1c3895_3">
+                <text>pH 1,3</text>
+            </label>
+            <label key="i638e89c5977ff127665a80c06896ac95cf_B_95368f5307511203afe4b026cf46bb0b_4">
+                <text>pH 4,3</text>
+            </label>
+            <label key="i638e89c5977ff127665a80c06896ac95cf_C_91a7a0cde3984e5c1b0e39d426c99eb1_5">
+                <text>pH 7,3</text>
+            </label>
+            <label key="i638e89c5977ff127665a80c06896ac95cf_D_cb972a5b90052db57f5cabf1a2961eaf_6">
+                <text>pH 8,3</text>
+            </label>
+        </item>
+        <item id="i638e9aa6b91e112754896780fb7526a236">
+            <label key="i638e9aa6b91e112754896780fb7526a236_ba80a160eecd2cd38bac0b192b44d6b5_1">
+                <text>Vilken typ av surt nedfall är mest trolig att orsaka luftvägsrelaterade hälsoproblem?</text>
+            </label>
+            <label key="i638e9aa6b91e112754896780fb7526a236_A_60cddcd22116ddc8aed4a172983f9bcd_2">
+                <text>blött nedfall</text>
+            </label>
+            <label key="i638e9aa6b91e112754896780fb7526a236_B_60e60921eeb5cb3510925b75a13108a8_3">
+                <text>torrt nedfall</text>
+            </label>
+            <label key="i638e9aa6b91e112754896780fb7526a236_14a742a5c8a85e7bdbb23e8e791c910b_4">
+                <text>Förklara ditt val.</text>
+            </label>
+        </item>
+        <item id="i638e9c2f5f3201276678942866f3d9cd4d">
+            <label key="i638e9c2f5f3201276678942866f3d9cd4d_26133c6953cd305cd5c3589d4e261730_1">
+                <text>Använd informationen till höger, om bildandet av surt regn.</text>
+            </label>
+            <label key="i638e9c2f5f3201276678942866f3d9cd4d_45a11dd91d956b3f27f2cc565c105fb6_2">
+                <text>Beskriv två sätt att minska utsläppen av de vanligaste föroreningarna som orsakar surt regn.</text>
+            </label>
+            <label key="i638e9c2f5f3201276678942866f3d9cd4d_960571033e06093f6dab2296bfa136d6_3">
+                <text>Första sättet:</text>
+            </label>
+            <label key="i638e9c2f5f3201276678942866f3d9cd4d_9b212070e52c31634e00e546895a6aa9_4">
+                <text>Andra sättet:</text>
+            </label>
+        </item>
+        <item id="i638ea0b364a2e1275459e9a81d24321c8b">
+            <label key="i638ea0b364a2e1275459e9a81d24321c8b_5126fc3cd173d9fb5c3305e6a3090d91_1">
+                <text>Använd informationen och diagrammet till höger.</text>
+            </label>
+            <label key="i638ea0b364a2e1275459e9a81d24321c8b_8df166a43cd697af711931a67240004c_2">
+                <text>Vilken art finns det flest av när sjövattnet har pH-värdet 7?</text>
+            </label>
+            <label key="i638ea0b364a2e1275459e9a81d24321c8b_A_61ffe99541fed8ca6fcf9091d954fb03_3">
+                <text>Art A</text>
+            </label>
+            <label key="i638ea0b364a2e1275459e9a81d24321c8b_B_3d35fcfcf87261cc962a880fa47667ff_4">
+                <text>Art B</text>
+            </label>
+            <label key="i638ea0b364a2e1275459e9a81d24321c8b_C_4d57f2c66dfbccc43c4bb25af8546f6b_5">
+                <text>Art C</text>
+            </label>
+            <label key="i638ea0b364a2e1275459e9a81d24321c8b_D_efdf2c3f194bd694f89edeff75ec5b3e_6">
+                <text>Art D</text>
+            </label>
+        </item>
+        <item id="i638ea105303c4128265885b80dc950d669">
+            <label key="i638ea105303c4128265885b80dc950d669_3c76f4c46ce3281922b844b111a9fdcd_1">
+                <text>Baserat på diagrammet, vilken art skulle sannolikt öka i antal om vattnets pH-värde i sjön minskar från 6,3 till 5,0 ?</text>
+            </label>
+            <label key="i638ea105303c4128265885b80dc950d669_A_61ffe99541fed8ca6fcf9091d954fb03_2">
+                <text>Art A</text>
+            </label>
+            <label key="i638ea105303c4128265885b80dc950d669_B_3d35fcfcf87261cc962a880fa47667ff_3">
+                <text>Art B</text>
+            </label>
+            <label key="i638ea105303c4128265885b80dc950d669_C_4d57f2c66dfbccc43c4bb25af8546f6b_4">
+                <text>Art C</text>
+            </label>
+            <label key="i638ea105303c4128265885b80dc950d669_D_efdf2c3f194bd694f89edeff75ec5b3e_5">
+                <text>Art D</text>
+            </label>
+        </item>
+        <item id="i638ea139bd40f2242bf39bd011f442f70">
+            <label key="i638ea139bd40f2242bf39bd011f442f70_7c90608562755bf9b1dd01d9b9335ecd_1">
+                <text>Omar hävdar att om sjövattnet nådde pH 8,5, visar data att det skulle finnas omkring 80 individer av art A per liter vatten.</text>
+            </label>
+            <label key="i638ea139bd40f2242bf39bd011f442f70_83141ad6cb479490a3853ad47508d94c_2">
+                <text>Håller du med Omar?</text>
+            </label>
+            <label key="i638ea139bd40f2242bf39bd011f442f70_A_93cba07454f06a4a960172bbd6e2a435_3">
+                <text>Ja</text>
+            </label>
+            <label key="i638ea139bd40f2242bf39bd011f442f70_B_bafd7322c6e97d25b6299b5d6fe8920b_4">
+                <text>Nej</text>
+            </label>
+            <label key="i638ea139bd40f2242bf39bd011f442f70_4fd72ad9efa6be34b8ac1f513e76dfb5_5">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+    </items>
+</file>

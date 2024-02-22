@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64c83acb25a829.47316615/passage NEW.xml">
+            <label key="64c83acb25a829.47316615_a571c9b4d89977489218fb3a29af3502_1">
+                <text>Återbeskogning</text>
+            </label>
+            <label key="64c83acb25a829.47316615_75058035ad8f9f14089c377e978c0ff5_2">
+                <text>Ett område i Lakes District (i nordvästra England) som en gång i tiden var en trädodling ska återplanteras med inhemska träd (trädarter från regionen).</text>
+            </label>
+            <label key="64c83acb25a829.47316615_b370031b368fa729f04bc18f96fe4574_3">
+                <text>Ellies skola planerar en resa för att hjälpa till med återplanteringen. Att återinföra inhemska träd kallas ibland återbeskogning.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_cfebf1ba03ff7926ced74798820034da_4">
+                <text>Ellie gör lite research om återbeskogning som hon ska presentera för sin klass innan resan.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_05a6e5a5015bff1f56a3a2affa9e30cb_5">
+                <text>Här är utdrag från tre informationskällor som hon har hittat.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_4cd857d77975479362240348d6fcfa41_6">
+                <text>Källa 1: En vägledning för återbeskogning </text>
+            </label>
+            <label key="64c83acb25a829.47316615_f785fa49954179aa5dd0359370ab208f_7">
+                <text>
+                    <strong>‌Stegen i återbeskogning:‌</strong>
+                </text>
+            </label>
+            <label key="64c83acb25a829.47316615_606973f9f166fbe88e22f5046256a280_8">
+                <text>Identifiera de trädarter som är inhemska i området.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_d1c35dc48d8c404e6da0e8a7ea6a6aa8_9">
+                <text>Plantera mellan 10 och 30 olika typer av inhemska träd.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_ecf00889e3d737c460c20ea2c8c79f91_10">
+                <text>Införa ett årligt ogräsbekämpningsprogram.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_f39ecb5e5e1642bc562824d0c05490c0_11">
+                <text>Källa 3: Vetenskaplig tidskrift </text>
+            </label>
+            <label key="64c83acb25a829.47316615_6a2a34a5f552a821f8b2e2335bbd0f2f_12">
+                <text>Termen "återbeskogning" är problematisk. Målet är att återställa hela ekosystemet, inte bara plantera några träd. Enkelt uttryckt behöver vi de rätta träden på de rätta platserna för att skapa en miljö där ännu fler inhemska växter kan börja gro. </text>
+            </label>
+            <label key="64c83acb25a829.47316615_f32b5e72bdf454a5819fdab809ec6c4a_13">
+                <text>Källa 2: Inhemska träd i Lakes District </text>
+            </label>
+            <label key="64c83acb25a829.47316615_429d588357c9ad39535999e57b25391c_14">
+                <text>Inhemska träd i Lakes District</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c83acb25a829.47316615/passage NEW.xml">
+            <label key="64c83acb25a829.47316615_a571c9b4d89977489218fb3a29af3502_1">
+                <text>Återbeskogning</text>
+            </label>
+            <label key="64c83acb25a829.47316615_75058035ad8f9f14089c377e978c0ff5_2">
+                <text>Ett område i Lakes District (i nordvästra England) som en gång i tiden var en trädodling ska återplanteras med inhemska träd (trädarter från regionen).</text>
+            </label>
+            <label key="64c83acb25a829.47316615_b370031b368fa729f04bc18f96fe4574_3">
+                <text>Ellies skola planerar en resa för att hjälpa till med återplanteringen. Att återinföra inhemska träd kallas ibland återbeskogning.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_cfebf1ba03ff7926ced74798820034da_4">
+                <text>Ellie gör lite research om återbeskogning som hon ska presentera för sin klass innan resan.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_05a6e5a5015bff1f56a3a2affa9e30cb_5">
+                <text>Här är utdrag från tre informationskällor som hon har hittat.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_4cd857d77975479362240348d6fcfa41_6">
+                <text>Källa 1: En vägledning för återbeskogning </text>
+            </label>
+            <label key="64c83acb25a829.47316615_f785fa49954179aa5dd0359370ab208f_7">
+                <text>
+                    <strong>‌Stegen i återbeskogning:‌</strong>
+                </text>
+            </label>
+            <label key="64c83acb25a829.47316615_606973f9f166fbe88e22f5046256a280_8">
+                <text>Identifiera de trädarter som är inhemska i området.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_d1c35dc48d8c404e6da0e8a7ea6a6aa8_9">
+                <text>Plantera mellan 10 och 30 olika typer av inhemska träd.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_ecf00889e3d737c460c20ea2c8c79f91_10">
+                <text>Införa ett årligt ogräsbekämpningsprogram.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_f39ecb5e5e1642bc562824d0c05490c0_11">
+                <text>Källa 3: Vetenskaplig tidskrift </text>
+            </label>
+            <label key="64c83acb25a829.47316615_6a2a34a5f552a821f8b2e2335bbd0f2f_12">
+                <text>Termen "återbeskogning" är problematisk. Målet är att återställa hela ekosystemet, inte bara plantera några träd. Enkelt uttryckt behöver vi de rätta träden på de rätta platserna för att skapa en miljö där ännu fler inhemska växter kan börja gro. </text>
+            </label>
+            <label key="64c83acb25a829.47316615_f32b5e72bdf454a5819fdab809ec6c4a_13">
+                <text>Källa 2: Inhemska träd i Lakes District </text>
+            </label>
+            <label key="64c83acb25a829.47316615_429d588357c9ad39535999e57b25391c_14">
+                <text>Inhemska träd i Lakes District</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c83acb25a829.47316615/passage NEW.xml">
+            <label key="64c83acb25a829.47316615_a571c9b4d89977489218fb3a29af3502_1">
+                <text>Återbeskogning</text>
+            </label>
+            <label key="64c83acb25a829.47316615_75058035ad8f9f14089c377e978c0ff5_2">
+                <text>Ett område i Lakes District (i nordvästra England) som en gång i tiden var en trädodling ska återplanteras med inhemska träd (trädarter från regionen).</text>
+            </label>
+            <label key="64c83acb25a829.47316615_b370031b368fa729f04bc18f96fe4574_3">
+                <text>Ellies skola planerar en resa för att hjälpa till med återplanteringen. Att återinföra inhemska träd kallas ibland återbeskogning.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_cfebf1ba03ff7926ced74798820034da_4">
+                <text>Ellie gör lite research om återbeskogning som hon ska presentera för sin klass innan resan.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_05a6e5a5015bff1f56a3a2affa9e30cb_5">
+                <text>Här är utdrag från tre informationskällor som hon har hittat.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_4cd857d77975479362240348d6fcfa41_6">
+                <text>Källa 1: En vägledning för återbeskogning </text>
+            </label>
+            <label key="64c83acb25a829.47316615_f785fa49954179aa5dd0359370ab208f_7">
+                <text>
+                    <strong>‌Stegen i återbeskogning:‌</strong>
+                </text>
+            </label>
+            <label key="64c83acb25a829.47316615_606973f9f166fbe88e22f5046256a280_8">
+                <text>Identifiera de trädarter som är inhemska i området.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_d1c35dc48d8c404e6da0e8a7ea6a6aa8_9">
+                <text>Plantera mellan 10 och 30 olika typer av inhemska träd.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_ecf00889e3d737c460c20ea2c8c79f91_10">
+                <text>Införa ett årligt ogräsbekämpningsprogram.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_f39ecb5e5e1642bc562824d0c05490c0_11">
+                <text>Källa 3: Vetenskaplig tidskrift </text>
+            </label>
+            <label key="64c83acb25a829.47316615_6a2a34a5f552a821f8b2e2335bbd0f2f_12">
+                <text>Termen "återbeskogning" är problematisk. Målet är att återställa hela ekosystemet, inte bara plantera några träd. Enkelt uttryckt behöver vi de rätta träden på de rätta platserna för att skapa en miljö där ännu fler inhemska växter kan börja gro. </text>
+            </label>
+            <label key="64c83acb25a829.47316615_f32b5e72bdf454a5819fdab809ec6c4a_13">
+                <text>Källa 2: Inhemska träd i Lakes District </text>
+            </label>
+            <label key="64c83acb25a829.47316615_429d588357c9ad39535999e57b25391c_14">
+                <text>Inhemska träd i Lakes District</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c83acb25a829.47316615/passage NEW.xml">
+            <label key="64c83acb25a829.47316615_a571c9b4d89977489218fb3a29af3502_1">
+                <text>Återbeskogning</text>
+            </label>
+            <label key="64c83acb25a829.47316615_75058035ad8f9f14089c377e978c0ff5_2">
+                <text>Ett område i Lakes District (i nordvästra England) som en gång i tiden var en trädodling ska återplanteras med inhemska träd (trädarter från regionen).</text>
+            </label>
+            <label key="64c83acb25a829.47316615_b370031b368fa729f04bc18f96fe4574_3">
+                <text>Ellies skola planerar en resa för att hjälpa till med återplanteringen. Att återinföra inhemska träd kallas ibland återbeskogning.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_cfebf1ba03ff7926ced74798820034da_4">
+                <text>Ellie gör lite research om återbeskogning som hon ska presentera för sin klass innan resan.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_05a6e5a5015bff1f56a3a2affa9e30cb_5">
+                <text>Här är utdrag från tre informationskällor som hon har hittat.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_4cd857d77975479362240348d6fcfa41_6">
+                <text>Källa 1: En vägledning för återbeskogning </text>
+            </label>
+            <label key="64c83acb25a829.47316615_f785fa49954179aa5dd0359370ab208f_7">
+                <text>
+                    <strong>‌Stegen i återbeskogning:‌</strong>
+                </text>
+            </label>
+            <label key="64c83acb25a829.47316615_606973f9f166fbe88e22f5046256a280_8">
+                <text>Identifiera de trädarter som är inhemska i området.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_d1c35dc48d8c404e6da0e8a7ea6a6aa8_9">
+                <text>Plantera mellan 10 och 30 olika typer av inhemska träd.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_ecf00889e3d737c460c20ea2c8c79f91_10">
+                <text>Införa ett årligt ogräsbekämpningsprogram.</text>
+            </label>
+            <label key="64c83acb25a829.47316615_f39ecb5e5e1642bc562824d0c05490c0_11">
+                <text>Källa 3: Vetenskaplig tidskrift </text>
+            </label>
+            <label key="64c83acb25a829.47316615_6a2a34a5f552a821f8b2e2335bbd0f2f_12">
+                <text>Termen "återbeskogning" är problematisk. Målet är att återställa hela ekosystemet, inte bara plantera några träd. Enkelt uttryckt behöver vi de rätta träden på de rätta platserna för att skapa en miljö där ännu fler inhemska växter kan börja gro. </text>
+            </label>
+            <label key="64c83acb25a829.47316615_f32b5e72bdf454a5819fdab809ec6c4a_13">
+                <text>Källa 2: Inhemska träd i Lakes District </text>
+            </label>
+            <label key="64c83acb25a829.47316615_429d588357c9ad39535999e57b25391c_14">
+                <text>Inhemska träd i Lakes District</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639fb12a2273d17135c5dcd05514f97aa8">
+            <label key="i639fb12a2273d17135c5dcd05514f97aa8_68335be044dccab40423231970d95983_1">
+                <text>Ellie har granskat all sin research.</text>
+            </label>
+            <label key="i639fb12a2273d17135c5dcd05514f97aa8_97f85e008255b460ccab4801da69cb16_2">
+                <text>Hon vill göra en lista med 10 olika trädarter som skulle vara lämpliga att plantera.</text>
+            </label>
+            <label key="i639fb12a2273d17135c5dcd05514f97aa8_ad134eb98b0d077d2077d7051667decf_3">
+                <text>Vilken av följande källor skulle ge mest relevant information?</text>
+            </label>
+            <label key="i639fb12a2273d17135c5dcd05514f97aa8_A_0d00014967667a7c17d8781ef59e1850_4">
+                <text>Källa 1</text>
+            </label>
+            <label key="i639fb12a2273d17135c5dcd05514f97aa8_B_70dbc168475e69084f3d76d01ee31f74_5">
+                <text>Källa 2</text>
+            </label>
+            <label key="i639fb12a2273d17135c5dcd05514f97aa8_C_bc2162ab0b8d15c38a0d75226213e668_6">
+                <text>Källa 3</text>
+            </label>
+        </item>
+        <item id="i639fb148e6f6050710345cb38d5bb26342">
+            <label key="i639fb148e6f6050710345cb38d5bb26342_8952a390aa07fb630f9e5bd13ea5d697_1">
+                <text>Vad är huvudpoängen i artikeln i den vetenskapliga tidskriften (Källa 3)?</text>
+            </label>
+            <label key="i639fb148e6f6050710345cb38d5bb26342_A_930f97c9d9ce82c044b3620229c3e34b_2">
+                <text>För återbeskogning krävs det att många olika typer av träd planteras i ett område. </text>
+            </label>
+            <label key="i639fb148e6f6050710345cb38d5bb26342_B_b7cb7cbeab550e6b20188f3ea0cbed1e_3">
+                <text>Vi borde plantera både träd och andra typer av växter.</text>
+            </label>
+            <label key="i639fb148e6f6050710345cb38d5bb26342_C_7eaaf3cd490cb4fa3bc97c8f2fc002b0_4">
+                <text>Träd behöver planteras i områden där de är till nytta för ekosystemen.</text>
+            </label>
+            <label key="i639fb148e6f6050710345cb38d5bb26342_D_81eb015a8d0466d5edd12ff47d022dce_5">
+                <text>Vi behöver inte plantera träd eftersom skogen återväxer utan vår hjälp.</text>
+            </label>
+        </item>
+        <item id="i639fb1696a8a7507081b5e07b128344660">
+            <label key="i639fb1696a8a7507081b5e07b128344660_b62360164eab7466289ead9450d6030b_1">
+                <text>En annan elev frågar Elin om de borde plantera pilträd.</text>
+            </label>
+            <label key="i639fb1696a8a7507081b5e07b128344660_1c2230b14263ceb4f0287260caadc753_2">
+                <text>Vad behöver Ellie veta om pilträd innan hon kan fatta ett beslut?</text>
+            </label>
+        </item>
+        <item id="i639fb2967a1f31707349be7f480f011">
+            <label key="i639fb2967a1f31707349be7f480f011_fcf261ab82f4a3e5c71ed37e71303686_1">
+                <text>Elin skrev tre anteckningar från källorna hon hittade.</text>
+            </label>
+            <label key="i639fb2967a1f31707349be7f480f011_2420e24b21c4a6d5735a41eedacaedfb_2">
+                <text>Vilken källa använde Elin för att skriva varje anteckning?</text>
+            </label>
+            <label key="i639fb2967a1f31707349be7f480f011_3ac444aa0b1b485f24ab55db1b7f3c37_3">
+                <text>Para ihop varje källa med rätt anteckning genom att välja en ruta på varje sida.</text>
+            </label>
+            <label key="i639fb2967a1f31707349be7f480f011_4fd6443aa40323c1355b592abc7d5cdc_4">
+                <text>Du kan ta bort en matchning genom att markera linjen och sedan klicka på 'x'.</text>
+            </label>
+            <label key="i639fb2967a1f31707349be7f480f011_0d00014967667a7c17d8781ef59e1850_5">
+                <text>Källa 1</text>
+            </label>
+            <label key="i639fb2967a1f31707349be7f480f011_9872d8575cdad92344ddfc74b2b4d57c_6">
+                <text>Ta reda på hur ogräs kan bekämpas i skogar.</text>
+            </label>
+            <label key="i639fb2967a1f31707349be7f480f011_70dbc168475e69084f3d76d01ee31f74_7">
+                <text>Källa 2</text>
+            </label>
+            <label key="i639fb2967a1f31707349be7f480f011_9d9e7841f280b3abc7d2a725a837270a_8">
+                <text>Mindre växter återväxer naturligt om större träd ger dem skydd.</text>
+            </label>
+            <label key="i639fb2967a1f31707349be7f480f011_bc2162ab0b8d15c38a0d75226213e668_9">
+                <text>Källa 3</text>
+            </label>
+            <label key="i639fb2967a1f31707349be7f480f011_509bc6320aab732cff48068d5391dd10_10">
+                <text>Ek är ett träd som växer sakta och finns i nordvästra England.</text>
+            </label>
+        </item>
+    </items>
+</file>

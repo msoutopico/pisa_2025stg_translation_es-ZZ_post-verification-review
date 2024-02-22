@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/649cfaf38030d7.45545656/passage NEW.xml">
+            <label key="649cfaf38030d7.45545656_564aa0d043747cf04bd1089ae17f60f0_1">
+                <text>Mikroplaster och havslevande organismer</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_aac23c2a765a682d20f8a162c8ebc9c5_2">
+                <text>Plastpartiklar som är mindre än 5 millimeter i diameter klassificeras som mikroplaster.</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_fd4f37892536e183816871a6fa92175b_3">
+                <text>De flesta mikroplaster kommer från större plastbitar som åldras och bryts sönder till mindre fragment.</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_c876d5417e7dccf38e30f3af0e66a9cb_4">
+                <text>Användningen av plast i flaskor, förpackningar och påsar har lett till att stora mängder mikroplaster ackumulerats (samlats) i miljön. Detta är ett problem eftersom mikroplaster inte bryts ner lätt.</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_94961561683e4b6b30e38666fe3adba6_5">
+                <text>Mikroplaster löses inte upp i vatten och de flyter i vatten.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649cfaf38030d7.45545656/passage NEW.xml">
+            <label key="649cfaf38030d7.45545656_564aa0d043747cf04bd1089ae17f60f0_1">
+                <text>Mikroplaster och havslevande organismer</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_aac23c2a765a682d20f8a162c8ebc9c5_2">
+                <text>Plastpartiklar som är mindre än 5 millimeter i diameter klassificeras som mikroplaster.</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_fd4f37892536e183816871a6fa92175b_3">
+                <text>De flesta mikroplaster kommer från större plastbitar som åldras och bryts sönder till mindre fragment.</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_c876d5417e7dccf38e30f3af0e66a9cb_4">
+                <text>Användningen av plast i flaskor, förpackningar och påsar har lett till att stora mängder mikroplaster ackumulerats (samlats) i miljön. Detta är ett problem eftersom mikroplaster inte bryts ner lätt.</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_94961561683e4b6b30e38666fe3adba6_5">
+                <text>Mikroplaster löses inte upp i vatten och de flyter i vatten.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649cfaf38030d7.45545656/passage NEW.xml">
+            <label key="649cfaf38030d7.45545656_564aa0d043747cf04bd1089ae17f60f0_1">
+                <text>Mikroplaster och havslevande organismer</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_aac23c2a765a682d20f8a162c8ebc9c5_2">
+                <text>Plastpartiklar som är mindre än 5 millimeter i diameter klassificeras som mikroplaster.</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_fd4f37892536e183816871a6fa92175b_3">
+                <text>De flesta mikroplaster kommer från större plastbitar som åldras och bryts sönder till mindre fragment.</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_c876d5417e7dccf38e30f3af0e66a9cb_4">
+                <text>Användningen av plast i flaskor, förpackningar och påsar har lett till att stora mängder mikroplaster ackumulerats (samlats) i miljön. Detta är ett problem eftersom mikroplaster inte bryts ner lätt.</text>
+            </label>
+            <label key="649cfaf38030d7.45545656_94961561683e4b6b30e38666fe3adba6_5">
+                <text>Mikroplaster löses inte upp i vatten och de flyter i vatten.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639ff3e32d48617130656a5b94d5f41464">
+            <label key="i639ff3e32d48617130656a5b94d5f41464_128669da33c7f700ccd1d2fee0892103_1">
+                <text>Mikroplaster kan ackumuleras (samlas) i celler och vävnader hos havslevande djur.</text>
+            </label>
+            <label key="i639ff3e32d48617130656a5b94d5f41464_a502e1b5a6570307edeffd25139cc89e_2">
+                <text>Den största källan till de mikroplaster som ackumuleras i havslevande organismer är födan de äter.</text>
+            </label>
+            <label key="i639ff3e32d48617130656a5b94d5f41464_7f7549853d8891ac7c374b0b09bfe8a6_3">
+                <text>Vilket av de följande påståendena måste vara sant för att mikroplaster ska ackumuleras i havslevande djur?</text>
+            </label>
+            <label key="i639ff3e32d48617130656a5b94d5f41464_A_898fd2fe0bf6de3318dad54745eb55f9_4">
+                <text>The microplastics resemble the animal’s natural food.</text>
+            </label>
+            <label key="i639ff3e32d48617130656a5b94d5f41464_B_fd63ead58da891892a0b38cdf27f0f1b_5">
+                <text>The microplastics are present in every item of food eaten by the animal.</text>
+            </label>
+            <label key="i639ff3e32d48617130656a5b94d5f41464_C_ba6afdba8cdbcdee40ba052a0f10085b_6">
+                <text>The microplastics are removed from the animal’s body more slowly than they are ingested.</text>
+            </label>
+            <label key="i639ff3e32d48617130656a5b94d5f41464_D_9cedf8c1511cdf14e0c1beddc176839b_7">
+                <text>The microplastics originated from discarded single-use plastics, such as plastic drinking straws.</text>
+            </label>
+        </item>
+        <item id="i642245a291d44407402aea37f028fff97a">
+            <label key="i642245a291d44407402aea37f028fff97a_8ca4b6c6459a280843334288396e81bd_1">
+                <text>Mikroplaster är ett allvarligt hot mot havslevande organismer.</text>
+            </label>
+            <label key="i642245a291d44407402aea37f028fff97a_6ed661f21365564391802928756dea40_2">
+                <text>Kan följande strategier minska mängden mikroplaster i marina miljöer?</text>
+            </label>
+            <label key="i642245a291d44407402aea37f028fff97a_dcec6fc7f1749042d17eb0b2d90c7045_3">
+                <text>Välj 'Ja' eller 'Nej' för varje strategi.</text>
+            </label>
+            <label key="i642245a291d44407402aea37f028fff97a_Y_fdc1563a8afc5411a7aba3beeb918bd4_4">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i642245a291d44407402aea37f028fff97a_N_758eaa648d8250f58a4ec4251f2ea215_5">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i642245a291d44407402aea37f028fff97a_Row1_0ec9a7fee5031d298d420c76a7981709_6">
+                <text>filtrering av avloppsvatten innan det släpps ut i havet</text>
+            </label>
+            <label key="i642245a291d44407402aea37f028fff97a_Row2_19a3023f59c34566ae2aec47920db6b7_7">
+                <text>direkt borttagning av mikroplaster från havsbottnen</text>
+            </label>
+            <label key="i642245a291d44407402aea37f028fff97a_Row3_6f0d96411bebc5be00a2c5cc856f61cd_8">
+                <text>ökad återvinning och återanvändning av befintliga plastmaterial</text>
+            </label>
+            <label key="i642245a291d44407402aea37f028fff97a_Row4_3ea6530b865390b4b01a688356a541ba_9">
+                <text>reklamkampanjer som fokuserar på att tillverka plast med användning av hållbara energikällor</text>
+            </label>
+        </item>
+        <item id="i639ff46727c8a27961e433624fa788263">
+            <label key="i639ff46727c8a27961e433624fa788263_ec21478ed5921c7a8c50624841a20311_1">
+                <text>Amara är orolig över mängden mikroplaster i miljön. På grund av sin oro har hon bestämt sig för att sluta köpa mat som är inslagen i plast.</text>
+            </label>
+            <label key="i639ff46727c8a27961e433624fa788263_869da7eed98f3ca954f1c8b3ad878e07_2">
+                <text>Hennes vän tror inte att det kommer att göra någon skillnad eftersom maten redan har förpackats och plasten ändå kommer att hamna i miljön till slut.</text>
+            </label>
+            <label key="i639ff46727c8a27961e433624fa788263_24110dff9092d13f4aadbcd39e2fd840_3">
+                <text>Hur kan Amaras agerande bidra till att minska mängden mikroplaster i miljön?</text>
+            </label>
+        </item>
+    </items>
+</file>

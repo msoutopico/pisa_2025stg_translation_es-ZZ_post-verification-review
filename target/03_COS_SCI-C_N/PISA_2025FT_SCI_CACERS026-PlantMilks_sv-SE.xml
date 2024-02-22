@@ -1,0 +1,2583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64704c81391104.75978647/passage NEW.xml">
+            <label key="64704c81391104.75978647_077383cb59b54e8e12b06f741b2fee41_1">
+                <text>Växtbaserade drycker</text>
+            </label>
+            <label key="64704c81391104.75978647_49bc40adb735f3c3937bda06bcc6b5cf_2">
+                <text>Tabellen visar näringsvärden för mjölk av animaliskt ursprung och några växtbaserade drycker som alternativ till mjölk.</text>
+            </label>
+            <label key="64704c81391104.75978647_866a58230cf13573a40988dc6debd67b_3">
+                <text>
+                    <strong>‌(Per portion på 200 ml)‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7c233a68bb7f41fd272554f1e49d5a07_4">
+                <text>
+                    <strong>‌Mandeldryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_4b02a5b8da403b36083763c143a56854_5">
+                <text>Mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_4eba14641aef6661448a6e62bbe54a2e_6">
+                <text>
+                    <strong>‌Havredryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_81358ed06de42503bc795b3cf25e24b9_7">
+                <text>
+                    <strong>‌Risdryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_c968fe9c276889c62303c3cebd36bdbd_8">
+                <text>Sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_7c68debbc96a3be39af65e41940ab1d1_9">
+                <text>Energi (kcal)</text>
+            </label>
+            <label key="64704c81391104.75978647_a1d0c6e83f027327d8461063f4ac58a6_10">
+                <text>42</text>
+            </label>
+            <label key="64704c81391104.75978647_ed3d2c21991e3bef5e069713af9fa6ca_11">
+                <text>98</text>
+            </label>
+            <label key="64704c81391104.75978647_54229abfcfa5649e7003b83dd4755294_12">
+                <text>91</text>
+            </label>
+            <label key="64704c81391104.75978647_92cc227532d17e56e07902b254dfad10_13">
+                <text>92</text>
+            </label>
+            <label key="64704c81391104.75978647_3295c76acbf4caaed33c36b1b5fc2cb1_14">
+                <text>66</text>
+            </label>
+            <label key="64704c81391104.75978647_31f12f42463af7f6a615c117531abe63_15">
+                <text>Fett (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_96e5a788338a9dc15622277ad22e316c_16">
+                <text>2,9</text>
+            </label>
+            <label key="64704c81391104.75978647_31053ad0506e935470ca21b43cae98cf_17">
+                <text>3,4</text>
+            </label>
+            <label key="64704c81391104.75978647_eccbc87e4b5ce2fe28308fd9f2a7baf3_18">
+                <text>3</text>
+            </label>
+            <label key="64704c81391104.75978647_4885938bbcc8f927854e4d0307d4467c_19">
+                <text>1,9</text>
+            </label>
+            <label key="64704c81391104.75978647_e44436592c2daabbd3d797f8967245a3_20">
+                <text>3,6</text>
+            </label>
+            <label key="64704c81391104.75978647_b2076faaa21622bb9b4d3f61ad832906_21">
+                <text>Mättat fett (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_cb5ae17636e975f9bf71ddf5bc542075_22">
+                <text>0,1</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_23">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_24">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_25">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_26">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_dfcd2a9a965590eb0b875e3da16e8fbc_27">
+                <text>Kolhydrater (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_e9aa2cebdb28a919e34609630508c269_28">
+                <text>2,4</text>
+            </label>
+            <label key="64704c81391104.75978647_eaf2f97729e8d5e4d205672da8afc9a5_29">
+                <text>9,6</text>
+            </label>
+            <label key="64704c81391104.75978647_6f5a3bb2c4d74e30623014f733481419_30">
+                <text>13,2</text>
+            </label>
+            <label key="64704c81391104.75978647_5d93f7609c95588e766ce570e9b035a2_31">
+                <text>17,9</text>
+            </label>
+            <label key="64704c81391104.75978647_4885938bbcc8f927854e4d0307d4467c_32">
+                <text>1,9</text>
+            </label>
+            <label key="64704c81391104.75978647_5abf2212742a162eed1bc9cf48284297_33">
+                <text>Sockerarter (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_34">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_eaf2f97729e8d5e4d205672da8afc9a5_35">
+                <text>9,6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_36">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_4a920d14425c3a17ead55b4d93d9f5be_37">
+                <text>10,3</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_38">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_86114afc928fdb972bd0c1b10f772bb6_39">
+                <text>Fibrer (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_40">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_41">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_42">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_43">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_8ea786815a5b25bc041de090ab2282f2_44">
+                <text>Protein (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_45">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_74c5d9234051010a38a669f48bfeb435_46">
+                <text>7,2</text>
+            </label>
+            <label key="64704c81391104.75978647_9e605ce3bb6ad134bb55c54d861ceb6a_47">
+                <text>1,4</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_48">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_10851bea5d822eacda7e5b46812b1b33_49">
+                <text>6,6</text>
+            </label>
+            <label key="64704c81391104.75978647_33e2b0eba243044fd21babaa2a5dd5ff_50">
+                <text>Salt (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_e85b79abfd76b7c13b1334d8d8c194a5_51">
+                <text>0,3</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_52">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_53">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_cb5ae17636e975f9bf71ddf5bc542075_54">
+                <text>0,1</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_55">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_4cb6a931d14d62e8c8f3115421de2256_56">
+                <text>Kalcium (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_57">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_621bf66ddb7c962aa0d22ac97d69b793_58">
+                <text>248</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_59">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_6da9003b743b65f4c0ccd295cc484e57_60">
+                <text>230</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_61">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_4074ffe8876499da053883589d9fab7a_62">
+                <text>Jod (µg)</text>
+            </label>
+            <label key="64704c81391104.75978647_ea5d2f1c4608232e07d3aa3d998e5135_63">
+                <text>64</text>
+            </label>
+            <label key="64704c81391104.75978647_2b2fca9e5fb7125eec153eab2235aeab_64">
+                <text>Kalium (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_34173cb38f07f89ddbebc2ac9128303f_65">
+                <text>30</text>
+            </label>
+            <label key="64704c81391104.75978647_f2fc990265c712c49d51a18a32b39f0c_66">
+                <text>324</text>
+            </label>
+            <label key="64704c81391104.75978647_ad61ab143223efbc24c7d2583be69251_67">
+                <text>74</text>
+            </label>
+            <label key="64704c81391104.75978647_d82c8d1619ad8176d665453cfb2e55f0_68">
+                <text>53</text>
+            </label>
+            <label key="64704c81391104.75978647_93db85ed909c13838ff95ccfa94cebd9_69">
+                <text>86</text>
+            </label>
+            <label key="64704c81391104.75978647_e65c74cc3d01bdde579ca536ee5e3ddd_70">
+                <text>Riboflavin (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_71">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_72">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_73">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_74">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_75">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_58981f5e221588e163605ee67007cd4b_76">
+                <text>Vitamin B12 (µg)</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_77">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_f932bed2d12442d21507b51d22b88dd7_78">
+                <text>1,8</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_79">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_80">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_81">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_3f5573902bc1d38265072d5289fed639_82">
+                <text>Stapeldiagrammen nedan visar olika typer av miljöpåverkan orsakad av mjölk av animaliskt ursprung och av några växtbaserade dryckesalternativ.</text>
+            </label>
+            <label key="64704c81391104.75978647_bfb1beb004273c67d310c6057e331738_83">
+                <text>
+                    <strong>‌Markanvändning ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_84">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_85">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_86">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_87">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_88">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_a262b50c7dee3b1454de343303c109db_89">
+                <text>
+                    <strong>‌Användning av färskvatten ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_90">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_91">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_92">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_93">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_94">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_a566bc5c02094789fdceea08a262ce2d_95">
+                <text>
+                    <strong>‌Utsläpp av växthusgaser ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_96">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_97">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_98">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_99">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_100">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_c752a19a08298bdda8cbe7f8d1075612_101">
+                <text>
+                    <strong>‌Övergödning* ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_102">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_103">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_104">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_105">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_106">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_107">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_d31862ccac30c1234af9b4863c955a78_108">
+                <text>8,95</text>
+            </label>
+            <label key="64704c81391104.75978647_e84cbf7ec84952204e6c87b0bd7861b3_109">
+                <text>0,76</text>
+            </label>
+            <label key="64704c81391104.75978647_149dd5056939405870c9bb50cbc8691c_110">
+                <text>0,34</text>
+            </label>
+            <label key="64704c81391104.75978647_7dbf455f8e8e1a7afd34ceb81beb1523_111">
+                <text>0,66</text>
+            </label>
+            <label key="64704c81391104.75978647_da0717d4102ccb65679bda49a8bba52b_112">
+                <text>371,46</text>
+            </label>
+            <label key="64704c81391104.75978647_f4318db7a5b6c6aee489647442cc7f78_113">
+                <text>628,2</text>
+            </label>
+            <label key="64704c81391104.75978647_0a8072e18b731bc472c64a70b2c50504_114">
+                <text>48,24</text>
+            </label>
+            <label key="64704c81391104.75978647_444e4241078a75797778516a31f30f7f_115">
+                <text>269,81</text>
+            </label>
+            <label key="64704c81391104.75978647_3816eed49ce66c0f3f9bfa592d48d27e_116">
+                <text>27,8</text>
+            </label>
+            <label key="64704c81391104.75978647_91c85f899e56014969935fefd68830b9_117">
+                <text>0,7</text>
+            </label>
+            <label key="64704c81391104.75978647_d5fadf1107bcc261732cb6931002ed1d_118">
+                <text>3,15</text>
+            </label>
+            <label key="64704c81391104.75978647_a894124cc6d5c5c71afe060d5dde0762_119">
+                <text>0,9</text>
+            </label>
+            <label key="64704c81391104.75978647_836eb480bf66641d4fb44675e000d22b_120">
+                <text>1,18</text>
+            </label>
+            <label key="64704c81391104.75978647_5a01f7b0f3c45c7ecda1bdeb54968ce0_121">
+                <text>0,98</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_122">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_aae30b49a35e96c5a57360ae08be8ff3_123">
+                <text>10,65</text>
+            </label>
+            <label key="64704c81391104.75978647_d4b923b70b3c526734ffcbe31774aad6_124">
+                <text>1,62</text>
+            </label>
+            <label key="64704c81391104.75978647_e5b3383d4bf47ddbe0092bde40374525_125">
+                <text>4,69</text>
+            </label>
+            <label key="64704c81391104.75978647_a0561b031c4f4e1c2df71883501cd60e_126">
+                <text>1,06</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_127">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_a87ff679a2f3e71d9181a67b7542122c_128">
+                <text>4</text>
+            </label>
+            <label key="64704c81391104.75978647_1679091c5a880faf6fb5e6087eb1b2dc_129">
+                <text>6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_130">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_d3fe189cc23945a5c5df2f65b928d12b_131">
+                <text>
+                    <strong>‌m² ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_f899139df5e1059396431415e770c6dd_132">
+                <text>100</text>
+            </label>
+            <label key="64704c81391104.75978647_3644a684f98ea8fe223c713b77189a77_133">
+                <text>200</text>
+            </label>
+            <label key="64704c81391104.75978647_94f6d7e04a4d452035300f18b984988c_134">
+                <text>300</text>
+            </label>
+            <label key="64704c81391104.75978647_18d8042386b79e2c279fd162df0205c8_135">
+                <text>400</text>
+            </label>
+            <label key="64704c81391104.75978647_cee631121c2ec9232f3a2f028ad5c89b_136">
+                <text>500</text>
+            </label>
+            <label key="64704c81391104.75978647_d490d7b4576290fa60eb31b5fc917ad1_137">
+                <text>600</text>
+            </label>
+            <label key="64704c81391104.75978647_8e7c88d264b7d3263f53e4d4fe985f45_138">
+                <text>
+                    <strong>‌L ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_139">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_140">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_141">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_142">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_8221435bcce913b5c2dc22eaf6cb6590_143">
+                <text>2,5</text>
+            </label>
+            <label key="64704c81391104.75978647_eccbc87e4b5ce2fe28308fd9f2a7baf3_144">
+                <text>3</text>
+            </label>
+            <label key="64704c81391104.75978647_4133705a79e99c47950f59692f64ad45_145">
+                <text>
+                    <strong>‌kg ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_146">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_a87ff679a2f3e71d9181a67b7542122c_147">
+                <text>4</text>
+            </label>
+            <label key="64704c81391104.75978647_1679091c5a880faf6fb5e6087eb1b2dc_148">
+                <text>6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_149">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_d3d9446802a44259755d38e6d163e820_150">
+                <text>10</text>
+            </label>
+            <label key="64704c81391104.75978647_4133705a79e99c47950f59692f64ad45_151">
+                <text>
+                    <strong>‌kg ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_6b382ca26571aaadcd372cbf0ed1fdd7_152">
+                <text>*Övergödning uppstår när det blir en ökning av mineraler och näringsämnen, till exempel fosfor eller kväve, och kan leda till tillväxt av skadliga alger.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64704c81391104.75978647/passage NEW.xml">
+            <label key="64704c81391104.75978647_077383cb59b54e8e12b06f741b2fee41_1">
+                <text>Växtbaserade drycker</text>
+            </label>
+            <label key="64704c81391104.75978647_49bc40adb735f3c3937bda06bcc6b5cf_2">
+                <text>Tabellen visar näringsvärden för mjölk av animaliskt ursprung och några växtbaserade drycker som alternativ till mjölk.</text>
+            </label>
+            <label key="64704c81391104.75978647_866a58230cf13573a40988dc6debd67b_3">
+                <text>
+                    <strong>‌(Per portion på 200 ml)‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7c233a68bb7f41fd272554f1e49d5a07_4">
+                <text>
+                    <strong>‌Mandeldryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_4b02a5b8da403b36083763c143a56854_5">
+                <text>Mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_4eba14641aef6661448a6e62bbe54a2e_6">
+                <text>
+                    <strong>‌Havredryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_81358ed06de42503bc795b3cf25e24b9_7">
+                <text>
+                    <strong>‌Risdryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_c968fe9c276889c62303c3cebd36bdbd_8">
+                <text>Sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_7c68debbc96a3be39af65e41940ab1d1_9">
+                <text>Energi (kcal)</text>
+            </label>
+            <label key="64704c81391104.75978647_a1d0c6e83f027327d8461063f4ac58a6_10">
+                <text>42</text>
+            </label>
+            <label key="64704c81391104.75978647_ed3d2c21991e3bef5e069713af9fa6ca_11">
+                <text>98</text>
+            </label>
+            <label key="64704c81391104.75978647_54229abfcfa5649e7003b83dd4755294_12">
+                <text>91</text>
+            </label>
+            <label key="64704c81391104.75978647_92cc227532d17e56e07902b254dfad10_13">
+                <text>92</text>
+            </label>
+            <label key="64704c81391104.75978647_3295c76acbf4caaed33c36b1b5fc2cb1_14">
+                <text>66</text>
+            </label>
+            <label key="64704c81391104.75978647_31f12f42463af7f6a615c117531abe63_15">
+                <text>Fett (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_96e5a788338a9dc15622277ad22e316c_16">
+                <text>2,9</text>
+            </label>
+            <label key="64704c81391104.75978647_31053ad0506e935470ca21b43cae98cf_17">
+                <text>3,4</text>
+            </label>
+            <label key="64704c81391104.75978647_eccbc87e4b5ce2fe28308fd9f2a7baf3_18">
+                <text>3</text>
+            </label>
+            <label key="64704c81391104.75978647_4885938bbcc8f927854e4d0307d4467c_19">
+                <text>1,9</text>
+            </label>
+            <label key="64704c81391104.75978647_e44436592c2daabbd3d797f8967245a3_20">
+                <text>3,6</text>
+            </label>
+            <label key="64704c81391104.75978647_b2076faaa21622bb9b4d3f61ad832906_21">
+                <text>Mättat fett (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_cb5ae17636e975f9bf71ddf5bc542075_22">
+                <text>0,1</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_23">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_24">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_25">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_26">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_dfcd2a9a965590eb0b875e3da16e8fbc_27">
+                <text>Kolhydrater (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_e9aa2cebdb28a919e34609630508c269_28">
+                <text>2,4</text>
+            </label>
+            <label key="64704c81391104.75978647_eaf2f97729e8d5e4d205672da8afc9a5_29">
+                <text>9,6</text>
+            </label>
+            <label key="64704c81391104.75978647_6f5a3bb2c4d74e30623014f733481419_30">
+                <text>13,2</text>
+            </label>
+            <label key="64704c81391104.75978647_5d93f7609c95588e766ce570e9b035a2_31">
+                <text>17,9</text>
+            </label>
+            <label key="64704c81391104.75978647_4885938bbcc8f927854e4d0307d4467c_32">
+                <text>1,9</text>
+            </label>
+            <label key="64704c81391104.75978647_5abf2212742a162eed1bc9cf48284297_33">
+                <text>Sockerarter (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_34">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_eaf2f97729e8d5e4d205672da8afc9a5_35">
+                <text>9,6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_36">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_4a920d14425c3a17ead55b4d93d9f5be_37">
+                <text>10,3</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_38">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_86114afc928fdb972bd0c1b10f772bb6_39">
+                <text>Fibrer (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_40">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_41">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_42">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_43">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_8ea786815a5b25bc041de090ab2282f2_44">
+                <text>Protein (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_45">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_74c5d9234051010a38a669f48bfeb435_46">
+                <text>7,2</text>
+            </label>
+            <label key="64704c81391104.75978647_9e605ce3bb6ad134bb55c54d861ceb6a_47">
+                <text>1,4</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_48">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_10851bea5d822eacda7e5b46812b1b33_49">
+                <text>6,6</text>
+            </label>
+            <label key="64704c81391104.75978647_33e2b0eba243044fd21babaa2a5dd5ff_50">
+                <text>Salt (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_e85b79abfd76b7c13b1334d8d8c194a5_51">
+                <text>0,3</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_52">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_53">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_cb5ae17636e975f9bf71ddf5bc542075_54">
+                <text>0,1</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_55">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_4cb6a931d14d62e8c8f3115421de2256_56">
+                <text>Kalcium (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_57">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_621bf66ddb7c962aa0d22ac97d69b793_58">
+                <text>248</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_59">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_6da9003b743b65f4c0ccd295cc484e57_60">
+                <text>230</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_61">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_4074ffe8876499da053883589d9fab7a_62">
+                <text>Jod (µg)</text>
+            </label>
+            <label key="64704c81391104.75978647_ea5d2f1c4608232e07d3aa3d998e5135_63">
+                <text>64</text>
+            </label>
+            <label key="64704c81391104.75978647_2b2fca9e5fb7125eec153eab2235aeab_64">
+                <text>Kalium (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_34173cb38f07f89ddbebc2ac9128303f_65">
+                <text>30</text>
+            </label>
+            <label key="64704c81391104.75978647_f2fc990265c712c49d51a18a32b39f0c_66">
+                <text>324</text>
+            </label>
+            <label key="64704c81391104.75978647_ad61ab143223efbc24c7d2583be69251_67">
+                <text>74</text>
+            </label>
+            <label key="64704c81391104.75978647_d82c8d1619ad8176d665453cfb2e55f0_68">
+                <text>53</text>
+            </label>
+            <label key="64704c81391104.75978647_93db85ed909c13838ff95ccfa94cebd9_69">
+                <text>86</text>
+            </label>
+            <label key="64704c81391104.75978647_e65c74cc3d01bdde579ca536ee5e3ddd_70">
+                <text>Riboflavin (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_71">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_72">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_73">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_74">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_75">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_58981f5e221588e163605ee67007cd4b_76">
+                <text>Vitamin B12 (µg)</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_77">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_f932bed2d12442d21507b51d22b88dd7_78">
+                <text>1,8</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_79">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_80">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_81">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_3f5573902bc1d38265072d5289fed639_82">
+                <text>Stapeldiagrammen nedan visar olika typer av miljöpåverkan orsakad av mjölk av animaliskt ursprung och av några växtbaserade dryckesalternativ.</text>
+            </label>
+            <label key="64704c81391104.75978647_bfb1beb004273c67d310c6057e331738_83">
+                <text>
+                    <strong>‌Markanvändning ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_84">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_85">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_86">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_87">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_88">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_a262b50c7dee3b1454de343303c109db_89">
+                <text>
+                    <strong>‌Användning av färskvatten ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_90">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_91">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_92">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_93">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_94">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_a566bc5c02094789fdceea08a262ce2d_95">
+                <text>
+                    <strong>‌Utsläpp av växthusgaser ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_96">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_97">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_98">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_99">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_100">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_c752a19a08298bdda8cbe7f8d1075612_101">
+                <text>
+                    <strong>‌Övergödning* ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_102">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_103">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_104">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_105">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_106">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_107">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_d31862ccac30c1234af9b4863c955a78_108">
+                <text>8,95</text>
+            </label>
+            <label key="64704c81391104.75978647_e84cbf7ec84952204e6c87b0bd7861b3_109">
+                <text>0,76</text>
+            </label>
+            <label key="64704c81391104.75978647_149dd5056939405870c9bb50cbc8691c_110">
+                <text>0,34</text>
+            </label>
+            <label key="64704c81391104.75978647_7dbf455f8e8e1a7afd34ceb81beb1523_111">
+                <text>0,66</text>
+            </label>
+            <label key="64704c81391104.75978647_da0717d4102ccb65679bda49a8bba52b_112">
+                <text>371,46</text>
+            </label>
+            <label key="64704c81391104.75978647_f4318db7a5b6c6aee489647442cc7f78_113">
+                <text>628,2</text>
+            </label>
+            <label key="64704c81391104.75978647_0a8072e18b731bc472c64a70b2c50504_114">
+                <text>48,24</text>
+            </label>
+            <label key="64704c81391104.75978647_444e4241078a75797778516a31f30f7f_115">
+                <text>269,81</text>
+            </label>
+            <label key="64704c81391104.75978647_3816eed49ce66c0f3f9bfa592d48d27e_116">
+                <text>27,8</text>
+            </label>
+            <label key="64704c81391104.75978647_91c85f899e56014969935fefd68830b9_117">
+                <text>0,7</text>
+            </label>
+            <label key="64704c81391104.75978647_d5fadf1107bcc261732cb6931002ed1d_118">
+                <text>3,15</text>
+            </label>
+            <label key="64704c81391104.75978647_a894124cc6d5c5c71afe060d5dde0762_119">
+                <text>0,9</text>
+            </label>
+            <label key="64704c81391104.75978647_836eb480bf66641d4fb44675e000d22b_120">
+                <text>1,18</text>
+            </label>
+            <label key="64704c81391104.75978647_5a01f7b0f3c45c7ecda1bdeb54968ce0_121">
+                <text>0,98</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_122">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_aae30b49a35e96c5a57360ae08be8ff3_123">
+                <text>10,65</text>
+            </label>
+            <label key="64704c81391104.75978647_d4b923b70b3c526734ffcbe31774aad6_124">
+                <text>1,62</text>
+            </label>
+            <label key="64704c81391104.75978647_e5b3383d4bf47ddbe0092bde40374525_125">
+                <text>4,69</text>
+            </label>
+            <label key="64704c81391104.75978647_a0561b031c4f4e1c2df71883501cd60e_126">
+                <text>1,06</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_127">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_a87ff679a2f3e71d9181a67b7542122c_128">
+                <text>4</text>
+            </label>
+            <label key="64704c81391104.75978647_1679091c5a880faf6fb5e6087eb1b2dc_129">
+                <text>6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_130">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_d3fe189cc23945a5c5df2f65b928d12b_131">
+                <text>
+                    <strong>‌m² ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_f899139df5e1059396431415e770c6dd_132">
+                <text>100</text>
+            </label>
+            <label key="64704c81391104.75978647_3644a684f98ea8fe223c713b77189a77_133">
+                <text>200</text>
+            </label>
+            <label key="64704c81391104.75978647_94f6d7e04a4d452035300f18b984988c_134">
+                <text>300</text>
+            </label>
+            <label key="64704c81391104.75978647_18d8042386b79e2c279fd162df0205c8_135">
+                <text>400</text>
+            </label>
+            <label key="64704c81391104.75978647_cee631121c2ec9232f3a2f028ad5c89b_136">
+                <text>500</text>
+            </label>
+            <label key="64704c81391104.75978647_d490d7b4576290fa60eb31b5fc917ad1_137">
+                <text>600</text>
+            </label>
+            <label key="64704c81391104.75978647_8e7c88d264b7d3263f53e4d4fe985f45_138">
+                <text>
+                    <strong>‌L ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_139">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_140">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_141">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_142">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_8221435bcce913b5c2dc22eaf6cb6590_143">
+                <text>2,5</text>
+            </label>
+            <label key="64704c81391104.75978647_eccbc87e4b5ce2fe28308fd9f2a7baf3_144">
+                <text>3</text>
+            </label>
+            <label key="64704c81391104.75978647_4133705a79e99c47950f59692f64ad45_145">
+                <text>
+                    <strong>‌kg ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_146">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_a87ff679a2f3e71d9181a67b7542122c_147">
+                <text>4</text>
+            </label>
+            <label key="64704c81391104.75978647_1679091c5a880faf6fb5e6087eb1b2dc_148">
+                <text>6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_149">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_d3d9446802a44259755d38e6d163e820_150">
+                <text>10</text>
+            </label>
+            <label key="64704c81391104.75978647_4133705a79e99c47950f59692f64ad45_151">
+                <text>
+                    <strong>‌kg ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_6b382ca26571aaadcd372cbf0ed1fdd7_152">
+                <text>*Övergödning uppstår när det blir en ökning av mineraler och näringsämnen, till exempel fosfor eller kväve, och kan leda till tillväxt av skadliga alger.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64704c81391104.75978647/passage NEW.xml">
+            <label key="64704c81391104.75978647_077383cb59b54e8e12b06f741b2fee41_1">
+                <text>Växtbaserade drycker</text>
+            </label>
+            <label key="64704c81391104.75978647_49bc40adb735f3c3937bda06bcc6b5cf_2">
+                <text>Tabellen visar näringsvärden för mjölk av animaliskt ursprung och några växtbaserade drycker som alternativ till mjölk.</text>
+            </label>
+            <label key="64704c81391104.75978647_866a58230cf13573a40988dc6debd67b_3">
+                <text>
+                    <strong>‌(Per portion på 200 ml)‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7c233a68bb7f41fd272554f1e49d5a07_4">
+                <text>
+                    <strong>‌Mandeldryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_4b02a5b8da403b36083763c143a56854_5">
+                <text>Mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_4eba14641aef6661448a6e62bbe54a2e_6">
+                <text>
+                    <strong>‌Havredryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_81358ed06de42503bc795b3cf25e24b9_7">
+                <text>
+                    <strong>‌Risdryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_c968fe9c276889c62303c3cebd36bdbd_8">
+                <text>Sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_7c68debbc96a3be39af65e41940ab1d1_9">
+                <text>Energi (kcal)</text>
+            </label>
+            <label key="64704c81391104.75978647_a1d0c6e83f027327d8461063f4ac58a6_10">
+                <text>42</text>
+            </label>
+            <label key="64704c81391104.75978647_ed3d2c21991e3bef5e069713af9fa6ca_11">
+                <text>98</text>
+            </label>
+            <label key="64704c81391104.75978647_54229abfcfa5649e7003b83dd4755294_12">
+                <text>91</text>
+            </label>
+            <label key="64704c81391104.75978647_92cc227532d17e56e07902b254dfad10_13">
+                <text>92</text>
+            </label>
+            <label key="64704c81391104.75978647_3295c76acbf4caaed33c36b1b5fc2cb1_14">
+                <text>66</text>
+            </label>
+            <label key="64704c81391104.75978647_31f12f42463af7f6a615c117531abe63_15">
+                <text>Fett (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_96e5a788338a9dc15622277ad22e316c_16">
+                <text>2,9</text>
+            </label>
+            <label key="64704c81391104.75978647_31053ad0506e935470ca21b43cae98cf_17">
+                <text>3,4</text>
+            </label>
+            <label key="64704c81391104.75978647_eccbc87e4b5ce2fe28308fd9f2a7baf3_18">
+                <text>3</text>
+            </label>
+            <label key="64704c81391104.75978647_4885938bbcc8f927854e4d0307d4467c_19">
+                <text>1,9</text>
+            </label>
+            <label key="64704c81391104.75978647_e44436592c2daabbd3d797f8967245a3_20">
+                <text>3,6</text>
+            </label>
+            <label key="64704c81391104.75978647_b2076faaa21622bb9b4d3f61ad832906_21">
+                <text>Mättat fett (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_cb5ae17636e975f9bf71ddf5bc542075_22">
+                <text>0,1</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_23">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_24">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_25">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_26">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_dfcd2a9a965590eb0b875e3da16e8fbc_27">
+                <text>Kolhydrater (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_e9aa2cebdb28a919e34609630508c269_28">
+                <text>2,4</text>
+            </label>
+            <label key="64704c81391104.75978647_eaf2f97729e8d5e4d205672da8afc9a5_29">
+                <text>9,6</text>
+            </label>
+            <label key="64704c81391104.75978647_6f5a3bb2c4d74e30623014f733481419_30">
+                <text>13,2</text>
+            </label>
+            <label key="64704c81391104.75978647_5d93f7609c95588e766ce570e9b035a2_31">
+                <text>17,9</text>
+            </label>
+            <label key="64704c81391104.75978647_4885938bbcc8f927854e4d0307d4467c_32">
+                <text>1,9</text>
+            </label>
+            <label key="64704c81391104.75978647_5abf2212742a162eed1bc9cf48284297_33">
+                <text>Sockerarter (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_34">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_eaf2f97729e8d5e4d205672da8afc9a5_35">
+                <text>9,6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_36">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_4a920d14425c3a17ead55b4d93d9f5be_37">
+                <text>10,3</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_38">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_86114afc928fdb972bd0c1b10f772bb6_39">
+                <text>Fibrer (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_40">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_41">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_42">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_43">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_8ea786815a5b25bc041de090ab2282f2_44">
+                <text>Protein (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_45">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_74c5d9234051010a38a669f48bfeb435_46">
+                <text>7,2</text>
+            </label>
+            <label key="64704c81391104.75978647_9e605ce3bb6ad134bb55c54d861ceb6a_47">
+                <text>1,4</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_48">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_10851bea5d822eacda7e5b46812b1b33_49">
+                <text>6,6</text>
+            </label>
+            <label key="64704c81391104.75978647_33e2b0eba243044fd21babaa2a5dd5ff_50">
+                <text>Salt (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_e85b79abfd76b7c13b1334d8d8c194a5_51">
+                <text>0,3</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_52">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_53">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_cb5ae17636e975f9bf71ddf5bc542075_54">
+                <text>0,1</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_55">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_4cb6a931d14d62e8c8f3115421de2256_56">
+                <text>Kalcium (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_57">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_621bf66ddb7c962aa0d22ac97d69b793_58">
+                <text>248</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_59">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_6da9003b743b65f4c0ccd295cc484e57_60">
+                <text>230</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_61">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_4074ffe8876499da053883589d9fab7a_62">
+                <text>Jod (µg)</text>
+            </label>
+            <label key="64704c81391104.75978647_ea5d2f1c4608232e07d3aa3d998e5135_63">
+                <text>64</text>
+            </label>
+            <label key="64704c81391104.75978647_2b2fca9e5fb7125eec153eab2235aeab_64">
+                <text>Kalium (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_34173cb38f07f89ddbebc2ac9128303f_65">
+                <text>30</text>
+            </label>
+            <label key="64704c81391104.75978647_f2fc990265c712c49d51a18a32b39f0c_66">
+                <text>324</text>
+            </label>
+            <label key="64704c81391104.75978647_ad61ab143223efbc24c7d2583be69251_67">
+                <text>74</text>
+            </label>
+            <label key="64704c81391104.75978647_d82c8d1619ad8176d665453cfb2e55f0_68">
+                <text>53</text>
+            </label>
+            <label key="64704c81391104.75978647_93db85ed909c13838ff95ccfa94cebd9_69">
+                <text>86</text>
+            </label>
+            <label key="64704c81391104.75978647_e65c74cc3d01bdde579ca536ee5e3ddd_70">
+                <text>Riboflavin (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_71">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_72">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_73">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_74">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_75">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_58981f5e221588e163605ee67007cd4b_76">
+                <text>Vitamin B12 (µg)</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_77">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_f932bed2d12442d21507b51d22b88dd7_78">
+                <text>1,8</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_79">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_80">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_81">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_3f5573902bc1d38265072d5289fed639_82">
+                <text>Stapeldiagrammen nedan visar olika typer av miljöpåverkan orsakad av mjölk av animaliskt ursprung och av några växtbaserade dryckesalternativ.</text>
+            </label>
+            <label key="64704c81391104.75978647_bfb1beb004273c67d310c6057e331738_83">
+                <text>
+                    <strong>‌Markanvändning ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_84">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_85">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_86">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_87">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_88">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_a262b50c7dee3b1454de343303c109db_89">
+                <text>
+                    <strong>‌Användning av färskvatten ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_90">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_91">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_92">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_93">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_94">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_a566bc5c02094789fdceea08a262ce2d_95">
+                <text>
+                    <strong>‌Utsläpp av växthusgaser ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_96">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_97">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_98">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_99">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_100">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_c752a19a08298bdda8cbe7f8d1075612_101">
+                <text>
+                    <strong>‌Övergödning* ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_102">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_103">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_104">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_105">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_106">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_107">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_d31862ccac30c1234af9b4863c955a78_108">
+                <text>8,95</text>
+            </label>
+            <label key="64704c81391104.75978647_e84cbf7ec84952204e6c87b0bd7861b3_109">
+                <text>0,76</text>
+            </label>
+            <label key="64704c81391104.75978647_149dd5056939405870c9bb50cbc8691c_110">
+                <text>0,34</text>
+            </label>
+            <label key="64704c81391104.75978647_7dbf455f8e8e1a7afd34ceb81beb1523_111">
+                <text>0,66</text>
+            </label>
+            <label key="64704c81391104.75978647_da0717d4102ccb65679bda49a8bba52b_112">
+                <text>371,46</text>
+            </label>
+            <label key="64704c81391104.75978647_f4318db7a5b6c6aee489647442cc7f78_113">
+                <text>628,2</text>
+            </label>
+            <label key="64704c81391104.75978647_0a8072e18b731bc472c64a70b2c50504_114">
+                <text>48,24</text>
+            </label>
+            <label key="64704c81391104.75978647_444e4241078a75797778516a31f30f7f_115">
+                <text>269,81</text>
+            </label>
+            <label key="64704c81391104.75978647_3816eed49ce66c0f3f9bfa592d48d27e_116">
+                <text>27,8</text>
+            </label>
+            <label key="64704c81391104.75978647_91c85f899e56014969935fefd68830b9_117">
+                <text>0,7</text>
+            </label>
+            <label key="64704c81391104.75978647_d5fadf1107bcc261732cb6931002ed1d_118">
+                <text>3,15</text>
+            </label>
+            <label key="64704c81391104.75978647_a894124cc6d5c5c71afe060d5dde0762_119">
+                <text>0,9</text>
+            </label>
+            <label key="64704c81391104.75978647_836eb480bf66641d4fb44675e000d22b_120">
+                <text>1,18</text>
+            </label>
+            <label key="64704c81391104.75978647_5a01f7b0f3c45c7ecda1bdeb54968ce0_121">
+                <text>0,98</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_122">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_aae30b49a35e96c5a57360ae08be8ff3_123">
+                <text>10,65</text>
+            </label>
+            <label key="64704c81391104.75978647_d4b923b70b3c526734ffcbe31774aad6_124">
+                <text>1,62</text>
+            </label>
+            <label key="64704c81391104.75978647_e5b3383d4bf47ddbe0092bde40374525_125">
+                <text>4,69</text>
+            </label>
+            <label key="64704c81391104.75978647_a0561b031c4f4e1c2df71883501cd60e_126">
+                <text>1,06</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_127">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_a87ff679a2f3e71d9181a67b7542122c_128">
+                <text>4</text>
+            </label>
+            <label key="64704c81391104.75978647_1679091c5a880faf6fb5e6087eb1b2dc_129">
+                <text>6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_130">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_d3fe189cc23945a5c5df2f65b928d12b_131">
+                <text>
+                    <strong>‌m² ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_f899139df5e1059396431415e770c6dd_132">
+                <text>100</text>
+            </label>
+            <label key="64704c81391104.75978647_3644a684f98ea8fe223c713b77189a77_133">
+                <text>200</text>
+            </label>
+            <label key="64704c81391104.75978647_94f6d7e04a4d452035300f18b984988c_134">
+                <text>300</text>
+            </label>
+            <label key="64704c81391104.75978647_18d8042386b79e2c279fd162df0205c8_135">
+                <text>400</text>
+            </label>
+            <label key="64704c81391104.75978647_cee631121c2ec9232f3a2f028ad5c89b_136">
+                <text>500</text>
+            </label>
+            <label key="64704c81391104.75978647_d490d7b4576290fa60eb31b5fc917ad1_137">
+                <text>600</text>
+            </label>
+            <label key="64704c81391104.75978647_8e7c88d264b7d3263f53e4d4fe985f45_138">
+                <text>
+                    <strong>‌L ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_139">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_140">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_141">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_142">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_8221435bcce913b5c2dc22eaf6cb6590_143">
+                <text>2,5</text>
+            </label>
+            <label key="64704c81391104.75978647_eccbc87e4b5ce2fe28308fd9f2a7baf3_144">
+                <text>3</text>
+            </label>
+            <label key="64704c81391104.75978647_4133705a79e99c47950f59692f64ad45_145">
+                <text>
+                    <strong>‌kg ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_146">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_a87ff679a2f3e71d9181a67b7542122c_147">
+                <text>4</text>
+            </label>
+            <label key="64704c81391104.75978647_1679091c5a880faf6fb5e6087eb1b2dc_148">
+                <text>6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_149">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_d3d9446802a44259755d38e6d163e820_150">
+                <text>10</text>
+            </label>
+            <label key="64704c81391104.75978647_4133705a79e99c47950f59692f64ad45_151">
+                <text>
+                    <strong>‌kg ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_6b382ca26571aaadcd372cbf0ed1fdd7_152">
+                <text>*Övergödning uppstår när det blir en ökning av mineraler och näringsämnen, till exempel fosfor eller kväve, och kan leda till tillväxt av skadliga alger.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64704c81391104.75978647/passage NEW.xml">
+            <label key="64704c81391104.75978647_077383cb59b54e8e12b06f741b2fee41_1">
+                <text>Växtbaserade drycker</text>
+            </label>
+            <label key="64704c81391104.75978647_49bc40adb735f3c3937bda06bcc6b5cf_2">
+                <text>Tabellen visar näringsvärden för mjölk av animaliskt ursprung och några växtbaserade drycker som alternativ till mjölk.</text>
+            </label>
+            <label key="64704c81391104.75978647_866a58230cf13573a40988dc6debd67b_3">
+                <text>
+                    <strong>‌(Per portion på 200 ml)‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7c233a68bb7f41fd272554f1e49d5a07_4">
+                <text>
+                    <strong>‌Mandeldryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_4b02a5b8da403b36083763c143a56854_5">
+                <text>Mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_4eba14641aef6661448a6e62bbe54a2e_6">
+                <text>
+                    <strong>‌Havredryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_81358ed06de42503bc795b3cf25e24b9_7">
+                <text>
+                    <strong>‌Risdryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_c968fe9c276889c62303c3cebd36bdbd_8">
+                <text>Sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_7c68debbc96a3be39af65e41940ab1d1_9">
+                <text>Energi (kcal)</text>
+            </label>
+            <label key="64704c81391104.75978647_a1d0c6e83f027327d8461063f4ac58a6_10">
+                <text>42</text>
+            </label>
+            <label key="64704c81391104.75978647_ed3d2c21991e3bef5e069713af9fa6ca_11">
+                <text>98</text>
+            </label>
+            <label key="64704c81391104.75978647_54229abfcfa5649e7003b83dd4755294_12">
+                <text>91</text>
+            </label>
+            <label key="64704c81391104.75978647_92cc227532d17e56e07902b254dfad10_13">
+                <text>92</text>
+            </label>
+            <label key="64704c81391104.75978647_3295c76acbf4caaed33c36b1b5fc2cb1_14">
+                <text>66</text>
+            </label>
+            <label key="64704c81391104.75978647_31f12f42463af7f6a615c117531abe63_15">
+                <text>Fett (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_96e5a788338a9dc15622277ad22e316c_16">
+                <text>2,9</text>
+            </label>
+            <label key="64704c81391104.75978647_31053ad0506e935470ca21b43cae98cf_17">
+                <text>3,4</text>
+            </label>
+            <label key="64704c81391104.75978647_eccbc87e4b5ce2fe28308fd9f2a7baf3_18">
+                <text>3</text>
+            </label>
+            <label key="64704c81391104.75978647_4885938bbcc8f927854e4d0307d4467c_19">
+                <text>1,9</text>
+            </label>
+            <label key="64704c81391104.75978647_e44436592c2daabbd3d797f8967245a3_20">
+                <text>3,6</text>
+            </label>
+            <label key="64704c81391104.75978647_b2076faaa21622bb9b4d3f61ad832906_21">
+                <text>Mättat fett (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_cb5ae17636e975f9bf71ddf5bc542075_22">
+                <text>0,1</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_23">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_24">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_25">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_26">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_dfcd2a9a965590eb0b875e3da16e8fbc_27">
+                <text>Kolhydrater (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_e9aa2cebdb28a919e34609630508c269_28">
+                <text>2,4</text>
+            </label>
+            <label key="64704c81391104.75978647_eaf2f97729e8d5e4d205672da8afc9a5_29">
+                <text>9,6</text>
+            </label>
+            <label key="64704c81391104.75978647_6f5a3bb2c4d74e30623014f733481419_30">
+                <text>13,2</text>
+            </label>
+            <label key="64704c81391104.75978647_5d93f7609c95588e766ce570e9b035a2_31">
+                <text>17,9</text>
+            </label>
+            <label key="64704c81391104.75978647_4885938bbcc8f927854e4d0307d4467c_32">
+                <text>1,9</text>
+            </label>
+            <label key="64704c81391104.75978647_5abf2212742a162eed1bc9cf48284297_33">
+                <text>Sockerarter (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_34">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_eaf2f97729e8d5e4d205672da8afc9a5_35">
+                <text>9,6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_36">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_4a920d14425c3a17ead55b4d93d9f5be_37">
+                <text>10,3</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_38">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_86114afc928fdb972bd0c1b10f772bb6_39">
+                <text>Fibrer (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_40">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_41">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_42">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_43">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_8ea786815a5b25bc041de090ab2282f2_44">
+                <text>Protein (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_45">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_74c5d9234051010a38a669f48bfeb435_46">
+                <text>7,2</text>
+            </label>
+            <label key="64704c81391104.75978647_9e605ce3bb6ad134bb55c54d861ceb6a_47">
+                <text>1,4</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_48">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_10851bea5d822eacda7e5b46812b1b33_49">
+                <text>6,6</text>
+            </label>
+            <label key="64704c81391104.75978647_33e2b0eba243044fd21babaa2a5dd5ff_50">
+                <text>Salt (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_e85b79abfd76b7c13b1334d8d8c194a5_51">
+                <text>0,3</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_52">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_53">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_cb5ae17636e975f9bf71ddf5bc542075_54">
+                <text>0,1</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_55">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_4cb6a931d14d62e8c8f3115421de2256_56">
+                <text>Kalcium (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_57">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_621bf66ddb7c962aa0d22ac97d69b793_58">
+                <text>248</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_59">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_6da9003b743b65f4c0ccd295cc484e57_60">
+                <text>230</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_61">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_4074ffe8876499da053883589d9fab7a_62">
+                <text>Jod (µg)</text>
+            </label>
+            <label key="64704c81391104.75978647_ea5d2f1c4608232e07d3aa3d998e5135_63">
+                <text>64</text>
+            </label>
+            <label key="64704c81391104.75978647_2b2fca9e5fb7125eec153eab2235aeab_64">
+                <text>Kalium (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_34173cb38f07f89ddbebc2ac9128303f_65">
+                <text>30</text>
+            </label>
+            <label key="64704c81391104.75978647_f2fc990265c712c49d51a18a32b39f0c_66">
+                <text>324</text>
+            </label>
+            <label key="64704c81391104.75978647_ad61ab143223efbc24c7d2583be69251_67">
+                <text>74</text>
+            </label>
+            <label key="64704c81391104.75978647_d82c8d1619ad8176d665453cfb2e55f0_68">
+                <text>53</text>
+            </label>
+            <label key="64704c81391104.75978647_93db85ed909c13838ff95ccfa94cebd9_69">
+                <text>86</text>
+            </label>
+            <label key="64704c81391104.75978647_e65c74cc3d01bdde579ca536ee5e3ddd_70">
+                <text>Riboflavin (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_71">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_72">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_73">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_74">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_75">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_58981f5e221588e163605ee67007cd4b_76">
+                <text>Vitamin B12 (µg)</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_77">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_f932bed2d12442d21507b51d22b88dd7_78">
+                <text>1,8</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_79">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_80">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_81">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_3f5573902bc1d38265072d5289fed639_82">
+                <text>Stapeldiagrammen nedan visar olika typer av miljöpåverkan orsakad av mjölk av animaliskt ursprung och av några växtbaserade dryckesalternativ.</text>
+            </label>
+            <label key="64704c81391104.75978647_bfb1beb004273c67d310c6057e331738_83">
+                <text>
+                    <strong>‌Markanvändning ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_84">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_85">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_86">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_87">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_88">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_a262b50c7dee3b1454de343303c109db_89">
+                <text>
+                    <strong>‌Användning av färskvatten ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_90">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_91">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_92">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_93">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_94">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_a566bc5c02094789fdceea08a262ce2d_95">
+                <text>
+                    <strong>‌Utsläpp av växthusgaser ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_96">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_97">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_98">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_99">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_100">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_c752a19a08298bdda8cbe7f8d1075612_101">
+                <text>
+                    <strong>‌Övergödning* ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_102">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_103">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_104">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_105">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_106">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_107">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_d31862ccac30c1234af9b4863c955a78_108">
+                <text>8,95</text>
+            </label>
+            <label key="64704c81391104.75978647_e84cbf7ec84952204e6c87b0bd7861b3_109">
+                <text>0,76</text>
+            </label>
+            <label key="64704c81391104.75978647_149dd5056939405870c9bb50cbc8691c_110">
+                <text>0,34</text>
+            </label>
+            <label key="64704c81391104.75978647_7dbf455f8e8e1a7afd34ceb81beb1523_111">
+                <text>0,66</text>
+            </label>
+            <label key="64704c81391104.75978647_da0717d4102ccb65679bda49a8bba52b_112">
+                <text>371,46</text>
+            </label>
+            <label key="64704c81391104.75978647_f4318db7a5b6c6aee489647442cc7f78_113">
+                <text>628,2</text>
+            </label>
+            <label key="64704c81391104.75978647_0a8072e18b731bc472c64a70b2c50504_114">
+                <text>48,24</text>
+            </label>
+            <label key="64704c81391104.75978647_444e4241078a75797778516a31f30f7f_115">
+                <text>269,81</text>
+            </label>
+            <label key="64704c81391104.75978647_3816eed49ce66c0f3f9bfa592d48d27e_116">
+                <text>27,8</text>
+            </label>
+            <label key="64704c81391104.75978647_91c85f899e56014969935fefd68830b9_117">
+                <text>0,7</text>
+            </label>
+            <label key="64704c81391104.75978647_d5fadf1107bcc261732cb6931002ed1d_118">
+                <text>3,15</text>
+            </label>
+            <label key="64704c81391104.75978647_a894124cc6d5c5c71afe060d5dde0762_119">
+                <text>0,9</text>
+            </label>
+            <label key="64704c81391104.75978647_836eb480bf66641d4fb44675e000d22b_120">
+                <text>1,18</text>
+            </label>
+            <label key="64704c81391104.75978647_5a01f7b0f3c45c7ecda1bdeb54968ce0_121">
+                <text>0,98</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_122">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_aae30b49a35e96c5a57360ae08be8ff3_123">
+                <text>10,65</text>
+            </label>
+            <label key="64704c81391104.75978647_d4b923b70b3c526734ffcbe31774aad6_124">
+                <text>1,62</text>
+            </label>
+            <label key="64704c81391104.75978647_e5b3383d4bf47ddbe0092bde40374525_125">
+                <text>4,69</text>
+            </label>
+            <label key="64704c81391104.75978647_a0561b031c4f4e1c2df71883501cd60e_126">
+                <text>1,06</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_127">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_a87ff679a2f3e71d9181a67b7542122c_128">
+                <text>4</text>
+            </label>
+            <label key="64704c81391104.75978647_1679091c5a880faf6fb5e6087eb1b2dc_129">
+                <text>6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_130">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_d3fe189cc23945a5c5df2f65b928d12b_131">
+                <text>
+                    <strong>‌m² ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_f899139df5e1059396431415e770c6dd_132">
+                <text>100</text>
+            </label>
+            <label key="64704c81391104.75978647_3644a684f98ea8fe223c713b77189a77_133">
+                <text>200</text>
+            </label>
+            <label key="64704c81391104.75978647_94f6d7e04a4d452035300f18b984988c_134">
+                <text>300</text>
+            </label>
+            <label key="64704c81391104.75978647_18d8042386b79e2c279fd162df0205c8_135">
+                <text>400</text>
+            </label>
+            <label key="64704c81391104.75978647_cee631121c2ec9232f3a2f028ad5c89b_136">
+                <text>500</text>
+            </label>
+            <label key="64704c81391104.75978647_d490d7b4576290fa60eb31b5fc917ad1_137">
+                <text>600</text>
+            </label>
+            <label key="64704c81391104.75978647_8e7c88d264b7d3263f53e4d4fe985f45_138">
+                <text>
+                    <strong>‌L ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_139">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_140">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_141">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_142">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_8221435bcce913b5c2dc22eaf6cb6590_143">
+                <text>2,5</text>
+            </label>
+            <label key="64704c81391104.75978647_eccbc87e4b5ce2fe28308fd9f2a7baf3_144">
+                <text>3</text>
+            </label>
+            <label key="64704c81391104.75978647_4133705a79e99c47950f59692f64ad45_145">
+                <text>
+                    <strong>‌kg ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_146">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_a87ff679a2f3e71d9181a67b7542122c_147">
+                <text>4</text>
+            </label>
+            <label key="64704c81391104.75978647_1679091c5a880faf6fb5e6087eb1b2dc_148">
+                <text>6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_149">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_d3d9446802a44259755d38e6d163e820_150">
+                <text>10</text>
+            </label>
+            <label key="64704c81391104.75978647_4133705a79e99c47950f59692f64ad45_151">
+                <text>
+                    <strong>‌kg ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_6b382ca26571aaadcd372cbf0ed1fdd7_152">
+                <text>*Övergödning uppstår när det blir en ökning av mineraler och näringsämnen, till exempel fosfor eller kväve, och kan leda till tillväxt av skadliga alger.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64704c81391104.75978647/passage NEW.xml">
+            <label key="64704c81391104.75978647_077383cb59b54e8e12b06f741b2fee41_1">
+                <text>Växtbaserade drycker</text>
+            </label>
+            <label key="64704c81391104.75978647_49bc40adb735f3c3937bda06bcc6b5cf_2">
+                <text>Tabellen visar näringsvärden för mjölk av animaliskt ursprung och några växtbaserade drycker som alternativ till mjölk.</text>
+            </label>
+            <label key="64704c81391104.75978647_866a58230cf13573a40988dc6debd67b_3">
+                <text>
+                    <strong>‌(Per portion på 200 ml)‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7c233a68bb7f41fd272554f1e49d5a07_4">
+                <text>
+                    <strong>‌Mandeldryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_4b02a5b8da403b36083763c143a56854_5">
+                <text>Mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_4eba14641aef6661448a6e62bbe54a2e_6">
+                <text>
+                    <strong>‌Havredryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_81358ed06de42503bc795b3cf25e24b9_7">
+                <text>
+                    <strong>‌Risdryck‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_c968fe9c276889c62303c3cebd36bdbd_8">
+                <text>Sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_7c68debbc96a3be39af65e41940ab1d1_9">
+                <text>Energi (kcal)</text>
+            </label>
+            <label key="64704c81391104.75978647_a1d0c6e83f027327d8461063f4ac58a6_10">
+                <text>42</text>
+            </label>
+            <label key="64704c81391104.75978647_ed3d2c21991e3bef5e069713af9fa6ca_11">
+                <text>98</text>
+            </label>
+            <label key="64704c81391104.75978647_54229abfcfa5649e7003b83dd4755294_12">
+                <text>91</text>
+            </label>
+            <label key="64704c81391104.75978647_92cc227532d17e56e07902b254dfad10_13">
+                <text>92</text>
+            </label>
+            <label key="64704c81391104.75978647_3295c76acbf4caaed33c36b1b5fc2cb1_14">
+                <text>66</text>
+            </label>
+            <label key="64704c81391104.75978647_31f12f42463af7f6a615c117531abe63_15">
+                <text>Fett (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_96e5a788338a9dc15622277ad22e316c_16">
+                <text>2,9</text>
+            </label>
+            <label key="64704c81391104.75978647_31053ad0506e935470ca21b43cae98cf_17">
+                <text>3,4</text>
+            </label>
+            <label key="64704c81391104.75978647_eccbc87e4b5ce2fe28308fd9f2a7baf3_18">
+                <text>3</text>
+            </label>
+            <label key="64704c81391104.75978647_4885938bbcc8f927854e4d0307d4467c_19">
+                <text>1,9</text>
+            </label>
+            <label key="64704c81391104.75978647_e44436592c2daabbd3d797f8967245a3_20">
+                <text>3,6</text>
+            </label>
+            <label key="64704c81391104.75978647_b2076faaa21622bb9b4d3f61ad832906_21">
+                <text>Mättat fett (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_cb5ae17636e975f9bf71ddf5bc542075_22">
+                <text>0,1</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_23">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_24">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_25">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_26">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_dfcd2a9a965590eb0b875e3da16e8fbc_27">
+                <text>Kolhydrater (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_e9aa2cebdb28a919e34609630508c269_28">
+                <text>2,4</text>
+            </label>
+            <label key="64704c81391104.75978647_eaf2f97729e8d5e4d205672da8afc9a5_29">
+                <text>9,6</text>
+            </label>
+            <label key="64704c81391104.75978647_6f5a3bb2c4d74e30623014f733481419_30">
+                <text>13,2</text>
+            </label>
+            <label key="64704c81391104.75978647_5d93f7609c95588e766ce570e9b035a2_31">
+                <text>17,9</text>
+            </label>
+            <label key="64704c81391104.75978647_4885938bbcc8f927854e4d0307d4467c_32">
+                <text>1,9</text>
+            </label>
+            <label key="64704c81391104.75978647_5abf2212742a162eed1bc9cf48284297_33">
+                <text>Sockerarter (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_34">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_eaf2f97729e8d5e4d205672da8afc9a5_35">
+                <text>9,6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_36">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_4a920d14425c3a17ead55b4d93d9f5be_37">
+                <text>10,3</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_38">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_86114afc928fdb972bd0c1b10f772bb6_39">
+                <text>Fibrer (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_40">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_41">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_42">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_43">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_8ea786815a5b25bc041de090ab2282f2_44">
+                <text>Protein (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_45">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_74c5d9234051010a38a669f48bfeb435_46">
+                <text>7,2</text>
+            </label>
+            <label key="64704c81391104.75978647_9e605ce3bb6ad134bb55c54d861ceb6a_47">
+                <text>1,4</text>
+            </label>
+            <label key="64704c81391104.75978647_e95e1ca27d0e39aa03eb5a611ce4122f_48">
+                <text>0,6</text>
+            </label>
+            <label key="64704c81391104.75978647_10851bea5d822eacda7e5b46812b1b33_49">
+                <text>6,6</text>
+            </label>
+            <label key="64704c81391104.75978647_33e2b0eba243044fd21babaa2a5dd5ff_50">
+                <text>Salt (g)</text>
+            </label>
+            <label key="64704c81391104.75978647_e85b79abfd76b7c13b1334d8d8c194a5_51">
+                <text>0,3</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_52">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_53">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_cb5ae17636e975f9bf71ddf5bc542075_54">
+                <text>0,1</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_55">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_4cb6a931d14d62e8c8f3115421de2256_56">
+                <text>Kalcium (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_57">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_621bf66ddb7c962aa0d22ac97d69b793_58">
+                <text>248</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_59">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_6da9003b743b65f4c0ccd295cc484e57_60">
+                <text>230</text>
+            </label>
+            <label key="64704c81391104.75978647_335f5352088d7d9bf74191e006d8e24c_61">
+                <text>240</text>
+            </label>
+            <label key="64704c81391104.75978647_4074ffe8876499da053883589d9fab7a_62">
+                <text>Jod (µg)</text>
+            </label>
+            <label key="64704c81391104.75978647_ea5d2f1c4608232e07d3aa3d998e5135_63">
+                <text>64</text>
+            </label>
+            <label key="64704c81391104.75978647_2b2fca9e5fb7125eec153eab2235aeab_64">
+                <text>Kalium (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_34173cb38f07f89ddbebc2ac9128303f_65">
+                <text>30</text>
+            </label>
+            <label key="64704c81391104.75978647_f2fc990265c712c49d51a18a32b39f0c_66">
+                <text>324</text>
+            </label>
+            <label key="64704c81391104.75978647_ad61ab143223efbc24c7d2583be69251_67">
+                <text>74</text>
+            </label>
+            <label key="64704c81391104.75978647_d82c8d1619ad8176d665453cfb2e55f0_68">
+                <text>53</text>
+            </label>
+            <label key="64704c81391104.75978647_93db85ed909c13838ff95ccfa94cebd9_69">
+                <text>86</text>
+            </label>
+            <label key="64704c81391104.75978647_e65c74cc3d01bdde579ca536ee5e3ddd_70">
+                <text>Riboflavin (mg)</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_71">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_72">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_73">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_3d522deaf85577451c01974654b36ad3_74">
+                <text>0,2</text>
+            </label>
+            <label key="64704c81391104.75978647_54fbf38cf649866815e0fefc46a1f6c7_75">
+                <text>0,4</text>
+            </label>
+            <label key="64704c81391104.75978647_58981f5e221588e163605ee67007cd4b_76">
+                <text>Vitamin B12 (µg)</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_77">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_f932bed2d12442d21507b51d22b88dd7_78">
+                <text>1,8</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_79">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_56765472680401499c79732468ba4340_80">
+                <text>1,2</text>
+            </label>
+            <label key="64704c81391104.75978647_57eeec0a6974ecb4e9fcf68fab052f7b_81">
+                <text>0,8</text>
+            </label>
+            <label key="64704c81391104.75978647_3f5573902bc1d38265072d5289fed639_82">
+                <text>Stapeldiagrammen nedan visar olika typer av miljöpåverkan orsakad av mjölk av animaliskt ursprung och av några växtbaserade dryckesalternativ.</text>
+            </label>
+            <label key="64704c81391104.75978647_bfb1beb004273c67d310c6057e331738_83">
+                <text>
+                    <strong>‌Markanvändning ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_84">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_85">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_86">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_87">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_88">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_a262b50c7dee3b1454de343303c109db_89">
+                <text>
+                    <strong>‌Användning av färskvatten ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_90">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_91">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_92">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_93">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_94">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_a566bc5c02094789fdceea08a262ce2d_95">
+                <text>
+                    <strong>‌Utsläpp av växthusgaser ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_96">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_97">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_98">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_99">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_100">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_c752a19a08298bdda8cbe7f8d1075612_101">
+                <text>
+                    <strong>‌Övergödning* ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_7d8ba6c8ab89c44fb0246053e633a9f4_102">
+                <text>mandeldryck</text>
+            </label>
+            <label key="64704c81391104.75978647_801f18857521e5f358f98e299428724f_103">
+                <text>mjölk av animaliskt ursprung</text>
+            </label>
+            <label key="64704c81391104.75978647_fa15da3e120212962dacb650ee67980d_104">
+                <text>havredryck</text>
+            </label>
+            <label key="64704c81391104.75978647_3767b450824877f2b8f284f7a5625440_105">
+                <text>risdryck</text>
+            </label>
+            <label key="64704c81391104.75978647_91a5c1de1fb151b6924cbefa6e68fb9b_106">
+                <text>sojadryck</text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_107">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_d31862ccac30c1234af9b4863c955a78_108">
+                <text>8,95</text>
+            </label>
+            <label key="64704c81391104.75978647_e84cbf7ec84952204e6c87b0bd7861b3_109">
+                <text>0,76</text>
+            </label>
+            <label key="64704c81391104.75978647_149dd5056939405870c9bb50cbc8691c_110">
+                <text>0,34</text>
+            </label>
+            <label key="64704c81391104.75978647_7dbf455f8e8e1a7afd34ceb81beb1523_111">
+                <text>0,66</text>
+            </label>
+            <label key="64704c81391104.75978647_da0717d4102ccb65679bda49a8bba52b_112">
+                <text>371,46</text>
+            </label>
+            <label key="64704c81391104.75978647_f4318db7a5b6c6aee489647442cc7f78_113">
+                <text>628,2</text>
+            </label>
+            <label key="64704c81391104.75978647_0a8072e18b731bc472c64a70b2c50504_114">
+                <text>48,24</text>
+            </label>
+            <label key="64704c81391104.75978647_444e4241078a75797778516a31f30f7f_115">
+                <text>269,81</text>
+            </label>
+            <label key="64704c81391104.75978647_3816eed49ce66c0f3f9bfa592d48d27e_116">
+                <text>27,8</text>
+            </label>
+            <label key="64704c81391104.75978647_91c85f899e56014969935fefd68830b9_117">
+                <text>0,7</text>
+            </label>
+            <label key="64704c81391104.75978647_d5fadf1107bcc261732cb6931002ed1d_118">
+                <text>3,15</text>
+            </label>
+            <label key="64704c81391104.75978647_a894124cc6d5c5c71afe060d5dde0762_119">
+                <text>0,9</text>
+            </label>
+            <label key="64704c81391104.75978647_836eb480bf66641d4fb44675e000d22b_120">
+                <text>1,18</text>
+            </label>
+            <label key="64704c81391104.75978647_5a01f7b0f3c45c7ecda1bdeb54968ce0_121">
+                <text>0,98</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_122">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_aae30b49a35e96c5a57360ae08be8ff3_123">
+                <text>10,65</text>
+            </label>
+            <label key="64704c81391104.75978647_d4b923b70b3c526734ffcbe31774aad6_124">
+                <text>1,62</text>
+            </label>
+            <label key="64704c81391104.75978647_e5b3383d4bf47ddbe0092bde40374525_125">
+                <text>4,69</text>
+            </label>
+            <label key="64704c81391104.75978647_a0561b031c4f4e1c2df71883501cd60e_126">
+                <text>1,06</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_127">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_a87ff679a2f3e71d9181a67b7542122c_128">
+                <text>4</text>
+            </label>
+            <label key="64704c81391104.75978647_1679091c5a880faf6fb5e6087eb1b2dc_129">
+                <text>6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_130">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_d3fe189cc23945a5c5df2f65b928d12b_131">
+                <text>
+                    <strong>‌m² ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_f899139df5e1059396431415e770c6dd_132">
+                <text>100</text>
+            </label>
+            <label key="64704c81391104.75978647_3644a684f98ea8fe223c713b77189a77_133">
+                <text>200</text>
+            </label>
+            <label key="64704c81391104.75978647_94f6d7e04a4d452035300f18b984988c_134">
+                <text>300</text>
+            </label>
+            <label key="64704c81391104.75978647_18d8042386b79e2c279fd162df0205c8_135">
+                <text>400</text>
+            </label>
+            <label key="64704c81391104.75978647_cee631121c2ec9232f3a2f028ad5c89b_136">
+                <text>500</text>
+            </label>
+            <label key="64704c81391104.75978647_d490d7b4576290fa60eb31b5fc917ad1_137">
+                <text>600</text>
+            </label>
+            <label key="64704c81391104.75978647_8e7c88d264b7d3263f53e4d4fe985f45_138">
+                <text>
+                    <strong>‌L ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_d310cb367d993fb6fb584b198a2fd72c_139">
+                <text>0,5</text>
+            </label>
+            <label key="64704c81391104.75978647_c4ca4238a0b923820dcc509a6f75849b_140">
+                <text>1</text>
+            </label>
+            <label key="64704c81391104.75978647_6008647277c4454cecd97d33c069f0ca_141">
+                <text>1,5</text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_142">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_8221435bcce913b5c2dc22eaf6cb6590_143">
+                <text>2,5</text>
+            </label>
+            <label key="64704c81391104.75978647_eccbc87e4b5ce2fe28308fd9f2a7baf3_144">
+                <text>3</text>
+            </label>
+            <label key="64704c81391104.75978647_4133705a79e99c47950f59692f64ad45_145">
+                <text>
+                    <strong>‌kg ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_c81e728d9d4c2f636f067f89cc14862c_146">
+                <text>2</text>
+            </label>
+            <label key="64704c81391104.75978647_a87ff679a2f3e71d9181a67b7542122c_147">
+                <text>4</text>
+            </label>
+            <label key="64704c81391104.75978647_1679091c5a880faf6fb5e6087eb1b2dc_148">
+                <text>6</text>
+            </label>
+            <label key="64704c81391104.75978647_c9f0f895fb98ab9159f51fd0297e236d_149">
+                <text>8</text>
+            </label>
+            <label key="64704c81391104.75978647_d3d9446802a44259755d38e6d163e820_150">
+                <text>10</text>
+            </label>
+            <label key="64704c81391104.75978647_4133705a79e99c47950f59692f64ad45_151">
+                <text>
+                    <strong>‌kg ‌</strong>
+                </text>
+            </label>
+            <label key="64704c81391104.75978647_6b382ca26571aaadcd372cbf0ed1fdd7_152">
+                <text>*Övergödning uppstår när det blir en ökning av mineraler och näringsämnen, till exempel fosfor eller kväve, och kan leda till tillväxt av skadliga alger.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6343b75e7f3bd113642a5014e07195ae1f">
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_0ad3e65ce7a72eedff90032452e3da89_1">
+                <text>Sam och Jess ska välja en växtbaserad dryck som alternativ till mjölk. De tar hänsyn till både miljö- och näringsdata för varje dryck när de gör sitt val.</text>
+            </label>
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_9ff746c414a5c70424311eedb80b114c_2">
+                <text>De vill välja en växtbaserad dryck som maximerar mängden energi och protein men minimerar mängden salt de får i sig.</text>
+            </label>
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_c04783bebdedc33ececf2f9f085b13dc_3">
+                <text>Sam säger att de borde välja havredryck, men Jess säger att de borde välja sojadryck.</text>
+            </label>
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_367e2e13f63c49572115e168baafe28e_4">
+                <text>Vilka påståenden ger stöd för att välja havredryck baserat på data i tabellen och diagrammen?</text>
+            </label>
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_89b1c1de80f35eb0f385836481797561_5">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_A_499444bf5c314c2f57abcb3cc049b012_6">
+                <text>Havredryck innehåller mindre protein än sojadryck.</text>
+            </label>
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_B_e2ae8c41831fd62e154a73e652e21e1e_7">
+                <text>Det går åt mer färskvatten vid framställning av havredryck än sojadryck.</text>
+            </label>
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_C_a40245141410cb770a112852e48d7eee_8">
+                <text>Havredryck ger mer energi än sojadryck.</text>
+            </label>
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_D_0217223b446a63002c4001c619719852_9">
+                <text>Havredryck innehåller mindre salt än sojadryck.</text>
+            </label>
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_E_7d955a7580b1cf8ebfb9b2d28ae2416e_10">
+                <text>Framställning av havredryck kräver mindre mark än sojadryck.</text>
+            </label>
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_F_d73c0c0f576aa88b70f7314e64d69293_11">
+                <text>Framställning av havredryck genererar mindre utsläpp av växthusgaser än sojadryck.</text>
+            </label>
+            <label key="i6343b75e7f3bd113642a5014e07195ae1f_G_a2c4df53da0c854b33f2e767f48bc0c7_12">
+                <text>Havredryck smakar bättre än sojadryck.</text>
+            </label>
+        </item>
+        <item id="i6343b8b053dbb155821456cd281ec0fbe6">
+            <label key="i6343b8b053dbb155821456cd281ec0fbe6_1ba8b5bbc83a871322717e89fde7564d_1">
+                <text>Makayla ska välja om hon ska använda mandeldryck eller sojadryck.</text>
+            </label>
+            <label key="i6343b8b053dbb155821456cd281ec0fbe6_a00f80b917ae385ba8c953d514bcd525_2">
+                <text>Vilken är närmast animalisk mjölk när det gäller näringsvärde?</text>
+            </label>
+            <label key="i6343b8b053dbb155821456cd281ec0fbe6_A_d60536f7a483b2251c8c6d969bcbc792_3">
+                <text>mandeldryck</text>
+            </label>
+            <label key="i6343b8b053dbb155821456cd281ec0fbe6_B_2000fe65c02eeaee7313d9cdb2c1039f_4">
+                <text>sojadryck</text>
+            </label>
+            <label key="i6343b8b053dbb155821456cd281ec0fbe6_C_c1e08715d962d715e5c9ba0e7234cb36_5">
+                <text>deras näringsvärden ligger lika nära animalisk mjölk</text>
+            </label>
+            <label key="i6343b8b053dbb155821456cd281ec0fbe6_4fd72ad9efa6be34b8ac1f513e76dfb5_6">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+        <item id="i6343b9475971111364da6bb6e971954872">
+            <label key="i6343b9475971111364da6bb6e971954872_d38da4c86b99bb2124ef9ab9bbf1c563_1">
+                <text>Selim dricker animalisk mjölk varje dag.</text>
+            </label>
+            <label key="i6343b9475971111364da6bb6e971954872_7fad2ea1f86bb15973b027be6820d7d1_2">
+                <text>Han vill byta till antingen havredryck eller sojadryck, men har inte bestämt sig för vilken.</text>
+            </label>
+            <label key="i6343b9475971111364da6bb6e971954872_289043e2f37bdd1a29fcb8d009dc693f_3">
+                <text>Jämfört med animalisk mjölk, vilket viktigt näringsämne kan försvinna från Selims kost om han väljer antigen havredryck eller sojadryck?</text>
+            </label>
+            <label key="i6343b9475971111364da6bb6e971954872_A_0d8dc086e16e3ac48f05d555994da7d7_4">
+                <text>fett</text>
+            </label>
+            <label key="i6343b9475971111364da6bb6e971954872_B_001f0186d1ea717492c413ca718f2635_5">
+                <text>kolhydrater</text>
+            </label>
+            <label key="i6343b9475971111364da6bb6e971954872_C_35d098488aecba76d335261d3cd29c60_6">
+                <text>fibrer</text>
+            </label>
+            <label key="i6343b9475971111364da6bb6e971954872_D_178a0768b3449ece2ed3e08921c6d937_7">
+                <text>jod</text>
+            </label>
+        </item>
+        <item id="i6343b9ac57a40113556872886df7547d90">
+            <label key="i6343b9ac57a40113556872886df7547d90_f8264532f6e66606a7080fa912ebd04c_1">
+                <text>Leela anser att sojadryck är bättre för miljön än mandeldryck.</text>
+            </label>
+            <label key="i6343b9ac57a40113556872886df7547d90_0763d94210ea3d1acb1389626d1751ad_2">
+                <text>Stöds Leelas uppfattning av diagrammen?</text>
+            </label>
+            <label key="i6343b9ac57a40113556872886df7547d90_4fd72ad9efa6be34b8ac1f513e76dfb5_3">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+        <item id="i6343bc16ee7e52587c6f084da971118b9">
+            <label key="i6343bc16ee7e52587c6f084da971118b9_290cf133160223f59074f769d851947f_1">
+                <text>Forskare utvecklar ett kosttillskott för människor som använder växtbaserade drycker som alternativ till mjölk.</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_4a9e93a0582ecf68dfcda2aeff474664_2">
+                <text>Tabellen nedan visar näringsinnehållet för varje tablett. Forskarna har uteslutit fetter, kolhydrater och sockerarter från kosttillskottet.</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_19d9922cdc64a97f1e5235dd1ef2f703_3">
+                <text>En tablett av kosttillskottet ska komplettera en portion på 200 ml av den växtbaserade drycken.</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_23aa2b8be682982a71849069c478ace2_4">
+                <text>(Per tablett)</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_f5f37c025ffcd181028e445964494f8b_5">
+                <text>Energi (kcal)</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_072b030ba126b2f4b2374f342be9ed44_6">
+                <text>60</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_b8d2ecd358c18045895ee5e71fbbbfab_7">
+                <text>Protein (g)</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_1679091c5a880faf6fb5e6087eb1b2dc_8">
+                <text>6</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_a150a3a1ca2d832272148a2b7af258af_9">
+                <text>Salt (g)</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_cb5ae17636e975f9bf71ddf5bc542075_10">
+                <text>0,1</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_ddcaa2a39f16d56072cd7dc21e1e48d2_11">
+                <text>Kalcium (mg)</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_98f13708210194c475687be6106a3b84_12">
+                <text>20</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_eb2e001a6aefd782087d5e4f66fc37d0_13">
+                <text>Jod (µg)</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_7cbbc409ec990f19c78c75bd1e06f215_14">
+                <text>70</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_115088f05cd1180530a0bdb1c224c3e4_15">
+                <text>Kalium (mg)</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_3644a684f98ea8fe223c713b77189a77_16">
+                <text>200</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_bb82e16b36cb691b1878ee6856de8d92_17">
+                <text>Riboflavin (mg)</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_cb5ae17636e975f9bf71ddf5bc542075_18">
+                <text>0,1</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_6c123ebcfab0172ab572460f94037c18_19">
+                <text>Vitamin B12 (µg)</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_c4ca4238a0b923820dcc509a6f75849b_20">
+                <text>1</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_9003f6de6e68f70b548d5389901f2d7b_21">
+                <text>Om du bortser från fetter, kolhydrater och sockerarter, vilka ändringar skulle du göra i detta kosttillskott för att göra det mer lämpligt för de som använder risdryck?</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_bbec86efa23a270c17cc6a5a1a904f7f_22">
+                <text>Föreslå två förändringar.</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_e2ed06b8f743b5b1d6d03e01f7d5c0a7_23">
+                <text>Den första förändringen.</text>
+            </label>
+            <label key="i6343bc16ee7e52587c6f084da971118b9_9694b0c972388fda589e354e1fd7ab71_24">
+                <text>Den andra förändringen</text>
+            </label>
+        </item>
+    </items>
+</file>

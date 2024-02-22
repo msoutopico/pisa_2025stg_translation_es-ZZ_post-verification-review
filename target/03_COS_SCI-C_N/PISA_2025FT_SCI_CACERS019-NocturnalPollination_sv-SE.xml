@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64ccb51c29a9a8.64635929/passage NEW.xml">
+            <label key="64ccb51c29a9a8.64635929_7e64eb055b453276cd98f526e7c5e4dc_1">
+                <text>Nattlig pollinering</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_16ebc3ce97c0ad8fa050e63402984b37_2">
+                <text>Det finns många typer av insekter som pollinerar blommor på natten. </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f5477a26a89ba6b6b2a827d22881526c_3">
+                <text>Vissa blommor pollineras bara av nattfjärilar. </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_8e9f81ab883219624237191e7e5773a1_4">
+                <text>Nattfjärilar dras mest till ljus med våglängder från 350 nm till 450 nm.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_6924d82d3c03218ecfc262e03862452a_5">
+                <text>Olika ljuskällor sänder ut ljus med olika våglängder.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_e705612a5aaf64540e528a4451dd39fa_6">
+                <text>I gatubelysning används ofta system med högtrycksnatrium (HPS) som sänder ut ljus med de våglängder som visas i diagram (a). Gatubelysning med HPS sänder ut mer gult ljus än andra våglängder. De flesta människor kommer att uppfatta denna gatubelysning som gul.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_c592935f1e122c7bc7e7c35c368306df_7">
+                <text>Vissa länder byter ut HPS-lampor mot LED-lampor som använder mindre energi.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_1649d0c31755bd15e9959805c4292852_8">
+                <text>De våglängder som sänds ut av tre olika typer av LED-lampor visas i diagrammen (b), (c) och (d).</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_296cc9a02b167493f6ff885c48ca71ff_9">
+                <text>färg</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d1d813a48d99f0e102f7d0a1b9068001_10">
+                <text>violett</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_48d6215903dff56238e52e8891380c8f_11">
+                <text>blå</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_6411532ba4971f378391776a9db629d3_12">
+                <text>cyanblå</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9f27410725ab8cc8854a2769c7a516b8_13">
+                <text>grön</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d487dd0b55dfcacdd920ccbdaeafa351_14">
+                <text>gul</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_fe01d67a002dfa0f3ac084298142eccd_15">
+                <text>orange</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_bda9643ac6601722a28f238714274da4_16">
+                <text>röd</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_1b34ddf817af0ab0c38658d2813b0455_17">
+                <text>våglängdsintervall (nm)</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_62c6d99d03365598391296b612b92e10_18">
+                <text>380-450</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9c3548dbbb977b258b85c4bc4a7591dd_19">
+                <text>450-485</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9ff2cb1141854a2d1b65f94f30c68ef2_20">
+                <text>485-500</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9dbc119bec9547ffafdadfd0db6c5439_21">
+                <text>500-565</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f5d0d1c80df74236cf3fb2a09936e551_22">
+                <text>565-590</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f90f5f022d5d0068e01f90b549be2ce9_23">
+                <text>590-625</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_cd74bcdbb2bdbdabf8e4c183de1aca9d_24">
+                <text>625-750</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_dbd2031a86f55496e47009cb09f076fb_25">
+                <text>
+                    <strong>‌Relativ utstrålning (%) ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_26fad7231ba0eb8bb01a65adcc7e1e8f_26">
+                <text>
+                    <strong>‌a) HPS ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_94da2436c319323d1e3bfa35bc2f094e_27">
+                <text>
+                    <strong>‌b) LED1 ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f24491c4223a5bfc9c2d95b1f7aed175_28">
+                <text>
+                    <strong>‌c) LED2‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_b695783f7c6ab406909a1c11757aa72d_29">
+                <text>
+                    <strong>‌d) LED3 ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d07e0d749b815a0fbce782b485ffad0b_30">
+                <text>
+                    <strong>‌Våglängd (nm) ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d07e0d749b815a0fbce782b485ffad0b_31">
+                <text>
+                    <strong>‌Våglängd (nm) ‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64ccb51c29a9a8.64635929/passage NEW.xml">
+            <label key="64ccb51c29a9a8.64635929_7e64eb055b453276cd98f526e7c5e4dc_1">
+                <text>Nattlig pollinering</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_16ebc3ce97c0ad8fa050e63402984b37_2">
+                <text>Det finns många typer av insekter som pollinerar blommor på natten. </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f5477a26a89ba6b6b2a827d22881526c_3">
+                <text>Vissa blommor pollineras bara av nattfjärilar. </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_8e9f81ab883219624237191e7e5773a1_4">
+                <text>Nattfjärilar dras mest till ljus med våglängder från 350 nm till 450 nm.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_6924d82d3c03218ecfc262e03862452a_5">
+                <text>Olika ljuskällor sänder ut ljus med olika våglängder.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_e705612a5aaf64540e528a4451dd39fa_6">
+                <text>I gatubelysning används ofta system med högtrycksnatrium (HPS) som sänder ut ljus med de våglängder som visas i diagram (a). Gatubelysning med HPS sänder ut mer gult ljus än andra våglängder. De flesta människor kommer att uppfatta denna gatubelysning som gul.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_c592935f1e122c7bc7e7c35c368306df_7">
+                <text>Vissa länder byter ut HPS-lampor mot LED-lampor som använder mindre energi.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_1649d0c31755bd15e9959805c4292852_8">
+                <text>De våglängder som sänds ut av tre olika typer av LED-lampor visas i diagrammen (b), (c) och (d).</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_296cc9a02b167493f6ff885c48ca71ff_9">
+                <text>färg</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d1d813a48d99f0e102f7d0a1b9068001_10">
+                <text>violett</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_48d6215903dff56238e52e8891380c8f_11">
+                <text>blå</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_6411532ba4971f378391776a9db629d3_12">
+                <text>cyanblå</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9f27410725ab8cc8854a2769c7a516b8_13">
+                <text>grön</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d487dd0b55dfcacdd920ccbdaeafa351_14">
+                <text>gul</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_fe01d67a002dfa0f3ac084298142eccd_15">
+                <text>orange</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_bda9643ac6601722a28f238714274da4_16">
+                <text>röd</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_1b34ddf817af0ab0c38658d2813b0455_17">
+                <text>våglängdsintervall (nm)</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_62c6d99d03365598391296b612b92e10_18">
+                <text>380-450</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9c3548dbbb977b258b85c4bc4a7591dd_19">
+                <text>450-485</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9ff2cb1141854a2d1b65f94f30c68ef2_20">
+                <text>485-500</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9dbc119bec9547ffafdadfd0db6c5439_21">
+                <text>500-565</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f5d0d1c80df74236cf3fb2a09936e551_22">
+                <text>565-590</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f90f5f022d5d0068e01f90b549be2ce9_23">
+                <text>590-625</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_cd74bcdbb2bdbdabf8e4c183de1aca9d_24">
+                <text>625-750</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_dbd2031a86f55496e47009cb09f076fb_25">
+                <text>
+                    <strong>‌Relativ utstrålning (%) ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_26fad7231ba0eb8bb01a65adcc7e1e8f_26">
+                <text>
+                    <strong>‌a) HPS ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_94da2436c319323d1e3bfa35bc2f094e_27">
+                <text>
+                    <strong>‌b) LED1 ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f24491c4223a5bfc9c2d95b1f7aed175_28">
+                <text>
+                    <strong>‌c) LED2‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_b695783f7c6ab406909a1c11757aa72d_29">
+                <text>
+                    <strong>‌d) LED3 ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d07e0d749b815a0fbce782b485ffad0b_30">
+                <text>
+                    <strong>‌Våglängd (nm) ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d07e0d749b815a0fbce782b485ffad0b_31">
+                <text>
+                    <strong>‌Våglängd (nm) ‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64ccb51c29a9a8.64635929/passage NEW.xml">
+            <label key="64ccb51c29a9a8.64635929_7e64eb055b453276cd98f526e7c5e4dc_1">
+                <text>Nattlig pollinering</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_16ebc3ce97c0ad8fa050e63402984b37_2">
+                <text>Det finns många typer av insekter som pollinerar blommor på natten. </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f5477a26a89ba6b6b2a827d22881526c_3">
+                <text>Vissa blommor pollineras bara av nattfjärilar. </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_8e9f81ab883219624237191e7e5773a1_4">
+                <text>Nattfjärilar dras mest till ljus med våglängder från 350 nm till 450 nm.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_6924d82d3c03218ecfc262e03862452a_5">
+                <text>Olika ljuskällor sänder ut ljus med olika våglängder.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_e705612a5aaf64540e528a4451dd39fa_6">
+                <text>I gatubelysning används ofta system med högtrycksnatrium (HPS) som sänder ut ljus med de våglängder som visas i diagram (a). Gatubelysning med HPS sänder ut mer gult ljus än andra våglängder. De flesta människor kommer att uppfatta denna gatubelysning som gul.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_c592935f1e122c7bc7e7c35c368306df_7">
+                <text>Vissa länder byter ut HPS-lampor mot LED-lampor som använder mindre energi.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_1649d0c31755bd15e9959805c4292852_8">
+                <text>De våglängder som sänds ut av tre olika typer av LED-lampor visas i diagrammen (b), (c) och (d).</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_296cc9a02b167493f6ff885c48ca71ff_9">
+                <text>färg</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d1d813a48d99f0e102f7d0a1b9068001_10">
+                <text>violett</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_48d6215903dff56238e52e8891380c8f_11">
+                <text>blå</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_6411532ba4971f378391776a9db629d3_12">
+                <text>cyanblå</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9f27410725ab8cc8854a2769c7a516b8_13">
+                <text>grön</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d487dd0b55dfcacdd920ccbdaeafa351_14">
+                <text>gul</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_fe01d67a002dfa0f3ac084298142eccd_15">
+                <text>orange</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_bda9643ac6601722a28f238714274da4_16">
+                <text>röd</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_1b34ddf817af0ab0c38658d2813b0455_17">
+                <text>våglängdsintervall (nm)</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_62c6d99d03365598391296b612b92e10_18">
+                <text>380-450</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9c3548dbbb977b258b85c4bc4a7591dd_19">
+                <text>450-485</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9ff2cb1141854a2d1b65f94f30c68ef2_20">
+                <text>485-500</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9dbc119bec9547ffafdadfd0db6c5439_21">
+                <text>500-565</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f5d0d1c80df74236cf3fb2a09936e551_22">
+                <text>565-590</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f90f5f022d5d0068e01f90b549be2ce9_23">
+                <text>590-625</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_cd74bcdbb2bdbdabf8e4c183de1aca9d_24">
+                <text>625-750</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_dbd2031a86f55496e47009cb09f076fb_25">
+                <text>
+                    <strong>‌Relativ utstrålning (%) ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_26fad7231ba0eb8bb01a65adcc7e1e8f_26">
+                <text>
+                    <strong>‌a) HPS ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_94da2436c319323d1e3bfa35bc2f094e_27">
+                <text>
+                    <strong>‌b) LED1 ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f24491c4223a5bfc9c2d95b1f7aed175_28">
+                <text>
+                    <strong>‌c) LED2‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_b695783f7c6ab406909a1c11757aa72d_29">
+                <text>
+                    <strong>‌d) LED3 ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d07e0d749b815a0fbce782b485ffad0b_30">
+                <text>
+                    <strong>‌Våglängd (nm) ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d07e0d749b815a0fbce782b485ffad0b_31">
+                <text>
+                    <strong>‌Våglängd (nm) ‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64ccb51c29a9a8.64635929/passage NEW.xml">
+            <label key="64ccb51c29a9a8.64635929_7e64eb055b453276cd98f526e7c5e4dc_1">
+                <text>Nattlig pollinering</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_16ebc3ce97c0ad8fa050e63402984b37_2">
+                <text>Det finns många typer av insekter som pollinerar blommor på natten. </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f5477a26a89ba6b6b2a827d22881526c_3">
+                <text>Vissa blommor pollineras bara av nattfjärilar. </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_8e9f81ab883219624237191e7e5773a1_4">
+                <text>Nattfjärilar dras mest till ljus med våglängder från 350 nm till 450 nm.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_6924d82d3c03218ecfc262e03862452a_5">
+                <text>Olika ljuskällor sänder ut ljus med olika våglängder.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_e705612a5aaf64540e528a4451dd39fa_6">
+                <text>I gatubelysning används ofta system med högtrycksnatrium (HPS) som sänder ut ljus med de våglängder som visas i diagram (a). Gatubelysning med HPS sänder ut mer gult ljus än andra våglängder. De flesta människor kommer att uppfatta denna gatubelysning som gul.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_c592935f1e122c7bc7e7c35c368306df_7">
+                <text>Vissa länder byter ut HPS-lampor mot LED-lampor som använder mindre energi.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_1649d0c31755bd15e9959805c4292852_8">
+                <text>De våglängder som sänds ut av tre olika typer av LED-lampor visas i diagrammen (b), (c) och (d).</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_296cc9a02b167493f6ff885c48ca71ff_9">
+                <text>färg</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d1d813a48d99f0e102f7d0a1b9068001_10">
+                <text>violett</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_48d6215903dff56238e52e8891380c8f_11">
+                <text>blå</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_6411532ba4971f378391776a9db629d3_12">
+                <text>cyanblå</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9f27410725ab8cc8854a2769c7a516b8_13">
+                <text>grön</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d487dd0b55dfcacdd920ccbdaeafa351_14">
+                <text>gul</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_fe01d67a002dfa0f3ac084298142eccd_15">
+                <text>orange</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_bda9643ac6601722a28f238714274da4_16">
+                <text>röd</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_1b34ddf817af0ab0c38658d2813b0455_17">
+                <text>våglängdsintervall (nm)</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_62c6d99d03365598391296b612b92e10_18">
+                <text>380-450</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9c3548dbbb977b258b85c4bc4a7591dd_19">
+                <text>450-485</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9ff2cb1141854a2d1b65f94f30c68ef2_20">
+                <text>485-500</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9dbc119bec9547ffafdadfd0db6c5439_21">
+                <text>500-565</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f5d0d1c80df74236cf3fb2a09936e551_22">
+                <text>565-590</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f90f5f022d5d0068e01f90b549be2ce9_23">
+                <text>590-625</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_cd74bcdbb2bdbdabf8e4c183de1aca9d_24">
+                <text>625-750</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_dbd2031a86f55496e47009cb09f076fb_25">
+                <text>
+                    <strong>‌Relativ utstrålning (%) ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_26fad7231ba0eb8bb01a65adcc7e1e8f_26">
+                <text>
+                    <strong>‌a) HPS ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_94da2436c319323d1e3bfa35bc2f094e_27">
+                <text>
+                    <strong>‌b) LED1 ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f24491c4223a5bfc9c2d95b1f7aed175_28">
+                <text>
+                    <strong>‌c) LED2‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_b695783f7c6ab406909a1c11757aa72d_29">
+                <text>
+                    <strong>‌d) LED3 ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d07e0d749b815a0fbce782b485ffad0b_30">
+                <text>
+                    <strong>‌Våglängd (nm) ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d07e0d749b815a0fbce782b485ffad0b_31">
+                <text>
+                    <strong>‌Våglängd (nm) ‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64ccb51c29a9a8.64635929/passage NEW.xml">
+            <label key="64ccb51c29a9a8.64635929_7e64eb055b453276cd98f526e7c5e4dc_1">
+                <text>Nattlig pollinering</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_16ebc3ce97c0ad8fa050e63402984b37_2">
+                <text>Det finns många typer av insekter som pollinerar blommor på natten. </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f5477a26a89ba6b6b2a827d22881526c_3">
+                <text>Vissa blommor pollineras bara av nattfjärilar. </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_8e9f81ab883219624237191e7e5773a1_4">
+                <text>Nattfjärilar dras mest till ljus med våglängder från 350 nm till 450 nm.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_6924d82d3c03218ecfc262e03862452a_5">
+                <text>Olika ljuskällor sänder ut ljus med olika våglängder.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_e705612a5aaf64540e528a4451dd39fa_6">
+                <text>I gatubelysning används ofta system med högtrycksnatrium (HPS) som sänder ut ljus med de våglängder som visas i diagram (a). Gatubelysning med HPS sänder ut mer gult ljus än andra våglängder. De flesta människor kommer att uppfatta denna gatubelysning som gul.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_c592935f1e122c7bc7e7c35c368306df_7">
+                <text>Vissa länder byter ut HPS-lampor mot LED-lampor som använder mindre energi.</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_1649d0c31755bd15e9959805c4292852_8">
+                <text>De våglängder som sänds ut av tre olika typer av LED-lampor visas i diagrammen (b), (c) och (d).</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_296cc9a02b167493f6ff885c48ca71ff_9">
+                <text>färg</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d1d813a48d99f0e102f7d0a1b9068001_10">
+                <text>violett</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_48d6215903dff56238e52e8891380c8f_11">
+                <text>blå</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_6411532ba4971f378391776a9db629d3_12">
+                <text>cyanblå</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9f27410725ab8cc8854a2769c7a516b8_13">
+                <text>grön</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d487dd0b55dfcacdd920ccbdaeafa351_14">
+                <text>gul</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_fe01d67a002dfa0f3ac084298142eccd_15">
+                <text>orange</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_bda9643ac6601722a28f238714274da4_16">
+                <text>röd</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_1b34ddf817af0ab0c38658d2813b0455_17">
+                <text>våglängdsintervall (nm)</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_62c6d99d03365598391296b612b92e10_18">
+                <text>380-450</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9c3548dbbb977b258b85c4bc4a7591dd_19">
+                <text>450-485</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9ff2cb1141854a2d1b65f94f30c68ef2_20">
+                <text>485-500</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_9dbc119bec9547ffafdadfd0db6c5439_21">
+                <text>500-565</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f5d0d1c80df74236cf3fb2a09936e551_22">
+                <text>565-590</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f90f5f022d5d0068e01f90b549be2ce9_23">
+                <text>590-625</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_cd74bcdbb2bdbdabf8e4c183de1aca9d_24">
+                <text>625-750</text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_dbd2031a86f55496e47009cb09f076fb_25">
+                <text>
+                    <strong>‌Relativ utstrålning (%) ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_26fad7231ba0eb8bb01a65adcc7e1e8f_26">
+                <text>
+                    <strong>‌a) HPS ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_94da2436c319323d1e3bfa35bc2f094e_27">
+                <text>
+                    <strong>‌b) LED1 ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_f24491c4223a5bfc9c2d95b1f7aed175_28">
+                <text>
+                    <strong>‌c) LED2‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_b695783f7c6ab406909a1c11757aa72d_29">
+                <text>
+                    <strong>‌d) LED3 ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d07e0d749b815a0fbce782b485ffad0b_30">
+                <text>
+                    <strong>‌Våglängd (nm) ‌</strong>
+                </text>
+            </label>
+            <label key="64ccb51c29a9a8.64635929_d07e0d749b815a0fbce782b485ffad0b_31">
+                <text>
+                    <strong>‌Våglängd (nm) ‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i633a65259902b1625563538420ca57637">
+            <label key="i633a65259902b1625563538420ca57637_807aa1962f7f7542020996e3faf63ae5_1">
+                <text>Vilken färg skulle LED 2 troligen uppfattas som, av människor?</text>
+            </label>
+            <label key="i633a65259902b1625563538420ca57637_A_48d6215903dff56238e52e8891380c8f_2">
+                <text>blå</text>
+            </label>
+            <label key="i633a65259902b1625563538420ca57637_B_d508fe45cecaf653904a0e774084bb5c_3">
+                <text>vitt</text>
+            </label>
+            <label key="i633a65259902b1625563538420ca57637_C_d487dd0b55dfcacdd920ccbdaeafa351_4">
+                <text>gul</text>
+            </label>
+            <label key="i633a65259902b1625563538420ca57637_D_1ffd9e753c8054cc61456ac7fac1ac89_5">
+                <text>svart</text>
+            </label>
+        </item>
+        <item id="i633a65bb23b1e188023501ab2d31323e9d">
+            <label key="i633a65bb23b1e188023501ab2d31323e9d_448ef8229bd331923bfff4d096e998cc_1">
+                <text>Vilken LED-lampa påverkar enligt diagrammen minst sannolikt nattfjärilars beteende?</text>
+            </label>
+            <label key="i633a65bb23b1e188023501ab2d31323e9d_A_e96c5a8e0714fb4eb72219db8ea8baba_2">
+                <text>LED 1</text>
+            </label>
+            <label key="i633a65bb23b1e188023501ab2d31323e9d_B_483cd5c47dbff30a5ad4a38fdff3e411_3">
+                <text>LED 2</text>
+            </label>
+            <label key="i633a65bb23b1e188023501ab2d31323e9d_C_cd2dd22e779f978c8af77b0e7fa4825c_4">
+                <text>LED 3</text>
+            </label>
+            <label key="i633a65bb23b1e188023501ab2d31323e9d_4fd72ad9efa6be34b8ac1f513e76dfb5_5">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+        <item id="i633a6757c41e418797e76e28ceec7810b9">
+            <label key="i633a6757c41e418797e76e28ceec7810b9_d031aa399d3c274842daa4270b3c807e_1">
+                <text>Vissa blommor har mönster som leder insekter till nektarn. Dessa mönster ger en kraftig reflektion av ljus med våglängder mellan 350 nm och 400 nm.</text>
+            </label>
+            <label key="i633a6757c41e418797e76e28ceec7810b9_edf2b12d4e820166a03c45d537e02ae6_2">
+                <text>Ge en orsak till att dessa mönster är till nytta för den blommande växten.</text>
+            </label>
+        </item>
+        <item id="i633a679316cc5188188a07a79ab517bf15">
+            <label key="i633a679316cc5188188a07a79ab517bf15_2f9ecd914eb0b214cbcabf2c8f6f3e52_1">
+                <text>En stad vill minska effekten på beteendet hos nattfjärilar som dras till det ljus som gatubelysningen strålar ut.</text>
+            </label>
+            <label key="i633a679316cc5188188a07a79ab517bf15_9d030e536e417cefbb1b906207e466fb_2">
+                <text><br/>Vilken av följande förändringar skulle minska gatubelysningens påverkan på nattfjärilars beteende och bibehålla säkerheten för fotgängare på natten?</text>
+            </label>
+            <label key="i633a679316cc5188188a07a79ab517bf15_A_7d44180a458e2f202eb7d169262d780e_3">
+                <text>ta bort all gatubelysning</text>
+            </label>
+            <label key="i633a679316cc5188188a07a79ab517bf15_B_b01dcb81639fb220983e534b7d6c9499_4">
+                <text>släcka gatubelysningen under natten</text>
+            </label>
+            <label key="i633a679316cc5188188a07a79ab517bf15_C_04175f62af299e5796dd3ed615fd031e_5">
+                <text>använda solpaneler för att leverera elenergi till gatubelysningen</text>
+            </label>
+            <label key="i633a679316cc5188188a07a79ab517bf15_D_7b01f230af5063dd8e9a2578fba6339d_6">
+                <text>använda gatubelysning som sänder ut ljus med längre våglängder</text>
+            </label>
+        </item>
+        <item id="i633a6804d2da618795dd1956d24285393e">
+            <label key="i633a6804d2da618795dd1956d24285393e_32d3161deca910396560d483be1f1588_1">
+                <text>Vissa elever hävdar att LED-lampor alltid är bättre för miljön än HPS-lampor.</text>
+            </label>
+            <label key="i633a6804d2da618795dd1956d24285393e_1b14881382230938c0afdbc245bb29b0_2">
+                <text>Är detta påstående sant?</text>
+            </label>
+            <label key="i633a6804d2da618795dd1956d24285393e_33a4910e5c5dc9b5b9b61c8c52e00765_3">
+                <text>Välj 'Ja' eller 'Nej'.</text>
+            </label>
+            <label key="i633a6804d2da618795dd1956d24285393e_Y_93cba07454f06a4a960172bbd6e2a435_4">
+                <text>Ja</text>
+            </label>
+            <label key="i633a6804d2da618795dd1956d24285393e_N_bafd7322c6e97d25b6299b5d6fe8920b_5">
+                <text>Nej</text>
+            </label>
+            <label key="i633a6804d2da618795dd1956d24285393e_4fd72ad9efa6be34b8ac1f513e76dfb5_6">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+    </items>
+</file>

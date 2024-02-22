@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64640b01ebbd67.21566864/passage NEW.xml">
+            <label key="64640b01ebbd67.21566864_1a6e1674dd0c18643c51f7f7fea111fc_1">
+                <text>Ostronskal</text>
+            </label>
+            <label key="64640b01ebbd67.21566864_4271c5dc75299a93947f07fa0d4ee919_2">
+                <text>Ostron är blötdjur som lever i havet. Vuxna ostron har ett hårt skal som de lever i.</text>
+            </label>
+            <label key="64640b01ebbd67.21566864_55af037382be34c3dc672ac0891e87e9_3">
+                <text>De är en populär sorts skaldjur i vissa länder.</text>
+            </label>
+            <label key="64640b01ebbd67.21566864_83cca81ed5d5bf00b5a7396594f81fed_4">
+                <text>Här är lite information om ostronens livscykel.</text>
+            </label>
+            <label key="64640b01ebbd67.21566864_6bc7008dac564efefd8f7f06a6995a3e_5">
+                <text><strong>Steg 1.</strong> Vuxna ostron växer på stenar.</text>
+            </label>
+            <label key="64640b01ebbd67.21566864_e111b8df253f837e6e529a972f6a3bd2_6">
+                <text><strong>Steg 2.</strong> Spermier och ägg släpps ut i vattnet en gång om året under en period av två månader. Befruktningen sker under denna period.</text>
+            </label>
+            <label key="64640b01ebbd67.21566864_d6e5b998e5389c7edf4a9538e2b14aeb_7">
+                <text><strong>Steg 3.</strong> Larver produceras. Larver rör sig och äter i havet. Larverna börjar utveckla sina skal.</text>
+            </label>
+            <label key="64640b01ebbd67.21566864_1145e628f22026284650dfdedbf9167d_8">
+                <text><strong>Steg 4.</strong> Larverna fäster sig på stenar och fortsätter att växa. De blir vuxna tre år efter att de har fäst sig på en sten. Vuxenstadiet varar i fem år.</text>
+            </label>
+            <label key="64640b01ebbd67.21566864_bf140c8cfcf6ab6cc3c23ee376b93211_9">
+                <text>Vuxna ostron som är fästa på en sten</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64641e99bf70c4.96782697/passage NEW 1.xml">
+            <label key="64641e99bf70c4.96782697_1a6e1674dd0c18643c51f7f7fea111fc_1">
+                <text>Ostronskal</text>
+            </label>
+            <label key="64641e99bf70c4.96782697_5c5c11ee44a288c3eab73afbefa8f6f0_2">
+                <text>Ostron kan odlas. Ostronodlarna köper ostronlarver och odlar dem i stora tankar fyllda med havsvatten. Havsvattnet pumpas in i tankarna från det närliggande havet.</text>
+            </label>
+            <label key="64641e99bf70c4.96782697_f924d535bda50972df50be69fd32b286_3">
+                <text>stora tankar för ostronodling</text>
+            </label>
+            <label key="64641e99bf70c4.96782697_7fbbd80b3d0f092b9116f8f0d2d50334_4">
+                <text>Amerikanskt ålgräs som växer i havet</text>
+            </label>
+            <label key="64641e99bf70c4.96782697_e579d906e65cc0bed40e8536d9029713_5">
+                <text>Odlarna upptäckte att höga halter av löst koldioxid i havsvattnet kunde kopplas till ömtåliga skal hos ostronen.</text>
+            </label>
+            <label key="64641e99bf70c4.96782697_04e3c17ce433e423fd854f272159dc0a_6">
+                <text>För att försöka lösa detta problem planterade odlarna amerikanskt ålgräs (en vattenväxt) i tankarna.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i633174c4b6ced169305347574e94bd083">
+            <label key="i633174c4b6ced169305347574e94bd083_734b58c90f04a6eea63a38fe05615870_1">
+                <text>Titta på Steg 4.</text>
+            </label>
+            <label key="i633174c4b6ced169305347574e94bd083_d1cabf65be17da084996f9e34e213e25_2">
+                <text>Hur lång tid tar det för larverna att växa och bli vuxna ostron?</text>
+            </label>
+            <label key="i633174c4b6ced169305347574e94bd083_A_e8e5c08a1f1cc07b8bcc1523bc20eabc_3">
+                <text>två månader</text>
+            </label>
+            <label key="i633174c4b6ced169305347574e94bd083_B_377ae60a5dcbce524642a80baef3f746_4">
+                <text>ett år</text>
+            </label>
+            <label key="i633174c4b6ced169305347574e94bd083_C_3f613dbb7b77219c9318be1d6e6ae3e8_5">
+                <text>tre år</text>
+            </label>
+            <label key="i633174c4b6ced169305347574e94bd083_D_a596935ec14d962c52aff6d8a6bc55fe_6">
+                <text>fem år</text>
+            </label>
+        </item>
+        <item id="i633174c8463381935905b5ec85f63c0e02">
+            <label key="i633174c8463381935905b5ec85f63c0e02_87436e625ba2a1a6b997792c9eab5048_1">
+                <text>flimmerhår</text>
+            </label>
+            <label key="i633174c8463381935905b5ec85f63c0e02_0fd47f2c8af71a95233d7e2ee2db3548_2">
+                <text>Larverna har hårliknande strukturer som kallas flimmerhår.</text>
+            </label>
+            <label key="i633174c8463381935905b5ec85f63c0e02_fda7058147dd879660e2164a1ea2996d_3">
+                <text>Vuxna ostron har inte flimmerhår på utsidan av sina kroppar.</text>
+            </label>
+            <label key="i633174c8463381935905b5ec85f63c0e02_77197764b290941520313f3a10f36f9e_4">
+                <text>Vilken funktion har flimmerhår troligen hos larver?</text>
+            </label>
+            <label key="i633174c8463381935905b5ec85f63c0e02_choice_1_5661101b5502f4c7c42e0835f7d983d6_5">
+                <text>att fästa sig på en sten</text>
+            </label>
+            <label key="i633174c8463381935905b5ec85f63c0e02_choice_2_ecf42c401dbcfdec61ae4f0ef41de199_6">
+                <text>att locka till sig en partner</text>
+            </label>
+            <label key="i633174c8463381935905b5ec85f63c0e02_choice_3_60185cba4b6dc1008cfd27882174ea40_7">
+                <text>att släppa ut ägg och spermier</text>
+            </label>
+            <label key="i633174c8463381935905b5ec85f63c0e02_choice_4_553d4798dd417873869b815733a604a8_8">
+                <text>att simma i havet</text>
+            </label>
+        </item>
+        <item id="i633174cc5663813964ef5b877dbae98aa">
+            <label key="i633174cc5663813964ef5b877dbae98aa_fc6bc713c0e75bdf0236904c28d8f8eb_1">
+                <text>Ostron behöver kalciumjoner och karbonatjoner för att bygga upp sina skal.</text>
+            </label>
+            <label key="i633174cc5663813964ef5b877dbae98aa_8a42a44f8997db07358bb8d71a44ba96_2">
+                <text>Vissa miljöförändringar har lett till en minskning av mängden karbonatjoner i havsvattnet.</text>
+            </label>
+            <label key="i633174cc5663813964ef5b877dbae98aa_9f4d145b7826946cf854343b5fa7bd37_3">
+                <text>I vilket steg av livscykeln kommer en minskning av mängden karbonatjoner först att påverka ostronens tillväxt?</text>
+            </label>
+            <label key="i633174cc5663813964ef5b877dbae98aa_A_6f4a225b29c0975663d0e4b9e1f4547f_4">
+                <text>Steg 1</text>
+            </label>
+            <label key="i633174cc5663813964ef5b877dbae98aa_B_e31ad1284b7618a9c10777ed99b12e64_5">
+                <text>Steg 2</text>
+            </label>
+            <label key="i633174cc5663813964ef5b877dbae98aa_C_2d5ce426423eeeead4f35769cd8b1b27_6">
+                <text>Steg 3</text>
+            </label>
+            <label key="i633174cc5663813964ef5b877dbae98aa_D_7882a4b556b6996eaf604413a9e602d9_7">
+                <text>Steg 4</text>
+            </label>
+        </item>
+        <item id="i633174cecc76e2067454ca352dca627821">
+            <label key="i633174cecc76e2067454ca352dca627821_ea26443fd12c6aa53b66421ab8f6c51e_1">
+                <text>Vad borde odlarna göra för att undersöka om plantering av amerikanskt ålgräs ökar hållfastheten hos ostronskal?</text>
+            </label>
+            <label key="i633174cecc76e2067454ca352dca627821_A_fbc73e62fe92cfd409584e3b7720da8c_2">
+                <text>Upprepa experimentet med en annan typ av sjögräs.</text>
+            </label>
+            <label key="i633174cecc76e2067454ca352dca627821_B_c376fbcfed73d2e49eaa7012aad4e893_3">
+                <text>Ta bort koldioxiden från vattnet.</text>
+            </label>
+            <label key="i633174cecc76e2067454ca352dca627821_C_aaa47de03bd21d5ead0526e04d5b398f_4">
+                <text>Jämföra hållfastheten hos ostronskalen i vatten med och utan det amerikanska ålgräset.</text>
+            </label>
+            <label key="i633174cecc76e2067454ca352dca627821_D_d6280b4472425d2e51083dac87742e38_5">
+                <text>Observera hur bra ostron växer i vatten med det amerikanska ålgräset.</text>
+            </label>
+        </item>
+    </items>
+</file>

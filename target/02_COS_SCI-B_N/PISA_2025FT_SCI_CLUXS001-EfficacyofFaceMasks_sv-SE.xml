@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/65542cb2b49106.82472432/passage NEW.xml">
+            <label key="65542cb2b49106.82472432_e1b62ec8dd135e40e3a0842b3ea645f7_1">
+                <text>Hur effektiva är munskydd?</text>
+            </label>
+            <label key="65542cb2b49106.82472432_071e0b981a345a5822de129b6d7a82c9_2">
+                <text>Diagrammet nedan kommer från en vetenskaplig artikel och har kontrollerats noga när det gäller exakthet och giltighet. Det visar hur spridningen av ett luftvägsvirus som till exempel influensa påverkas av följande faktorer:</text>
+            </label>
+            <label key="65542cb2b49106.82472432_ca271134633c950ec8a251df003cf2c8_3">
+                <text>den andel i procent av allmänheten som bär munskydd (följsamhet)</text>
+            </label>
+            <label key="65542cb2b49106.82472432_cec19722984b7472cea77423063a710f_4">
+                <text>hur väl munskydd hindrar viruset (effektivitet).</text>
+            </label>
+            <label key="65542cb2b49106.82472432_729676344f049f44e93b9ec5bcb7dd5e_5">
+                <text>
+                    <strong>Det beräknade reproduktionstalet, <em>R</em>, är det genomsnittliga antalet människor som kommer att smittas av en person som bär på sjukdomen.</strong>
+                </text>
+            </label>
+            <label key="65542cb2b49106.82472432_04284a15a43f01b851069904f354c767_6">
+                <text>Spridningen av ett luftvägsvirus slutar om värdet på <em>R</em> är mindre än 1. Det betyder att varje smittad person i genomsnitt smittar färre än en annan person.</text>
+            </label>
+            <label key="65542cb2b49106.82472432_74be375aa04773ba8517c6801c333504_7">
+                <text>Fler människor bär munskydd</text>
+            </label>
+            <label key="65542cb2b49106.82472432_3269c357c25fa9921b37efbc26065fab_8">
+                <text><strong>Följsamhet:</strong> <br/>Andelen av befolkningen i procent som bär munskydd </text>
+            </label>
+            <label key="65542cb2b49106.82472432_27224bdd467832062cb4e600aebf6168_9">
+                <text>Färre människor bär munskydd</text>
+            </label>
+            <label key="65542cb2b49106.82472432_5e3cdf452375612e55f27b67f59cd4bb_10">
+                <text>Munskyddet hindrar färre viruspartiklar</text>
+            </label>
+            <label key="65542cb2b49106.82472432_e6939d97993984fc3a648f89e9f514f8_11">
+                <text><strong>Effektivitet:</strong><br/>Hur väl munskyddet hindrar viruset</text>
+            </label>
+            <label key="65542cb2b49106.82472432_dfcc52273a2d6641f4d3226e6319cff2_12">
+                <text>Munskyddet hindrar fler viruspartiklar</text>
+            </label>
+            <label key="65542cb2b49106.82472432_84ed9545e4b1498a142f33c007f40ccf_13">
+                <text><em>R</em>ₑ = 1</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c57b7b662d1ca225366abb50915b30dc_14">
+                <text><em>R</em>ₑ = 1.5</text>
+            </label>
+            <label key="65542cb2b49106.82472432_8cd226c092cd43bb494a54d4cfb3696d_15">
+                <text><em>R</em>ₑ = 2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c4ca4238a0b923820dcc509a6f75849b_16">
+                <text>1</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c4ca4238a0b923820dcc509a6f75849b_17">
+                <text>1</text>
+            </label>
+            <label key="65542cb2b49106.82472432_6008647277c4454cecd97d33c069f0ca_18">
+                <text>1,5</text>
+            </label>
+            <label key="65542cb2b49106.82472432_6008647277c4454cecd97d33c069f0ca_19">
+                <text>1,5</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c81e728d9d4c2f636f067f89cc14862c_20">
+                <text>2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c81e728d9d4c2f636f067f89cc14862c_21">
+                <text>2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c81e728d9d4c2f636f067f89cc14862c_22">
+                <text>2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_30bd7ce7de206924302499f197c7a966_23">
+                <text>100 %</text>
+            </label>
+            <label key="65542cb2b49106.82472432_30bd7ce7de206924302499f197c7a966_24">
+                <text>100 %</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65542cb2b49106.82472432/passage NEW.xml">
+            <label key="65542cb2b49106.82472432_e1b62ec8dd135e40e3a0842b3ea645f7_1">
+                <text>Hur effektiva är munskydd?</text>
+            </label>
+            <label key="65542cb2b49106.82472432_071e0b981a345a5822de129b6d7a82c9_2">
+                <text>Diagrammet nedan kommer från en vetenskaplig artikel och har kontrollerats noga när det gäller exakthet och giltighet. Det visar hur spridningen av ett luftvägsvirus som till exempel influensa påverkas av följande faktorer:</text>
+            </label>
+            <label key="65542cb2b49106.82472432_ca271134633c950ec8a251df003cf2c8_3">
+                <text>den andel i procent av allmänheten som bär munskydd (följsamhet)</text>
+            </label>
+            <label key="65542cb2b49106.82472432_cec19722984b7472cea77423063a710f_4">
+                <text>hur väl munskydd hindrar viruset (effektivitet).</text>
+            </label>
+            <label key="65542cb2b49106.82472432_729676344f049f44e93b9ec5bcb7dd5e_5">
+                <text>
+                    <strong>Det beräknade reproduktionstalet, <em>R</em>, är det genomsnittliga antalet människor som kommer att smittas av en person som bär på sjukdomen.</strong>
+                </text>
+            </label>
+            <label key="65542cb2b49106.82472432_04284a15a43f01b851069904f354c767_6">
+                <text>Spridningen av ett luftvägsvirus slutar om värdet på <em>R</em> är mindre än 1. Det betyder att varje smittad person i genomsnitt smittar färre än en annan person.</text>
+            </label>
+            <label key="65542cb2b49106.82472432_74be375aa04773ba8517c6801c333504_7">
+                <text>Fler människor bär munskydd</text>
+            </label>
+            <label key="65542cb2b49106.82472432_3269c357c25fa9921b37efbc26065fab_8">
+                <text><strong>Följsamhet:</strong> <br/>Andelen av befolkningen i procent som bär munskydd </text>
+            </label>
+            <label key="65542cb2b49106.82472432_27224bdd467832062cb4e600aebf6168_9">
+                <text>Färre människor bär munskydd</text>
+            </label>
+            <label key="65542cb2b49106.82472432_5e3cdf452375612e55f27b67f59cd4bb_10">
+                <text>Munskyddet hindrar färre viruspartiklar</text>
+            </label>
+            <label key="65542cb2b49106.82472432_e6939d97993984fc3a648f89e9f514f8_11">
+                <text><strong>Effektivitet:</strong><br/>Hur väl munskyddet hindrar viruset</text>
+            </label>
+            <label key="65542cb2b49106.82472432_dfcc52273a2d6641f4d3226e6319cff2_12">
+                <text>Munskyddet hindrar fler viruspartiklar</text>
+            </label>
+            <label key="65542cb2b49106.82472432_84ed9545e4b1498a142f33c007f40ccf_13">
+                <text><em>R</em>ₑ = 1</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c57b7b662d1ca225366abb50915b30dc_14">
+                <text><em>R</em>ₑ = 1.5</text>
+            </label>
+            <label key="65542cb2b49106.82472432_8cd226c092cd43bb494a54d4cfb3696d_15">
+                <text><em>R</em>ₑ = 2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c4ca4238a0b923820dcc509a6f75849b_16">
+                <text>1</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c4ca4238a0b923820dcc509a6f75849b_17">
+                <text>1</text>
+            </label>
+            <label key="65542cb2b49106.82472432_6008647277c4454cecd97d33c069f0ca_18">
+                <text>1,5</text>
+            </label>
+            <label key="65542cb2b49106.82472432_6008647277c4454cecd97d33c069f0ca_19">
+                <text>1,5</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c81e728d9d4c2f636f067f89cc14862c_20">
+                <text>2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c81e728d9d4c2f636f067f89cc14862c_21">
+                <text>2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c81e728d9d4c2f636f067f89cc14862c_22">
+                <text>2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_30bd7ce7de206924302499f197c7a966_23">
+                <text>100 %</text>
+            </label>
+            <label key="65542cb2b49106.82472432_30bd7ce7de206924302499f197c7a966_24">
+                <text>100 %</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65542cb2b49106.82472432/passage NEW.xml">
+            <label key="65542cb2b49106.82472432_e1b62ec8dd135e40e3a0842b3ea645f7_1">
+                <text>Hur effektiva är munskydd?</text>
+            </label>
+            <label key="65542cb2b49106.82472432_071e0b981a345a5822de129b6d7a82c9_2">
+                <text>Diagrammet nedan kommer från en vetenskaplig artikel och har kontrollerats noga när det gäller exakthet och giltighet. Det visar hur spridningen av ett luftvägsvirus som till exempel influensa påverkas av följande faktorer:</text>
+            </label>
+            <label key="65542cb2b49106.82472432_ca271134633c950ec8a251df003cf2c8_3">
+                <text>den andel i procent av allmänheten som bär munskydd (följsamhet)</text>
+            </label>
+            <label key="65542cb2b49106.82472432_cec19722984b7472cea77423063a710f_4">
+                <text>hur väl munskydd hindrar viruset (effektivitet).</text>
+            </label>
+            <label key="65542cb2b49106.82472432_729676344f049f44e93b9ec5bcb7dd5e_5">
+                <text>
+                    <strong>Det beräknade reproduktionstalet, <em>R</em>, är det genomsnittliga antalet människor som kommer att smittas av en person som bär på sjukdomen.</strong>
+                </text>
+            </label>
+            <label key="65542cb2b49106.82472432_04284a15a43f01b851069904f354c767_6">
+                <text>Spridningen av ett luftvägsvirus slutar om värdet på <em>R</em> är mindre än 1. Det betyder att varje smittad person i genomsnitt smittar färre än en annan person.</text>
+            </label>
+            <label key="65542cb2b49106.82472432_74be375aa04773ba8517c6801c333504_7">
+                <text>Fler människor bär munskydd</text>
+            </label>
+            <label key="65542cb2b49106.82472432_3269c357c25fa9921b37efbc26065fab_8">
+                <text><strong>Följsamhet:</strong> <br/>Andelen av befolkningen i procent som bär munskydd </text>
+            </label>
+            <label key="65542cb2b49106.82472432_27224bdd467832062cb4e600aebf6168_9">
+                <text>Färre människor bär munskydd</text>
+            </label>
+            <label key="65542cb2b49106.82472432_5e3cdf452375612e55f27b67f59cd4bb_10">
+                <text>Munskyddet hindrar färre viruspartiklar</text>
+            </label>
+            <label key="65542cb2b49106.82472432_e6939d97993984fc3a648f89e9f514f8_11">
+                <text><strong>Effektivitet:</strong><br/>Hur väl munskyddet hindrar viruset</text>
+            </label>
+            <label key="65542cb2b49106.82472432_dfcc52273a2d6641f4d3226e6319cff2_12">
+                <text>Munskyddet hindrar fler viruspartiklar</text>
+            </label>
+            <label key="65542cb2b49106.82472432_84ed9545e4b1498a142f33c007f40ccf_13">
+                <text><em>R</em>ₑ = 1</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c57b7b662d1ca225366abb50915b30dc_14">
+                <text><em>R</em>ₑ = 1.5</text>
+            </label>
+            <label key="65542cb2b49106.82472432_8cd226c092cd43bb494a54d4cfb3696d_15">
+                <text><em>R</em>ₑ = 2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c4ca4238a0b923820dcc509a6f75849b_16">
+                <text>1</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c4ca4238a0b923820dcc509a6f75849b_17">
+                <text>1</text>
+            </label>
+            <label key="65542cb2b49106.82472432_6008647277c4454cecd97d33c069f0ca_18">
+                <text>1,5</text>
+            </label>
+            <label key="65542cb2b49106.82472432_6008647277c4454cecd97d33c069f0ca_19">
+                <text>1,5</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c81e728d9d4c2f636f067f89cc14862c_20">
+                <text>2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c81e728d9d4c2f636f067f89cc14862c_21">
+                <text>2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_c81e728d9d4c2f636f067f89cc14862c_22">
+                <text>2</text>
+            </label>
+            <label key="65542cb2b49106.82472432_30bd7ce7de206924302499f197c7a966_23">
+                <text>100 %</text>
+            </label>
+            <label key="65542cb2b49106.82472432_30bd7ce7de206924302499f197c7a966_24">
+                <text>100 %</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6355ef2a65e5d228253cb4fa316e2cf21">
+            <label key="i6355ef2a65e5d228253cb4fa316e2cf21_c294ea388d65207961df5d3dfeb4040c_1">
+                <text>Vilka av följande områden i diagrammet motsvarar villkor som skulle kunna stoppa spridningen av ett luftvägsvirus?</text>
+            </label>
+            <label key="i6355ef2a65e5d228253cb4fa316e2cf21_93754e7694b91e450fe5886817d4497a_2">
+                <text>Välj alla korrekta svar. </text>
+            </label>
+            <label key="i6355ef2a65e5d228253cb4fa316e2cf21_A_7736f1380ec284d6d1b3ac2fd1532a38_3">
+                <text>
+                    <strong>‌I‌</strong>
+                </text>
+            </label>
+            <label key="i6355ef2a65e5d228253cb4fa316e2cf21_B_997115a2bbc77629d6d15034b93c7d13_4">
+                <text>
+                    <strong>‌II‌</strong>
+                </text>
+            </label>
+            <label key="i6355ef2a65e5d228253cb4fa316e2cf21_C_736df6db203600a4ce4f81e676d79d4a_5">
+                <text>
+                    <strong>‌III‌</strong>
+                </text>
+            </label>
+            <label key="i6355ef2a65e5d228253cb4fa316e2cf21_D_537e4a786664148cfe1f7def536c3116_6">
+                <text>
+                    <strong>‌IV‌</strong>
+                </text>
+            </label>
+            <label key="i6355ef2a65e5d228253cb4fa316e2cf21_E_2dac22933d4b3ccaf7ee79b4f9fc5927_7">
+                <text>
+                    <strong>‌V‌</strong>
+                </text>
+            </label>
+            <label key="i6355ef2a65e5d228253cb4fa316e2cf21_F_3987906f920524d6a5ab430b038cdd58_8">
+                <text>
+                    <strong>‌VI‌</strong>
+                </text>
+            </label>
+        </item>
+        <item id="i6355efc920a161990cf3d099dddcc6ab5">
+            <label key="i6355efc920a161990cf3d099dddcc6ab5_f0febb231919492643530c5a721a9df9_1">
+                <text>Tänk på en situation där det råder brist på munskydd av hög kvalitet (90-100 % effektivitet).<div></div><div>Skulle munskydd av lägre kvalitet (60 % effektivitet) stoppa spridningen av ett luftvägsvirus enligt informationen som visas till höger?</div></text>
+            </label>
+            <label key="i6355efc920a161990cf3d099dddcc6ab5_A_d322b2d1b96b67c639b694472806d854_2">
+                <text>Ja, om mer än 60 % av befolkningen använder dem.</text>
+            </label>
+            <label key="i6355efc920a161990cf3d099dddcc6ab5_B_eb63e6f5726f4e3eb728b90954e4232e_3">
+                <text>Ja, eftersom en effektivitet på 60 % betyder att <em>R</em> är lägre än 1.</text>
+            </label>
+            <label key="i6355efc920a161990cf3d099dddcc6ab5_C_354bf408ac6baaeaa4a51d7f6229d031_4">
+                <text>Nej, eftersom dessa munskydd bara hindrar hälften av viruspartiklarna.</text>
+            </label>
+            <label key="i6355efc920a161990cf3d099dddcc6ab5_D_84608f09e36d7d40ce90919d286f5d84_5">
+                <text>Nej, eftersom inte tillräckligt många människor skulle använda dem.</text>
+            </label>
+        </item>
+        <item id="i6355f2e52b071176312e9cb62ce6c96e89">
+            <label key="i6355f2e52b071176312e9cb62ce6c96e89_507ae2da86c513956d71d6d4155512aa_1">
+                <text>I ett land uppmuntrade myndigheterna användning av munskydd genom att dela ut gratis FFP2-munskydd. Dessa munskydd har en effektivitet på 95 %.</text>
+            </label>
+            <label key="i6355f2e52b071176312e9cb62ce6c96e89_2e24933ad4adcff683608b45e947aebb_2">
+                <text>Denna åtgärd ledde till att 45 % av befolkningen använde FFP2-munskydd under ett utbrott av luftvägsvirus.</text>
+            </label>
+            <label key="i6355f2e52b071176312e9cb62ce6c96e89_902a07fafbc71c6147c64161dfae5d53_3">
+                <text>Skulle denna åtgärd vara tillräcklig för att stoppa spridningen av luftvägsviruset enligt data i diagrammet till höger?</text>
+            </label>
+            <label key="i6355f2e52b071176312e9cb62ce6c96e89_choice_1_a6105c0a611b41b08f1209506350279e_4">
+                <text>ja</text>
+            </label>
+            <label key="i6355f2e52b071176312e9cb62ce6c96e89_choice_2_7fa3b767c460b54a2be4d49030b349c7_5">
+                <text>nej</text>
+            </label>
+            <label key="i6355f2e52b071176312e9cb62ce6c96e89_de03d051471bf1872104f26fc81d6982_6">
+                <text>Motivera ditt svar.</text>
+            </label>
+        </item>
+    </items>
+</file>

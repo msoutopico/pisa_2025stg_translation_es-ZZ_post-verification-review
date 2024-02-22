@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<!DOCTYPE omegat [
+<!ENTITY DOMAIN "https://git-codecommit.eu-central-1.amazonaws.com/v1/repos">
+<!ENTITY TARGET_LANG "sv-SE">
+<!ENTITY PREV_STEP "verification-review">
+<!ENTITY THIS_STEP "post-verification-review">
+<!ENTITY THIS_REPO "pisa_2025stg_translation_es-ZZ_&THIS_STEP;">
+]>
+<omegat>
+  <project version="1.0">
+    <source_dir>__DEFAULT__</source_dir>
+    <source_dir_excludes>
+      <mask>**/.svn/**</mask>
+      <mask>**/CVS/**</mask>
+      <mask>**/.cvs/**</mask>
+      <mask>**/.git/**</mask>
+      <mask>**/.hg/**</mask>
+      <mask>**/.repositories/**</mask>
+      <mask>**/desktop.ini</mask>
+      <mask>**/Thumbs.db</mask>
+      <mask>**/.DS_Store</mask>
+      <mask>**/~$*</mask>
+      <mask>**/PISA_2025FT_QQ_ICQ*.xml</mask>
+      <mask>**/PISA_2025FT_QQ_TCQ*.xml</mask>
+      <mask>**/PISA_2025FT_QQ_PAQ*.xml</mask>
+      <mask>**/PISA_2025FT_QQ_FLATCQ*.xml</mask>
+      <mask>**/PISA_2025FT_QQ_FLAPAQ*.xml</mask>
+      <mask>**/PISA_2025FT_QQ_ICQINT*.xml</mask>
+      <mask>**/PISA_2025FT_QQ_PAQINT*.xml</mask>
+      <mask>**/PISA_2025FT_QQ_TCQINT*.xml</mask>
+      <mask>**/PISA_2025FT_QQ_FLATCQINT*.xml</mask>
+    </source_dir_excludes>
+    <target_dir>__DEFAULT__</target_dir>
+    <tm_dir>__DEFAULT__</tm_dir>
+    <glossary_dir>__DEFAULT__</glossary_dir>
+    <glossary_file>__DEFAULT__</glossary_file>
+    <dictionary_dir>__DEFAULT__</dictionary_dir>
+    <source_lang>en</source_lang>
+    <target_lang>&TARGET_LANG;</target_lang>
+    <source_tok>org.omegat.tokenizer.LuceneEnglishTokenizer</source_tok>
+    <target_tok>org.omegat.tokenizer.LuceneItalianTokenizer</target_tok>
+    <sentence_seg>true</sentence_seg>
+    <support_default_translations>true</support_default_translations>
+    <remove_tags>false</remove_tags>
+    <repositories>
+      <repository type="git" url="&DOMAIN;/&THIS_REPO;.git">
+        <!-- self -->
+        <mapping local="/" repository="/"/>
+      </repository>
+      <repository type="git" url="&DOMAIN;/pisa_2025ft_translation_common.git">
+        <mapping local="source/01_COS_SCI-A_N/" repository="source/01_COS_SCI-A_N/"/>
+        <mapping local="source/02_COS_SCI-B_N/" repository="source/02_COS_SCI-B_N/"/>
+        <mapping local="source/03_COS_SCI-C_N/" repository="source/03_COS_SCI-C_N/"/>
+        <mapping local="source/04_QQS_N/" repository="source/04_QQS_N/"/>
+        <mapping local="source/05_QQA_N/" repository="source/05_QQA_N/"/>
+        <mapping local="source/06_COS_LDW_N/" repository="source/06_COS_LDW_N/"/>
+        <!-- source files -->
+        <!-- project settings -->
+        <mapping local="omegat/filters.xml" repository="config/filters.xml"/>
+        <mapping local="omegat/okf_xml@oat.fprm" repository="config/okf_xml@oat.fprm"/>
+        <mapping local="omegat/segmentation.conf" repository="config/segmentation.conf"/>
+        <!-- second source -->
+        <mapping local="tm/tmx2source/FR.tmx" repository="assets/base/fr-ZZ.tmx"/>
+        <!-- language assets -->
+        <mapping local="tm/auto" repository="assets/pisa22/&TARGET_LANG;/">
+          <excludes>**/*</excludes>
+          <includes>*_&TARGET_LANG;*</includes>
+        </mapping>
+        <!-- untranslatables -->
+        <mapping local="tm/enforce/dnt" repository="assets/dnt">
+          <excludes>**/*</excludes>
+          <includes>*_&TARGET_LANG;.tmx*</includes>
+        </mapping>
+      </repository>
+    </repositories>
+  </project>
+</omegat>

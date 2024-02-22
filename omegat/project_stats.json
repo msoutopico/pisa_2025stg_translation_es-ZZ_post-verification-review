@@ -1,0 +1,3201 @@
+{
+  "date": "20240216T235831Z",
+  "total": {
+    "characters-without-spaces": 1034390,
+    "characters": 1202160,
+    "words": 210152,
+    "files": 102,
+    "segments": 42002
+  },
+  "unique-remaining": {
+    "characters-without-spaces": 4848,
+    "characters": 5666,
+    "words": 935,
+    "files": 35,
+    "segments": 120
+  },
+  "unique": {
+    "characters-without-spaces": 293945,
+    "characters": 344664,
+    "words": 57802,
+    "files": 97,
+    "segments": 6913
+  },
+  "project": {
+    "root": "D:/PISA/OMT/pisa_2025stg_translation_es-ZZ_post-verification-review/",
+    "source-language": "en",
+    "target-language": "sv-SE",
+    "name": "pisa_2025stg_translation_es-ZZ_post-verification-review"
+  },
+  "files": [
+    {
+      "total": {
+        "characters-without-spaces": 3122,
+        "characters": 3632,
+        "words": 590,
+        "files": 0,
+        "segments": 77
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS002-DinosaurTracks.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 155,
+        "characters": 184,
+        "words": 34,
+        "files": 0,
+        "segments": 5
+      },
+      "unique": {
+        "characters-without-spaces": 2036,
+        "characters": 2374,
+        "words": 394,
+        "files": 0,
+        "segments": 53
+      },
+      "remaining": {
+        "characters-without-spaces": 155,
+        "characters": 184,
+        "words": 34,
+        "files": 0,
+        "segments": 5
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2774,
+        "characters": 3247,
+        "words": 568,
+        "files": 0,
+        "segments": 92
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS003-TakeawayContainers.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2564,
+        "characters": 3024,
+        "words": 527,
+        "files": 0,
+        "segments": 64
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1650,
+        "characters": 1953,
+        "words": 348,
+        "files": 0,
+        "segments": 44
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS004-DissolvingCrystals.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1578,
+        "characters": 1877,
+        "words": 340,
+        "files": 0,
+        "segments": 40
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 814,
+        "characters": 944,
+        "words": 166,
+        "files": 0,
+        "segments": 35
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS005-FoodChain.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 788,
+        "characters": 918,
+        "words": 163,
+        "files": 0,
+        "segments": 32
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 789,
+        "characters": 941,
+        "words": 185,
+        "files": 0,
+        "segments": 29
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS007-EarthMovement.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 565,
+        "characters": 679,
+        "words": 135,
+        "files": 0,
+        "segments": 19
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1037,
+        "characters": 1228,
+        "words": 227,
+        "files": 0,
+        "segments": 34
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS008-Clothing.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 793,
+        "characters": 954,
+        "words": 186,
+        "files": 0,
+        "segments": 23
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1674,
+        "characters": 2014,
+        "words": 403,
+        "files": 0,
+        "segments": 62
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS010-SoccerBall.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 87,
+        "characters": 107,
+        "words": 22,
+        "files": 0,
+        "segments": 2
+      },
+      "unique": {
+        "characters-without-spaces": 1243,
+        "characters": 1499,
+        "words": 297,
+        "files": 0,
+        "segments": 40
+      },
+      "remaining": {
+        "characters-without-spaces": 87,
+        "characters": 107,
+        "words": 22,
+        "files": 0,
+        "segments": 2
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3490,
+        "characters": 4132,
+        "words": 765,
+        "files": 0,
+        "segments": 123
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS011-MoonSoil.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 71,
+        "characters": 84,
+        "words": 14,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 1510,
+        "characters": 1795,
+        "words": 331,
+        "files": 0,
+        "segments": 46
+      },
+      "remaining": {
+        "characters-without-spaces": 355,
+        "characters": 420,
+        "words": 70,
+        "files": 0,
+        "segments": 5
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3294,
+        "characters": 3891,
+        "words": 706,
+        "files": 0,
+        "segments": 109
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS012-SingingFish.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2116,
+        "characters": 2507,
+        "words": 445,
+        "files": 0,
+        "segments": 54
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3361,
+        "characters": 4047,
+        "words": 806,
+        "files": 0,
+        "segments": 120
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS014-PicnicAnts.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 2,
+        "characters": 2,
+        "words": 1,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 1657,
+        "characters": 2003,
+        "words": 402,
+        "files": 0,
+        "segments": 56
+      },
+      "remaining": {
+        "characters-without-spaces": 2,
+        "characters": 2,
+        "words": 1,
+        "files": 0,
+        "segments": 1
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1832,
+        "characters": 2170,
+        "words": 391,
+        "files": 0,
+        "segments": 53
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS015-OysterShells.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1813,
+        "characters": 2149,
+        "words": 387,
+        "files": 0,
+        "segments": 51
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 6868,
+        "characters": 8013,
+        "words": 1294,
+        "files": 0,
+        "segments": 148
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS017-BiologicalControl.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2784,
+        "characters": 3263,
+        "words": 529,
+        "files": 0,
+        "segments": 49
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2245,
+        "characters": 2663,
+        "words": 457,
+        "files": 0,
+        "segments": 41
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS022-CarbonMonoxide.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2204,
+        "characters": 2617,
+        "words": 450,
+        "files": 0,
+        "segments": 39
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4906,
+        "characters": 5689,
+        "words": 963,
+        "files": 0,
+        "segments": 149
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS023-GlobalWarming.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 7,
+        "characters": 7,
+        "words": 2,
+        "files": 0,
+        "segments": 2
+      },
+      "unique": {
+        "characters-without-spaces": 2170,
+        "characters": 2524,
+        "words": 416,
+        "files": 0,
+        "segments": 52
+      },
+      "remaining": {
+        "characters-without-spaces": 28,
+        "characters": 28,
+        "words": 8,
+        "files": 0,
+        "segments": 8
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1625,
+        "characters": 1896,
+        "words": 339,
+        "files": 0,
+        "segments": 60
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS024-Earthquake.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1398,
+        "characters": 1643,
+        "words": 299,
+        "files": 0,
+        "segments": 47
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 9722,
+        "characters": 10989,
+        "words": 1690,
+        "files": 0,
+        "segments": 389
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS029-ExtinctionRisk.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 67,
+        "characters": 77,
+        "words": 11,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 3497,
+        "characters": 4047,
+        "words": 633,
+        "files": 0,
+        "segments": 77
+      },
+      "remaining": {
+        "characters-without-spaces": 67,
+        "characters": 77,
+        "words": 11,
+        "files": 0,
+        "segments": 1
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4933,
+        "characters": 5677,
+        "words": 866,
+        "files": 0,
+        "segments": 124
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS045-LightatNight.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2956,
+        "characters": 3413,
+        "words": 518,
+        "files": 0,
+        "segments": 62
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1710,
+        "characters": 1963,
+        "words": 320,
+        "files": 0,
+        "segments": 66
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS051-CanadianClimateChange.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1044,
+        "characters": 1212,
+        "words": 202,
+        "files": 0,
+        "segments": 33
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 6005,
+        "characters": 6902,
+        "words": 1031,
+        "files": 0,
+        "segments": 138
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS052-Desalination.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 3156,
+        "characters": 3675,
+        "words": 573,
+        "files": 0,
+        "segments": 55
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2972,
+        "characters": 3454,
+        "words": 559,
+        "files": 0,
+        "segments": 77
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS054-Lossofbiodiversity.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1672,
+        "characters": 1964,
+        "words": 319,
+        "files": 0,
+        "segments": 27
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 5983,
+        "characters": 6994,
+        "words": 1170,
+        "files": 0,
+        "segments": 159
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CACERS057-IceStupas.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2101,
+        "characters": 2467,
+        "words": 421,
+        "files": 0,
+        "segments": 55
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2270,
+        "characters": 2621,
+        "words": 421,
+        "files": 0,
+        "segments": 70
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CSGPS003-Polymers.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 53,
+        "characters": 61,
+        "words": 10,
+        "files": 0,
+        "segments": 2
+      },
+      "unique": {
+        "characters-without-spaces": 1385,
+        "characters": 1606,
+        "words": 259,
+        "files": 0,
+        "segments": 38
+      },
+      "remaining": {
+        "characters-without-spaces": 106,
+        "characters": 122,
+        "words": 20,
+        "files": 0,
+        "segments": 4
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4469,
+        "characters": 5137,
+        "words": 937,
+        "files": 0,
+        "segments": 276
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CTURS004-Hydropowerplants.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 2,
+        "characters": 2,
+        "words": 1,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 2059,
+        "characters": 2404,
+        "words": 406,
+        "files": 0,
+        "segments": 61
+      },
+      "remaining": {
+        "characters-without-spaces": 12,
+        "characters": 12,
+        "words": 6,
+        "files": 0,
+        "segments": 6
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1912,
+        "characters": 2215,
+        "words": 343,
+        "files": 0,
+        "segments": 40
+      },
+      "filename": "01_COS_SCI-A_N/PISA_2025FT_SCI_CUSAS001-PolarBearsandClimateChange.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 34,
+        "characters": 39,
+        "words": 6,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 1086,
+        "characters": 1266,
+        "words": 200,
+        "files": 0,
+        "segments": 20
+      },
+      "remaining": {
+        "characters-without-spaces": 68,
+        "characters": 78,
+        "words": 12,
+        "files": 0,
+        "segments": 2
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1,
+        "characters": 1,
+        "words": 0,
+        "files": 0,
+        "segments": 1
+      },
+      "filename": "01_COS_SCI-A_N/zz.txt",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1,
+        "characters": 1,
+        "words": 0,
+        "files": 0,
+        "segments": 1
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4117,
+        "characters": 4814,
+        "words": 845,
+        "files": 0,
+        "segments": 146
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS016-MagneticCleaners.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 2,
+        "characters": 2,
+        "words": 1,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 2860,
+        "characters": 3350,
+        "words": 576,
+        "files": 0,
+        "segments": 85
+      },
+      "remaining": {
+        "characters-without-spaces": 2,
+        "characters": 2,
+        "words": 1,
+        "files": 0,
+        "segments": 1
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2574,
+        "characters": 3002,
+        "words": 481,
+        "files": 0,
+        "segments": 49
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS020-FastFashion.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2520,
+        "characters": 2942,
+        "words": 467,
+        "files": 0,
+        "segments": 41
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 6557,
+        "characters": 7621,
+        "words": 1512,
+        "files": 0,
+        "segments": 306
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS033-EnergySource.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 18,
+        "characters": 18,
+        "words": 8,
+        "files": 0,
+        "segments": 4
+      },
+      "unique": {
+        "characters-without-spaces": 2274,
+        "characters": 2684,
+        "words": 460,
+        "files": 0,
+        "segments": 49
+      },
+      "remaining": {
+        "characters-without-spaces": 616,
+        "characters": 616,
+        "words": 280,
+        "files": 0,
+        "segments": 140
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 7417,
+        "characters": 8634,
+        "words": 1483,
+        "files": 0,
+        "segments": 271
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS036-WindTurbines.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 15,
+        "characters": 16,
+        "words": 2,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 4061,
+        "characters": 4774,
+        "words": 807,
+        "files": 0,
+        "segments": 97
+      },
+      "remaining": {
+        "characters-without-spaces": 45,
+        "characters": 48,
+        "words": 6,
+        "files": 0,
+        "segments": 3
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3822,
+        "characters": 4500,
+        "words": 751,
+        "files": 0,
+        "segments": 73
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS038-BinOpeningCockatoos.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2152,
+        "characters": 2522,
+        "words": 418,
+        "files": 0,
+        "segments": 48
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4243,
+        "characters": 4998,
+        "words": 870,
+        "files": 0,
+        "segments": 111
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS042-Reforestation.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1669,
+        "characters": 1981,
+        "words": 351,
+        "files": 0,
+        "segments": 38
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1606,
+        "characters": 1882,
+        "words": 312,
+        "files": 0,
+        "segments": 35
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS044-LunarIssues.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1523,
+        "characters": 1791,
+        "words": 295,
+        "files": 0,
+        "segments": 26
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2988,
+        "characters": 3521,
+        "words": 623,
+        "files": 0,
+        "segments": 89
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS049-PupilReflex.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1558,
+        "characters": 1836,
+        "words": 315,
+        "files": 0,
+        "segments": 36
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3475,
+        "characters": 4151,
+        "words": 757,
+        "files": 0,
+        "segments": 81
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS056-CrabTraps.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1961,
+        "characters": 2347,
+        "words": 422,
+        "files": 0,
+        "segments": 36
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2556,
+        "characters": 2941,
+        "words": 461,
+        "files": 0,
+        "segments": 75
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS058-RainwaterHarvesting.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 46,
+        "characters": 53,
+        "words": 8,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 1318,
+        "characters": 1531,
+        "words": 242,
+        "files": 0,
+        "segments": 28
+      },
+      "remaining": {
+        "characters-without-spaces": 92,
+        "characters": 106,
+        "words": 16,
+        "files": 0,
+        "segments": 2
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2465,
+        "characters": 2916,
+        "words": 497,
+        "files": 0,
+        "segments": 42
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS062-UVlightdamage.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 169,
+        "characters": 195,
+        "words": 30,
+        "files": 0,
+        "segments": 3
+      },
+      "unique": {
+        "characters-without-spaces": 1679,
+        "characters": 1977,
+        "words": 327,
+        "files": 0,
+        "segments": 27
+      },
+      "remaining": {
+        "characters-without-spaces": 169,
+        "characters": 195,
+        "words": 30,
+        "files": 0,
+        "segments": 3
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3589,
+        "characters": 4190,
+        "words": 783,
+        "files": 0,
+        "segments": 161
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CACERS063-WindFarm.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2114,
+        "characters": 2482,
+        "words": 437,
+        "files": 0,
+        "segments": 61
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2610,
+        "characters": 3030,
+        "words": 487,
+        "files": 0,
+        "segments": 64
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CBELS002-VerticalFarms.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1306,
+        "characters": 1521,
+        "words": 247,
+        "files": 0,
+        "segments": 31
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4077,
+        "characters": 4749,
+        "words": 746,
+        "files": 0,
+        "segments": 73
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CBRNS004-CarbonDioxide.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2093,
+        "characters": 2455,
+        "words": 402,
+        "files": 0,
+        "segments": 39
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1918,
+        "characters": 2236,
+        "words": 363,
+        "files": 0,
+        "segments": 45
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CDEUS002-NoisePollution.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 256,
+        "characters": 302,
+        "words": 48,
+        "files": 0,
+        "segments": 4
+      },
+      "unique": {
+        "characters-without-spaces": 1532,
+        "characters": 1793,
+        "words": 286,
+        "files": 0,
+        "segments": 26
+      },
+      "remaining": {
+        "characters-without-spaces": 256,
+        "characters": 302,
+        "words": 48,
+        "files": 0,
+        "segments": 4
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2532,
+        "characters": 2953,
+        "words": 466,
+        "files": 0,
+        "segments": 42
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CDEUS004-MicroplasticsandMarineOrganisms.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 268,
+        "characters": 310,
+        "words": 48,
+        "files": 0,
+        "segments": 4
+      },
+      "unique": {
+        "characters-without-spaces": 1651,
+        "characters": 1930,
+        "words": 306,
+        "files": 0,
+        "segments": 24
+      },
+      "remaining": {
+        "characters-without-spaces": 268,
+        "characters": 310,
+        "words": 48,
+        "files": 0,
+        "segments": 4
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4023,
+        "characters": 4600,
+        "words": 756,
+        "files": 0,
+        "segments": 183
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CKORS003-ElectricVehicles.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 58,
+        "characters": 65,
+        "words": 10,
+        "files": 0,
+        "segments": 3
+      },
+      "unique": {
+        "characters-without-spaces": 2033,
+        "characters": 2364,
+        "words": 381,
+        "files": 0,
+        "segments": 51
+      },
+      "remaining": {
+        "characters-without-spaces": 214,
+        "characters": 242,
+        "words": 37,
+        "files": 0,
+        "segments": 9
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3346,
+        "characters": 3890,
+        "words": 669,
+        "files": 0,
+        "segments": 117
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CLUXS001-EfficacyofFaceMasks.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 41,
+        "characters": 47,
+        "words": 9,
+        "files": 0,
+        "segments": 3
+      },
+      "unique": {
+        "characters-without-spaces": 1618,
+        "characters": 1899,
+        "words": 323,
+        "files": 0,
+        "segments": 38
+      },
+      "remaining": {
+        "characters-without-spaces": 123,
+        "characters": 141,
+        "words": 27,
+        "files": 0,
+        "segments": 9
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1806,
+        "characters": 2131,
+        "words": 366,
+        "files": 0,
+        "segments": 41
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CMYSS002-BlackSoldierFly.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1200,
+        "characters": 1417,
+        "words": 240,
+        "files": 0,
+        "segments": 23
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2424,
+        "characters": 2817,
+        "words": 444,
+        "files": 0,
+        "segments": 59
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CPSES005-Waterpollution.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 15,
+        "characters": 16,
+        "words": 2,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 1743,
+        "characters": 2031,
+        "words": 320,
+        "files": 0,
+        "segments": 34
+      },
+      "remaining": {
+        "characters-without-spaces": 15,
+        "characters": 16,
+        "words": 2,
+        "files": 0,
+        "segments": 1
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2603,
+        "characters": 3039,
+        "words": 510,
+        "files": 0,
+        "segments": 68
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CPSES006-GlobalWarmingandClimateChange.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 772,
+        "characters": 900,
+        "words": 145,
+        "files": 0,
+        "segments": 16
+      },
+      "unique": {
+        "characters-without-spaces": 1883,
+        "characters": 2212,
+        "words": 369,
+        "files": 0,
+        "segments": 37
+      },
+      "remaining": {
+        "characters-without-spaces": 1017,
+        "characters": 1183,
+        "words": 193,
+        "files": 0,
+        "segments": 25
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4164,
+        "characters": 4809,
+        "words": 770,
+        "files": 0,
+        "segments": 114
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CTURS001-ArtificialIntelligence.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 117,
+        "characters": 134,
+        "words": 20,
+        "files": 0,
+        "segments": 3
+      },
+      "unique": {
+        "characters-without-spaces": 2277,
+        "characters": 2622,
+        "words": 418,
+        "files": 0,
+        "segments": 62
+      },
+      "remaining": {
+        "characters-without-spaces": 117,
+        "characters": 134,
+        "words": 20,
+        "files": 0,
+        "segments": 3
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 5185,
+        "characters": 6166,
+        "words": 1054,
+        "files": 0,
+        "segments": 101
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CUSAS002-FueltoMinimiseCarbonDioxide.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 54,
+        "characters": 66,
+        "words": 13,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 2295,
+        "characters": 2716,
+        "words": 467,
+        "files": 0,
+        "segments": 53
+      },
+      "remaining": {
+        "characters-without-spaces": 54,
+        "characters": 66,
+        "words": 13,
+        "files": 0,
+        "segments": 1
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4445,
+        "characters": 5234,
+        "words": 883,
+        "files": 0,
+        "segments": 88
+      },
+      "filename": "02_COS_SCI-B_N/PISA_2025FT_SCI_CUSAS003-ManateesandPowerplants.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2573,
+        "characters": 3017,
+        "words": 497,
+        "files": 0,
+        "segments": 51
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1,
+        "characters": 1,
+        "words": 0,
+        "files": 0,
+        "segments": 1
+      },
+      "filename": "02_COS_SCI-B_N/zz.txt",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1093,
+        "characters": 1295,
+        "words": 251,
+        "files": 0,
+        "segments": 49
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS001-BatEcholocation.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 731,
+        "characters": 872,
+        "words": 169,
+        "files": 0,
+        "segments": 28
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1411,
+        "characters": 1687,
+        "words": 317,
+        "files": 0,
+        "segments": 41
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS013-FrogsandRoadNoise.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1408,
+        "characters": 1684,
+        "words": 314,
+        "files": 0,
+        "segments": 38
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 7047,
+        "characters": 8154,
+        "words": 1386,
+        "files": 0,
+        "segments": 259
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS018-InsulationProperties.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 106,
+        "characters": 115,
+        "words": 15,
+        "files": 0,
+        "segments": 7
+      },
+      "unique": {
+        "characters-without-spaces": 2722,
+        "characters": 3186,
+        "words": 541,
+        "files": 0,
+        "segments": 68
+      },
+      "remaining": {
+        "characters-without-spaces": 490,
+        "characters": 535,
+        "words": 65,
+        "files": 0,
+        "segments": 25
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4979,
+        "characters": 5661,
+        "words": 972,
+        "files": 0,
+        "segments": 260
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS019-NocturnalPollination.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1519,
+        "characters": 1765,
+        "words": 302,
+        "files": 0,
+        "segments": 50
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4572,
+        "characters": 5305,
+        "words": 841,
+        "files": 0,
+        "segments": 108
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS021-PteropodShells.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2579,
+        "characters": 2999,
+        "words": 464,
+        "files": 0,
+        "segments": 44
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 7098,
+        "characters": 7783,
+        "words": 1622,
+        "files": 0,
+        "segments": 934
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS026-PlantMilks.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2461,
+        "characters": 2835,
+        "words": 501,
+        "files": 0,
+        "segments": 124
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3862,
+        "characters": 4495,
+        "words": 758,
+        "files": 0,
+        "segments": 108
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS028-PetScans.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2606,
+        "characters": 3044,
+        "words": 517,
+        "files": 0,
+        "segments": 64
+      },
+      "remaining": {
+        "characters-without-spaces": 3,
+        "characters": 3,
+        "words": 1,
+        "files": 0,
+        "segments": 1
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3663,
+        "characters": 4259,
+        "words": 712,
+        "files": 0,
+        "segments": 102
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS030-TRexBodySize.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 5,
+        "characters": 5,
+        "words": 2,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 2671,
+        "characters": 3144,
+        "words": 537,
+        "files": 0,
+        "segments": 55
+      },
+      "remaining": {
+        "characters-without-spaces": 10,
+        "characters": 10,
+        "words": 4,
+        "files": 0,
+        "segments": 2
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 5958,
+        "characters": 6895,
+        "words": 1096,
+        "files": 0,
+        "segments": 161
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS034-PlantDiversity.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2843,
+        "characters": 3317,
+        "words": 521,
+        "files": 0,
+        "segments": 48
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4418,
+        "characters": 5086,
+        "words": 870,
+        "files": 0,
+        "segments": 195
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS035-SinkingCities.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2952,
+        "characters": 3443,
+        "words": 580,
+        "files": 0,
+        "segments": 84
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2689,
+        "characters": 3126,
+        "words": 515,
+        "files": 0,
+        "segments": 70
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS041-WaveEnergy.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1555,
+        "characters": 1806,
+        "words": 287,
+        "files": 0,
+        "segments": 31
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1354,
+        "characters": 1605,
+        "words": 287,
+        "files": 0,
+        "segments": 37
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS046-ImmersionHeater.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 936,
+        "characters": 1123,
+        "words": 203,
+        "files": 0,
+        "segments": 16
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1375,
+        "characters": 1596,
+        "words": 262,
+        "files": 0,
+        "segments": 41
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS047-SoapsandSachets.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1313,
+        "characters": 1529,
+        "words": 252,
+        "files": 0,
+        "segments": 36
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1314,
+        "characters": 1532,
+        "words": 265,
+        "files": 0,
+        "segments": 45
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS048-EverydayObjects.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1266,
+        "characters": 1482,
+        "words": 256,
+        "files": 0,
+        "segments": 38
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3231,
+        "characters": 3745,
+        "words": 625,
+        "files": 0,
+        "segments": 107
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS061-GlobalSurfaceTemperature.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 619,
+        "characters": 735,
+        "words": 122,
+        "files": 0,
+        "segments": 11
+      },
+      "unique": {
+        "characters-without-spaces": 2350,
+        "characters": 2756,
+        "words": 453,
+        "files": 0,
+        "segments": 41
+      },
+      "remaining": {
+        "characters-without-spaces": 935,
+        "characters": 1103,
+        "words": 183,
+        "files": 0,
+        "segments": 23
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 7939,
+        "characters": 9305,
+        "words": 1596,
+        "files": 0,
+        "segments": 209
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS100-PorousMaterials.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 97,
+        "characters": 109,
+        "words": 16,
+        "files": 0,
+        "segments": 4
+      },
+      "unique": {
+        "characters-without-spaces": 2457,
+        "characters": 2898,
+        "words": 497,
+        "files": 0,
+        "segments": 48
+      },
+      "remaining": {
+        "characters-without-spaces": 185,
+        "characters": 213,
+        "words": 36,
+        "files": 0,
+        "segments": 8
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 5343,
+        "characters": 6146,
+        "words": 1159,
+        "files": 0,
+        "segments": 366
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CACERS101-AcidsandBases.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 626,
+        "characters": 749,
+        "words": 131,
+        "files": 0,
+        "segments": 12
+      },
+      "unique": {
+        "characters-without-spaces": 2824,
+        "characters": 3329,
+        "words": 594,
+        "files": 0,
+        "segments": 95
+      },
+      "remaining": {
+        "characters-without-spaces": 780,
+        "characters": 937,
+        "words": 167,
+        "files": 0,
+        "segments": 16
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 5759,
+        "characters": 6785,
+        "words": 1148,
+        "files": 0,
+        "segments": 117
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CBELS001-LightPollution.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 4432,
+        "characters": 5241,
+        "words": 894,
+        "files": 0,
+        "segments": 80
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3168,
+        "characters": 3730,
+        "words": 655,
+        "files": 0,
+        "segments": 90
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CBRNS001-RisingSeaLevel.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 5,
+        "characters": 5,
+        "words": 1,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 1605,
+        "characters": 1904,
+        "words": 332,
+        "files": 0,
+        "segments": 32
+      },
+      "remaining": {
+        "characters-without-spaces": 15,
+        "characters": 15,
+        "words": 3,
+        "files": 0,
+        "segments": 3
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2527,
+        "characters": 2936,
+        "words": 501,
+        "files": 0,
+        "segments": 81
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CCZES002-StuckPots.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2216,
+        "characters": 2589,
+        "words": 438,
+        "files": 0,
+        "segments": 58
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1450,
+        "characters": 1768,
+        "words": 340,
+        "files": 0,
+        "segments": 22
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CCZES003-CityanditsEnvironment.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 100,
+        "characters": 123,
+        "words": 24,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 1124,
+        "characters": 1370,
+        "words": 262,
+        "files": 0,
+        "segments": 16
+      },
+      "remaining": {
+        "characters-without-spaces": 100,
+        "characters": 123,
+        "words": 24,
+        "files": 0,
+        "segments": 1
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3371,
+        "characters": 3846,
+        "words": 653,
+        "files": 0,
+        "segments": 175
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CCZES004-CarbonFootprintofFood.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1405,
+        "characters": 1624,
+        "words": 260,
+        "files": 0,
+        "segments": 40
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1094,
+        "characters": 1284,
+        "words": 247,
+        "files": 0,
+        "segments": 46
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CCZES005-Mars.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1066,
+        "characters": 1256,
+        "words": 240,
+        "files": 0,
+        "segments": 39
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 5109,
+        "characters": 5933,
+        "words": 1011,
+        "files": 0,
+        "segments": 195
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CCZES100-Lightning.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 271,
+        "characters": 316,
+        "words": 52,
+        "files": 0,
+        "segments": 7
+      },
+      "unique": {
+        "characters-without-spaces": 2591,
+        "characters": 3064,
+        "words": 526,
+        "files": 0,
+        "segments": 56
+      },
+      "remaining": {
+        "characters-without-spaces": 652,
+        "characters": 761,
+        "words": 128,
+        "files": 0,
+        "segments": 19
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2784,
+        "characters": 3280,
+        "words": 561,
+        "files": 0,
+        "segments": 65
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CESPS003-OffshoreWindTurbineFarm.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1576,
+        "characters": 1871,
+        "words": 326,
+        "files": 0,
+        "segments": 31
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3887,
+        "characters": 4502,
+        "words": 725,
+        "files": 0,
+        "segments": 110
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CESPS004-MammalianCloning.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1726,
+        "characters": 2012,
+        "words": 320,
+        "files": 0,
+        "segments": 34
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2608,
+        "characters": 3055,
+        "words": 514,
+        "files": 0,
+        "segments": 67
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CFRAS001-ArganTree.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 123,
+        "characters": 145,
+        "words": 23,
+        "files": 0,
+        "segments": 1
+      },
+      "unique": {
+        "characters-without-spaces": 1902,
+        "characters": 2240,
+        "words": 374,
+        "files": 0,
+        "segments": 36
+      },
+      "remaining": {
+        "characters-without-spaces": 123,
+        "characters": 145,
+        "words": 23,
+        "files": 0,
+        "segments": 1
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4371,
+        "characters": 5143,
+        "words": 903,
+        "files": 0,
+        "segments": 135
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CKORS101-RedTide.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 309,
+        "characters": 361,
+        "words": 57,
+        "files": 0,
+        "segments": 5
+      },
+      "unique": {
+        "characters-without-spaces": 3150,
+        "characters": 3718,
+        "words": 646,
+        "files": 0,
+        "segments": 80
+      },
+      "remaining": {
+        "characters-without-spaces": 490,
+        "characters": 569,
+        "words": 90,
+        "files": 0,
+        "segments": 11
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3796,
+        "characters": 4448,
+        "words": 843,
+        "files": 0,
+        "segments": 149
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CNZLS001-TooHotToHandle.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1551,
+        "characters": 1833,
+        "words": 325,
+        "files": 0,
+        "segments": 37
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 6602,
+        "characters": 7680,
+        "words": 1231,
+        "files": 0,
+        "segments": 145
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CPERS001-ClimateTippingPoints.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 123,
+        "characters": 134,
+        "words": 16,
+        "files": 0,
+        "segments": 5
+      },
+      "unique": {
+        "characters-without-spaces": 3263,
+        "characters": 3817,
+        "words": 626,
+        "files": 0,
+        "segments": 64
+      },
+      "remaining": {
+        "characters-without-spaces": 123,
+        "characters": 134,
+        "words": 16,
+        "files": 0,
+        "segments": 5
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3958,
+        "characters": 4612,
+        "words": 789,
+        "files": 0,
+        "segments": 129
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CPERS102-Petroleum.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 105,
+        "characters": 123,
+        "words": 20,
+        "files": 0,
+        "segments": 2
+      },
+      "unique": {
+        "characters-without-spaces": 2110,
+        "characters": 2452,
+        "words": 396,
+        "files": 0,
+        "segments": 51
+      },
+      "remaining": {
+        "characters-without-spaces": 292,
+        "characters": 349,
+        "words": 64,
+        "files": 0,
+        "segments": 7
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2486,
+        "characters": 2997,
+        "words": 637,
+        "files": 0,
+        "segments": 126
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CPSES003-TideMovement.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 964,
+        "characters": 1160,
+        "words": 231,
+        "files": 0,
+        "segments": 35
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 3030,
+        "characters": 3554,
+        "words": 708,
+        "files": 0,
+        "segments": 179
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CPSES004-AcidRain.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1760,
+        "characters": 2093,
+        "words": 384,
+        "files": 0,
+        "segments": 49
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 4439,
+        "characters": 5136,
+        "words": 836,
+        "files": 0,
+        "segments": 141
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CSGPS002-HandSanitisers.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 2989,
+        "characters": 3487,
+        "words": 569,
+        "files": 0,
+        "segments": 70
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 2879,
+        "characters": 3409,
+        "words": 602,
+        "files": 0,
+        "segments": 73
+      },
+      "filename": "03_COS_SCI-C_N/PISA_2025FT_SCI_CTURS003-Aquifers.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 1518,
+        "characters": 1790,
+        "words": 309,
+        "files": 0,
+        "segments": 38
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1,
+        "characters": 1,
+        "words": 0,
+        "files": 0,
+        "segments": 1
+      },
+      "filename": "03_COS_SCI-C_N/zz.txt",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 18442,
+        "characters": 21173,
+        "words": 3535,
+        "files": 0,
+        "segments": 801
+      },
+      "filename": "04_QQS_N/PISA_2025FT_QQ_FLASTQ-FLAStudentQuestionnaire.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 13961,
+        "characters": 16274,
+        "words": 2630,
+        "files": 0,
+        "segments": 314
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 9963,
+        "characters": 11452,
+        "words": 1977,
+        "files": 0,
+        "segments": 482
+      },
+      "filename": "04_QQS_N/PISA_2025FT_QQ_LDWSTQ-LDWStudentQuestionnaire.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 6300,
+        "characters": 7413,
+        "words": 1260,
+        "files": 0,
+        "segments": 143
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 43180,
+        "characters": 49734,
+        "words": 8685,
+        "files": 0,
+        "segments": 2086
+      },
+      "filename": "04_QQS_N/PISA_2025FT_QQ_STQ-StudentQuestionnaire.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 50,
+        "characters": 59,
+        "words": 11,
+        "files": 0,
+        "segments": 2
+      },
+      "unique": {
+        "characters-without-spaces": 28430,
+        "characters": 33489,
+        "words": 5751,
+        "files": 0,
+        "segments": 647
+      },
+      "remaining": {
+        "characters-without-spaces": 50,
+        "characters": 59,
+        "words": 11,
+        "files": 0,
+        "segments": 2
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1,
+        "characters": 1,
+        "words": 0,
+        "files": 0,
+        "segments": 1
+      },
+      "filename": "04_QQS_N/zz.txt",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 6334,
+        "characters": 7167,
+        "words": 1096,
+        "files": 0,
+        "segments": 250
+      },
+      "filename": "05_QQA_N/PISA_2025FT_QQ_FLASCQ-FLASchoolQuestionnaires.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 5037,
+        "characters": 5790,
+        "words": 852,
+        "files": 0,
+        "segments": 86
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 29841,
+        "characters": 33987,
+        "words": 5243,
+        "files": 0,
+        "segments": 1034
+      },
+      "filename": "05_QQA_N/PISA_2025FT_QQ_SCQ-SchoolQuestionnaire.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 22738,
+        "characters": 26221,
+        "words": 3900,
+        "files": 0,
+        "segments": 370
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1,
+        "characters": 1,
+        "words": 0,
+        "files": 0,
+        "segments": 1
+      },
+      "filename": "05_QQA_N/zz.txt",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 60398,
+        "characters": 70709,
+        "words": 12872,
+        "files": 0,
+        "segments": 2540
+      },
+      "filename": "06_COS_LDW_N/PISA_2025FT_LDW_CACERL001-RecyclingClaw.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 6447,
+        "characters": 7580,
+        "words": 1329,
+        "files": 0,
+        "segments": 209
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 77680,
+        "characters": 89408,
+        "words": 15071,
+        "files": 0,
+        "segments": 3366
+      },
+      "filename": "06_COS_LDW_N/PISA_2025FT_LDW_CACERL002-FitnessApp.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 8117,
+        "characters": 9406,
+        "words": 1496,
+        "files": 0,
+        "segments": 218
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 66792,
+        "characters": 77719,
+        "words": 13429,
+        "files": 0,
+        "segments": 2917
+      },
+      "filename": "06_COS_LDW_N/PISA_2025FT_LDW_CACERL003-NaturePod.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 4716,
+        "characters": 5596,
+        "words": 949,
+        "files": 0,
+        "segments": 120
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 82590,
+        "characters": 96039,
+        "words": 17157,
+        "files": 0,
+        "segments": 3717
+      },
+      "filename": "06_COS_LDW_N/PISA_2025FT_LDW_CACERL005-SafeLanding.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 6339,
+        "characters": 7489,
+        "words": 1325,
+        "files": 0,
+        "segments": 187
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 99008,
+        "characters": 115150,
+        "words": 20014,
+        "files": 0,
+        "segments": 4024
+      },
+      "filename": "06_COS_LDW_N/PISA_2025FT_LDW_CACERL006-ArtExhibition.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 7788,
+        "characters": 9170,
+        "words": 1560,
+        "files": 0,
+        "segments": 197
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 61715,
+        "characters": 72214,
+        "words": 13159,
+        "files": 0,
+        "segments": 2798
+      },
+      "filename": "06_COS_LDW_N/PISA_2025FT_LDW_CACERL007-DigitalArt.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 4896,
+        "characters": 5824,
+        "words": 1034,
+        "files": 0,
+        "segments": 125
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 78770,
+        "characters": 91583,
+        "words": 16119,
+        "files": 0,
+        "segments": 3339
+      },
+      "filename": "06_COS_LDW_N/PISA_2025FT_LDW_CACERL008-DolphinCalls.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 6075,
+        "characters": 7105,
+        "words": 1172,
+        "files": 0,
+        "segments": 160
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 105008,
+        "characters": 122810,
+        "words": 22923,
+        "files": 0,
+        "segments": 4556
+      },
+      "filename": "06_COS_LDW_N/PISA_2025FT_LDW_CACERL009-BusSchedule.xml",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 8891,
+        "characters": 10499,
+        "words": 1893,
+        "files": 0,
+        "segments": 248
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    },
+    {
+      "total": {
+        "characters-without-spaces": 1,
+        "characters": 1,
+        "words": 0,
+        "files": 0,
+        "segments": 1
+      },
+      "filename": "06_COS_LDW_N/zz.txt",
+      "unique-remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "unique": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      },
+      "remaining": {
+        "characters-without-spaces": 0,
+        "characters": 0,
+        "words": 0,
+        "files": 0,
+        "segments": 0
+      }
+    }
+  ],
+  "remaining": {
+    "characters-without-spaces": 8116,
+    "characters": 9347,
+    "words": 1720,
+    "files": 36,
+    "segments": 363
+  }
+}

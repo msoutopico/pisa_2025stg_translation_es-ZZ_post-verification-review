@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6465ab522ce936.76332857/passage NEW.xml">
+            <label key="6465ab522ce936.76332857_b2f17ee8362a23c863a0c20185c2a9e0_1">
+                <text>Picknickmyror</text>
+            </label>
+            <label key="6465ab522ce936.76332857_ddc3f66c257de05f774467c2813a2993_2">
+                <text>Jessica äter ute i trädgården med sin familj.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_24f3ec975033f6dfcb36e146d43ab32f_3">
+                <text>Det ligger en bit frukt på marken med myror på. Myrorna verkar bara äta från en del av frukten.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_cbdc95869eeedc2cc1ba03f889d7ba5c_4">
+                <text>Jessica undrar om mat med vissa färger drar till sig myror snabbare än andra färger.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_b13b5b5dcdd0156ed5dabc6fad4dcda3_5">
+                <text>För att ta reda på om färgen påverkar hur snabbt myror hittar mat lägger Jessica två bitar mat på marken.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_764670de46329232447b06816916af6c_6">
+                <text>Hon mäter hur lång tid det tar för myrorna att börja äta av maten.</text>
+            </label>
+        </sharedstimulus>
+    <sharedstimulus id="assets/6465ab522ce936.76332857/passage NEW.xml">
+            <label key="6465ab522ce936.76332857_b2f17ee8362a23c863a0c20185c2a9e0_1">
+                <text>Picknickmyror</text>
+            </label>
+            <label key="6465ab522ce936.76332857_ddc3f66c257de05f774467c2813a2993_2">
+                <text>Jessica äter ute i trädgården med sin familj.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_24f3ec975033f6dfcb36e146d43ab32f_3">
+                <text>Det ligger en bit frukt på marken med myror på. Myrorna verkar bara äta från en del av frukten.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_cbdc95869eeedc2cc1ba03f889d7ba5c_4">
+                <text>Jessica undrar om mat med vissa färger drar till sig myror snabbare än andra färger.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_b13b5b5dcdd0156ed5dabc6fad4dcda3_5">
+                <text>För att ta reda på om färgen påverkar hur snabbt myror hittar mat lägger Jessica två bitar mat på marken.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_764670de46329232447b06816916af6c_6">
+                <text>Hon mäter hur lång tid det tar för myrorna att börja äta av maten.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6465ab522ce936.76332857/passage NEW.xml">
+            <label key="6465ab522ce936.76332857_b2f17ee8362a23c863a0c20185c2a9e0_1">
+                <text>Picknickmyror</text>
+            </label>
+            <label key="6465ab522ce936.76332857_ddc3f66c257de05f774467c2813a2993_2">
+                <text>Jessica äter ute i trädgården med sin familj.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_24f3ec975033f6dfcb36e146d43ab32f_3">
+                <text>Det ligger en bit frukt på marken med myror på. Myrorna verkar bara äta från en del av frukten.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_cbdc95869eeedc2cc1ba03f889d7ba5c_4">
+                <text>Jessica undrar om mat med vissa färger drar till sig myror snabbare än andra färger.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_b13b5b5dcdd0156ed5dabc6fad4dcda3_5">
+                <text>För att ta reda på om färgen påverkar hur snabbt myror hittar mat lägger Jessica två bitar mat på marken.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_764670de46329232447b06816916af6c_6">
+                <text>Hon mäter hur lång tid det tar för myrorna att börja äta av maten.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6465ab522ce936.76332857/passage NEW.xml">
+            <label key="6465ab522ce936.76332857_b2f17ee8362a23c863a0c20185c2a9e0_1">
+                <text>Picknickmyror</text>
+            </label>
+            <label key="6465ab522ce936.76332857_ddc3f66c257de05f774467c2813a2993_2">
+                <text>Jessica äter ute i trädgården med sin familj.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_24f3ec975033f6dfcb36e146d43ab32f_3">
+                <text>Det ligger en bit frukt på marken med myror på. Myrorna verkar bara äta från en del av frukten.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_cbdc95869eeedc2cc1ba03f889d7ba5c_4">
+                <text>Jessica undrar om mat med vissa färger drar till sig myror snabbare än andra färger.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_b13b5b5dcdd0156ed5dabc6fad4dcda3_5">
+                <text>För att ta reda på om färgen påverkar hur snabbt myror hittar mat lägger Jessica två bitar mat på marken.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_764670de46329232447b06816916af6c_6">
+                <text>Hon mäter hur lång tid det tar för myrorna att börja äta av maten.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6465ab522ce936.76332857/passage NEW.xml">
+            <label key="6465ab522ce936.76332857_b2f17ee8362a23c863a0c20185c2a9e0_1">
+                <text>Picknickmyror</text>
+            </label>
+            <label key="6465ab522ce936.76332857_ddc3f66c257de05f774467c2813a2993_2">
+                <text>Jessica äter ute i trädgården med sin familj.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_24f3ec975033f6dfcb36e146d43ab32f_3">
+                <text>Det ligger en bit frukt på marken med myror på. Myrorna verkar bara äta från en del av frukten.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_cbdc95869eeedc2cc1ba03f889d7ba5c_4">
+                <text>Jessica undrar om mat med vissa färger drar till sig myror snabbare än andra färger.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_b13b5b5dcdd0156ed5dabc6fad4dcda3_5">
+                <text>För att ta reda på om färgen påverkar hur snabbt myror hittar mat lägger Jessica två bitar mat på marken.</text>
+            </label>
+            <label key="6465ab522ce936.76332857_764670de46329232447b06816916af6c_6">
+                <text>Hon mäter hur lång tid det tar för myrorna att börja äta av maten.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63322d4a19af31396c0b8c759ca9953ef">
+            <label key="i63322d4a19af31396c0b8c759ca9953ef_97aac03c8e9054717a63f9e633e09125_1">
+                <text>Vilka två bitar mat borde Jessica välja för att bäst besvara frågan?</text>
+            </label>
+            <label key="i63322d4a19af31396c0b8c759ca9953ef_A_edd0e7b5613cfc4253bd00a37beb0a08_2">
+                <text>två bitar av samma sorts frukt; båda bitarna är röda</text>
+            </label>
+            <label key="i63322d4a19af31396c0b8c759ca9953ef_B_f88f8c500728be72bd3041327c911fe3_3">
+                <text>en bit röd frukt och en bit vitt kött</text>
+            </label>
+            <label key="i63322d4a19af31396c0b8c759ca9953ef_C_26e49ca08f45de0b562d9eb5397c0a38_4">
+                <text>en bit vitt bröd och en bit vit frukt</text>
+            </label>
+            <label key="i63322d4a19af31396c0b8c759ca9953ef_D_1c16a78209da45c2bd6935fa7b52eafc_5">
+                <text>två bitar av samma sorts frukt; en bit är röd och den andra biten är vit</text>
+            </label>
+        </item>
+        <item id="i63322e555d9e013979a353f6eb197eb64">
+            <label key="i63322e555d9e013979a353f6eb197eb64_0f3a04930b178e103536d2da5f1f0cee_1">
+                <text>Myrorna tar lång tid på sig att hitta båda bitarna mat.</text>
+            </label>
+            <label key="i63322e555d9e013979a353f6eb197eb64_29ac5c7049a570fdaf0dd33b53dfc9ae_2">
+                <text>Jessica säger: 'Jag tror att myrorna kommer att hitta mat med stark lukt snabbare än mat med stark färg'.</text>
+            </label>
+            <label key="i63322e555d9e013979a353f6eb197eb64_4f27f6ee677587fb1fd1858b950b1712_3">
+                <text>Vilket ord beskriver bäst Jessicas påstående?</text>
+            </label>
+            <label key="i63322e555d9e013979a353f6eb197eb64_A_c41b9ec75e920b610e8907e066074b30_4">
+                <text>förutsägelse</text>
+            </label>
+            <label key="i63322e555d9e013979a353f6eb197eb64_B_b4a88417b3d0170d754c647c30b7216a_5">
+                <text>resultat</text>
+            </label>
+            <label key="i63322e555d9e013979a353f6eb197eb64_C_b669f32badeb976700cb6c9f7c7b5cdf_6">
+                <text>slutsats</text>
+            </label>
+            <label key="i63322e555d9e013979a353f6eb197eb64_D_e09491aee3bd9ec02e805ffdac0beb12_7">
+                <text>observation</text>
+            </label>
+        </item>
+        <item id="i63322f75dcbc6169686a83badcfc0a41f">
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_6a84e51c910e213b9ec95871f684d1f9_1">
+                <text>Jessica gör en undersökning av myror och mat i sin trädgård.</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_ffeaed6b5a7d5ecbe777f1b9c78fc729_2">
+                <text>Jessica lägger tre olika typer av mat på marken.</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_1cc391c5db87cf42f3b2e84342b460ed_3">
+                <text>Hon antecknar tiden det tar för den första myran att hitta varje typ av mat.</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_e0970e0885e6968b7e2dab72fd49f01e_4">
+                <text>Hon räknar också antalet myror på maten 20 minuter efter att hon har lagt maten på marken.</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_0ca67848a4f8d49656d19a8e0cdc3517_5">
+                <text>Jessica skriver in sina resultat i en tabell.</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_0e4b5cc8efc4b23b0b9706a065ec1f7a_6">
+                <text>
+                    <strong>‌Typ av livsmedel‌</strong>
+                </text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_668b19fcf342ad4699a01bc5251c786a_7">
+                <text>
+                    <strong>‌Tid för den första myran att hitta maten (i minuter)‌</strong>
+                </text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_4cf3b07f9869837e934f3f9f65a74d92_8">
+                <text>
+                    <strong>‌Antal myror på maten efter 20 minuter‌</strong>
+                </text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_fea0f1f6fede90bd0a925b4194deac11_9">
+                <text>ost</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_d3d9446802a44259755d38e6d163e820_10">
+                <text>10</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_9413b98acd034e2434edaf2a69043444_11">
+                <text>​5</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_ada15bd1a5ddf0b790ae1dcfd05a1e70_12">
+                <text>socker</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_9bf31c7ff062936a96d3c8bd1f8f2ff3_13">
+                <text>15</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_70efdf2ec9b086079795c442636b55fb_14">
+                <text>17</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_dba7b12a19fe9d49fbb53d65c49bbce6_15">
+                <text>bröd</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_8e296a067a37563370ded05f5a3bf3ec_16">
+                <text>25</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_eccbc87e4b5ce2fe28308fd9f2a7baf3_17">
+                <text>3</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_7199ef2fd298c89dab5cb78e53852603_18">
+                <text>Det finns ett fel i tabellen.</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_ceffab42a87fd5357c20f04d6c6c295c_19">
+                <text>Vilken uppsättning resultat innehåller felet?</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_A_fea0f1f6fede90bd0a925b4194deac11_20">
+                <text>ost</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_B_ada15bd1a5ddf0b790ae1dcfd05a1e70_21">
+                <text>socker</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_C_dba7b12a19fe9d49fbb53d65c49bbce6_22">
+                <text>bröd</text>
+            </label>
+            <label key="i63322f75dcbc6169686a83badcfc0a41f_14a742a5c8a85e7bdbb23e8e791c910b_23">
+                <text>Förklara ditt val.</text>
+            </label>
+        </item>
+        <item id="i6332316453017206741d8d6fb1ca2f82c7">
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_8c8902676fd8ea20eba9c0d205059e0f_1">
+                <text>Jessica lägger tre andra typer av mat på marken.</text>
+            </label>
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_e2bfd3c581735b3692fb10ab02b71b1a_2">
+                <text>Hon ritar ett diagram över tiden det tog för myrorna att hitta varje typ av mat.</text>
+            </label>
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_124f6e11da08344a52add0ad32dc46bc_3">
+                <text>
+                    <strong>‌Tid för myrorna att hitta maten (i minuter) ‌</strong>
+                </text>
+            </label>
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_100d0e4580991f8b8450856ae09b2cdf_4">
+                <text>
+                    <strong>‌Tid (minuter)‌</strong>
+                </text>
+            </label>
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_89c2c6868adaa8d643da1f92a8faccbc_5">
+                <text>
+                    <strong>‌Typ av mat ‌</strong>
+                </text>
+            </label>
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_3767b450824877f2b8f284f7a5625440_6">
+                <text>risdryck</text>
+            </label>
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_e046ebae628f52f3848e98159c57f651_7">
+                <text>kex</text>
+            </label>
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_b60eb83bf533eecf1bde65940925a981_8">
+                <text>honung</text>
+            </label>
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_be3e275d0ad75ae0eb2ae9f2e25d4f35_9">
+                <text>Vilken typ av mat hittade myrorna först?</text>
+            </label>
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_choice_1_3767b450824877f2b8f284f7a5625440_10">
+                <text>risdryck</text>
+            </label>
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_choice_2_e046ebae628f52f3848e98159c57f651_11">
+                <text>kex</text>
+            </label>
+            <label key="i6332316453017206741d8d6fb1ca2f82c7_choice_3_b60eb83bf533eecf1bde65940925a981_12">
+                <text>honung</text>
+            </label>
+        </item>
+        <item id="i633234f3868cc19345655471158a91e">
+            <label key="i633234f3868cc19345655471158a91e_f6c528b13d7556e6e1005f63998da28a_1">
+                <text>17</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_1a010d7c2568cce49c454551b24186f9_2">
+                <text>20</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_98b86506adb10fbcf6ec83e061289645_3">
+                <text>15</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_ffeaed6b5a7d5ecbe777f1b9c78fc729_4">
+                <text>Jessica lägger tre olika typer av mat på marken.</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_4334c19bacb8bc9c0d73711b2dbe3c9e_5">
+                <text>Efter 20 minuter räknar hon antalet myror på maten.</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_77ddba2bccb864c0f1443e87db372a95_6">
+                <text>Hon gör ett diagram med denna information.</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_7ac1e02943cf895ed16d409c03eec71c_7">
+                <text>
+                    <strong>‌Antal myror på maten efter 20 minuter ‌</strong>
+                </text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_838fc992ab9060c1d424a8d8a0171416_8">
+                <text>
+                    <strong>‌Antal myror ‌</strong>
+                </text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_89c2c6868adaa8d643da1f92a8faccbc_9">
+                <text>
+                    <strong>‌Typ av mat ‌</strong>
+                </text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_d74fdde2944f475adc4a85e349d4ee7b_10">
+                <text>smör</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_a1b8585122e1ad60623d6a74d3eb3b6a_11">
+                <text>kaka</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_61f2982918cfbafcee738bf886b28e56_12">
+                <text>mjöl</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_29b146bc584143d262781c99eb5ad62f_13">
+                <text>
+                    <strong>‌Fyll i tabellen med hjälp av informationen i diagrammet ovanför.‌</strong>
+                    </text>
+            </label>
+        <label key="i633234f3868cc19345655471158a91e_f99fc64259dbd80277e0384d3cb944be_14">
+                <text>Typ av livsmedel</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_d458d888a65169f0b3b333b073b7365d_15">
+                <text>Antal myror på maten efter 20 minuter</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_d74fdde2944f475adc4a85e349d4ee7b_16">
+                <text>smör</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_a1b8585122e1ad60623d6a74d3eb3b6a_18">
+                <text>kaka</text>
+            </label>
+            <label key="i633234f3868cc19345655471158a91e_61f2982918cfbafcee738bf886b28e56_20">
+                <text>mjöl</text>
+            </label>
+        </item>
+    </items>
+</file>

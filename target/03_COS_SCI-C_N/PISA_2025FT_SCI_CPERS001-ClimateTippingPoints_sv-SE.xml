@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64c7511b7c4aa9.42917994/passage NEW.xml">
+            <label key="64c7511b7c4aa9.42917994_c213300f80a7d2fbf91da7ff088cc067_1">
+                <text>Tippningspunkter för klimatet</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_d15a2f6b80bf5bf3f410d1cf62bdb470_2">
+                <text>Forskare använder ett stort antal datakällor för att skapa klimatmodeller. Dessa modeller försöker att förutsäga hur förändringar i jordens miljö kommer att påverka klimatet.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_316ac14e2985316fb439ce3e27081e86_3">
+                <text>Klimatmodellerna förutsäger att 'tippningspunkter' kan inträffa under de kommande årtiondena.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_e6e6f8e2569125c3635adbe3bbfb4bbc_4">
+                <text>En tippningspunkt är en kritisk miljötröskel som om den skulle passeras sannolikt leder till stora och oåterkalleliga förändringar. När till exempel medeltemperaturen ökar till en viss punkt kan ett istäcke i Arktis eller Antarktis kollapsa, eller havsströmmar förändras.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_5445057219a4587d3b25e88ac0381020_5">
+                <text>Kartan visar olika områden på jorden där det sker processer som kan leda till tippningspunkter. Dessa kan kallas 'klimattippningsfaktorer'.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_a1d4f0fc13d7f98e11324eac53776e00_6">
+                <text>Boreal permafrost</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_10e22b75c120bd5806b5e3f947f77403_7">
+                <text>Grönlands istäcke</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_2ff312cfafea722e74420511fbde1538_8">
+                <text>Arktisk vinterhavsis </text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_a1d4f0fc13d7f98e11324eac53776e00_9">
+                <text>Boreal permafrost</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_09b7da393f658d6012d2f1a4f1cfee61_10">
+                <text>Atlantiska meridionala cirkulationen</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_bd5e718de51a8112f6cf201cae9bc80c_11">
+                <text>Labradorhavet/subarktisk virvelkonvektion</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_ea08a38fb95ed2b86f6bd2d52de01932_12">
+                <text>Amazonas regnskog</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_6db3b62f966d7ff869ee20dbdc0b54a5_13">
+                <text>Västantarktiska istäcket</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_e7a2c1559592fe0f28023cd1a11d21b8_14">
+                <text>Östantarktiska istäcket</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_158d94eb223fcc8bb3a4fecefb582bc3_15">
+                <text>Östantarktiska subglaciala sjöar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c7511b7c4aa9.42917994/passage NEW.xml">
+            <label key="64c7511b7c4aa9.42917994_c213300f80a7d2fbf91da7ff088cc067_1">
+                <text>Tippningspunkter för klimatet</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_d15a2f6b80bf5bf3f410d1cf62bdb470_2">
+                <text>Forskare använder ett stort antal datakällor för att skapa klimatmodeller. Dessa modeller försöker att förutsäga hur förändringar i jordens miljö kommer att påverka klimatet.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_316ac14e2985316fb439ce3e27081e86_3">
+                <text>Klimatmodellerna förutsäger att 'tippningspunkter' kan inträffa under de kommande årtiondena.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_e6e6f8e2569125c3635adbe3bbfb4bbc_4">
+                <text>En tippningspunkt är en kritisk miljötröskel som om den skulle passeras sannolikt leder till stora och oåterkalleliga förändringar. När till exempel medeltemperaturen ökar till en viss punkt kan ett istäcke i Arktis eller Antarktis kollapsa, eller havsströmmar förändras.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_5445057219a4587d3b25e88ac0381020_5">
+                <text>Kartan visar olika områden på jorden där det sker processer som kan leda till tippningspunkter. Dessa kan kallas 'klimattippningsfaktorer'.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_a1d4f0fc13d7f98e11324eac53776e00_6">
+                <text>Boreal permafrost</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_10e22b75c120bd5806b5e3f947f77403_7">
+                <text>Grönlands istäcke</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_2ff312cfafea722e74420511fbde1538_8">
+                <text>Arktisk vinterhavsis </text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_a1d4f0fc13d7f98e11324eac53776e00_9">
+                <text>Boreal permafrost</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_09b7da393f658d6012d2f1a4f1cfee61_10">
+                <text>Atlantiska meridionala cirkulationen</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_bd5e718de51a8112f6cf201cae9bc80c_11">
+                <text>Labradorhavet/subarktisk virvelkonvektion</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_ea08a38fb95ed2b86f6bd2d52de01932_12">
+                <text>Amazonas regnskog</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_6db3b62f966d7ff869ee20dbdc0b54a5_13">
+                <text>Västantarktiska istäcket</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_e7a2c1559592fe0f28023cd1a11d21b8_14">
+                <text>Östantarktiska istäcket</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_158d94eb223fcc8bb3a4fecefb582bc3_15">
+                <text>Östantarktiska subglaciala sjöar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c7511b7c4aa9.42917994/passage NEW.xml">
+            <label key="64c7511b7c4aa9.42917994_c213300f80a7d2fbf91da7ff088cc067_1">
+                <text>Tippningspunkter för klimatet</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_d15a2f6b80bf5bf3f410d1cf62bdb470_2">
+                <text>Forskare använder ett stort antal datakällor för att skapa klimatmodeller. Dessa modeller försöker att förutsäga hur förändringar i jordens miljö kommer att påverka klimatet.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_316ac14e2985316fb439ce3e27081e86_3">
+                <text>Klimatmodellerna förutsäger att 'tippningspunkter' kan inträffa under de kommande årtiondena.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_e6e6f8e2569125c3635adbe3bbfb4bbc_4">
+                <text>En tippningspunkt är en kritisk miljötröskel som om den skulle passeras sannolikt leder till stora och oåterkalleliga förändringar. När till exempel medeltemperaturen ökar till en viss punkt kan ett istäcke i Arktis eller Antarktis kollapsa, eller havsströmmar förändras.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_5445057219a4587d3b25e88ac0381020_5">
+                <text>Kartan visar olika områden på jorden där det sker processer som kan leda till tippningspunkter. Dessa kan kallas 'klimattippningsfaktorer'.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_a1d4f0fc13d7f98e11324eac53776e00_6">
+                <text>Boreal permafrost</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_10e22b75c120bd5806b5e3f947f77403_7">
+                <text>Grönlands istäcke</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_2ff312cfafea722e74420511fbde1538_8">
+                <text>Arktisk vinterhavsis </text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_a1d4f0fc13d7f98e11324eac53776e00_9">
+                <text>Boreal permafrost</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_09b7da393f658d6012d2f1a4f1cfee61_10">
+                <text>Atlantiska meridionala cirkulationen</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_bd5e718de51a8112f6cf201cae9bc80c_11">
+                <text>Labradorhavet/subarktisk virvelkonvektion</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_ea08a38fb95ed2b86f6bd2d52de01932_12">
+                <text>Amazonas regnskog</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_6db3b62f966d7ff869ee20dbdc0b54a5_13">
+                <text>Västantarktiska istäcket</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_e7a2c1559592fe0f28023cd1a11d21b8_14">
+                <text>Östantarktiska istäcket</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_158d94eb223fcc8bb3a4fecefb582bc3_15">
+                <text>Östantarktiska subglaciala sjöar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c7511b7c4aa9.42917994/passage NEW.xml">
+            <label key="64c7511b7c4aa9.42917994_c213300f80a7d2fbf91da7ff088cc067_1">
+                <text>Tippningspunkter för klimatet</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_d15a2f6b80bf5bf3f410d1cf62bdb470_2">
+                <text>Forskare använder ett stort antal datakällor för att skapa klimatmodeller. Dessa modeller försöker att förutsäga hur förändringar i jordens miljö kommer att påverka klimatet.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_316ac14e2985316fb439ce3e27081e86_3">
+                <text>Klimatmodellerna förutsäger att 'tippningspunkter' kan inträffa under de kommande årtiondena.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_e6e6f8e2569125c3635adbe3bbfb4bbc_4">
+                <text>En tippningspunkt är en kritisk miljötröskel som om den skulle passeras sannolikt leder till stora och oåterkalleliga förändringar. När till exempel medeltemperaturen ökar till en viss punkt kan ett istäcke i Arktis eller Antarktis kollapsa, eller havsströmmar förändras.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_5445057219a4587d3b25e88ac0381020_5">
+                <text>Kartan visar olika områden på jorden där det sker processer som kan leda till tippningspunkter. Dessa kan kallas 'klimattippningsfaktorer'.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_a1d4f0fc13d7f98e11324eac53776e00_6">
+                <text>Boreal permafrost</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_10e22b75c120bd5806b5e3f947f77403_7">
+                <text>Grönlands istäcke</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_2ff312cfafea722e74420511fbde1538_8">
+                <text>Arktisk vinterhavsis </text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_a1d4f0fc13d7f98e11324eac53776e00_9">
+                <text>Boreal permafrost</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_09b7da393f658d6012d2f1a4f1cfee61_10">
+                <text>Atlantiska meridionala cirkulationen</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_bd5e718de51a8112f6cf201cae9bc80c_11">
+                <text>Labradorhavet/subarktisk virvelkonvektion</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_ea08a38fb95ed2b86f6bd2d52de01932_12">
+                <text>Amazonas regnskog</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_6db3b62f966d7ff869ee20dbdc0b54a5_13">
+                <text>Västantarktiska istäcket</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_e7a2c1559592fe0f28023cd1a11d21b8_14">
+                <text>Östantarktiska istäcket</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_158d94eb223fcc8bb3a4fecefb582bc3_15">
+                <text>Östantarktiska subglaciala sjöar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c7511b7c4aa9.42917994/passage NEW.xml">
+            <label key="64c7511b7c4aa9.42917994_c213300f80a7d2fbf91da7ff088cc067_1">
+                <text>Tippningspunkter för klimatet</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_d15a2f6b80bf5bf3f410d1cf62bdb470_2">
+                <text>Forskare använder ett stort antal datakällor för att skapa klimatmodeller. Dessa modeller försöker att förutsäga hur förändringar i jordens miljö kommer att påverka klimatet.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_316ac14e2985316fb439ce3e27081e86_3">
+                <text>Klimatmodellerna förutsäger att 'tippningspunkter' kan inträffa under de kommande årtiondena.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_e6e6f8e2569125c3635adbe3bbfb4bbc_4">
+                <text>En tippningspunkt är en kritisk miljötröskel som om den skulle passeras sannolikt leder till stora och oåterkalleliga förändringar. När till exempel medeltemperaturen ökar till en viss punkt kan ett istäcke i Arktis eller Antarktis kollapsa, eller havsströmmar förändras.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_5445057219a4587d3b25e88ac0381020_5">
+                <text>Kartan visar olika områden på jorden där det sker processer som kan leda till tippningspunkter. Dessa kan kallas 'klimattippningsfaktorer'.</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_a1d4f0fc13d7f98e11324eac53776e00_6">
+                <text>Boreal permafrost</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_10e22b75c120bd5806b5e3f947f77403_7">
+                <text>Grönlands istäcke</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_2ff312cfafea722e74420511fbde1538_8">
+                <text>Arktisk vinterhavsis </text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_a1d4f0fc13d7f98e11324eac53776e00_9">
+                <text>Boreal permafrost</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_09b7da393f658d6012d2f1a4f1cfee61_10">
+                <text>Atlantiska meridionala cirkulationen</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_bd5e718de51a8112f6cf201cae9bc80c_11">
+                <text>Labradorhavet/subarktisk virvelkonvektion</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_ea08a38fb95ed2b86f6bd2d52de01932_12">
+                <text>Amazonas regnskog</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_6db3b62f966d7ff869ee20dbdc0b54a5_13">
+                <text>Västantarktiska istäcket</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_e7a2c1559592fe0f28023cd1a11d21b8_14">
+                <text>Östantarktiska istäcket</text>
+            </label>
+            <label key="64c7511b7c4aa9.42917994_158d94eb223fcc8bb3a4fecefb582bc3_15">
+                <text>Östantarktiska subglaciala sjöar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c0936340a1d7.87632549/passage NEW 14.xml">
+            <label key="64c0936340a1d7.87632549_e71e5915172329bb9ea830a7ebbc9eb8_1">
+                <text>Varmare vatten</text>
+            </label>
+            <label key="64c0936340a1d7.87632549_f6cc4e70030021f3767fd4623df5dcf0_2">
+                <text>Kallare vatten</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i635767754ba221995c7f220db10d07986">
+            <label key="i635767754ba221995c7f220db10d07986_9c8c1493b102eab36eae406a00cc3b49_1">
+                <text>Stora ökningar av mängden koldioxid i atmosfären tros orsaka globala temperaturökningar.</text>
+            </label>
+            <label key="i635767754ba221995c7f220db10d07986_51233d1a23603087ea5a94fe08d0f300_2">
+                <text>Om den globala uppvärmningen fortsätter att öka kan en tippningspunkt nås.</text>
+            </label>
+            <label key="i635767754ba221995c7f220db10d07986_01ee15579bed8679ef6e13bd58e97ac7_3">
+                <text>Över hälften av världens alla regnskogar ligger i Amazonas.</text>
+            </label>
+            <label key="i635767754ba221995c7f220db10d07986_709701041ee409bbc29824eda4c31e6e_4">
+                <text>Förklara hur skövling av Amazonas regnskog kan bidra till en tippningspunkt för den globala uppvärmningen. </text>
+            </label>
+        </item>
+        <item id="i63744c814c8ce255042db5b78fd7510a3">
+            <label key="i63744c814c8ce255042db5b78fd7510a3_982562a0a0a0b19af0455869361ff30d_1">
+                <text>Havsis är fruset havsvatten som flyter på havsytan runt Nordpolen och Sydpolen.</text>
+            </label>
+            <label key="i63744c814c8ce255042db5b78fd7510a3_cd58b0cd683af6eb00fde9f85c4d1935_2">
+                <text>Arean av havsis har minskat de senaste årtiondena.</text>
+            </label>
+            <label key="i63744c814c8ce255042db5b78fd7510a3_3b062c12c3804b5aa8de198df6453a3f_3">
+                <text>Detta kan leda till en tippningspunkt eftersom havsisen hjälper till att hålla jordens temperatur stabil.</text>
+            </label>
+            <label key="i63744c814c8ce255042db5b78fd7510a3_5ec872470a28e776291f5398ec86aef4_4">
+                <text>Vilket av följande påståenden förklarar hur smältande havsis kan leda till uppvärmning av jorden?</text>
+            </label>
+            <label key="i63744c814c8ce255042db5b78fd7510a3_89b1c1de80f35eb0f385836481797561_5">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i63744c814c8ce255042db5b78fd7510a3_A_241113b5d7efaace8e651cb62669d38d_6">
+                <text>Havsisen reflekterar mer av solljuset tillbaka till rymden än den absorberar.</text>
+            </label>
+            <label key="i63744c814c8ce255042db5b78fd7510a3_B_c610ec26c56dc7b8b26f23959bb137a5_7">
+                <text>Havsisen absorberar mer av solljuset än den reflekterar tillbaka till rymden.</text>
+            </label>
+            <label key="i63744c814c8ce255042db5b78fd7510a3_C_57ab0ec5c40f0b464561ff6938e2e308_8">
+                <text>Havet reflekterar mer av solljuset tillbaka till rymden än det absorberar.</text>
+            </label>
+            <label key="i63744c814c8ce255042db5b78fd7510a3_D_eeb5db41253a569485116b557a23d1d3_9">
+                <text>Havet absorberar mer av solljuset än det reflekterar tillbaka till rymden.</text>
+            </label>
+        </item>
+        <item id="i635767ccb38381330764884bfd750f1194">
+            <label key="i635767ccb38381330764884bfd750f1194_a319b9e686e95b9422bcdce93b8a81ba_1">
+                <text>Den havsström som är känd som Atlantiska meridionala cirkulationen (AMOC på engelska) är en klimattippningsfaktor. Denna ström är som en undervattensflod som flyter genom Atlanten och binder samman tropikerna med norra halvklotet. </text>
+            </label>
+            <label key="i635767ccb38381330764884bfd750f1194_eadd6c23d26c7d7d64f11a35733ca624_2">
+                <text>Bilden visar hur AMOC transporterar kallt och varmt vatten.</text>
+            </label>
+            <label key="i635767ccb38381330764884bfd750f1194_cef7ccb92a8effb80982ab25389c9c82_3">
+                <text>Om AMOC når en tippningspunkt för miljön kan den sluta att cirkulera.</text>
+            </label>
+            <label key="i635767ccb38381330764884bfd750f1194_90661857d983756aa925101e846cd860_4">
+                <text>Vad skulle kunna hända om AMOC slutar att cirkulera?</text>
+            </label>
+            <label key="i635767ccb38381330764884bfd750f1194_A_ea523118f13b72a05be1af101b1b9877_5">
+                <text>Klimatet på norra halvklotet kommer att bli kallare.</text>
+            </label>
+            <label key="i635767ccb38381330764884bfd750f1194_B_1ddb219626f0deb14b2f7b4f1c538ffe_6">
+                <text>Klimatet på norra halvklotet kommer att bli varmare.</text>
+            </label>
+            <label key="i635767ccb38381330764884bfd750f1194_C_f0f4228ed8cf250ad543938991c95650_7">
+                <text>Klimatet på södra halvklotet kommer att bli varmare.</text>
+            </label>
+            <label key="i635767ccb38381330764884bfd750f1194_D_64985da38bd409bb0807533f231ad4f4_8">
+                <text>Jordens klimat kommer inte att förändras.</text>
+            </label>
+        </item>
+        <item id="i635767fe2e0a62293a56d68123e1e0bdf">
+            <label key="i635767fe2e0a62293a56d68123e1e0bdf_ccaa2d0b488dd32bc1b16cb03807da8a_1">
+                <text>Permafrost är ett skikt i jordskorpan med stora mängder organiskt material; som alltid är fruset.</text>
+            </label>
+            <label key="i635767fe2e0a62293a56d68123e1e0bdf_7cc8aa931093b270f5598fe1875c7b4f_2">
+                <text>När permafrosten smälter bryts enorma mängder organiskt material ner och producerar koldioxid och metan (växthusgaser).</text>
+            </label>
+            <label key="i635767fe2e0a62293a56d68123e1e0bdf_e3af73ff2f5a0ecaa526040d04b90be2_3">
+                <text>Global uppvärmning kan leda till omfattande avsmältning av permafrosten och resultera i en tippningspunkt för klimatet. Detta kan resultera i ytterligare ökningar av globala temperaturer och oåterkalleliga förändringar i ekosystemen.</text>
+            </label>
+            <label key="i635767fe2e0a62293a56d68123e1e0bdf_da5b91b5ca0f9de2fbab661e241774a3_4">
+                <text>Smältning av permafrosten sker i en cykel som innehåller fem steg. Varje textruta nedan beskriver en del av cykeln.</text>
+            </label>
+            <label key="i635767fe2e0a62293a56d68123e1e0bdf_e8132ccd18c61037b857ec8820d41772_5">
+                <text>Dra varje textruta till rätt plats i flödesdiagrammet. Ett steg har redan genomförts åt dig.</text>
+            </label>
+            <label key="i635767fe2e0a62293a56d68123e1e0bdf_6f45a95b490d20770b939f9b5fda9c1d_6">
+                <text>permafrost warms</text>
+            </label>
+            <label key="i635767fe2e0a62293a56d68123e1e0bdf_3c284681bf93fdd55e741541abbc9547_7">
+                <text>organic matter decomposes</text>
+            </label>
+            <label key="i635767fe2e0a62293a56d68123e1e0bdf_40852237bf785c648b1a0aca2b1c9b38_8">
+                <text>greenhouse gases increase</text>
+            </label>
+            <label key="i635767fe2e0a62293a56d68123e1e0bdf_1df205ac5d082078f73c578cb6c18b58_9">
+                <text>atmospheric temperatures increase</text>
+            </label>
+            <label key="i635767fe2e0a62293a56d68123e1e0bdf_9e0b41921ea97a796430641cbaa1a2e7_10">
+                <text>carbon dioxide and methane released</text>
+            </label>
+        </item>
+        <item id="i63576836515e022930c73be706896ab8e">
+            <label key="i63576836515e022930c73be706896ab8e_4618dda72fd65221a2ff2afedef01313_1">
+                <text>
+                    Många städer som är byggda nära polcirkeln ligger ovanpå permafrost.
+                </text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_cf931de74489e6305f278d33a91ad62b_2">
+                <text>
+                    Tabellen visar uppskattningar av risk för att byggnader sjunker som följd av att permafrosten smälter.
+                </text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_418c97c9260d91018c8eec8eab4ee872_3">
+                <text>Ökning av jordens genomsnittliga yttemperatur (°C)</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_82887602ed49181355640f288d9e912e_4">
+                <text>Permafrostens tillstånd</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_a3ef9b0be47aedb7b7bd0cf8ca150419_5">
+                <text>Sjunkande byggnader</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_c4ca4238a0b923820dcc509a6f75849b_6">
+                <text>1</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_edb4580a9d569b37ce6a3acafea5dd5b_7">
+                <text>Frusen jord</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_a5f59ae30e8cbfc2f8b3f32428ea0446_8">
+                <text>Låg risk</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_6008647277c4454cecd97d33c069f0ca_9">
+                <text>1,5</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_32314b694661267156ff6ef9528c74e9_10">
+                <text>Delvis frusen jord</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_17fa38cdb398d25a9ed848174cf7b023_11">
+                <text>Medelhög risk</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_c81e728d9d4c2f636f067f89cc14862c_12">
+                <text>2</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_d70baa84a2f85c10a72a0023b59d1fd8_13">
+                <text>Upptinad lerjord</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_741fee4006e9a588dfcb6625b1379321_14">
+                <text>Hög risk</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_8221435bcce913b5c2dc22eaf6cb6590_15">
+                <text>2,5</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_9dea357866019fb52408c2e72ab5b70d_16">
+                <text><br/>Helt upptinad lerjord</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_b7940d5c6b5f602d63f3094d579978e4_17">
+                <text>Mycket hög risk</text>
+            </label>
+            <label key="i63576836515e022930c73be706896ab8e_0be437a9c920e5c5825850957f6e4305_18">
+                <text>Förklara vilken egenskap hos vatten som gör att byggnader sjunker när permafrost smälter.</text>
+            </label>
+        </item>
+    </items>
+</file>

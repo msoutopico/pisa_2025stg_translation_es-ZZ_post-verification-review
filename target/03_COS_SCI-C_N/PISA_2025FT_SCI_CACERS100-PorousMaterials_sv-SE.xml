@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:html5="html5" xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli/>
+    <items>
+        <item id="i636c5507290c12225c5327779f092bb64">
+            <label key="i636c5507290c12225c5327779f092bb64_af1ff4c2fcd434403e75d34bc04fecdf_1">
+                <text>Vilken är den huvudsakliga energiomvandlingen när skummet absorberar ljud?</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_A_f6f592522357a675de5eab0bde3f5c45_2">
+                <text>ljudenergi till värmeenergi</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_B_296dc1ef87337a28c11e47197098c0fa_3">
+                <text>ljudenergi till elektrisk energi</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_C_1d65bf5928d20cfd02df2dc9a279aaa4_4">
+                <text>ljudenergi till gravitationell potentiell energi</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_D_71b1ae8322a916d66dea2d35d7c7e24f_5">
+                <text>ljudenergi till elastisk potentiell energi </text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_fd66925f960a1de7569c6161e7ede0fe_6">
+                <text>Porösa material</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_02a43b872c2f08fd1de94aaf4e132149_7">
+                <text>Ljudabsorbenter är material som absorberar ljudvågor för att förhindra att ljudvågorna reflekteras på hårda ytor. Ljudabsorbenter används för att minska intensiteten hos ljud skapat av maskiner.</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_0cd4007e907dd9b7bcd0b0c89ddc99bc_8">
+                <text>Polymerskum (plastskum) används ofta till ljuddämpning. Andra material som till exempel skum av metall kan användas. Metallskum placeras till exempel inuti flygplansmotorer för att minska ljudet de avger.</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_37951cdcc61a326e5a2554203221af26_9">
+                <text>För att tillverka metallskum klär forskare ett polymerskum med en metallegering och bränner därefter bort polymeren.</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_7f2137d21941efcbe85e8c64bee8dcab_10">
+                <text>Denna simulering modellerar mängden buller som produceras av en flygplansmotor med ljuddämpande metallskum. Den beräknar ljudintensiteten med olika antal porer och diametrar på porerna (hålen) i skummet. Ljudintensitet är effekten hos ljudet per areaenhet, mätt i watt per kvadratmeter (W/m²).</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_86df824d135ad207915bac1df47db2b5_11">
+                <text>I bilden som tillhör simuleringen föreställer de mörka områdena porerna och de ljusare områdena metallen.</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_0472d021d4e4ee26eeab4d7b658cdeca_12">
+                <text>Pordiameter (μm)</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_3644a684f98ea8fe223c713b77189a77_13">
+                <text>200</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_18d8042386b79e2c279fd162df0205c8_14">
+                <text>400</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_d490d7b4576290fa60eb31b5fc917ad1_15">
+                <text>600</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_2bfce438eb75d41b03bc90a4d1ffe016_16">
+                <text>Antal porer</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_28d0edd045e05cf5af64e35ae0c4c6ef_17">
+                <text>Låg</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_87f8a6ab85c9ced3702b4ea641ad4bb5_18">
+                <text>Medel</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_655d20c1ca69519ca647684edbb2db35_19">
+                <text>Hög</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_45d92d6c6bb122706d35ee47f74e1386_20">
+                <text>Ursprunglig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_c4ca4238a0b923820dcc509a6f75849b_21">
+                <text>1</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_d3d9446802a44259755d38e6d163e820_22">
+                <text>10</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_f899139df5e1059396431415e770c6dd_23">
+                <text>100</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_7724d46981b733f1550035a1eacdb694_24">
+                <text>
+                    <button class="btn btn-outline-secondary" id="run-btn">Kör</button>
+                </text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_45d92d6c6bb122706d35ee47f74e1386_25">
+                <text>Ursprunglig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_0472d021d4e4ee26eeab4d7b658cdeca_26">
+                <text>Pordiameter (μm)</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_2bfce438eb75d41b03bc90a4d1ffe016_27">
+                <text>Antal porer</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_50dbb65d1865ec938aa181d7be2fe5d3_28">
+                <text>Slutlig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_7b186442b27329be23fd3520a8409f1d_29">
+                <text>Följ stegen nedan för att se hur simuleringen fungerar:</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_06a797994873172c90472a65d2a4680f_30">
+                <text>Flytta reglaget för att ange <b>pordiametern</b>.</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_3adc452b9e66d5e18d5f609e00cc5335_31">
+                <text>Flytta reglaget för att ange <b>antal porer</b>.</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_a48a1d4ed20e6ac5af87f6f32d2ee644_32">
+                <text>För att ändra ljudet som avges från flygplansmotorn innan det färdas genom skummet, flytta reglaget för att ange <b>ursprunglig ljudintensitet</b>.</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_0624c62e15fc5dbd59edf7513ca587bd_33">
+                <text>Klicka på knappen "Kör" för att se resultaten. Resultaten visas också i tabellen.</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_0967e5a30958766a2f8381aff9fdc7b1_34">
+                <text>Datan kan raderas genom att klicka på knappen ”-” i den femte kolumnen.</text>
+            </label>
+            <label key="i636c5507290c12225c5327779f092bb64_28b4a51acbc8c485a509fe1e0569de43_35">
+                <text>You must delete some rows.</text>
+            </label>
+        </item>
+        <item id="i636c57d8d6731286267a7e21e115fecdc">
+            <label key="i636c57d8d6731286267a7e21e115fecdc_4704a97e3d89129c46089555bad1bd01_1">
+                <text>Kör simuleringen för att samla in data för att svara på nedanstående fråga.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_8e7559bb388da2ff79ab1500eed0c23c_2">
+                <text>Vilken av följande meningar beskriver vilken effekt en ökning av pordiametern hos ett material har på den slutliga ljudintensiteten?</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_A_f7cc59fcd24ef6c4d0acd0d92c969459_3">
+                <text>Sound intensity increases.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_B_750af3b1cab5b33ba875ed57cc786717_4">
+                <text>Sound intensity decreases.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_C_976238b2faee5e23e3668ca069da46f2_5">
+                <text>Sound intensity stays the same.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_fd66925f960a1de7569c6161e7ede0fe_6">
+                <text>Porösa material</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_02a43b872c2f08fd1de94aaf4e132149_7">
+                <text>Ljudabsorbenter är material som absorberar ljudvågor för att förhindra att ljudvågorna reflekteras på hårda ytor. Ljudabsorbenter används för att minska intensiteten hos ljud skapat av maskiner.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_0cd4007e907dd9b7bcd0b0c89ddc99bc_8">
+                <text>Polymerskum (plastskum) används ofta till ljuddämpning. Andra material som till exempel skum av metall kan användas. Metallskum placeras till exempel inuti flygplansmotorer för att minska ljudet de avger.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_37951cdcc61a326e5a2554203221af26_9">
+                <text>För att tillverka metallskum klär forskare ett polymerskum med en metallegering och bränner därefter bort polymeren.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_7f2137d21941efcbe85e8c64bee8dcab_10">
+                <text>Denna simulering modellerar mängden buller som produceras av en flygplansmotor med ljuddämpande metallskum. Den beräknar ljudintensiteten med olika antal porer och diametrar på porerna (hålen) i skummet. Ljudintensitet är effekten hos ljudet per areaenhet, mätt i watt per kvadratmeter (W/m²).</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_86df824d135ad207915bac1df47db2b5_11">
+                <text>I bilden som tillhör simuleringen föreställer de mörka områdena porerna och de ljusare områdena metallen.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_0472d021d4e4ee26eeab4d7b658cdeca_12">
+                <text>Pordiameter (μm)</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_3644a684f98ea8fe223c713b77189a77_13">
+                <text>200</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_18d8042386b79e2c279fd162df0205c8_14">
+                <text>400</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_d490d7b4576290fa60eb31b5fc917ad1_15">
+                <text>600</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_2bfce438eb75d41b03bc90a4d1ffe016_16">
+                <text>Antal porer</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_28d0edd045e05cf5af64e35ae0c4c6ef_17">
+                <text>Låg</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_87f8a6ab85c9ced3702b4ea641ad4bb5_18">
+                <text>Medel</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_655d20c1ca69519ca647684edbb2db35_19">
+                <text>Hög</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_45d92d6c6bb122706d35ee47f74e1386_20">
+                <text>Ursprunglig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_c4ca4238a0b923820dcc509a6f75849b_21">
+                <text>1</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_d3d9446802a44259755d38e6d163e820_22">
+                <text>10</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_f899139df5e1059396431415e770c6dd_23">
+                <text>100</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_7724d46981b733f1550035a1eacdb694_24">
+                <text>
+                    <button class="btn btn-outline-secondary" id="run-btn">Kör</button>
+                </text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_45d92d6c6bb122706d35ee47f74e1386_25">
+                <text>Ursprunglig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_0472d021d4e4ee26eeab4d7b658cdeca_26">
+                <text>Pordiameter (μm)</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_2bfce438eb75d41b03bc90a4d1ffe016_27">
+                <text>Antal porer</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_50dbb65d1865ec938aa181d7be2fe5d3_28">
+                <text>Slutlig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_7b186442b27329be23fd3520a8409f1d_29">
+                <text>Följ stegen nedan för att se hur simuleringen fungerar:</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_06a797994873172c90472a65d2a4680f_30">
+                <text>Flytta reglaget för att ange <b>pordiametern</b>.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_3adc452b9e66d5e18d5f609e00cc5335_31">
+                <text>Flytta reglaget för att ange <b>antal porer</b>.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_a48a1d4ed20e6ac5af87f6f32d2ee644_32">
+                <text>För att ändra ljudet som avges från flygplansmotorn innan det färdas genom skummet, flytta reglaget för att ange <b>ursprunglig ljudintensitet</b>.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_0624c62e15fc5dbd59edf7513ca587bd_33">
+                <text>Klicka på knappen "Kör" för att se resultaten. Resultaten visas också i tabellen.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_0967e5a30958766a2f8381aff9fdc7b1_34">
+                <text>Datan kan raderas genom att klicka på knappen ”-” i den femte kolumnen.</text>
+            </label>
+            <label key="i636c57d8d6731286267a7e21e115fecdc_28b4a51acbc8c485a509fe1e0569de43_35">
+                <text>You must delete some rows.</text>
+            </label>
+        </item>
+        <item id="i636c75fc3159612383f63c239c24bf9710">
+            <label key="i636c75fc3159612383f63c239c24bf9710_8c196c084ba1cf3d1dc44d5a466c8942_1">
+                <text>Kör simuleringen för att undersöka vilken effekt metallskum med en pordiameter på 300 µm har på ett ljud med den ursprungliga intensiteten 100 W/m².</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_07273e5995658a2945e51eff9db31510_2">
+                <text>Vilken är den bästa uppskattningen av ljudets slutliga intensitet under ovanstående förutsättningar?</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_A_f05bf98848d9e6308c506ce74de3f886_3">
+                <text>10 W/m² för ett litet antal porer </text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_B_f41f58d02bbfb57c0d7afa94f600227e_4">
+                <text>30 W/m² för ett medelstort antal porer </text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_C_032b6368226bf22eef0bff72350ff95b_5">
+                <text>50 W/m² för ett stort antal porer</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_D_392482976822249a6e0d39fb470eb19f_6">
+                <text>70 W/m² för ett stort antal porer</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_fd66925f960a1de7569c6161e7ede0fe_7">
+                <text>Porösa material</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_02a43b872c2f08fd1de94aaf4e132149_8">
+                <text>Ljudabsorbenter är material som absorberar ljudvågor för att förhindra att ljudvågorna reflekteras på hårda ytor. Ljudabsorbenter används för att minska intensiteten hos ljud skapat av maskiner.</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_0cd4007e907dd9b7bcd0b0c89ddc99bc_9">
+                <text>Polymerskum (plastskum) används ofta till ljuddämpning. Andra material som till exempel skum av metall kan användas. Metallskum placeras till exempel inuti flygplansmotorer för att minska ljudet de avger.</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_37951cdcc61a326e5a2554203221af26_10">
+                <text>För att tillverka metallskum klär forskare ett polymerskum med en metallegering och bränner därefter bort polymeren.</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_7f2137d21941efcbe85e8c64bee8dcab_11">
+                <text>Denna simulering modellerar mängden buller som produceras av en flygplansmotor med ljuddämpande metallskum. Den beräknar ljudintensiteten med olika antal porer och diametrar på porerna (hålen) i skummet. Ljudintensitet är effekten hos ljudet per areaenhet, mätt i watt per kvadratmeter (W/m²).</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_86df824d135ad207915bac1df47db2b5_12">
+                <text>I bilden som tillhör simuleringen föreställer de mörka områdena porerna och de ljusare områdena metallen.</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_0472d021d4e4ee26eeab4d7b658cdeca_13">
+                <text>Pordiameter (μm)</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_3644a684f98ea8fe223c713b77189a77_14">
+                <text>200</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_18d8042386b79e2c279fd162df0205c8_15">
+                <text>400</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_d490d7b4576290fa60eb31b5fc917ad1_16">
+                <text>600</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_2bfce438eb75d41b03bc90a4d1ffe016_17">
+                <text>Antal porer</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_28d0edd045e05cf5af64e35ae0c4c6ef_18">
+                <text>Låg</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_87f8a6ab85c9ced3702b4ea641ad4bb5_19">
+                <text>Medel</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_655d20c1ca69519ca647684edbb2db35_20">
+                <text>Hög</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_45d92d6c6bb122706d35ee47f74e1386_21">
+                <text>Ursprunglig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_c4ca4238a0b923820dcc509a6f75849b_22">
+                <text>1</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_d3d9446802a44259755d38e6d163e820_23">
+                <text>10</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_f899139df5e1059396431415e770c6dd_24">
+                <text>100</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_7724d46981b733f1550035a1eacdb694_25">
+                <text>
+                    <button class="btn btn-outline-secondary" id="run-btn">Kör</button>
+                </text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_45d92d6c6bb122706d35ee47f74e1386_26">
+                <text>Ursprunglig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_0472d021d4e4ee26eeab4d7b658cdeca_27">
+                <text>Pordiameter (μm)</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_2bfce438eb75d41b03bc90a4d1ffe016_28">
+                <text>Antal porer</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_50dbb65d1865ec938aa181d7be2fe5d3_29">
+                <text>Slutlig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_7b186442b27329be23fd3520a8409f1d_30">
+                <text>Följ stegen nedan för att se hur simuleringen fungerar:</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_06a797994873172c90472a65d2a4680f_31">
+                <text>Flytta reglaget för att ange <b>pordiametern</b>.</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_3adc452b9e66d5e18d5f609e00cc5335_32">
+                <text>Flytta reglaget för att ange <b>antal porer</b>.</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_a48a1d4ed20e6ac5af87f6f32d2ee644_33">
+                <text>För att ändra ljudet som avges från flygplansmotorn innan det färdas genom skummet, flytta reglaget för att ange <b>ursprunglig ljudintensitet</b>.</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_0624c62e15fc5dbd59edf7513ca587bd_34">
+                <text>Klicka på knappen "Kör" för att se resultaten. Resultaten visas också i tabellen.</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_0967e5a30958766a2f8381aff9fdc7b1_35">
+                <text>Datan kan raderas genom att klicka på knappen ”-” i den femte kolumnen.</text>
+            </label>
+            <label key="i636c75fc3159612383f63c239c24bf9710_28b4a51acbc8c485a509fe1e0569de43_36">
+                <text>You must delete some rows.</text>
+            </label>
+        </item>
+        <item id="i636c772143c2d1237979152a8ded4ed678">
+            <label key="i636c772143c2d1237979152a8ded4ed678_4dcb8848f23edbcdd82fd6ea99228ee3_1">
+                <text>Ljudabsorptionskoefficienten anger hur mycket ljud ett material absorberar. Ju högre koefficient, desto större andel ljud absorberas.</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_a4442ab84b5f503d48cfd7a9df458414_2">
+                <text>Om ett material med en viss pordiameter och ett visst antal porer släpper igenom 20 % av det ursprungliga ljudet har det en absorptionskoefficient på 80 %.</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_188736499144d2a295e18e0c7372c5d2_3">
+                <text>Vilket av följande diagram visar den mest sannolika effekten den ursprungliga ljudintensiteten har på ett materials ljudabsorptionskoefficient?</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_16debef90a0394d9b14c30c4281bce0d_4">
+                <text>koefficient</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_4321cebde63ed4f2604fd5ec468a12c9_5">
+                <text>ursprunglig ljudintensitet</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_16debef90a0394d9b14c30c4281bce0d_6">
+                <text>koefficient</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_4321cebde63ed4f2604fd5ec468a12c9_7">
+                <text>ursprunglig ljudintensitet</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_16debef90a0394d9b14c30c4281bce0d_8">
+                <text>koefficient</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_4321cebde63ed4f2604fd5ec468a12c9_9">
+                <text>ursprunglig ljudintensitet</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_16debef90a0394d9b14c30c4281bce0d_10">
+                <text>koefficient</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_4321cebde63ed4f2604fd5ec468a12c9_11">
+                <text>ursprunglig ljudintensitet</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_fd66925f960a1de7569c6161e7ede0fe_12">
+                <text>Porösa material</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_02a43b872c2f08fd1de94aaf4e132149_13">
+                <text>Ljudabsorbenter är material som absorberar ljudvågor för att förhindra att ljudvågorna reflekteras på hårda ytor. Ljudabsorbenter används för att minska intensiteten hos ljud skapat av maskiner.</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_0cd4007e907dd9b7bcd0b0c89ddc99bc_14">
+                <text>Polymerskum (plastskum) används ofta till ljuddämpning. Andra material som till exempel skum av metall kan användas. Metallskum placeras till exempel inuti flygplansmotorer för att minska ljudet de avger.</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_37951cdcc61a326e5a2554203221af26_15">
+                <text>För att tillverka metallskum klär forskare ett polymerskum med en metallegering och bränner därefter bort polymeren.</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_7f2137d21941efcbe85e8c64bee8dcab_16">
+                <text>Denna simulering modellerar mängden buller som produceras av en flygplansmotor med ljuddämpande metallskum. Den beräknar ljudintensiteten med olika antal porer och diametrar på porerna (hålen) i skummet. Ljudintensitet är effekten hos ljudet per areaenhet, mätt i watt per kvadratmeter (W/m²).</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_86df824d135ad207915bac1df47db2b5_17">
+                <text>I bilden som tillhör simuleringen föreställer de mörka områdena porerna och de ljusare områdena metallen.</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_0472d021d4e4ee26eeab4d7b658cdeca_18">
+                <text>Pordiameter (μm)</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_3644a684f98ea8fe223c713b77189a77_19">
+                <text>200</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_18d8042386b79e2c279fd162df0205c8_20">
+                <text>400</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_d490d7b4576290fa60eb31b5fc917ad1_21">
+                <text>600</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_2bfce438eb75d41b03bc90a4d1ffe016_22">
+                <text>Antal porer</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_28d0edd045e05cf5af64e35ae0c4c6ef_23">
+                <text>Låg</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_87f8a6ab85c9ced3702b4ea641ad4bb5_24">
+                <text>Medel</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_655d20c1ca69519ca647684edbb2db35_25">
+                <text>Hög</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_45d92d6c6bb122706d35ee47f74e1386_26">
+                <text>Ursprunglig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_c4ca4238a0b923820dcc509a6f75849b_27">
+                <text>1</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_d3d9446802a44259755d38e6d163e820_28">
+                <text>10</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_f899139df5e1059396431415e770c6dd_29">
+                <text>100</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_7724d46981b733f1550035a1eacdb694_30">
+                <text>
+                    <button class="btn btn-outline-secondary" id="run-btn">Kör</button>
+                </text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_45d92d6c6bb122706d35ee47f74e1386_31">
+                <text>Ursprunglig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_0472d021d4e4ee26eeab4d7b658cdeca_32">
+                <text>Pordiameter (μm)</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_2bfce438eb75d41b03bc90a4d1ffe016_33">
+                <text>Antal porer</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_50dbb65d1865ec938aa181d7be2fe5d3_34">
+                <text>Slutlig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_7b186442b27329be23fd3520a8409f1d_35">
+                <text>Följ stegen nedan för att se hur simuleringen fungerar:</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_06a797994873172c90472a65d2a4680f_36">
+                <text>Flytta reglaget för att ange <b>pordiametern</b>.</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_3adc452b9e66d5e18d5f609e00cc5335_37">
+                <text>Flytta reglaget för att ange <b>antal porer</b>.</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_a48a1d4ed20e6ac5af87f6f32d2ee644_38">
+                <text>För att ändra ljudet som avges från flygplansmotorn innan det färdas genom skummet, flytta reglaget för att ange <b>ursprunglig ljudintensitet</b>.</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_0624c62e15fc5dbd59edf7513ca587bd_39">
+                <text>Klicka på knappen "Kör" för att se resultaten. Resultaten visas också i tabellen.</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_0967e5a30958766a2f8381aff9fdc7b1_40">
+                <text>Datan kan raderas genom att klicka på knappen ”-” i den femte kolumnen.</text>
+            </label>
+            <label key="i636c772143c2d1237979152a8ded4ed678_28b4a51acbc8c485a509fe1e0569de43_41">
+                <text>You must delete some rows.</text>
+            </label>
+        </item>
+        <item id="i636c56934d39f2225c68850427266fbd2">
+            <label key="i636c56934d39f2225c68850427266fbd2_08058b00627bc20d8a8bf92d708fb37b_1">
+                <text>Beskriv två fördelar med att använda en simulering för att avgöra den optimala pordiametern och antalet porer för ljudabsorption.</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_fd66925f960a1de7569c6161e7ede0fe_2">
+                <text>Porösa material</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_02a43b872c2f08fd1de94aaf4e132149_3">
+                <text>Ljudabsorbenter är material som absorberar ljudvågor för att förhindra att ljudvågorna reflekteras på hårda ytor. Ljudabsorbenter används för att minska intensiteten hos ljud skapat av maskiner.</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_0cd4007e907dd9b7bcd0b0c89ddc99bc_4">
+                <text>Polymerskum (plastskum) används ofta till ljuddämpning. Andra material som till exempel skum av metall kan användas. Metallskum placeras till exempel inuti flygplansmotorer för att minska ljudet de avger.</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_37951cdcc61a326e5a2554203221af26_5">
+                <text>För att tillverka metallskum klär forskare ett polymerskum med en metallegering och bränner därefter bort polymeren.</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_7f2137d21941efcbe85e8c64bee8dcab_6">
+                <text>Denna simulering modellerar mängden buller som produceras av en flygplansmotor med ljuddämpande metallskum. Den beräknar ljudintensiteten med olika antal porer och diametrar på porerna (hålen) i skummet. Ljudintensitet är effekten hos ljudet per areaenhet, mätt i watt per kvadratmeter (W/m²).</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_86df824d135ad207915bac1df47db2b5_7">
+                <text>I bilden som tillhör simuleringen föreställer de mörka områdena porerna och de ljusare områdena metallen.</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_0472d021d4e4ee26eeab4d7b658cdeca_8">
+                <text>Pordiameter (μm)</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_3644a684f98ea8fe223c713b77189a77_9">
+                <text>200</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_18d8042386b79e2c279fd162df0205c8_10">
+                <text>400</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_d490d7b4576290fa60eb31b5fc917ad1_11">
+                <text>600</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_2bfce438eb75d41b03bc90a4d1ffe016_12">
+                <text>Antal porer</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_28d0edd045e05cf5af64e35ae0c4c6ef_13">
+                <text>Låg</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_87f8a6ab85c9ced3702b4ea641ad4bb5_14">
+                <text>Medel</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_655d20c1ca69519ca647684edbb2db35_15">
+                <text>Hög</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_45d92d6c6bb122706d35ee47f74e1386_16">
+                <text>Ursprunglig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_c4ca4238a0b923820dcc509a6f75849b_17">
+                <text>1</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_d3d9446802a44259755d38e6d163e820_18">
+                <text>10</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_f899139df5e1059396431415e770c6dd_19">
+                <text>100</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_7724d46981b733f1550035a1eacdb694_20">
+                <text>
+                    <button class="btn btn-outline-secondary" id="run-btn">Kör</button>
+                </text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_45d92d6c6bb122706d35ee47f74e1386_21">
+                <text>Ursprunglig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_0472d021d4e4ee26eeab4d7b658cdeca_22">
+                <text>Pordiameter (μm)</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_2bfce438eb75d41b03bc90a4d1ffe016_23">
+                <text>Antal porer</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_50dbb65d1865ec938aa181d7be2fe5d3_24">
+                <text>Slutlig ljudintensitet (W/m²)</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_7b186442b27329be23fd3520a8409f1d_25">
+                <text>Följ stegen nedan för att se hur simuleringen fungerar:</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_06a797994873172c90472a65d2a4680f_26">
+                <text>Flytta reglaget för att ange <b>pordiametern</b>.</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_3adc452b9e66d5e18d5f609e00cc5335_27">
+                <text>Flytta reglaget för att ange <b>antal porer</b>.</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_a48a1d4ed20e6ac5af87f6f32d2ee644_28">
+                <text>För att ändra ljudet som avges från flygplansmotorn innan det färdas genom skummet, flytta reglaget för att ange <b>ursprunglig ljudintensitet</b>.</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_0624c62e15fc5dbd59edf7513ca587bd_29">
+                <text>Klicka på knappen "Kör" för att se resultaten. Resultaten visas också i tabellen.</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_0967e5a30958766a2f8381aff9fdc7b1_30">
+                <text>Datan kan raderas genom att klicka på knappen ”-” i den femte kolumnen.</text>
+            </label>
+            <label key="i636c56934d39f2225c68850427266fbd2_28b4a51acbc8c485a509fe1e0569de43_31">
+                <text>You must delete some rows.</text>
+            </label>
+        </item>
+    </items>
+</file>

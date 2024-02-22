@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6466c320982ef8.19749036/passage NEW.xml">
+            <label key="6466c320982ef8.19749036_1814957b0cb063a06764f7817c1c8876_1">
+                <text>Ljus på natten</text>
+            </label>
+            <label key="6466c320982ef8.19749036_8aed2471a96378ae1c63a7fe58b9d073_2">
+                <text>Överdriven användning av artificiell utomhusbelysning bidrar till ljusföroreningar, vilket kan ha många negativa effekter.</text>
+            </label>
+            <label key="6466c320982ef8.19749036_a8b7a997768ecd84366dc6de50de4d42_3">
+                <text>Tabellen nedanför beskriver de olika typerna av ljusföroreningar.</text>
+            </label>
+            <label key="6466c320982ef8.19749036_f60a0982314041f6c3bfc824a325321f_4">
+                <text>Typ av ljusförorening</text>
+            </label>
+            <label key="6466c320982ef8.19749036_b5a7adde1af5c87d7fd797b6245c2a39_5">
+                <text>Beskrivning</text>
+            </label>
+            <label key="6466c320982ef8.19749036_5797d1d5675a53a4ff914e6b6185c623_6">
+                <text>Bländande ljussken</text>
+            </label>
+            <label key="6466c320982ef8.19749036_6664c34ac833a0689033d6664f0e677e_7">
+                <text>starkt ljus som tillfälligt förblindar observatören</text>
+            </label>
+            <label key="6466c320982ef8.19749036_3eca07a3d7c9e73f6c2480d90e822d5c_8">
+                <text>Himmelströljus</text>
+            </label>
+            <label key="6466c320982ef8.19749036_94de1c23e224b4f9431e7d6911e65fb8_9">
+                <text>ljus som minskar objekts synlighet på natthimlen</text>
+            </label>
+            <label key="6466c320982ef8.19749036_ef147debd4e1deb113094dcc1fd3234d_10">
+                <text>Ljusintrång</text>
+            </label>
+            <label key="6466c320982ef8.19749036_8dea03efd7950ab496d0087aefe77c3e_11">
+                <text>ljus som skiner på oönskade platser</text>
+            </label>
+            <label key="6466c320982ef8.19749036_3b0e726e505675c49612412e292ae48e_12">
+                <text>Ljusnedskräpning</text>
+            </label>
+            <label key="6466c320982ef8.19749036_8e60e577f85d23d8627979dd3451b7b0_13">
+                <text>flera ljuskällor som orsakar visuell distraktion</text>
+            </label>
+            <label key="6466c320982ef8.19749036_fd94ed9cba0ff1f3d940a53da7dbf805_14">
+                <text>Överdriven belysning</text>
+            </label>
+            <label key="6466c320982ef8.19749036_88b11fbf32497a04e5dee7279af2c4fe_15">
+                <text>användning av ljus när det inte behövs</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6466c320982ef8.19749036/passage NEW.xml">
+            <label key="6466c320982ef8.19749036_1814957b0cb063a06764f7817c1c8876_1">
+                <text>Ljus på natten</text>
+            </label>
+            <label key="6466c320982ef8.19749036_8aed2471a96378ae1c63a7fe58b9d073_2">
+                <text>Överdriven användning av artificiell utomhusbelysning bidrar till ljusföroreningar, vilket kan ha många negativa effekter.</text>
+            </label>
+            <label key="6466c320982ef8.19749036_a8b7a997768ecd84366dc6de50de4d42_3">
+                <text>Tabellen nedanför beskriver de olika typerna av ljusföroreningar.</text>
+            </label>
+            <label key="6466c320982ef8.19749036_f60a0982314041f6c3bfc824a325321f_4">
+                <text>Typ av ljusförorening</text>
+            </label>
+            <label key="6466c320982ef8.19749036_b5a7adde1af5c87d7fd797b6245c2a39_5">
+                <text>Beskrivning</text>
+            </label>
+            <label key="6466c320982ef8.19749036_5797d1d5675a53a4ff914e6b6185c623_6">
+                <text>Bländande ljussken</text>
+            </label>
+            <label key="6466c320982ef8.19749036_6664c34ac833a0689033d6664f0e677e_7">
+                <text>starkt ljus som tillfälligt förblindar observatören</text>
+            </label>
+            <label key="6466c320982ef8.19749036_3eca07a3d7c9e73f6c2480d90e822d5c_8">
+                <text>Himmelströljus</text>
+            </label>
+            <label key="6466c320982ef8.19749036_94de1c23e224b4f9431e7d6911e65fb8_9">
+                <text>ljus som minskar objekts synlighet på natthimlen</text>
+            </label>
+            <label key="6466c320982ef8.19749036_ef147debd4e1deb113094dcc1fd3234d_10">
+                <text>Ljusintrång</text>
+            </label>
+            <label key="6466c320982ef8.19749036_8dea03efd7950ab496d0087aefe77c3e_11">
+                <text>ljus som skiner på oönskade platser</text>
+            </label>
+            <label key="6466c320982ef8.19749036_3b0e726e505675c49612412e292ae48e_12">
+                <text>Ljusnedskräpning</text>
+            </label>
+            <label key="6466c320982ef8.19749036_8e60e577f85d23d8627979dd3451b7b0_13">
+                <text>flera ljuskällor som orsakar visuell distraktion</text>
+            </label>
+            <label key="6466c320982ef8.19749036_fd94ed9cba0ff1f3d940a53da7dbf805_14">
+                <text>Överdriven belysning</text>
+            </label>
+            <label key="6466c320982ef8.19749036_88b11fbf32497a04e5dee7279af2c4fe_15">
+                <text>användning av ljus när det inte behövs</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6466c320982ef8.19749036/passage NEW.xml">
+            <label key="6466c320982ef8.19749036_1814957b0cb063a06764f7817c1c8876_1">
+                <text>Ljus på natten</text>
+            </label>
+            <label key="6466c320982ef8.19749036_8aed2471a96378ae1c63a7fe58b9d073_2">
+                <text>Överdriven användning av artificiell utomhusbelysning bidrar till ljusföroreningar, vilket kan ha många negativa effekter.</text>
+            </label>
+            <label key="6466c320982ef8.19749036_a8b7a997768ecd84366dc6de50de4d42_3">
+                <text>Tabellen nedanför beskriver de olika typerna av ljusföroreningar.</text>
+            </label>
+            <label key="6466c320982ef8.19749036_f60a0982314041f6c3bfc824a325321f_4">
+                <text>Typ av ljusförorening</text>
+            </label>
+            <label key="6466c320982ef8.19749036_b5a7adde1af5c87d7fd797b6245c2a39_5">
+                <text>Beskrivning</text>
+            </label>
+            <label key="6466c320982ef8.19749036_5797d1d5675a53a4ff914e6b6185c623_6">
+                <text>Bländande ljussken</text>
+            </label>
+            <label key="6466c320982ef8.19749036_6664c34ac833a0689033d6664f0e677e_7">
+                <text>starkt ljus som tillfälligt förblindar observatören</text>
+            </label>
+            <label key="6466c320982ef8.19749036_3eca07a3d7c9e73f6c2480d90e822d5c_8">
+                <text>Himmelströljus</text>
+            </label>
+            <label key="6466c320982ef8.19749036_94de1c23e224b4f9431e7d6911e65fb8_9">
+                <text>ljus som minskar objekts synlighet på natthimlen</text>
+            </label>
+            <label key="6466c320982ef8.19749036_ef147debd4e1deb113094dcc1fd3234d_10">
+                <text>Ljusintrång</text>
+            </label>
+            <label key="6466c320982ef8.19749036_8dea03efd7950ab496d0087aefe77c3e_11">
+                <text>ljus som skiner på oönskade platser</text>
+            </label>
+            <label key="6466c320982ef8.19749036_3b0e726e505675c49612412e292ae48e_12">
+                <text>Ljusnedskräpning</text>
+            </label>
+            <label key="6466c320982ef8.19749036_8e60e577f85d23d8627979dd3451b7b0_13">
+                <text>flera ljuskällor som orsakar visuell distraktion</text>
+            </label>
+            <label key="6466c320982ef8.19749036_fd94ed9cba0ff1f3d940a53da7dbf805_14">
+                <text>Överdriven belysning</text>
+            </label>
+            <label key="6466c320982ef8.19749036_88b11fbf32497a04e5dee7279af2c4fe_15">
+                <text>användning av ljus när det inte behövs</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65937f1b8b0609.12672033/passage NEW 1.xml">
+            <label key="65937f1b8b0609.12672033_1814957b0cb063a06764f7817c1c8876_1">
+                <text>Ljus på natten</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_b8e011c82ba6458fbcfb3cd9fba21bd2_2">
+                <text>Människor som arbetar med ljus har olika syn på problemet med ljusföroreningar.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_609a7c8afd5ba55788495c846225219f_3">
+                <text>Belysningsspecialister är en yrkesgrupp som levererar, installerar och designar belysningssystem.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_4971b4b2be79dfb513d167b0ceeb9d70_4">
+                <text>Experter på ljusföroreningar är en yrkesgrupp som har studerat miljövetenskap eller astronomi.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_3e41f51d2065566afb370f0cf4018882_5">
+                <text>Dessa yrkesgruppers åsikter samlades in via en öppen undersökning på nätet.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_8a1f75f86e86c34944302248cb1294fd_6">
+                <text>Deltagarna fick tillträde till undersökningen via e-postinbjudningar, onlineinlägg och genom kontakter på sina arbetsplatser.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_989faf9a5a09c6f3ffd45fd8ddd40e2d_7">
+                <text>Undersökningen spreds över hela världen men var endast tillgänglig på engelska.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_4cb4d547ecd9541de8890cec911dfb0f_8">
+                <text>Totalt 205 svar samlades in.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_bd1c6824f52e53b03448a61084210f48_9">
+                <text>Datan grupperades efter de svarandes yrkesgrupper.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_2d8f9e94da1d02041f4654b65f77e4d2_10">
+                <text>Diagrammet nedanför visar andelen svarande i procent som höll med om ett givet förslag för att minska ljusföroreningar.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_5ef9ede791628c2b17e9e502347693b1_11">
+                <text>
+                    <strong>‌Vad bör göras för att minska ljusföroreningarna?‌</strong>
+                </text>
+            </label>
+            <label key="65937f1b8b0609.12672033_10d0f72249dc1e6a802522e2b6aee0d6_12">
+                <text>Främja bästa praxis för belysningsprojekt i t.ex. kommuner.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_a2c666d74590c291077c35681dd995c6_13">
+                <text>Utbilda belysningsplanerare och belysningsdesigners.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_d8b82fecdc05a8a3c41e9bcb4023e046_14">
+                <text>Använda bättre teknik.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_1647a7f596b830dc2a9d3c95c9f46297_15">
+                <text>Låta fler människor uppleva naturligt mörka nätter.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_2ee4897d8e583170b15f4e9ec763b1b8_16">
+                <text>Skapa bindande regler och rättsliga ramar.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_403f3904f184399c5df29401df528642_17">
+                <text>% av de svarande</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_6a34f220654d7011cea40c77622958a0_18">
+                <text>Belysningsspecialister</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_bc6e4392dd56345e2f30bdc426459227_19">
+                <text>Experter på ljusföroreningar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65937f1b8b0609.12672033/passage NEW 1.xml">
+            <label key="65937f1b8b0609.12672033_1814957b0cb063a06764f7817c1c8876_1">
+                <text>Ljus på natten</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_b8e011c82ba6458fbcfb3cd9fba21bd2_2">
+                <text>Människor som arbetar med ljus har olika syn på problemet med ljusföroreningar.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_609a7c8afd5ba55788495c846225219f_3">
+                <text>Belysningsspecialister är en yrkesgrupp som levererar, installerar och designar belysningssystem.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_4971b4b2be79dfb513d167b0ceeb9d70_4">
+                <text>Experter på ljusföroreningar är en yrkesgrupp som har studerat miljövetenskap eller astronomi.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_3e41f51d2065566afb370f0cf4018882_5">
+                <text>Dessa yrkesgruppers åsikter samlades in via en öppen undersökning på nätet.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_8a1f75f86e86c34944302248cb1294fd_6">
+                <text>Deltagarna fick tillträde till undersökningen via e-postinbjudningar, onlineinlägg och genom kontakter på sina arbetsplatser.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_989faf9a5a09c6f3ffd45fd8ddd40e2d_7">
+                <text>Undersökningen spreds över hela världen men var endast tillgänglig på engelska.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_4cb4d547ecd9541de8890cec911dfb0f_8">
+                <text>Totalt 205 svar samlades in.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_bd1c6824f52e53b03448a61084210f48_9">
+                <text>Datan grupperades efter de svarandes yrkesgrupper.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_2d8f9e94da1d02041f4654b65f77e4d2_10">
+                <text>Diagrammet nedanför visar andelen svarande i procent som höll med om ett givet förslag för att minska ljusföroreningar.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_5ef9ede791628c2b17e9e502347693b1_11">
+                <text>
+                    <strong>‌Vad bör göras för att minska ljusföroreningarna?‌</strong>
+                </text>
+            </label>
+            <label key="65937f1b8b0609.12672033_10d0f72249dc1e6a802522e2b6aee0d6_12">
+                <text>Främja bästa praxis för belysningsprojekt i t.ex. kommuner.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_a2c666d74590c291077c35681dd995c6_13">
+                <text>Utbilda belysningsplanerare och belysningsdesigners.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_d8b82fecdc05a8a3c41e9bcb4023e046_14">
+                <text>Använda bättre teknik.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_1647a7f596b830dc2a9d3c95c9f46297_15">
+                <text>Låta fler människor uppleva naturligt mörka nätter.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_2ee4897d8e583170b15f4e9ec763b1b8_16">
+                <text>Skapa bindande regler och rättsliga ramar.</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_403f3904f184399c5df29401df528642_17">
+                <text>% av de svarande</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_6a34f220654d7011cea40c77622958a0_18">
+                <text>Belysningsspecialister</text>
+            </label>
+            <label key="65937f1b8b0609.12672033_bc6e4392dd56345e2f30bdc426459227_19">
+                <text>Experter på ljusföroreningar</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a0e38e52eb027860c878c63d1718268a">
+            <label key="i63a0e38e52eb027860c878c63d1718268a_a02378d67db188685d8f353dc8100c7a_1">
+                <text>Identifiera vilka av situationerna i tabellen nedan som kan klassificeras som ljusföroreningar baserat på beskrivningarna i tabellen till höger.</text>
+            </label>
+            <label key="i63a0e38e52eb027860c878c63d1718268a_eba64b69478cf3ced04417b0d8e40ca0_2">
+                <text>Välj 'Ljusförorening' eller 'Inte ljusförorening' för varje situation.</text>
+            </label>
+            <label key="i63a0e38e52eb027860c878c63d1718268a_L_d642292e2f4b424e570012c6add73a99_3">
+                <text>
+                    <strong>‌Ljusförorening‌</strong>
+                </text>
+            </label>
+            <label key="i63a0e38e52eb027860c878c63d1718268a_N_ade66a7324013438ef334df000a11498_4">
+                <text>
+                    <strong>‌Inte ljusförorening‌</strong>
+                </text>
+            </label>
+            <label key="i63a0e38e52eb027860c878c63d1718268a_Row1_62916d257869768152b2969079f5a77c_5">
+                <text>Månljus som gör att stjärnorna inte kan observeras</text>
+            </label>
+            <label key="i63a0e38e52eb027860c878c63d1718268a_Row2_e431c27ed004cfd6918203782e9ee8cd_6">
+                <text>Säkerhetsbelysning som lyser upp en sidogata på natten</text>
+            </label>
+            <label key="i63a0e38e52eb027860c878c63d1718268a_Row3_b229c203bf07146deb394c4088bb7e5f_7">
+                <text>Gatubelysning som lyser genom ett sovrumsfönster</text>
+            </label>
+            <label key="i63a0e38e52eb027860c878c63d1718268a_Row4_cddcde17fe4249e5ab15d65d610b7221_8">
+                <text>Reklambelysning på utsidan av byggnader</text>
+            </label>
+        </item>
+        <item id="i63a0e3aa0acd327870407beedf860668c8">
+            <label key="i63a0e3aa0acd327870407beedf860668c8_dd8c8fc6d2d6c6b17c911c9b10b505c8_1">
+                <text>Vilken av följande åtgärder kan en enskild individ vidta för att omedelbart bidra till att minska ljusföroreningar?</text>
+            </label>
+            <label key="i63a0e3aa0acd327870407beedf860668c8_A_14ab19d23bad0b1b48bace02b208ca44_2">
+                <text>använda rörelsedetektorer för att tända lampor</text>
+            </label>
+            <label key="i63a0e3aa0acd327870407beedf860668c8_B_faf623af841bf3e600ea98c82d0f586b_3">
+                <text>införa riktlinjer för belysning för nya bostadsområden</text>
+            </label>
+            <label key="i63a0e3aa0acd327870407beedf860668c8_C_95a9fb79a74029a1a9406853a062dac6_4">
+                <text>ingå internationella avtal om att minska ljusföroreningar</text>
+            </label>
+            <label key="i63a0e3aa0acd327870407beedf860668c8_D_0c1e22f63e33a2af55d58be5a21e00df_5">
+                <text>designa lågbländande lampor</text>
+            </label>
+        </item>
+        <item id="i63a0e3db4c9d35972416ee3f934c927550">
+            <label key="i63a0e3db4c9d35972416ee3f934c927550_c2322846692387e3c329527f043e73e5_1">
+                <text>Ett beslut fattas om att minska ljusföroreningarna i en stad. All reklambelysning och all belysning i industriområden kommer att släckas mellan kl. 23.00 och 04.00. </text>
+            </label>
+            <label key="i63a0e3db4c9d35972416ee3f934c927550_9c1598e39af6e040c1f2cce608adfb7e_2">
+                <text>Vilka av följande påståenden beskriver troliga fördelar med denna åtgärd?</text>
+            </label>
+            <label key="i63a0e3db4c9d35972416ee3f934c927550_f1363db6fa54140a0a8f5b39e7a9186e_3">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i63a0e3db4c9d35972416ee3f934c927550_choice_1_5ab0b3569c1578bf20ffdc68133c7e81_4">
+                <text>Det krävs inga konstruktionsändringar i befintliga byggnader för denna åtgärd.</text>
+            </label>
+            <label key="i63a0e3db4c9d35972416ee3f934c927550_choice_2_fbb785ea0a52e59899b58950cf9fb2b0_5">
+                <text>Det uppstår inga säkerhetsrisker för fotgängare eller förare.</text>
+            </label>
+            <label key="i63a0e3db4c9d35972416ee3f934c927550_choice_3_9776b97fb7be0b0e557dbbe5bdc289b8_6">
+                <text>Migrerande insekter som dras till ljus kommer i större utsträckning att följa sina flyttvägar.</text>
+            </label>
+            <label key="i63a0e3db4c9d35972416ee3f934c927550_choice_4_a1aaa63aa9cce34947e4c2b772373a56_7">
+                <text>Det uppstår ingen ekonomisk påverkan.</text>
+            </label>
+            <label key="i63a0e3db4c9d35972416ee3f934c927550_choice_5_e9b8c5d3d884ea232cedc93cea30c8b3_8">
+                <text>Det kommer att minska himmelströljus, ljusintrång och bländande ljussken.</text>
+            </label>
+        </item>
+        <item id="i63a0e3debb00c59737fdb26e2fe1ce42df">
+            <label key="i63a0e3debb00c59737fdb26e2fe1ce42df_c6fb504b506f0fc36a617595e15741cf_1">
+                <text>För vilket av förslagen har de svarandes yrken störst inflytande på deras åsikter enligt diagrammet?</text>
+            </label>
+            <label key="i63a0e3debb00c59737fdb26e2fe1ce42df_A_c3c379fa9b185338a6f7c0b9185fcd5f_2">
+                <text>Främja bästa praxis för belysningsprojekt i t.ex. kommuner.</text>
+            </label>
+            <label key="i63a0e3debb00c59737fdb26e2fe1ce42df_B_425910a38c0abb3b5b45fcc2e4e2db5b_3">
+                <text>Utbilda belysningsplanerare och belysningsdesigners.</text>
+            </label>
+            <label key="i63a0e3debb00c59737fdb26e2fe1ce42df_C_20b2630cfa424e76a46b12cf35cb6bbe_4">
+                <text>Använda bättre teknik.</text>
+            </label>
+            <label key="i63a0e3debb00c59737fdb26e2fe1ce42df_D_fcd3c375a06eda0312133baf07e9929e_5">
+                <text>Låta fler människor uppleva naturligt mörka nätter. </text>
+            </label>
+            <label key="i63a0e3debb00c59737fdb26e2fe1ce42df_choice_1_cde1b6e14f98e0c4b8e5e343f5e02d80_6">
+                <text>Skapa bindande regler och rättsliga ramar.</text>
+            </label>
+        </item>
+        <item id="i63a0e411dae26597717378efa2628c8fc5">
+            <label key="i63a0e411dae26597717378efa2628c8fc5_08f530bb348c8920fd2ee66fed9fb62d_1">
+                <text>Är det troligt att resultaten från undersökningen ger en sann bild av åsikterna hos <strong>alla</strong> belysningsspecialister och experter på ljusföroreningar?</text>
+            </label>
+            <label key="i63a0e411dae26597717378efa2628c8fc5_0c39772d66cfb79fa1500e52cad38065_2">
+                <text>Välj antingen 'Ja' eller 'Nej'.</text>
+            </label>
+            <label key="i63a0e411dae26597717378efa2628c8fc5_A_93cba07454f06a4a960172bbd6e2a435_3">
+                <text>Ja</text>
+            </label>
+            <label key="i63a0e411dae26597717378efa2628c8fc5_B_bafd7322c6e97d25b6299b5d6fe8920b_4">
+                <text>Nej</text>
+            </label>
+            <label key="i63a0e411dae26597717378efa2628c8fc5_4fd72ad9efa6be34b8ac1f513e76dfb5_5">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+    </items>
+</file>

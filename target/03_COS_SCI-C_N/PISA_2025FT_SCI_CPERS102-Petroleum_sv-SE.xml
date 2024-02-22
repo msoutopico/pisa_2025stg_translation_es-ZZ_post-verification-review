@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:html5="html5" xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64c6432eeaff27.38906560/passage NEW.xml">
+            <label key="64c6432eeaff27.38906560_59222092ac505bd1f3967dc3d8f5801a_1">
+                <text>Petroleum</text>
+            </label>
+            <label key="64c6432eeaff27.38906560_3074a598bbca3e02ebdda20c85efdd5e_2">
+                <text>Petroleum (råolja) är en av de vanligaste energikällorna för bilar, bussar och andra fordon. Petroleum består av olika typer av kolväten som inte är lösliga i vatten.</text>
+            </label>
+            <label key="64c6432eeaff27.38906560_ad6feaa46f898625daee57bec4b528d4_3">
+                <text>I naturen finns petroleum normalt under marken mellan naturgas och vatten.</text>
+            </label>
+            <label key="64c6432eeaff27.38906560_c138b683c22dd75fddbdc88a715b5ed9_4">
+                <text>
+                    naturgas
+                </text>
+            </label>
+            <label key="64c6432eeaff27.38906560_292254ff85e76a7a9655d36edd862b6b_5">
+                <text>
+                    petroleum
+                </text>
+            </label>
+            <label key="64c6432eeaff27.38906560_a6cbd4629bd00aaba5c8d1fa5e6d405a_6">
+                <text>
+                    vatten
+                </text>
+            </label>
+            <label key="64c6432eeaff27.38906560_661cf8d79844f39aa0557fd1dc00ab22_7">
+                <text>När petroleumet leds till jordytan avlägsnas orenheter. Dessa orenheter är beståndsdelar som salter och andra vattenlösliga fasta ämnen, liksom små stenar och fasta ämnen som inte är lösliga i vatten eller olja.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c6432eeaff27.38906560/passage NEW.xml">
+            <label key="64c6432eeaff27.38906560_59222092ac505bd1f3967dc3d8f5801a_1">
+                <text>Petroleum</text>
+            </label>
+            <label key="64c6432eeaff27.38906560_3074a598bbca3e02ebdda20c85efdd5e_2">
+                <text>Petroleum (råolja) är en av de vanligaste energikällorna för bilar, bussar och andra fordon. Petroleum består av olika typer av kolväten som inte är lösliga i vatten.</text>
+            </label>
+            <label key="64c6432eeaff27.38906560_ad6feaa46f898625daee57bec4b528d4_3">
+                <text>I naturen finns petroleum normalt under marken mellan naturgas och vatten.</text>
+            </label>
+            <label key="64c6432eeaff27.38906560_c138b683c22dd75fddbdc88a715b5ed9_4">
+                <text>
+                    naturgas
+                </text>
+            </label>
+            <label key="64c6432eeaff27.38906560_292254ff85e76a7a9655d36edd862b6b_5">
+                <text>
+                    petroleum
+                </text>
+            </label>
+            <label key="64c6432eeaff27.38906560_a6cbd4629bd00aaba5c8d1fa5e6d405a_6">
+                <text>
+                    vatten
+                </text>
+            </label>
+            <label key="64c6432eeaff27.38906560_661cf8d79844f39aa0557fd1dc00ab22_7">
+                <text>När petroleumet leds till jordytan avlägsnas orenheter. Dessa orenheter är beståndsdelar som salter och andra vattenlösliga fasta ämnen, liksom små stenar och fasta ämnen som inte är lösliga i vatten eller olja.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64703b30f31689.87315480/passage NEW 2.xml">
+            <label key="64703b30f31689.87315480_5f0fd8530e2f0bbb8f315c01493ca94c_1">
+                <text>Destillation är en process där man separerar kolväten ur en flytande blandning baserat på kolvätenas kokpunkt. I tabellen visas strukturen och kokpunkten för två kolväten.</text>
+            </label>
+            <label key="64703b30f31689.87315480_7c8977afb2d390cb8330b74b77fa056e_2">
+                <text>
+                    <strong>‌Pentan‌</strong>
+                </text>
+            </label>
+            <label key="64703b30f31689.87315480_f56f725d050be55823a63bdfb74ac07d_3">
+                <text>
+                    <strong>‌Dekan‌</strong>
+                </text>
+            </label>
+            <label key="64703b30f31689.87315480_8cf6fc963892289507d6e68cce693dea_4">
+                <text>
+                    <strong>‌Struktur‌</strong>
+                </text>
+            </label>
+            <label key="64703b30f31689.87315480_e6850be3807291a49a25745f8fa41ea9_5">
+                <text>
+                    <strong>‌Kokpunkt‌</strong>
+                </text>
+            </label>
+            <label key="64703b30f31689.87315480_2777c4a3ab15e76a110df163a48c1499_6">
+                <text>36 °C</text>
+            </label>
+            <label key="64703b30f31689.87315480_c6bfb7e072eaab0adccb87915e993c8e_7">
+                <text>174 °C</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a14047b3a455885ca555fcda311bd36">
+            <label key="i63a14047b3a455885ca555fcda311bd36_e1cf584acfd2a75f4a367ceeee7fa3e2_1">
+                <text>För att ta bort alla orenheter från petroleumet kan följande metoder användas:</text>
+            </label>
+            <label key="i63a14047b3a455885ca555fcda311bd36_4a45fe01fa104d4324f9e27d48faf013_2">
+                <text><strong>Selektiv upplösning</strong>: Vatten tillsätts till en blandning för att separera de ämnen som är lösliga i vatten från dem som inte är det.</text>
+            </label>
+            <label key="i63a14047b3a455885ca555fcda311bd36_97d11040ca663fcdea8ad89380c41ad0_3">
+                <text><strong>Filtrering</strong>: Stora fasta beståndsdelar i en blandning separeras med hjälp av ett filter.</text>
+            </label>
+            <label key="i63a14047b3a455885ca555fcda311bd36_48166249428cf6209114c1200392372e_4">
+                <text><strong>Dekantering</strong>: Vätskor som inte är lösliga i varandra separeras i skikt. Skiktet med lägre densitet hälls bort.</text>
+            </label>
+            <label key="i63a14047b3a455885ca555fcda311bd36_43c4dc06203916c6a9c3e909a8b44b14_5">
+                <text>Ordna de tre metoderna i den ordning de bör användas för att så effektivt som möjligt ta bort salter och stenar från petroleum.</text>
+            </label>
+            <label key="i63a14047b3a455885ca555fcda311bd36_676aae5b364faa599477c13f49a22531_6">
+                <text>Dra namnen på metoderna till motsvarande rutor.</text>
+            </label>
+            <label key="i63a14047b3a455885ca555fcda311bd36_choice_1_2ed9c1a241b34c5ca8334115c374c499_7">
+                <text>Selektiv upplösning</text>
+            </label>
+            <label key="i63a14047b3a455885ca555fcda311bd36_choice_2_b347f7200b8aff24464a347c263147e9_8">
+                <text>Filtrering</text>
+            </label>
+            <label key="i63a14047b3a455885ca555fcda311bd36_choice_3_f7a58f2579c4c8359d14abcf34cdf223_9">
+                <text>Dekantering</text>
+            </label>
+        </item>
+        <item id="i6332f736ec7041923176046dec62d69f6">
+            <label key="i6332f736ec7041923176046dec62d69f6_665e4788c5e8d3cfaab509de6902c6af_1">
+                <text>Förklara varför pentan kokar vid lägre temperatur än dekan.</text>
+            </label>
+            <label key="i6332f736ec7041923176046dec62d69f6_8937d4421c4fbe7748c5e513f021487d_2">
+                <text>Använd informationen om varje kolvätes struktur i din förklaring.</text>
+            </label>
+        </item>
+        <item id="i63a14745c60f521574112bb0225a84b5da">
+            <label key="i63a14745c60f521574112bb0225a84b5da_93470e6637afa3a52cc700f5dfefc6c6_1">
+                <text>
+                    <em>‌Kör simuleringen för att samla in data för att svara på nedanstående fråga.‌</em>
+                </text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_11e2de2c32f5c72ecdce6233ce83f41c_2">
+                <text>Vilket av kolvätena har det högsta kalorivärdet?</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_A_16f635c8f8d75aabc2318f9502ac1335_3">
+                <text>Kolväte A</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_B_b5cf4db03d4a9a8f3425373b444cbc9a_4">
+                <text>Kolväte B</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_C_dba5ee12f1651b27a3b547edc89ecc0b_5">
+                <text>Kolväte C</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_86f439de96ea10a0a4f0f756f381c21c_6">
+                <text>Välj tre rader av data i tabellen som stöder ditt svar.</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_59222092ac505bd1f3967dc3d8f5801a_7">
+                <text>Petroleum</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_9e8415d74a9e08c2c05b1f2e60426fb2_8">
+                <text>De kolväten som petroleum består av har olika kalorivärden. Kalorivärdet är mängden energi per massenhet som avges av kolvätet när det förbränns.</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_fa5fa17967f567876174887e24a24a0b_9">
+                <text>För att fastställa kalorivärdet för tre kolväten utförs ett experiment där man fastställer den massa av respektive kolväte som krävs för att koka vatten. En simulering av experimentet visas.</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_7b186442b27329be23fd3520a8409f1d_10">
+                <text>Följ de här stegen för att se hur simuleringen fungerar:</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_39f92f47e412e18ad65aee30abccc374_11">
+                <text>Markera ett <b>kolväte</b>.</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_79f6b32b5163953c0d28abc2ea0f9dd5_12">
+                <text>Flytta reglaget för att ändra <b>vattenmassan</b> i bägaren.</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_0624c62e15fc5dbd59edf7513ca587bd_13">
+                <text>Klicka på "Kör" för att se resultatet. Resultaten visas också i tabellen.</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_16f635c8f8d75aabc2318f9502ac1335_14">
+                <text>Kolväte A</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_b5cf4db03d4a9a8f3425373b444cbc9a_15">
+                <text>Kolväte B</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_dba5ee12f1651b27a3b547edc89ecc0b_16">
+                <text>Kolväte C</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_4822e444bf9d6acc8c29c09d5ffb642f_17">
+                <text>Vattnets massa (g)</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_98f13708210194c475687be6106a3b84_18">
+                <text>20</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_c0c7c76d30bd3dcaefc96f40275bdc0a_19">
+                <text>50</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_f899139df5e1059396431415e770c6dd_20">
+                <text>100</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_ae219d7f8b5dccb314ee9e138a2e6417_21">
+                <text>
+                    <button class="btn btn-outline-secondary mx-5" id="run-button">Kör</button>
+                </text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_27634ff8002b12e75d98e07ccd005d18_22">
+                <text>Vatten</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_b2f5ff47436671b6e533d8dc3614845d_23">
+                <text>g</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_35c2713a10d5e9836486a3a01a5a0c7f_24">
+                <text>Massa kolväte som behövs för att få vattnet att koka</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_8e3f282746064e35f8bdeed8b6678ca5_25">
+                <text>Kolväte</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_4822e444bf9d6acc8c29c09d5ffb642f_26">
+                <text>Vattnets massa (g)</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_82cfd8f6f2b1e6a64031f6f1512b7149_27">
+                <text>Det använda kolvätets massa (g)</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_998fa97b7935eaeb0614dddde90d09d1_28">
+                <text>Tabellen innehåller 6 rader för dina data.</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_82e1c2c719d481df27cd5ca4a38a334c_29">
+                <text><span class="me-2" id="before-delete-icon"></span>‌Om du vill ta bort en rad med data klickar du på knappen "Ta bort" bredvid raden.</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_b9b0f106fe7c0939da562980f568c5f3_30">
+                <text><span class="me-2" id="before-star-icon"></span>‌To select a row of data to answer a question, click anywhere on that row. Raden eller raderna du väljer markeras med en stjärna.</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_7fc56270e7a70fa81a5935b72eacbe29_31">
+                <text>A</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_9d5ed678fe57bcca610140957afab571_32">
+                <text>B</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_0d61f8370cad1d412f80b84d143e1257_33">
+                <text>C</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_125c2000798e0ae2cb7eb8582253fd18_34">
+                <text>Please select a hydrocarbon.</text>
+            </label>
+            <label key="i63a14745c60f521574112bb0225a84b5da_28b4a51acbc8c485a509fe1e0569de43_35">
+                <text>You must delete some rows.</text>
+            </label>
+        </item>
+        <item id="i63a147ebd300c26079455ec3fed58aa170">
+            <label key="i63a147ebd300c26079455ec3fed58aa170_bfa027f29cc228b8af39f669c750b0a1_1">
+                <text>Kolväten är lättantändliga.</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_478a5ced4003d3b30b7c9e34a8d705f1_2">
+                <text>Describe one safety measure that must be taken in places where hydrocarbons are stored or sold.</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_59222092ac505bd1f3967dc3d8f5801a_3">
+                <text>Petroleum</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_9e8415d74a9e08c2c05b1f2e60426fb2_4">
+                <text>De kolväten som petroleum består av har olika kalorivärden. Kalorivärdet är mängden energi per massenhet som avges av kolvätet när det förbränns.</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_fa5fa17967f567876174887e24a24a0b_5">
+                <text>För att fastställa kalorivärdet för tre kolväten utförs ett experiment där man fastställer den massa av respektive kolväte som krävs för att koka vatten. En simulering av experimentet visas.</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_7b186442b27329be23fd3520a8409f1d_6">
+                <text>Följ stegen nedan för att se hur simuleringen fungerar:</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_39f92f47e412e18ad65aee30abccc374_7">
+                <text>Markera ett <b>kolväte</b>.</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_79f6b32b5163953c0d28abc2ea0f9dd5_8">
+                <text>Flytta reglaget för att ändra <b>vattenmassan</b> i bägaren.</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_0624c62e15fc5dbd59edf7513ca587bd_9">
+                <text>Klicka på knappen "Kör" för att se resultaten. Resultaten visas också i tabellen.</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_16f635c8f8d75aabc2318f9502ac1335_10">
+                <text>Kolväte A</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_b5cf4db03d4a9a8f3425373b444cbc9a_11">
+                <text>Kolväte B</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_dba5ee12f1651b27a3b547edc89ecc0b_12">
+                <text>Kolväte C</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_4822e444bf9d6acc8c29c09d5ffb642f_13">
+                <text>Vattnets massa (g)</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_98f13708210194c475687be6106a3b84_14">
+                <text>20</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_c0c7c76d30bd3dcaefc96f40275bdc0a_15">
+                <text>50</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_f899139df5e1059396431415e770c6dd_16">
+                <text>100</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_ae219d7f8b5dccb314ee9e138a2e6417_17">
+                <text>
+                    <button class="btn btn-outline-secondary mx-5" id="run-button">Kör</button>
+                </text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_27634ff8002b12e75d98e07ccd005d18_18">
+                <text>Vatten</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_b2f5ff47436671b6e533d8dc3614845d_19">
+                <text>g</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_35c2713a10d5e9836486a3a01a5a0c7f_20">
+                <text>Massa kolväte som behövs för att få vattnet att koka</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_8e3f282746064e35f8bdeed8b6678ca5_21">
+                <text>Kolväte</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_4822e444bf9d6acc8c29c09d5ffb642f_22">
+                <text>Vattnets massa (g)</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_82cfd8f6f2b1e6a64031f6f1512b7149_23">
+                <text>Det använda kolvätets massa (g)</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_998fa97b7935eaeb0614dddde90d09d1_24">
+                <text>Tabellen innehåller 6 rader för dina data.</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_82e1c2c719d481df27cd5ca4a38a334c_25">
+                <text><span class="me-2" id="before-delete-icon"></span>‌Om du vill ta bort en rad med data klickar du på knappen "Ta bort" bredvid raden.</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_b9b0f106fe7c0939da562980f568c5f3_26">
+                <text><span class="me-2" id="before-star-icon"></span>‌To select a row of data to answer a question, click anywhere on that row. Raden eller raderna du väljer markeras med en stjärna.</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_7fc56270e7a70fa81a5935b72eacbe29_27">
+                <text>A</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_9d5ed678fe57bcca610140957afab571_28">
+                <text>B</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_0d61f8370cad1d412f80b84d143e1257_29">
+                <text>C</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_125c2000798e0ae2cb7eb8582253fd18_30">
+                <text>Please select a hydrocarbon.</text>
+            </label>
+            <label key="i63a147ebd300c26079455ec3fed58aa170_28b4a51acbc8c485a509fe1e0569de43_31">
+                <text>You must delete some rows.</text>
+            </label>
+        </item>
+    </items>
+</file>

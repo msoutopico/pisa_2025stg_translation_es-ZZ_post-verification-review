@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64b1107b919855.04372175/passage NEW.xml">
+            <label key="64b1107b919855.04372175_6cf6651fa2bff0fd7e6a69f9ac37f6b5_1">
+                <text>Tidvattenrörelse</text>
+            </label>
+            <label key="64b1107b919855.04372175_d10110b3d4e8b8824b28f0f561177ca3_2">
+                <text>Tidvatten är den periodiska höjningen och sänkningen av lokala havsnivåer.</text>
+            </label>
+            <label key="64b1107b919855.04372175_69215e7c593e6111759fc7085f85f2dc_3">
+                <text>Havet är på sin högsta nivå vid högvatten, och på sin lägsta nivå vid lågvatten.  Vid lågvatten är mycket mer av kusten exponerad.</text>
+            </label>
+            <label key="64b1107b919855.04372175_f4a7688ddb5ff1e3fa3b43bdb2e04616_4">
+                <text>I vissa områden är skillnaden mellan högvatten och lågvatten mycket större än i andra. Skillnaden beror på faktorer som till exempel kustlinjens form och vindstyrkan.</text>
+            </label>
+            <label key="64b1107b919855.04372175_5a9e101a1619cc94ddd0219b97332f01_5">
+                <text>De två bilderna visar högvatten och lågvatten i ett klippigt kustområde i Nya Zeeland.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64b1107b919855.04372175/passage NEW.xml">
+            <label key="64b1107b919855.04372175_6cf6651fa2bff0fd7e6a69f9ac37f6b5_1">
+                <text>Tidvattenrörelse</text>
+            </label>
+            <label key="64b1107b919855.04372175_d10110b3d4e8b8824b28f0f561177ca3_2">
+                <text>Tidvatten är den periodiska höjningen och sänkningen av lokala havsnivåer.</text>
+            </label>
+            <label key="64b1107b919855.04372175_69215e7c593e6111759fc7085f85f2dc_3">
+                <text>Havet är på sin högsta nivå vid högvatten, och på sin lägsta nivå vid lågvatten.  Vid lågvatten är mycket mer av kusten exponerad.</text>
+            </label>
+            <label key="64b1107b919855.04372175_f4a7688ddb5ff1e3fa3b43bdb2e04616_4">
+                <text>I vissa områden är skillnaden mellan högvatten och lågvatten mycket större än i andra. Skillnaden beror på faktorer som till exempel kustlinjens form och vindstyrkan.</text>
+            </label>
+            <label key="64b1107b919855.04372175_5a9e101a1619cc94ddd0219b97332f01_5">
+                <text>De två bilderna visar högvatten och lågvatten i ett klippigt kustområde i Nya Zeeland.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64b1107b919855.04372175/passage NEW.xml">
+            <label key="64b1107b919855.04372175_6cf6651fa2bff0fd7e6a69f9ac37f6b5_1">
+                <text>Tidvattenrörelse</text>
+            </label>
+            <label key="64b1107b919855.04372175_d10110b3d4e8b8824b28f0f561177ca3_2">
+                <text>Tidvatten är den periodiska höjningen och sänkningen av lokala havsnivåer.</text>
+            </label>
+            <label key="64b1107b919855.04372175_69215e7c593e6111759fc7085f85f2dc_3">
+                <text>Havet är på sin högsta nivå vid högvatten, och på sin lägsta nivå vid lågvatten.  Vid lågvatten är mycket mer av kusten exponerad.</text>
+            </label>
+            <label key="64b1107b919855.04372175_f4a7688ddb5ff1e3fa3b43bdb2e04616_4">
+                <text>I vissa områden är skillnaden mellan högvatten och lågvatten mycket större än i andra. Skillnaden beror på faktorer som till exempel kustlinjens form och vindstyrkan.</text>
+            </label>
+            <label key="64b1107b919855.04372175_5a9e101a1619cc94ddd0219b97332f01_5">
+                <text>De två bilderna visar högvatten och lågvatten i ett klippigt kustområde i Nya Zeeland.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64b1107b919855.04372175/passage NEW.xml">
+            <label key="64b1107b919855.04372175_6cf6651fa2bff0fd7e6a69f9ac37f6b5_1">
+                <text>Tidvattenrörelse</text>
+            </label>
+            <label key="64b1107b919855.04372175_d10110b3d4e8b8824b28f0f561177ca3_2">
+                <text>Tidvatten är den periodiska höjningen och sänkningen av lokala havsnivåer.</text>
+            </label>
+            <label key="64b1107b919855.04372175_69215e7c593e6111759fc7085f85f2dc_3">
+                <text>Havet är på sin högsta nivå vid högvatten, och på sin lägsta nivå vid lågvatten.  Vid lågvatten är mycket mer av kusten exponerad.</text>
+            </label>
+            <label key="64b1107b919855.04372175_f4a7688ddb5ff1e3fa3b43bdb2e04616_4">
+                <text>I vissa områden är skillnaden mellan högvatten och lågvatten mycket större än i andra. Skillnaden beror på faktorer som till exempel kustlinjens form och vindstyrkan.</text>
+            </label>
+            <label key="64b1107b919855.04372175_5a9e101a1619cc94ddd0219b97332f01_5">
+                <text>De två bilderna visar högvatten och lågvatten i ett klippigt kustområde i Nya Zeeland.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63858ab8d5b3322049d4cab98a2aeb542">
+            <label key="i63858ab8d5b3322049d4cab98a2aeb542_64de4e281ccc94a6217a73b7fe647972_1">
+                <text>Vilken kraft orsakar tidvatten?</text>
+            </label>
+            <label key="i63858ab8d5b3322049d4cab98a2aeb542_A_67f2a835697e7c9c2c5146c76eca6038_2">
+                <text>Gravitation</text>
+            </label>
+            <label key="i63858ab8d5b3322049d4cab98a2aeb542_B_22354ce144c7e1834dbc69848e79906b_3">
+                <text>friktion</text>
+            </label>
+            <label key="i63858ab8d5b3322049d4cab98a2aeb542_C_31f4dd8fc1368e773c6e2adb906286d8_4">
+                <text>magnetism</text>
+            </label>
+            <label key="i63858ab8d5b3322049d4cab98a2aeb542_D_8b589713500bc6a29bc2bfeebe56c075_5">
+                <text>elektrisk kraft</text>
+            </label>
+        </item>
+        <item id="i63858ad0ac84f220626631aac3e558486">
+            <label key="i63858ad0ac84f220626631aac3e558486_a805bff0f4570b6c704a69332bcb473c_1">
+                <text>Kaikoura ligger på Sydön i Nya Zeeland. Nedanstående diagram visar tidvattnets rörelse i Kaikoura under två dagar.</text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_c1c9e05ec5b41b5d219d4899f0033ae7_2">
+                <text>
+                    Tidvattnets rörelse i Kaikoura
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_cfb941eac797fa6555e10dddab31a666_3">
+                <text>
+                    Söndagen den 5 oktober
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_b773d621e1c71a29adadc0f3a5635620_4">
+                <text>
+                    Måndagen den 6 oktober
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_f9a9a9baca83cdd9cc1385c35b844ada_5">
+                <text>
+                    Tidvattennivå (i meter)
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_bc7664570cd0cc74ad37a86fbe74d3c1_6">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_0c3fff38e065bd71abd0460295a1bbd4_7">
+                <text>
+                    2
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_096242e89e9c866b0d4bb02e795654e6_8">
+                <text>
+                    1
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_558f0273c414ec993e241958dfef077e_9">
+                <text>
+                    kl. 24.00
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_bc7664570cd0cc74ad37a86fbe74d3c1_10">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_1d5d3af285f8d4683046a5f6ce595921_11">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_69785e5614c0c017dee624edcd275176_12">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_0d6157af4fe409cd2b283f89b61d74f9_13">
+                <text>
+                    12.00
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_bc7664570cd0cc74ad37a86fbe74d3c1_14">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_1d5d3af285f8d4683046a5f6ce595921_15">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_69785e5614c0c017dee624edcd275176_16">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_558f0273c414ec993e241958dfef077e_17">
+                <text>
+                    kl. 24.00
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_bc7664570cd0cc74ad37a86fbe74d3c1_18">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_1d5d3af285f8d4683046a5f6ce595921_19">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_69785e5614c0c017dee624edcd275176_20">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_0d6157af4fe409cd2b283f89b61d74f9_21">
+                <text>
+                    12.00
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_bc7664570cd0cc74ad37a86fbe74d3c1_22">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_1d5d3af285f8d4683046a5f6ce595921_23">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_69785e5614c0c017dee624edcd275176_24">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_558f0273c414ec993e241958dfef077e_25">
+                <text>
+                    kl. 24.00
+                </text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_e1f14cd3600da645191fd8825964156d_26">
+                <text>När nådde högvattnet sin högsta nivå söndagen den 5 oktober?</text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_A_d441eb1382cb7193b1d38ca9593d349f_27">
+                <text>6.00</text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_B_b3a260f7f7a944e5f49719e1a6e2acf5_28">
+                <text>12.00</text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_C_0f2c0d7225360aaaa08440dace4b2311_29">
+                <text>14.00</text>
+            </label>
+            <label key="i63858ad0ac84f220626631aac3e558486_D_58667199039cb18c21af38b353dafd07_30">
+                <text>21.00</text>
+            </label>
+        </item>
+        <item id="i63858adaa8f282511a41272b0faa2583c">
+            <label key="i63858adaa8f282511a41272b0faa2583c_5f48f35ce770d54d787b2e0ca3cb42eb_1">
+                <text>Kaikoura ligger på Sydön i Nya Zeeland. Nedanstående diagram visar tidvattnets rörelse i Kaikoura under två dagar.</text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_c1c9e05ec5b41b5d219d4899f0033ae7_2">
+                <text>
+                    Tidvattnets rörelse i Kaikoura
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_cfb941eac797fa6555e10dddab31a666_3">
+                <text>
+                    Söndagen den 5 oktober
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_b773d621e1c71a29adadc0f3a5635620_4">
+                <text>
+                    Måndagen den 6 oktober
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_f9a9a9baca83cdd9cc1385c35b844ada_5">
+                <text>
+                    Tidvattennivå (i meter)
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_bc7664570cd0cc74ad37a86fbe74d3c1_6">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_0c3fff38e065bd71abd0460295a1bbd4_7">
+                <text>
+                    2
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_096242e89e9c866b0d4bb02e795654e6_8">
+                <text>
+                    1
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_558f0273c414ec993e241958dfef077e_9">
+                <text>
+                    kl. 24.00
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_bc7664570cd0cc74ad37a86fbe74d3c1_10">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_1d5d3af285f8d4683046a5f6ce595921_11">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_69785e5614c0c017dee624edcd275176_12">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_0d6157af4fe409cd2b283f89b61d74f9_13">
+                <text>
+                    12.00
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_bc7664570cd0cc74ad37a86fbe74d3c1_14">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_1d5d3af285f8d4683046a5f6ce595921_15">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_69785e5614c0c017dee624edcd275176_16">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_558f0273c414ec993e241958dfef077e_17">
+                <text>
+                    kl. 24.00
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_bc7664570cd0cc74ad37a86fbe74d3c1_18">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_1d5d3af285f8d4683046a5f6ce595921_19">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_69785e5614c0c017dee624edcd275176_20">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_0d6157af4fe409cd2b283f89b61d74f9_21">
+                <text>
+                    12.00
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_bc7664570cd0cc74ad37a86fbe74d3c1_22">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_1d5d3af285f8d4683046a5f6ce595921_23">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_69785e5614c0c017dee624edcd275176_24">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_558f0273c414ec993e241958dfef077e_25">
+                <text>
+                    kl. 24.00
+                </text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_f0d425b0a07aa79696d893fe2637c12e_26">
+                <text>Ungefär hur många timmar gick det mellan det första högvattnet och det första lågvattnet måndagen den 6 oktober?</text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_A_6e9461ab087b8bcd886e3061ee588e83_27">
+                <text>3 timmar</text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_B_88f1efb29dc20c4b7c6ae2653b3f778c_28">
+                <text>6 timmar</text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_C_80daff19c279591fd6ab81b7bd9ce98f_29">
+                <text>9 timmar</text>
+            </label>
+            <label key="i63858adaa8f282511a41272b0faa2583c_D_a32d6f77b4cd387776263c94eaaa52ff_30">
+                <text>12 timmar</text>
+            </label>
+        </item>
+        <item id="i63858ae40cf1a241591dbdde7eab310f3b">
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_5f48f35ce770d54d787b2e0ca3cb42eb_1">
+                <text>Kaikoura ligger på Sydön i Nya Zeeland. Nedanstående diagram visar tidvattnets rörelse i Kaikoura under två dagar.</text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_c1c9e05ec5b41b5d219d4899f0033ae7_2">
+                <text>
+                    Tidvattnets rörelse i Kaikoura
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_cfb941eac797fa6555e10dddab31a666_3">
+                <text>
+                    Söndagen den 5 oktober
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_b773d621e1c71a29adadc0f3a5635620_4">
+                <text>
+                    Måndagen den 6 oktober
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_f9a9a9baca83cdd9cc1385c35b844ada_5">
+                <text>
+                    Tidvattennivå (i meter)
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_bc7664570cd0cc74ad37a86fbe74d3c1_6">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_0c3fff38e065bd71abd0460295a1bbd4_7">
+                <text>
+                    2
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_096242e89e9c866b0d4bb02e795654e6_8">
+                <text>
+                    1
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_558f0273c414ec993e241958dfef077e_9">
+                <text>
+                    kl. 24.00
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_bc7664570cd0cc74ad37a86fbe74d3c1_10">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_1d5d3af285f8d4683046a5f6ce595921_11">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_69785e5614c0c017dee624edcd275176_12">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_0d6157af4fe409cd2b283f89b61d74f9_13">
+                <text>
+                    12.00
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_bc7664570cd0cc74ad37a86fbe74d3c1_14">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_1d5d3af285f8d4683046a5f6ce595921_15">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_69785e5614c0c017dee624edcd275176_16">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_558f0273c414ec993e241958dfef077e_17">
+                <text>
+                    kl. 24.00
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_bc7664570cd0cc74ad37a86fbe74d3c1_18">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_1d5d3af285f8d4683046a5f6ce595921_19">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_69785e5614c0c017dee624edcd275176_20">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_0d6157af4fe409cd2b283f89b61d74f9_21">
+                <text>
+                    12.00
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_bc7664570cd0cc74ad37a86fbe74d3c1_22">
+                <text>
+                    3
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_1d5d3af285f8d4683046a5f6ce595921_23">
+                <text>
+                    6
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_69785e5614c0c017dee624edcd275176_24">
+                <text>
+                    9
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_558f0273c414ec993e241958dfef077e_25">
+                <text>
+                    kl. 24.00
+                </text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_4d2aea5e51ec9bc07708bd11f45af5df_26">
+                <text>Vilken är den bästa uppskattningen av tidpunkten för det första högvattnet tisdagen den 7 oktober?</text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_A_27bd58d69d827e76fb2bfe23748a9db4_27">
+                <text>omkring kl. 24.00</text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_B_9d53cc6da286ac6f70676c5d9bb16d9e_28">
+                <text>omkring kl. 3.00</text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_C_1249a1768bd5bcb6e0bcef980254f043_29">
+                <text>omkring kl. 5.00</text>
+            </label>
+            <label key="i63858ae40cf1a241591dbdde7eab310f3b_D_4cc4dc53720d40ed4706864ddd61d4a4_30">
+                <text>omkring kl. 8.00</text>
+            </label>
+        </item>
+    </items>
+</file>

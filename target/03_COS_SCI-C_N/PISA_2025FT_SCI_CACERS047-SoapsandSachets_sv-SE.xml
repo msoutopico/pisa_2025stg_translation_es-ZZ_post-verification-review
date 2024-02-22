@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64701f97d43c57.62934898/passage NEW 1.xml">
+            <label key="64701f97d43c57.62934898_dde3ea1ef848b93995e04e50f951c48b_1">
+                <text>Portionspåsar</text>
+            </label>
+            <label key="64701f97d43c57.62934898_a1edd540e55f57906a3b72efda7141dc_2">
+                <text>Ibland hamnar tomma portionspåsar för schampo i havet, där de flyter omkring.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64701f83123058.76561368/passage NEW.xml">
+            <label key="64701f83123058.76561368_e24c74dfbd16f983c44de3d7fab4c021_1">
+                <text>Portionspåse</text>
+            </label>
+            <label key="64701f83123058.76561368_eb1bcdf672190382d0a3ed71bdf0be48_2">
+                <text>Tvål finns i olika former och med olika förpackningar.</text>
+            </label>
+            <label key="64701f83123058.76561368_d359c6df99b25183d81f7d728b71de0e_3">
+                <text>Form</text>
+            </label>
+            <label key="64701f83123058.76561368_ad8783089f828b927473fb61d51940ec_4">
+                <text>Användning</text>
+            </label>
+            <label key="64701f83123058.76561368_4238397d62412f606669011fe880ec78_5">
+                <text>Är förpackningen återvinningsbar?</text>
+            </label>
+            <label key="64701f83123058.76561368_c7ec3ec4ebdaed9035ebc0958865c2a6_6">
+                <text><img alt="CACERS047S1_sachet_1.svg" src="713bf8e048010ef89d161a409b16b1f97938a84ae5c553efea86871f7574fa2d" width="50%"/>‌ <br/>fast</text>
+            </label>
+            <label key="64701f83123058.76561368_3884049b481dd926cb65973b1f79ee25_7">
+                <text>handtvätt</text>
+            </label>
+            <label key="64701f83123058.76561368_63bc63c3d136dd350a24ac5d1ff02f0e_8">
+                <text>Pappersomslag <strong>kan</strong> återvinnas.<br/><br/>Plastomslag <strong>kan inte</strong> återvinnas.</text>
+            </label>
+            <label key="64701f83123058.76561368_f2ff100ce26b87606080f2e96d150c4a_9">
+                <text><img alt="CACERS047S1_sachet_2.svg" src="46450eb76b6600668d04b41cd246dd5647936eaf493d3f4dec1079008327b0a5" width="50%"/>‌ <br/>vätska i en flaska</text>
+            </label>
+            <label key="64701f83123058.76561368_813000f5cc3f2f8f794d531fe748df82_10">
+                <text>hårtvätt (schampo)</text>
+            </label>
+            <label key="64701f83123058.76561368_2a1ea4a02793541a18c6671931e35d34_11">
+                <text>Plastflaskor <strong>kan</strong> återvinnas.</text>
+            </label>
+            <label key="64701f83123058.76561368_d71c7695da159109bed0c9bf9de1480f_12">
+                <text><img alt="CACERS047S1_sachet_3.svg" src="2e9189feb2f98c61e5f251d80b61cf04ac59a5671de3b9f8efeb5538593b119f" width="50%"/>‌ <br/>vätska i portionspåsar</text>
+            </label>
+            <label key="64701f83123058.76561368_813000f5cc3f2f8f794d531fe748df82_13">
+                <text>hårtvätt (schampo)</text>
+            </label>
+            <label key="64701f83123058.76561368_a81a7979a0480136ed5064ac2209c9d3_14">
+                <text>Portionspåsar av metallfolie <strong>kan</strong> återvinnas.<br/><br/>Portionspåsar av plast <strong>kan inte</strong> återvinnas.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63995436c0d7a13075b7710b7fad185be2">
+            <label key="i63995436c0d7a13075b7710b7fad185be2_1e484a0977ce653e3bae6b9841ac96eb_1">
+                <text>
+                    <p>Tomma portionspåsar för schampo flyter, men många andra typer av skräp sjunker.</p>
+                    Vilken av portionspåsarnas egenskaper gör att de flyter?
+                </text>
+            </label>
+            <label key="i63995436c0d7a13075b7710b7fad185be2_A_19d03475067b3726f6ef1c2d3050f69d_2">
+                <text>tjocklek</text>
+            </label>
+            <label key="i63995436c0d7a13075b7710b7fad185be2_B_34b6c93b52f5f4296ad8a9e887a7f8a3_3">
+                <text>stor storlek</text>
+            </label>
+            <label key="i63995436c0d7a13075b7710b7fad185be2_C_a4f0dab03c78568650f8d5dbd1646cfc_4">
+                <text>hög flexibilitet</text>
+            </label>
+            <label key="i63995436c0d7a13075b7710b7fad185be2_D_37224a1d9f7954dfabeb57084dd73180_5">
+                <text>låg densitet</text>
+            </label>
+        </item>
+        <item id="i6399546d7de5013099f53b2a71f8ddf490">
+            <label key="i6399546d7de5013099f53b2a71f8ddf490_405a694246325e1c9118e3ec693c8f57_1">
+                <text>En familj vill minska mängden förpackningar från tvålprodukter de slänger i soppåsen.</text>
+            </label>
+            <label key="i6399546d7de5013099f53b2a71f8ddf490_b0ca976ccb84a4968a1fe90a5bb53989_2">
+                <text>En märkning på förpackningen anger om förpackningen kan återvinnas.</text>
+            </label>
+            <label key="i6399546d7de5013099f53b2a71f8ddf490_6cccd6964e8bfcd453198bcdffa161fe_3">
+                <text>Hur hjälper en sådan märkning familjen?</text>
+            </label>
+            <label key="i6399546d7de5013099f53b2a71f8ddf490_89b1c1de80f35eb0f385836481797561_4">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i6399546d7de5013099f53b2a71f8ddf490_A_1493cd2cd24522970b7126fa14fddc4c_5">
+                <text>Den hjälper dem att avgöra vilket plastavfall som kan komposteras.</text>
+            </label>
+            <label key="i6399546d7de5013099f53b2a71f8ddf490_B_03957792f5fb3109576741b8c520e9df_6">
+                <text>Den hjälper dem att separera avfall som kan återvinnas från avfall som inte kan återvinnas.</text>
+            </label>
+            <label key="i6399546d7de5013099f53b2a71f8ddf490_C_8d4f1a38c04db298a9660cc8035c1e3d_7">
+                <text>Den hjälper dem att säkerställa att allt plastavfall återvinns.</text>
+            </label>
+            <label key="i6399546d7de5013099f53b2a71f8ddf490_D_d3d4611d8ed6d2d2488dfa117d980901_8">
+                <text>Den hjälper dem att välja vilka tvålprodukter som de ska köpa.</text>
+            </label>
+        </item>
+        <item id="i63995c95704a92153394c2395500636">
+            <label key="i63995c95704a92153394c2395500636_8877ad2d966b145903ee4ca3c9baff82_1">
+                <text>En studie visar att 60 % av alla använda portionspåsar för schampo hamnar i havet.</text>
+            </label>
+            <label key="i63995c95704a92153394c2395500636_939650ae4c8d4ab341daac0e383509a9_2">
+                <text>Vilket av dessa påståenden visar bäst att resultaten av undersökningen är tillförlitliga?</text>
+            </label>
+            <label key="i63995c95704a92153394c2395500636_choice_1_5be264ed4c3ebe81b4c9e9fed3c31d1e_3">
+                <text>Studien byggde på uppgifter som samlats in från vanliga hushåll.</text>
+            </label>
+            <label key="i63995c95704a92153394c2395500636_choice_2_cc518d1ddbe0eb2d5d497937d71ae2f2_4">
+                <text>Studien genomfördes under flera år.</text>
+            </label>
+            <label key="i63995c95704a92153394c2395500636_choice_3_8042ff4c13ff3d5174da708e01225448_5">
+                <text>Undersökningen upprepades av ett antal andra forskare, som kom fram till samma resultat.</text>
+            </label>
+            <label key="i63995c95704a92153394c2395500636_choice_4_14a4feca6163f511474177b2f87985c4_6">
+                <text>Studien byggde på uppgifter som samlats in av grundskoleelever runtom i världen.</text>
+            </label>
+        </item>
+    </items>
+</file>

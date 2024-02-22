@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/649cfc0a233de8.62436928/passage NEW.xml">
+            <label key="649cfc0a233de8.62436928_ddbdca39dbe9b171232d67492fa9d4dc_1">
+                <text>Skador av UV-strålning</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_edcd10e8ef3e746b6e657da6b034754a_2">
+                <text>Ozon (O₃) är en gas som finns i atmosfären. Den bildar ett skikt som täcker hela jorden cirka 10 km till 50 km över jordens yta.</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_029f8afe32daf8cf7a21a5f0675edc7f_3">
+                <text>Förut förstördes ozonskiktet delvis av utsläpp av ozonförstörande gaser.</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_46885ea899a13ac9e66e83380e2b2a0f_4">
+                <text>Minskningen av ozon i atmosfären ledde till en ökning av permanenta ögon- och hudskador.</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_a681d4631171c8fc0c91a0395a6f1348_5">
+                <text>I många länder har användning av ozonnedbrytande gaser förbjudits. Tack vare detta håller ozonlagret sakta på att återställas.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649cfc0a233de8.62436928/passage NEW.xml">
+            <label key="649cfc0a233de8.62436928_ddbdca39dbe9b171232d67492fa9d4dc_1">
+                <text>Skador av UV-strålning</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_edcd10e8ef3e746b6e657da6b034754a_2">
+                <text>Ozon (O₃) är en gas som finns i atmosfären. Den bildar ett skikt som täcker hela jorden cirka 10 km till 50 km över jordens yta.</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_029f8afe32daf8cf7a21a5f0675edc7f_3">
+                <text>Förut förstördes ozonskiktet delvis av utsläpp av ozonförstörande gaser.</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_46885ea899a13ac9e66e83380e2b2a0f_4">
+                <text>Minskningen av ozon i atmosfären ledde till en ökning av permanenta ögon- och hudskador.</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_a681d4631171c8fc0c91a0395a6f1348_5">
+                <text>I många länder har användning av ozonnedbrytande gaser förbjudits. Tack vare detta håller ozonlagret sakta på att återställas.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649cfc0a233de8.62436928/passage NEW.xml">
+            <label key="649cfc0a233de8.62436928_ddbdca39dbe9b171232d67492fa9d4dc_1">
+                <text>Skador av UV-strålning</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_edcd10e8ef3e746b6e657da6b034754a_2">
+                <text>Ozon (O₃) är en gas som finns i atmosfären. Den bildar ett skikt som täcker hela jorden cirka 10 km till 50 km över jordens yta.</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_029f8afe32daf8cf7a21a5f0675edc7f_3">
+                <text>Förut förstördes ozonskiktet delvis av utsläpp av ozonförstörande gaser.</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_46885ea899a13ac9e66e83380e2b2a0f_4">
+                <text>Minskningen av ozon i atmosfären ledde till en ökning av permanenta ögon- och hudskador.</text>
+            </label>
+            <label key="649cfc0a233de8.62436928_a681d4631171c8fc0c91a0395a6f1348_5">
+                <text>I många länder har användning av ozonnedbrytande gaser förbjudits. Tack vare detta håller ozonlagret sakta på att återställas.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a100985333e59724f2769eb566627742">
+            <label key="i63a100985333e59724f2769eb566627742_a719e5ce26c948e4722e4af1786ce2b1_1">
+                <text>How does ozone provide protection against irreversible eye and skin damage?</text>
+            </label>
+            <label key="i63a100985333e59724f2769eb566627742_A_91c94415f8ff42c1cc95ed3cbb3b97a9_2">
+                <text>Ozon hjälper människans hud att reflektera solljus.</text>
+            </label>
+            <label key="i63a100985333e59724f2769eb566627742_B_9d0a98c8f02a047eaa5c7a767f3c1f35_3">
+                <text>Ozon reflekterar tillbaka strålning från solen ut i rymden.</text>
+            </label>
+            <label key="i63a100985333e59724f2769eb566627742_C_d8773e0196455c859f2681735067583c_4">
+                <text>Ozon omvandlar skadliga kemikalier från atmosfären till säkra.</text>
+            </label>
+            <label key="i63a100985333e59724f2769eb566627742_D_992f85b31c4db25589eb729a05529982_5">
+                <text>Ozone reduces the amount of ultraviolet (UV) radiation reaching Earth’s surface.</text>
+            </label>
+        </item>
+        <item id="i63a100ab37f8c21574a2c35b5c81d383be">
+            <label key="i63a100ab37f8c21574a2c35b5c81d383be_068d64c1ff9dd2b85b839d4934ab5b89_1">
+                <text>Ögon- och hudskador i två städer till följd av ozonnedbrytning jämfördes. Båda städerna hade samma koncentration av ozon i atmosfären.</text>
+            </label>
+            <label key="i63a100ab37f8c21574a2c35b5c81d383be_4ffbc6311d8593d807014afc59894b0f_2">
+                <text>Vilka av följande uppgifter om städerna kan förklara skillnaderna i resultat mellan städerna?</text>
+            </label>
+            <label key="i63a100ab37f8c21574a2c35b5c81d383be_89b1c1de80f35eb0f385836481797561_3">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i63a100ab37f8c21574a2c35b5c81d383be_choice_1_9adc06253566440d82f4ad6623e64f43_4">
+                <text>Människor i en av städerna har bättre tillgång till sjukvård.</text>
+            </label>
+            <label key="i63a100ab37f8c21574a2c35b5c81d383be_choice_2_06aa1e437fe0522bb0bd40ba63c27ccb_5">
+                <text>The towns have the same population size.</text>
+            </label>
+            <label key="i63a100ab37f8c21574a2c35b5c81d383be_choice_4_e59ee982af3720376bec0aa156dbdc18_6">
+                <text>Solvårdsprodukter är dyrare i en av städerna.</text>
+            </label>
+            <label key="i63a100ab37f8c21574a2c35b5c81d383be_choice_5_131865eaa1de2152ba84e3fe56f97df6_7">
+                <text>Människor i båda städerna har tillgång till utbildning om solskydd.</text>
+            </label>
+            <label key="i63a100ab37f8c21574a2c35b5c81d383be_choice_6_643e961216122fafb12ccfc945675891_8">
+                <text>Fler människor arbetar utomhus i en av städerna.</text>
+            </label>
+        </item>
+        <item id="i63a100bfdb689143005b621dd9e9ceb2b8">
+            <label key="i63a100bfdb689143005b621dd9e9ceb2b8_a4a67eea9da9344369ca5162461b2ee1_1">
+                <text>Metylbromid är en ozonnedbrytande gas. I vissa länder används metylbromid för att säkerställa att transporterade varor är fria från insekter och sjukdom.</text>
+            </label>
+            <label key="i63a100bfdb689143005b621dd9e9ceb2b8_8954452abba6dd683d899f62367e81b0_2">
+                <text>Vilket av följande påståenden är en acceptabel motivering till fortsatt användning av metylbromid?</text>
+            </label>
+            <label key="i63a100bfdb689143005b621dd9e9ceb2b8_A_d85f818ad45471f0be2d41bdb304cdda_3">
+                <text>Metylbromid kan användas tills fungerande alternativ har utvecklats för att undvika störningar i världsekonomin.</text>
+            </label>
+            <label key="i63a100bfdb689143005b621dd9e9ceb2b8_B_4efb3e69eb663446d5f06cef89b60c7c_4">
+                <text>Metylbromid kan användas eftersom det vore för dyrt och tidskrävande att hitta alternativ.</text>
+            </label>
+            <label key="i63a100bfdb689143005b621dd9e9ceb2b8_C_dc7cb1230b5a8a135f50e7e0d1f9cb00_5">
+                <text>Metylbromid kan användas eftersom ozonlagret håller på att återställas och ozonnedbrytande kemikalier är därför inte längre ett problem.</text>
+            </label>
+            <label key="i63a100bfdb689143005b621dd9e9ceb2b8_D_d2be0041339348062a8ca5bfdf87bc16_6">
+                <text>Metylbromid kan användas eftersom människor efter hand kommer att utveckla immunitet och inte längre kommer att påverkas av UV-strålning.</text>
+            </label>
+        </item>
+    </items>
+</file>

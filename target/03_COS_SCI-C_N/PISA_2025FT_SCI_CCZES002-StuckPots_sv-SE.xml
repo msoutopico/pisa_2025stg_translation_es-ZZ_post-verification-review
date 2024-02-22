@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc647841e8e62c6/passage NEW.xml">
+            <label key="d67a0fbc647841e8e62c6_5c6072cc4cf4df5ba1ad60745bd781ab_1">
+                <text>Grytor som fastnat</text>
+            </label>
+            <label key="d67a0fbc647841e8e62c6_9c979af3415e6ff3890ba68d4f10f7e1_2">
+                <text>Följande fråga dök upp i ett diskussionsforum på internet:</text>
+            </label>
+            <label key="d67a0fbc647841e8e62c6_b1b28ec16dd1b9b30307066eccdeed7b_3">
+                <text>
+                    <em>‌Nina (19.03): Snälla, kan nån hjälpa mig? Jag staplade två likadana rostfria grytor i varandra och nu kan jag inte sära på dem.‌</em>
+                </text>
+            </label>
+            <label key="d67a0fbc647841e8e62c6_16fdb4a1d7b9f29064c2aa5ac48c9c6a_4">
+                <text>Metaller ändrar storlek när temperaturen förändras.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/d67a0fbc64784202f25b3/passage NEW.xml">
+            <label key="d67a0fbc64784202f25b3_5c6072cc4cf4df5ba1ad60745bd781ab_1">
+                <text>Grytor som fastnat</text>
+            </label>
+            <label key="d67a0fbc64784202f25b3_d6e8c145d4fdcbc91c7f69a177d60f5c_2">
+                <text>Följande fråga dök upp i ett diskussionsforum på internet: </text>
+            </label>
+            <label key="d67a0fbc64784202f25b3_343b7bc25a652c355594bf352a8b0fe7_3">
+                <text>
+                    <em>‌Nina (19.03): Snälla, kan nån hjälpa mig? Jag staplade två likadana rostfria grytor i varandra och nu kan jag inte sära på dem.‌</em>
+                </text>
+            </label>
+            <label key="d67a0fbc64784202f25b3_98b2b64084c030e7b3b27b90f1f34b68_4">
+                <text>Metaller ändrar storlek när temperaturen förändras.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/1242ffd863587a4d07e58/passage NEW 2.xml">
+            <label key="1242ffd863587a4d07e58_5c6072cc4cf4df5ba1ad60745bd781ab_1">
+                <text>Grytor som fastnat</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_759c867f534d43f6b24f3f566b04c5b3_2">
+                <text>Olika material används för att tillverka grytor. Bland annat används koppar, gjutjärn och rostfritt stål.</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_1b0643a42c43b7377a7063fa8f87ba9a_3">
+                <text>Nedanstående tabell visar följande termiska egenskaper hos dessa material:</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_20cf3818e7cdd24421e7b9bbba74e51d_4">
+                <text>Värmeledningskoefficienten är ett mått på mängden värmeenergi som leds genom ett material.</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_4629e2d1719d2a6f31432733acddda17_5">
+                <text>Specifik värmekapacitet är ett mått på mängden värmeenergi som krävs för att värma ett material.</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_d92a8333dd3ccb895cc65f7455b71206_6">
+                <text>Material</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_1d3a8fff5c684448a1b14ee36d79de52_7">
+                <text>Värmeledningskoefficient <br/>(W/m × K)</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_ae9997fb24169010cab170c241b503aa_8">
+                <text>Specifik värmekapacitet <br/>(J/kg × K)</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_a4090ffabdfba53d76b0748a0d87ce21_9">
+                <text>Koppar</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_70c639df5e30bdee440e4cdf599fec2b_10">
+                <text>393</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_beed13602b9b0e6ecb5b568ff5058f07_11">
+                <text>383</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_99213bc5efb5ce8d1c917fd00781a08c_12">
+                <text>Gjutjärn</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_9a1158154dfa42caddbd0694a4e9bdc8_13">
+                <text>52</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_ff4d5fbbafdf976cfdc032e3bde78de5_14">
+                <text>506</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_649b56717e138807b6c869eac5d163b4_15">
+                <text>Rostfritt stål</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_9bf31c7ff062936a96d3c8bd1f8f2ff3_16">
+                <text>15</text>
+            </label>
+            <label key="1242ffd863587a4d07e58_cee631121c2ec9232f3a2f028ad5c89b_17">
+                <text>500</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i635870aa1876d35466b634a5a6ebabb49d">
+            <label key="i635870aa1876d35466b634a5a6ebabb49d_622357103fd189edf72f47ec3eb23fb1_1">
+                <text>Nina vill veta om grytor av aluminium beter sig annorlunda än grytor av rostfritt stål när de värms upp. </text>
+            </label>
+            <label key="i635870aa1876d35466b634a5a6ebabb49d_1ed6c77e2e67464b305a00dfa891108b_2">
+                <text>Hon vill söka på internet för att hitta svaret.</text>
+            </label>
+            <label key="i635870aa1876d35466b634a5a6ebabb49d_82dacc1d17c558086c648063afc1688e_3">
+                <text>Vilken grupp av nyckelord borde hon använda för att hitta så användbar information som möjligt?</text>
+            </label>
+            <label key="i635870aa1876d35466b634a5a6ebabb49d_A_51acebd579b9a675eb2c5ad03a98ab00_4">
+                <text>metaller och icke-metaller</text>
+            </label>
+            <label key="i635870aa1876d35466b634a5a6ebabb49d_B_7ec09780f7e4ca40a5b769337434fa01_5">
+                <text>två olika grytor</text>
+            </label>
+            <label key="i635870aa1876d35466b634a5a6ebabb49d_C_b9c932b22fe11cd5796abda620782406_6">
+                <text>olika metaller och värme</text>
+            </label>
+            <label key="i635870aa1876d35466b634a5a6ebabb49d_D_f8bd726daaeff534523af3cc74ddf342_7">
+                <text>ändrade dimensioner</text>
+            </label>
+        </item>
+        <item id="i6358716d6b0e3354898b1722632b9245b1">
+            <label key="i6358716d6b0e3354898b1722632b9245b1_95d39d28a36383b054703545723998bd_1">
+                <text>Ninas hypotes är att <strong>alla</strong> material (metaller och icke-metaller) expanderar när de värms. </text>
+            </label>
+            <label key="i6358716d6b0e3354898b1722632b9245b1_4062b3d8b330ba5d55c63fb2e6a0d8b2_2">
+                <text>Hon genomför två experiment för att testa sin hypotes.</text>
+            </label>
+            <label key="i6358716d6b0e3354898b1722632b9245b1_7639e9a6211d1cf79872b9b8624db84a_3">
+                <text>I det första experimentet värmer Nina fem olika material. Alla expanderar.</text>
+            </label>
+            <label key="i6358716d6b0e3354898b1722632b9245b1_5a600c74ae6baa072974ca9a405afd40_4">
+                <text>
+                    <strong>‌Vilken av följande slutsatser kan dras av resultaten av det första experimentet?‌</strong>
+                </text>
+            </label>
+            <label key="i6358716d6b0e3354898b1722632b9245b1_A1_891e85ff2c5901d2c05e8b47ad23fa9e_5">
+                <text>Ninas hypotes bekräftas.</text>
+            </label>
+            <label key="i6358716d6b0e3354898b1722632b9245b1_B1_6f6fc54a88dddda94cafe7661a04829e_6">
+                <text>Ninas hypotes motbevisas.</text>
+            </label>
+            <label key="i6358716d6b0e3354898b1722632b9245b1_C1_3dcd2cdfb8f5bc5f12ba8cfe48e982d6_7">
+                <text>Resultaten av experimentet varken bekräftar eller motbevisar Ninas hypotes.</text>
+            </label>
+            <label key="i6358716d6b0e3354898b1722632b9245b1_f5ffec44b5bde644ab39888bc453fbab_8">
+                <text>I det andra experimentet värmer Nina fem andra material. Fyra material expanderar och ett krymper.</text>
+            </label>
+            <label key="i6358716d6b0e3354898b1722632b9245b1_e488bb2e3728b2ae7bdbc2d6ed7fab61_9">
+                <text>
+                    <strong>‌Vilken av följande slutsatser kan dras av resultaten av det andra experimentet?‌</strong>
+                </text>
+            </label>
+            <label key="i6358716d6b0e3354898b1722632b9245b1_A2_891e85ff2c5901d2c05e8b47ad23fa9e_10">
+                <text>Ninas hypotes bekräftas.</text>
+            </label>
+            <label key="i6358716d6b0e3354898b1722632b9245b1_B2_6f6fc54a88dddda94cafe7661a04829e_11">
+                <text>Ninas hypotes motbevisas.</text>
+            </label>
+            <label key="i6358716d6b0e3354898b1722632b9245b1_C2_d89bc470b0c3efda32c53adba82416c2_12">
+                <text>Experimentet varken bekräftar eller motbevisar Ninas hypotes.</text>
+            </label>
+        </item>
+        <item id="i63588079c014f150940a4a872e9e1f1074">
+            <label key="i63588079c014f150940a4a872e9e1f1074_45d66d109dab09badeef542ba4e845cf_1">
+                <text>Grythandtag är ibland tillverkade av ett annat material än grytorna. </text>
+            </label>
+            <label key="i63588079c014f150940a4a872e9e1f1074_28a7dedcaf0eb70f7ce5784bbb09f9ac_2">
+                <text>Några egenskaper hos möjliga material är listade i tabellen nedan.</text>
+            </label>
+            <label key="i63588079c014f150940a4a872e9e1f1074_21307de0a05d36cbbf5d4749fec083f8_3">
+                <text>Är alla dessa egenskaper viktiga för de material som används för att tillverka grythandtagen?</text>
+            </label>
+            <label key="i63588079c014f150940a4a872e9e1f1074_a559be2f5a86b74e270a2ac23800b839_4">
+                <text>Välj 'Ja' eller 'Nej' för varje egenskap. </text>
+            </label>
+            <label key="i63588079c014f150940a4a872e9e1f1074_Y_fdc1563a8afc5411a7aba3beeb918bd4_5">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i63588079c014f150940a4a872e9e1f1074_N_758eaa648d8250f58a4ec4251f2ea215_6">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i63588079c014f150940a4a872e9e1f1074_Row1_d1cd21f2c81d8ca7b6cc5edb5cf360e1_7">
+                <text>brandsäker</text>
+            </label>
+            <label key="i63588079c014f150940a4a872e9e1f1074_Row2_d7936ebc1cb814f79c5b00ab9cbe020a_8">
+                <text>bra värmeledare</text>
+            </label>
+            <label key="i63588079c014f150940a4a872e9e1f1074_Row3_8b2bf8eab37ad6b1bc2c1cb2a0533533_9">
+                <text>bra värmeisolerare</text>
+            </label>
+            <label key="i63588079c014f150940a4a872e9e1f1074_Row4_add5064076c8c7ceb0fa1a2e5727f426_10">
+                <text>hög hållbarhet</text>
+            </label>
+            <label key="i63588079c014f150940a4a872e9e1f1074_Row5_24bfe3e137f2d45a55c77494896117e3_11">
+                <text>låg smältpunkt</text>
+            </label>
+            <label key="i63588079c014f150940a4a872e9e1f1074_Row6_abb576054ee09a1c8aef28ed2f4ea3f6_12">
+                <text>mörk färg</text>
+            </label>
+        </item>
+        <item id="i6372d34d15398490872d9226a1a1ecf992">
+            <label key="i6372d34d15398490872d9226a1a1ecf992_29e72e2aaca0e661eee3680eccc994eb_1">
+                <text>Benjamin vill svara på Ninas fråga.</text>
+            </label>
+            <label key="i6372d34d15398490872d9226a1a1ecf992_760958e5152ad950f6d61338da9414d4_2">
+                <text>Vilket råd borde Benjamin ge Nina för att hon ska kunna ta isär grytorna?</text>
+            </label>
+            <label key="i6372d34d15398490872d9226a1a1ecf992_A_68033da2a245449ddd801fd173a531f0_3">
+                <text>Häll kokande vatten i den övre grytan och ställ den undre grytan i iskallt vatten.</text>
+            </label>
+            <label key="i6372d34d15398490872d9226a1a1ecf992_B_afead4d2e34cc63099570bc44ecc28c0_4">
+                <text>Häll iskallt vatten i den övre grytan och ställ den undre grytan i kokande vatten.</text>
+            </label>
+            <label key="i6372d34d15398490872d9226a1a1ecf992_C_bbfe4a362950c6a91e29fdf034c17685_5">
+                <text>Häll kokande vatten i den övre grytan och ställ den undre grytan i kokande vatten.</text>
+            </label>
+            <label key="i6372d34d15398490872d9226a1a1ecf992_choice_1_d2a1713b77ca5e496d57ff7c235f0f4c_6">
+                <text>Häll iskallt vatten i den övre grytan och ställ den undre grytan i iskallt vatten.</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64ca546b5c2c77.37205559/passage NEW.xml">
+            <label key="64ca546b5c2c77.37205559_2e73a758e3bfcf863d4899fbb1d04c4a_1">
+                <text>Doppvärmare</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_82d0e7f6ade23b092d22684bfe2a9b14_2">
+                <text>Doppvärmare värmer små mängder vatten med en spiralformad tråd.</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_ce14bbb3a928eb4525192364300c6fe5_3">
+                <text>Doppvärmare kan också användas för att värma upp krossad is.</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_b11b15bb4e672fab29cdcd95fa5b27bd_4">
+                <text>En elev placerar en doppvärmare och en termometer i en kopp krossad is.</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_89d8652b040c02fd6409e07ca05cee2e_5">
+                <text>Diagrammet visar temperaturen på vattnet när det värms upp av doppvärmaren.</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_8e27015434d6112ef228da7b229f622b_6">
+                <text>
+                    <strong>‌Temperatur (°C) ‌</strong>
+                </text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_ce05b47530c722a42bf9dd3e90a98bbe_7">
+                <text>
+                    <strong>‌Tid (sekunder) ‌</strong>
+                </text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_7bdff76536f12a7c5ffde207e72cfe3a_8">
+                <text>is</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_7339669c574df10145bc90096d39ac44_9">
+                <text>is + vatten</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_9460370bb0ca1c98a779b1bcc6861c2c_10">
+                <text>vatten</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64ca546b5c2c77.37205559/passage NEW.xml">
+            <label key="64ca546b5c2c77.37205559_2e73a758e3bfcf863d4899fbb1d04c4a_1">
+                <text>Doppvärmare</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_82d0e7f6ade23b092d22684bfe2a9b14_2">
+                <text>Doppvärmare värmer små mängder vatten med en spiralformad tråd.</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_ce14bbb3a928eb4525192364300c6fe5_3">
+                <text>Doppvärmare kan också användas för att värma upp krossad is.</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_b11b15bb4e672fab29cdcd95fa5b27bd_4">
+                <text>En elev placerar en doppvärmare och en termometer i en kopp krossad is.</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_89d8652b040c02fd6409e07ca05cee2e_5">
+                <text>Diagrammet visar temperaturen på vattnet när det värms upp av doppvärmaren.</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_8e27015434d6112ef228da7b229f622b_6">
+                <text>
+                    <strong>‌Temperatur (°C) ‌</strong>
+                </text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_ce05b47530c722a42bf9dd3e90a98bbe_7">
+                <text>
+                    <strong>‌Tid (sekunder) ‌</strong>
+                </text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_7bdff76536f12a7c5ffde207e72cfe3a_8">
+                <text>is</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_7339669c574df10145bc90096d39ac44_9">
+                <text>is + vatten</text>
+            </label>
+            <label key="64ca546b5c2c77.37205559_9460370bb0ca1c98a779b1bcc6861c2c_10">
+                <text>vatten</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639aa28c1fee02720cb09ea7ea2a02269">
+            <label key="i639aa28c1fee02720cb09ea7ea2a02269_586fe3402e6267e5fb68efab7b144702_1">
+                <text>I diagrammet finns det en period under vilken temperaturen inte förändras.</text>
+            </label>
+            <label key="i639aa28c1fee02720cb09ea7ea2a02269_2ac61360c689d508029289dc12389dd9_2">
+                <text>Vilken är den bästa förklaringen till att temperaturen inte ändras?</text>
+            </label>
+            <label key="i639aa28c1fee02720cb09ea7ea2a02269_A_57f0f28172bcd0473040591d8831f9d7_3">
+                <text>Värmaren avger störst mängd energi i början och slutet av uppvärmningsprocessen.</text>
+            </label>
+            <label key="i639aa28c1fee02720cb09ea7ea2a02269_B_745550f8ac431cc6af3d5db5458639cc_4">
+                <text>Istället för att höja vattnets temperatur används energin till att smälta isen.</text>
+            </label>
+            <label key="i639aa28c1fee02720cb09ea7ea2a02269_C_bd7f6cdc37e36074c2c89916c4c2cae6_5">
+                <text>Värmaren stängdes av i 60 sekunder under uppvärmningsprocessen.</text>
+            </label>
+            <label key="i639aa28c1fee02720cb09ea7ea2a02269_D_38357c18596f5cebb54fa20e400f31b5_6">
+                <text>Energin som värmaren avger minskar långsamt till noll över tid.</text>
+            </label>
+        </item>
+        <item id="i639aa8fd670ce233929487c288ef25fa4">
+            <label key="i639aa8fd670ce233929487c288ef25fa4_48cb84ef771ede2e755c24e849ba5b8a_1">
+                <text>En elev tittar på doppvärmaren i koppen med vatten.</text>
+            </label>
+            <label key="i639aa8fd670ce233929487c288ef25fa4_d36cba626ff4a3a40b790b3e9f19ce8d_2">
+                <text>Eleven säger korrekt ”När vattnet väl har nått den temperatur som doppvärmaren är inställd på kommer temperaturen att vara ungefär densamma oavsett var termometern placeras i bägaren”.</text>
+            </label>
+            <label key="i639aa8fd670ce233929487c288ef25fa4_e3a4288ba8e8f35bf40e891bc6a7fb2e_3">
+                <text>Förklara varför elevens svar är korrekt.</text>
+            </label>
+        </item>
+    </items>
+</file>

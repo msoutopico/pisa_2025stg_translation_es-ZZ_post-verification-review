@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/649cfd67a62aa4.65046063/passage NEW.xml">
+            <label key="649cfd67a62aa4.65046063_03309daffd806c305cd8702b39f1d027_1">
+                <text>Ljudföroreningar</text>
+            </label>
+            <label key="649cfd67a62aa4.65046063_526c66f3b3d4e4bb75fb1de762a2072f_2">
+                <text>Göra och höra ljud är väsentliga egenskaper hos marint levande djur, till exempel för att kommunicera med varandra.</text>
+            </label>
+            <label key="649cfd67a62aa4.65046063_c5c38190005b7cd967665ff9e3cc49dc_3">
+                <text>Det finns många naturliga ljudkällor i havet, exempelvis vind och regn.</text>
+            </label>
+            <label key="649cfd67a62aa4.65046063_8305e7dbf9c2404e2c819f7d8f9bc712_4">
+                <text>Människor bidrar i allt större utsträckning till ljuden i havet.</text>
+            </label>
+            <label key="649cfd67a62aa4.65046063_581c3345795b64dcb218f7af5291df71_5">
+                <text>Kartan visar världens största sjöfartsrutter.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649cfd67a62aa4.65046063/passage NEW.xml">
+            <label key="649cfd67a62aa4.65046063_03309daffd806c305cd8702b39f1d027_1">
+                <text>Ljudföroreningar</text>
+            </label>
+            <label key="649cfd67a62aa4.65046063_526c66f3b3d4e4bb75fb1de762a2072f_2">
+                <text>Göra och höra ljud är väsentliga egenskaper hos marint levande djur, till exempel för att kommunicera med varandra.</text>
+            </label>
+            <label key="649cfd67a62aa4.65046063_c5c38190005b7cd967665ff9e3cc49dc_3">
+                <text>Det finns många naturliga ljudkällor i havet, exempelvis vind och regn.</text>
+            </label>
+            <label key="649cfd67a62aa4.65046063_8305e7dbf9c2404e2c819f7d8f9bc712_4">
+                <text>Människor bidrar i allt större utsträckning till ljuden i havet.</text>
+            </label>
+            <label key="649cfd67a62aa4.65046063_581c3345795b64dcb218f7af5291df71_5">
+                <text>Kartan visar världens största sjöfartsrutter.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655454c9850b02.12982272/passage NEW 1.xml">
+            <label key="655454c9850b02.12982272_03309daffd806c305cd8702b39f1d027_1">
+                <text>Ljudföroreningar</text>
+            </label>
+            <label key="655454c9850b02.12982272_52b87133bea7608ba624f68b3413ff81_2">
+                <text>Vissa djur använder ekolokalisering för att navigera i sina miljöer och lokalisera föremål.</text>
+            </label>
+            <label key="655454c9850b02.12982272_32fab66a79dc3165c4c3d5c81f3b9498_3">
+                <text>Djur som använder ekolokalisering ger ifrån sig ljud som reflekteras av föremålen runt omkring dem. Dessa ekon ger djuren information om avstånden till föremålen och i vilken riktning de finns.</text>
+            </label>
+            <label key="655454c9850b02.12982272_d81caa6b318c633f9d9eb9551aa55d62_4">
+                <text>Följande formel används för att beräkna hur långt ljud som används för ekolokalisering har färdats:</text>
+            </label>
+            <label key="655454c9850b02.12982272_ec340e6cf4194750629fec8fb8a71463_5">
+                <text>
+                    <strong><em>2 × d = v × t</em></strong>
+                </text>
+            </label>
+            <label key="655454c9850b02.12982272_d04a3af610036b449ac34b0dbea3f0c4_6">
+                <text>I denna formel:</text>
+            </label>
+            <label key="655454c9850b02.12982272_48406126eefefdbb19524ea8470cebc0_7">
+                <text><em><strong>d</strong></em> (m) is the distance between the transmitter (animal emitting the sound) and the target object</text>
+            </label>
+            <label key="655454c9850b02.12982272_2cfb78cccd17c6bfe14b20c2aaec94ed_8">
+                <text><em><strong>v</strong></em> (m/s) is the speed of sound</text>
+            </label>
+            <label key="655454c9850b02.12982272_79d27078cfea6cd43e033bcdf5e32e61_9">
+                <text><em><strong>t</strong></em> (s) is the time it takes for the sound to travel to the target and back to the transmitter.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i638e7ba65101215016b6982740b6723560">
+            <label key="i638e7ba65101215016b6982740b6723560_b9f3c7c2ce6a332a653e682043c8e4e2_1">
+                <text>Beskriver påståendena i tabellen risker för havslevande djur till följd av ljudföroreningar?</text>
+            </label>
+            <label key="i638e7ba65101215016b6982740b6723560_a8c38cd5723dd799a00d4ac84d71561e_2">
+                <text>Välj 'Ja' eller 'Nej' för varje påstående.</text>
+            </label>
+            <label key="i638e7ba65101215016b6982740b6723560_Y_fdc1563a8afc5411a7aba3beeb918bd4_3">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i638e7ba65101215016b6982740b6723560_N_758eaa648d8250f58a4ec4251f2ea215_4">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i638e7ba65101215016b6982740b6723560_Row1_e54e4d31bb2105636e3bef2803186589_5">
+                <text>Djur flyr från ljudet och lämnar sin naturliga miljö.</text>
+            </label>
+            <label key="i638e7ba65101215016b6982740b6723560_Row2_4cef2b3c37b8fbe2145378fa6bd5d883_6">
+                <text>Djur som använder ljud för att hitta mat kan inte längre livnära sig.</text>
+            </label>
+            <label key="i638e7ba65101215016b6982740b6723560_Row3_69e3fa4ec52dd7a6131af0beee23a291_7">
+                <text>Valar har svårt att kommunicera, navigera och hitta en partner att para sig med.</text>
+            </label>
+            <label key="i638e7ba65101215016b6982740b6723560_Row4_7d0196aa6f265a2cd39aba97453ffd9b_8">
+                <text>Fiskar har problem att absorbera syre om det är för mycket ljud.</text>
+            </label>
+        </item>
+        <item id="i638e7c30e536f12766550c1c1ef5975417">
+            <label key="i638e7c30e536f12766550c1c1ef5975417_842a03c273149048b12e62243825548c_1">
+                <text>Skulle åtgärderna i tabellen minska ljudföroreningarna i havet?</text>
+            </label>
+            <label key="i638e7c30e536f12766550c1c1ef5975417_bc3e728acece219ebd37214b9177c916_2">
+                <text>Välj 'Ja' eller 'Nej' för varje åtgärd.</text>
+            </label>
+            <label key="i638e7c30e536f12766550c1c1ef5975417_Y_fdc1563a8afc5411a7aba3beeb918bd4_3">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i638e7c30e536f12766550c1c1ef5975417_N_758eaa648d8250f58a4ec4251f2ea215_4">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i638e7c30e536f12766550c1c1ef5975417_Row1_dd22ac4bb558793dbc6e17d16fc56bf3_5">
+                <text>Minska fartygens maxhastighet.</text>
+            </label>
+            <label key="i638e7c30e536f12766550c1c1ef5975417_Row2_3ab19ff72df841ee88f263f86edfd205_6">
+                <text>Öka antalet kryssningsfartyg för att sprida ljudet jämnt.</text>
+            </label>
+            <label key="i638e7c30e536f12766550c1c1ef5975417_Row3_76278f7798d54eac263f38bc385dba53_7">
+                <text>Upprätta ljudfria zoner.</text>
+            </label>
+            <label key="i638e7c30e536f12766550c1c1ef5975417_Row4_8db72a6623f76a15e37e7195037920f2_8">
+                <text>Använda alternativa sjöfartsrutter som undviker känsliga naturmiljöer.</text>
+            </label>
+        </item>
+        <item id="i638e83ddb923043617368d419e3eecded8">
+            <label key="i638e83ddb923043617368d419e3eecded8_6e4dca0a63bf48011663595b74b9737c_1">
+                <text>Förklara varför talet '2' används i formeln för beräkning av det avstånd som ljudet färdas i ekolokalisering. </text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64afee382f08d1.65133360/passage NEW.xml">
+            <label key="64afee382f08d1.65133360_44a2ac2cea1c35cba06d4f943dcc024c_1">
+                <text>Skal från pteropoder</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b2def55158075200b0fbf487fd95e3e4_2">
+                <text>Kolsyra bildas när koldioxid löser sig i havsvatten. Denna process kallas havsförsurning.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b332f9cc431386a8803d106f83ad8882_3">
+                <text>I en fältstudie av havet undersökte forskare vilken effekt havsförsurning har på skalen hos pteropoder (planktonsnäckor). Snäckorna använder kalciumkarbonat från vatten för att bilda sina skal.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_a7ef343f3a3af7b458deaebf718df40f_4">
+                <text>Forskarna samlade in pteropoder och flera vattenprover från olika platser. De undersökte sedan skalen för att se om de hade små hål (perforeringar).</text>
+            </label>
+            <label key="64afee382f08d1.65133360_6305820b49dd5abc741ed2af0688b6e2_5">
+                <text>perforeringar</text>
+            </label>
+            <label key="64afee382f08d1.65133360_3fcc6b1959be5cc3a12c531923280ee1_6">
+                <text>skal från pteropod</text>
+            </label>
+            <label key="64afee382f08d1.65133360_815e28860bc98c8c3a27e443e2c6793e_7">
+                <text>Forskarna avgjorde också om vattenproverna var mättade med kalciumkarbonat (i löst form).</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b2cf77f1fce878b077f4e6f05429bf7d_8">
+                <text>Vatten är 'mättat' om den maximala mängden av ett ämne är upplöst i det. Vatten är 'omättat' om det innehåller mindre än den maximala mängden av det upplösta ämnet.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b024473d9fe6cd36fad8b5199973482d_9">
+                <text>Diagrammet visar andelen skal i procent med allvarlig perforering som en funktion av andelen vattenprover i procent som var omättade med kalciumkarbonat på varje plats. Varje kryss i diagrammet representerar en särskild plats.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_1a26f976bcb02a95d7e551a369dcb7fa_10">
+                <text>
+                    <strong>‌Andelen skal i procent med allvarlig perforering på varje plats ‌</strong>
+                </text>
+            </label>
+            <label key="64afee382f08d1.65133360_5c97472220e66f3cb7bf1fcd5d2fa63f_11">
+                <text>
+                    <strong>‌Andelen vattenprover i procent som var omättade på varje plats ‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64afee382f08d1.65133360/passage NEW.xml">
+            <label key="64afee382f08d1.65133360_44a2ac2cea1c35cba06d4f943dcc024c_1">
+                <text>Skal från pteropoder</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b2def55158075200b0fbf487fd95e3e4_2">
+                <text>Kolsyra bildas när koldioxid löser sig i havsvatten. Denna process kallas havsförsurning.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b332f9cc431386a8803d106f83ad8882_3">
+                <text>I en fältstudie av havet undersökte forskare vilken effekt havsförsurning har på skalen hos pteropoder (planktonsnäckor). Snäckorna använder kalciumkarbonat från vatten för att bilda sina skal.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_a7ef343f3a3af7b458deaebf718df40f_4">
+                <text>Forskarna samlade in pteropoder och flera vattenprover från olika platser. De undersökte sedan skalen för att se om de hade små hål (perforeringar).</text>
+            </label>
+            <label key="64afee382f08d1.65133360_6305820b49dd5abc741ed2af0688b6e2_5">
+                <text>perforeringar</text>
+            </label>
+            <label key="64afee382f08d1.65133360_3fcc6b1959be5cc3a12c531923280ee1_6">
+                <text>skal från pteropod</text>
+            </label>
+            <label key="64afee382f08d1.65133360_815e28860bc98c8c3a27e443e2c6793e_7">
+                <text>Forskarna avgjorde också om vattenproverna var mättade med kalciumkarbonat (i löst form).</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b2cf77f1fce878b077f4e6f05429bf7d_8">
+                <text>Vatten är 'mättat' om den maximala mängden av ett ämne är upplöst i det. Vatten är 'omättat' om det innehåller mindre än den maximala mängden av det upplösta ämnet.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b024473d9fe6cd36fad8b5199973482d_9">
+                <text>Diagrammet visar andelen skal i procent med allvarlig perforering som en funktion av andelen vattenprover i procent som var omättade med kalciumkarbonat på varje plats. Varje kryss i diagrammet representerar en särskild plats.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_1a26f976bcb02a95d7e551a369dcb7fa_10">
+                <text>
+                    <strong>‌Andelen skal i procent med allvarlig perforering på varje plats ‌</strong>
+                </text>
+            </label>
+            <label key="64afee382f08d1.65133360_5c97472220e66f3cb7bf1fcd5d2fa63f_11">
+                <text>
+                    <strong>‌Andelen vattenprover i procent som var omättade på varje plats ‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64afee382f08d1.65133360/passage NEW.xml">
+            <label key="64afee382f08d1.65133360_44a2ac2cea1c35cba06d4f943dcc024c_1">
+                <text>Skal från pteropoder</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b2def55158075200b0fbf487fd95e3e4_2">
+                <text>Kolsyra bildas när koldioxid löser sig i havsvatten. Denna process kallas havsförsurning.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b332f9cc431386a8803d106f83ad8882_3">
+                <text>I en fältstudie av havet undersökte forskare vilken effekt havsförsurning har på skalen hos pteropoder (planktonsnäckor). Snäckorna använder kalciumkarbonat från vatten för att bilda sina skal.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_a7ef343f3a3af7b458deaebf718df40f_4">
+                <text>Forskarna samlade in pteropoder och flera vattenprover från olika platser. De undersökte sedan skalen för att se om de hade små hål (perforeringar).</text>
+            </label>
+            <label key="64afee382f08d1.65133360_6305820b49dd5abc741ed2af0688b6e2_5">
+                <text>perforeringar</text>
+            </label>
+            <label key="64afee382f08d1.65133360_3fcc6b1959be5cc3a12c531923280ee1_6">
+                <text>skal från pteropod</text>
+            </label>
+            <label key="64afee382f08d1.65133360_815e28860bc98c8c3a27e443e2c6793e_7">
+                <text>Forskarna avgjorde också om vattenproverna var mättade med kalciumkarbonat (i löst form).</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b2cf77f1fce878b077f4e6f05429bf7d_8">
+                <text>Vatten är 'mättat' om den maximala mängden av ett ämne är upplöst i det. Vatten är 'omättat' om det innehåller mindre än den maximala mängden av det upplösta ämnet.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_b024473d9fe6cd36fad8b5199973482d_9">
+                <text>Diagrammet visar andelen skal i procent med allvarlig perforering som en funktion av andelen vattenprover i procent som var omättade med kalciumkarbonat på varje plats. Varje kryss i diagrammet representerar en särskild plats.</text>
+            </label>
+            <label key="64afee382f08d1.65133360_1a26f976bcb02a95d7e551a369dcb7fa_10">
+                <text>
+                    <strong>‌Andelen skal i procent med allvarlig perforering på varje plats ‌</strong>
+                </text>
+            </label>
+            <label key="64afee382f08d1.65133360_5c97472220e66f3cb7bf1fcd5d2fa63f_11">
+                <text>
+                    <strong>‌Andelen vattenprover i procent som var omättade på varje plats ‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6344be8540fa7203227465bd5f73077a73">
+            <label key="i6344be8540fa7203227465bd5f73077a73_55b583575e0429e554db8c04d36230e5_1">
+                <text>Forskarna tror att mer perforering förekom i surare havsvatten.</text>
+            </label>
+            <label key="i6344be8540fa7203227465bd5f73077a73_0892f18081299f29b9094b6b11541052_2">
+                <text>Vilket av följande påståenden måste vara sant om forskarna har rätt?</text>
+            </label>
+            <label key="i6344be8540fa7203227465bd5f73077a73_89f0709b9bef19fb4c63a265e23aca41_3">
+                <text>Använd diagrammet för att svara på frågan.</text>
+            </label>
+            <label key="i6344be8540fa7203227465bd5f73077a73_A_fd6e37f159393770a29ae72562e18f18_4">
+                <text>De vattenprover som var omättade med kalciumkarbonat var surare än de mättade vattenproverna.</text>
+            </label>
+            <label key="i6344be8540fa7203227465bd5f73077a73_B_9bd9c65e6a10f8bd223b2b1c26d52cab_5">
+                <text>Kolsyra orsakar att skal löses upp, men andra syror gör inte det.</text>
+            </label>
+            <label key="i6344be8540fa7203227465bd5f73077a73_C_3bf286f251af3bb37ce4d4231f404261_6">
+                <text>Perforering av skal har bara skett efter det att CO₂-nivåerna har ökat.</text>
+            </label>
+            <label key="i6344be8540fa7203227465bd5f73077a73_D_71d4682935993ff48fb0b2c7865ab29e_7">
+                <text>Perforeringen av skalen beror inte på mekanisk skada.</text>
+            </label>
+        </item>
+        <item id="i6344bf2264e074128873a014ffdf4ed612">
+            <label key="i6344bf2264e074128873a014ffdf4ed612_fe1fd778680e92350c18033ed75c0843_1">
+                <text>Författaren på en webbsida påstod att resultaten av denna undersökning visade att "Havsförsurning orsakar förändringar av skalen hos pteropoder."</text>
+            </label>
+            <label key="i6344bf2264e074128873a014ffdf4ed612_cd9a6185e8e30d700f98f60c72867936_2">
+                <text>Stöds detta påstående av data från diagrammet?</text>
+            </label>
+            <label key="i6344bf2264e074128873a014ffdf4ed612_33a4910e5c5dc9b5b9b61c8c52e00765_3">
+                <text>Välj 'Ja' eller 'Nej'.</text>
+            </label>
+            <label key="i6344bf2264e074128873a014ffdf4ed612_Y_93cba07454f06a4a960172bbd6e2a435_4">
+                <text>Ja</text>
+            </label>
+            <label key="i6344bf2264e074128873a014ffdf4ed612_N_bafd7322c6e97d25b6299b5d6fe8920b_5">
+                <text>Nej</text>
+            </label>
+            <label key="i6344bf2264e074128873a014ffdf4ed612_738689bf8237f9f13800d4b334dc4f78_6">
+                <text>Förklara ditt svar genom att hänvisa till diagrammet.</text>
+            </label>
+        </item>
+        <item id="i6344c35f0da4224699b6eb9691269b5">
+            <label key="i6344c35f0da4224699b6eb9691269b5_c00cadcd4c6a9c0a05b01eca4fa9b098_1">
+                <text>Forskare samlade in oskadade skal från pteropoder.</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_300bfe189a42d7503de5df670a707b83_2">
+                <text>De placerade hälften av dem i en tank som innehöll en mättad lösning av kalciumkarbonat och den andra hälften i en tank som innehöll en omättad lösning av kalciumkarbonat. </text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_589839da576de756f58dc791d67315d5_3">
+                <text>Alla övriga förhållanden var lika i de båda tankarna.</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_84504df8366ed45c6c6de9b58dec4909_4">
+                <text>De förberedde laboratorieexperimentet enligt figuren nedan.</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_89f97968d874deb928a9aaac4278d0ed_5">
+                <text>Förutom olika mättnadsgrad av kalciumkarbonat, innehöll tankarna lika stora mängder av andra lösta ämnen så att vattnet liknade havsvatten.</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_942a09f18e23f0e88d33de8c040d413b_6">
+                <text>tank med vatten som är mättat med kalciumkarbonat</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_68dac8ff6c9130125ce84b192f72845a_7">
+                <text>pteropoder</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_2e43a658741a887f325cb1c7a8b28e71_8">
+                <text>tank med vatten som är omättat med kalciumkarbonat</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_bced7bf1b82c26282744b15b72e81000_9">
+                <text>destillerat vatten med kalciumkarbonat och andra lösta ämnen</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_30745a8dacb16e78181f9a3003039780_10">
+                <text>Efter en tid undersökte de pteropodernas skal i tankarna.</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_44204e1fbf4577e925a2fc024352876e_11">
+                <text>Kan följande frågor besvaras av laboratorieexperimentet som beskrevs ovan, eller av fältstudien av havet, eller av båda?</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_edc58d8ca9eb3f8d12bcb74c03fd6135_12">
+                <text>Välj 'Ja' eller 'Nej' för varje rullgardinsmeny.</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_a97ea56b0e00b2379736ae60869ff66a_13">
+                <text>Fråga</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_75ee17258f6afc7006a3391162d3a46b_14">
+                <text>Laboratorieexperiment</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_947ae7defc61622f18aaaece5ef0edf4_15">
+                <text>Fältstudie av havet</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_d4ddcd187da8ce72158e9223b3a190e1_16">
+                <text>Löser skalen från pteropoder upp sig i havsvatten?</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_A_Lab_Y_93cba07454f06a4a960172bbd6e2a435_17">
+                <text>Ja</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_A_Lab_N_bafd7322c6e97d25b6299b5d6fe8920b_18">
+                <text>Nej</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_A_Ocean_Y_93cba07454f06a4a960172bbd6e2a435_19">
+                <text>Ja</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_A_Ocean_N_bafd7322c6e97d25b6299b5d6fe8920b_20">
+                <text>Nej</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_0a4d37b78383359945a90721aeb139ae_21">
+                <text>Löser skalen från pteropoder upp sig i havsvatten som är omättat med kalciumkarbonat?</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_B_Lab_Y_93cba07454f06a4a960172bbd6e2a435_22">
+                <text>Ja</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_B_Lab_N_bafd7322c6e97d25b6299b5d6fe8920b_23">
+                <text>Nej</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_B_Ocean_Y_93cba07454f06a4a960172bbd6e2a435_24">
+                <text>Ja</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_B_Ocean_N_bafd7322c6e97d25b6299b5d6fe8920b_25">
+                <text>Nej</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_00e8d0ae201156fcb4245ac5a79e3e39_26">
+                <text>Orsakar havsvatten som är omättat med kalciumkarbonat att skal från pteropoder löser upp sig?</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_C_Lab_Y_93cba07454f06a4a960172bbd6e2a435_27">
+                <text>Ja</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_C_Lab_N_bafd7322c6e97d25b6299b5d6fe8920b_28">
+                <text>Nej</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_C_Ocean_Y_93cba07454f06a4a960172bbd6e2a435_29">
+                <text>Ja</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_C_Ocean_N_bafd7322c6e97d25b6299b5d6fe8920b_30">
+                <text>Nej</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_362aa0e270fe7ef45d26b0f89a558a6a_31">
+                <text>Påverkar temperaturen hur snabbt skalen från pteropoder löser upp sig?</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_D_Lab_Y_93cba07454f06a4a960172bbd6e2a435_32">
+                <text>Ja</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_D_Lab_N_bafd7322c6e97d25b6299b5d6fe8920b_33">
+                <text>Nej</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_D_Ocean_Y_93cba07454f06a4a960172bbd6e2a435_34">
+                <text>Ja</text>
+            </label>
+            <label key="i6344c35f0da4224699b6eb9691269b5_D_Ocean_N_bafd7322c6e97d25b6299b5d6fe8920b_35">
+                <text>Nej</text>
+            </label>
+        </item>
+    </items>
+</file>

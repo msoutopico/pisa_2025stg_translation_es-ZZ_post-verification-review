@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6462bfdaed7278.96602896/passage NEW.xml">
+            <label key="6462bfdaed7278.96602896_83444fe2b4c36fb54fe2ed687262236f_1">
+                <text>Sjungande fisk</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_e33ea2b69ce3e1734f214a8a20c38a78_2">
+                <text>Många djur ger ifrån sig ljud. Till exempel fåglar sjunger. Dessa ljud kan uppfattas av andra djur.</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_9d901a187d24ffcedbe6860d3a0039c5_3">
+                <text>Vissa fiskarter kan ge ifrån sig ljud. Dessa fiskar gör ljud med simblåsan. Simblåsan är ett gasfyllt organ som gör att fiskar kan flyta eller dyka.</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_5f24922eaaa63a4504530b9e2fe109c9_4">
+                <text>Muskler trycker ihop eller vidgar simblåsan för att göra ljud.</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_e189bd75be85ea74d6fa82e0a13e9c79_5">
+                <text>Diagrammet nedanför visar musklerna runt simblåsan på en fisk i genomskärning (vänster). Simblåsan på en fisk visas också från sidan (höger).</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_627d8ad51b851b09106fafaca38353df_6">
+                <text>muskler</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_e1596ec5b22caf514d641eb916a2c3bf_7">
+                <text>simblåsa</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_a35ecf344c66770b2ba0f0e913747072_8">
+                <text>ryggrad</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_6a19adaf8b48d5db4b49aef2b7e46ade_9">
+                <text>fenor</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_55b21d516f228de90ebc33c5068fe26e_10">
+                <text>gälar</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_e809cc608db249eaf1b13d564503dbca_11">
+                <text>tarmar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6462bfdaed7278.96602896/passage NEW.xml">
+            <label key="6462bfdaed7278.96602896_83444fe2b4c36fb54fe2ed687262236f_1">
+                <text>Sjungande fisk</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_e33ea2b69ce3e1734f214a8a20c38a78_2">
+                <text>Många djur ger ifrån sig ljud. Till exempel fåglar sjunger. Dessa ljud kan uppfattas av andra djur.</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_9d901a187d24ffcedbe6860d3a0039c5_3">
+                <text>Vissa fiskarter kan ge ifrån sig ljud. Dessa fiskar gör ljud med simblåsan. Simblåsan är ett gasfyllt organ som gör att fiskar kan flyta eller dyka.</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_5f24922eaaa63a4504530b9e2fe109c9_4">
+                <text>Muskler trycker ihop eller vidgar simblåsan för att göra ljud.</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_e189bd75be85ea74d6fa82e0a13e9c79_5">
+                <text>Diagrammet nedanför visar musklerna runt simblåsan på en fisk i genomskärning (vänster). Simblåsan på en fisk visas också från sidan (höger).</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_627d8ad51b851b09106fafaca38353df_6">
+                <text>muskler</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_e1596ec5b22caf514d641eb916a2c3bf_7">
+                <text>simblåsa</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_a35ecf344c66770b2ba0f0e913747072_8">
+                <text>ryggrad</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_6a19adaf8b48d5db4b49aef2b7e46ade_9">
+                <text>fenor</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_55b21d516f228de90ebc33c5068fe26e_10">
+                <text>gälar</text>
+            </label>
+            <label key="6462bfdaed7278.96602896_e809cc608db249eaf1b13d564503dbca_11">
+                <text>tarmar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65542cee3398e1.10595407/passage NEW 1.xml">
+            <label key="65542cee3398e1.10595407_83444fe2b4c36fb54fe2ed687262236f_1">
+                <text>Sjungande fisk</text>
+            </label>
+            <label key="65542cee3398e1.10595407_bbe2b66742a8c40037c29aa1cc44624e_2">
+                <text>Forskare vill studera hur fartygsbuller påverkar ljuden som fiskar gör.</text>
+            </label>
+            <label key="65542cee3398e1.10595407_1ce11e6e40a85ad5fae18ff21a00bcc2_3">
+                <text>För att kunna göra det använder de två undervattensmikrofoner för att spela in ljuden som fiskar gör.</text>
+            </label>
+            <label key="65542cee3398e1.10595407_aab4bee3ee23d541173ff7bbb097b633_4">
+                <text>Kartan visar rutten (transportleden) som fartyg tar genom havet till en hamn.  Till och från hamnen färdas fartygen endast längs transportleden.</text>
+            </label>
+            <label key="65542cee3398e1.10595407_8411b95f4d552623328e8bdd88e00385_5">
+                <text>
+                    transportled
+                </text>
+            </label>
+            <label key="65542cee3398e1.10595407_7036e5a9b3adaa6afbcf89e5699dc115_6">
+                <text>djupt vatten</text>
+            </label>
+            <label key="65542cee3398e1.10595407_30f881ee77fdcfe55cfa9c37c25b1326_7">
+                <text>grunt vatten</text>
+            </label>
+            <label key="65542cee3398e1.10595407_87cf962b35146c21d0dd7f84594662b6_8">
+                <text>land</text>
+            </label>
+            <label key="65542cee3398e1.10595407_901555fb06e346cb065ceb9808dcfc25_9">
+                <text>hamn</text>
+            </label>
+            <label key="65542cee3398e1.10595407_7fc56270e7a70fa81a5935b72eacbe29_10">
+                <text>A</text>
+            </label>
+            <label key="65542cee3398e1.10595407_9d5ed678fe57bcca610140957afab571_11">
+                <text>B</text>
+            </label>
+            <label key="65542cee3398e1.10595407_0d61f8370cad1d412f80b84d143e1257_12">
+                <text>C</text>
+            </label>
+            <label key="65542cee3398e1.10595407_f623e75af30e62bbd73d6df5b50bb7b5_13">
+                <text>D</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65542cee3398e1.10595407/passage NEW 1.xml">
+            <label key="65542cee3398e1.10595407_83444fe2b4c36fb54fe2ed687262236f_1">
+                <text>Sjungande fisk</text>
+            </label>
+            <label key="65542cee3398e1.10595407_bbe2b66742a8c40037c29aa1cc44624e_2">
+                <text>Forskare vill studera hur fartygsbuller påverkar ljuden som fiskar gör.</text>
+            </label>
+            <label key="65542cee3398e1.10595407_1ce11e6e40a85ad5fae18ff21a00bcc2_3">
+                <text>För att kunna göra det använder de två undervattensmikrofoner för att spela in ljuden som fiskar gör.</text>
+            </label>
+            <label key="65542cee3398e1.10595407_aab4bee3ee23d541173ff7bbb097b633_4">
+                <text>Kartan visar rutten (transportleden) som fartyg tar genom havet till en hamn.  Till och från hamnen färdas fartygen endast längs transportleden.</text>
+            </label>
+            <label key="65542cee3398e1.10595407_8411b95f4d552623328e8bdd88e00385_5">
+                <text>
+                    transportled
+                </text>
+            </label>
+            <label key="65542cee3398e1.10595407_7036e5a9b3adaa6afbcf89e5699dc115_6">
+                <text>djupt vatten</text>
+            </label>
+            <label key="65542cee3398e1.10595407_30f881ee77fdcfe55cfa9c37c25b1326_7">
+                <text>grunt vatten</text>
+            </label>
+            <label key="65542cee3398e1.10595407_87cf962b35146c21d0dd7f84594662b6_8">
+                <text>land</text>
+            </label>
+            <label key="65542cee3398e1.10595407_901555fb06e346cb065ceb9808dcfc25_9">
+                <text>hamn</text>
+            </label>
+            <label key="65542cee3398e1.10595407_7fc56270e7a70fa81a5935b72eacbe29_10">
+                <text>A</text>
+            </label>
+            <label key="65542cee3398e1.10595407_9d5ed678fe57bcca610140957afab571_11">
+                <text>B</text>
+            </label>
+            <label key="65542cee3398e1.10595407_0d61f8370cad1d412f80b84d143e1257_12">
+                <text>C</text>
+            </label>
+            <label key="65542cee3398e1.10595407_f623e75af30e62bbd73d6df5b50bb7b5_13">
+                <text>D</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65542cee3398e1.10595407/passage NEW 1.xml">
+            <label key="65542cee3398e1.10595407_83444fe2b4c36fb54fe2ed687262236f_1">
+                <text>Sjungande fisk</text>
+            </label>
+            <label key="65542cee3398e1.10595407_bbe2b66742a8c40037c29aa1cc44624e_2">
+                <text>Forskare vill studera hur fartygsbuller påverkar ljuden som fiskar gör.</text>
+            </label>
+            <label key="65542cee3398e1.10595407_1ce11e6e40a85ad5fae18ff21a00bcc2_3">
+                <text>För att kunna göra det använder de två undervattensmikrofoner för att spela in ljuden som fiskar gör.</text>
+            </label>
+            <label key="65542cee3398e1.10595407_aab4bee3ee23d541173ff7bbb097b633_4">
+                <text>Kartan visar rutten (transportleden) som fartyg tar genom havet till en hamn.  Till och från hamnen färdas fartygen endast längs transportleden.</text>
+            </label>
+            <label key="65542cee3398e1.10595407_8411b95f4d552623328e8bdd88e00385_5">
+                <text>
+                    transportled
+                </text>
+            </label>
+            <label key="65542cee3398e1.10595407_7036e5a9b3adaa6afbcf89e5699dc115_6">
+                <text>djupt vatten</text>
+            </label>
+            <label key="65542cee3398e1.10595407_30f881ee77fdcfe55cfa9c37c25b1326_7">
+                <text>grunt vatten</text>
+            </label>
+            <label key="65542cee3398e1.10595407_87cf962b35146c21d0dd7f84594662b6_8">
+                <text>land</text>
+            </label>
+            <label key="65542cee3398e1.10595407_901555fb06e346cb065ceb9808dcfc25_9">
+                <text>hamn</text>
+            </label>
+            <label key="65542cee3398e1.10595407_7fc56270e7a70fa81a5935b72eacbe29_10">
+                <text>A</text>
+            </label>
+            <label key="65542cee3398e1.10595407_9d5ed678fe57bcca610140957afab571_11">
+                <text>B</text>
+            </label>
+            <label key="65542cee3398e1.10595407_0d61f8370cad1d412f80b84d143e1257_12">
+                <text>C</text>
+            </label>
+            <label key="65542cee3398e1.10595407_f623e75af30e62bbd73d6df5b50bb7b5_13">
+                <text>D</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63324b4070d3513977e992efc6ee5d76a">
+            <label key="i63324b4070d3513977e992efc6ee5d76a_74eced51209c937632024790a1afc4c3_1">
+                <text>För vilken eller vilka av följande aktiviteter kan möjligheten att göra ljud underlätta för djuret? <div><div>Välj alla korrekta svar.</div></div></text>
+            </label>
+            <label key="i63324b4070d3513977e992efc6ee5d76a_choice_1_fe6898850e1e5055269016b645dcd421_2">
+                <text>att sova på natten</text>
+            </label>
+            <label key="i63324b4070d3513977e992efc6ee5d76a_choice_2_5fd65ae6262cc8d8df637f9e43aa31c9_3">
+                <text>att kommunicera med andra fiskar</text>
+            </label>
+            <label key="i63324b4070d3513977e992efc6ee5d76a_choice_3_537569dcef3a18d58206a6496ece180a_4">
+                <text>att gömma sig för rovdjur</text>
+            </label>
+            <label key="i63324b4070d3513977e992efc6ee5d76a_choice_4_8ca948d55148bb865bf2a6fb079024bb_5">
+                <text>att locka till sig en partner för fortplantning</text>
+            </label>
+        </item>
+        <item id="i6332501324bba1923f6b5a0bac5183ae7">
+            <label key="i6332501324bba1923f6b5a0bac5183ae7_ddb26811d67da6d4280f1594379e2dab_1">
+                <text>En viss fiskart gör ljud enbart på natten och även i lerigt vatten på dagen.</text>
+            </label>
+            <label key="i6332501324bba1923f6b5a0bac5183ae7_a7b5f5073af934184af841e6ce627301_2">
+                <text>Vad säger det om denna fiskart?</text>
+            </label>
+            <label key="i6332501324bba1923f6b5a0bac5183ae7_4b3e6cb70a889418bf45bcb43594faac_3">
+                <text>Välj korrekt svar.</text>
+            </label>
+            <label key="i6332501324bba1923f6b5a0bac5183ae7_A_918424aa42ed9e4de9611028272684bc_4">
+                <text>Den har dålig syn.</text>
+            </label>
+            <label key="i6332501324bba1923f6b5a0bac5183ae7_B_f6f83710406d55a5b63bb58329e67af8_5">
+                <text>Den är bara aktiv på natten.</text>
+            </label>
+            <label key="i6332501324bba1923f6b5a0bac5183ae7_C_7ef68dcfeabd000cbb61a636f8482e5c_6">
+                <text>Den gör inte ljud om den kan se.</text>
+            </label>
+            <label key="i6332501324bba1923f6b5a0bac5183ae7_D_175b4a84c7a822edf0626101d96a3490_7">
+                <text>Den kan inte höra ljud när det är ljust.</text>
+            </label>
+        </item>
+        <item id="i6332538a764a715600a153521a4b517fc6">
+            <label key="i6332538a764a715600a153521a4b517fc6_9cc45719809271fcd5ffa3fe9596f0d9_1">
+                <text>Forskarna spelar bara in ljuden som kommer från fisken.</text>
+            </label>
+            <label key="i6332538a764a715600a153521a4b517fc6_941914538ae53e6c7a498af2a19a4084_2">
+                <text>Vilka av följande frågor kan forskarna besvara med endast inspelning av fiskljud?</text>
+            </label>
+            <label key="i6332538a764a715600a153521a4b517fc6_1c94799ec3c7c8515acb805ab282c285_3">
+                <text>Välj alla korrekta alternativ.</text>
+            </label>
+            <label key="i6332538a764a715600a153521a4b517fc6_A_4abb1cc96270c2f70395666d2ada260b_4">
+                <text>Vilka typer av ljud gör fiskarna?</text>
+            </label>
+            <label key="i6332538a764a715600a153521a4b517fc6_B_75c4364f1e161a5d3aa8bbb3ec93c53f_5">
+                <text>Hur starka är ljuden som produceras av fisken?</text>
+            </label>
+            <label key="i6332538a764a715600a153521a4b517fc6_C_3efb3977dc922df635ef4a940e39b9b1_6">
+                <text>Varför gör fiskar ljud?</text>
+            </label>
+            <label key="i6332538a764a715600a153521a4b517fc6_D_770b0a19b97b74373bf1d2566be71c2c_7">
+                <text>Förändras ljuden som fiskarna ger ifrån sig under en dag?</text>
+            </label>
+        </item>
+        <item id="i633257e77438d1922d312042f190a1062">
+            <label key="i633257e77438d1922d312042f190a1062_c13e81aaa0434ac96b980d5c6bc66edf_1">
+                <text>
+                    Fem möjliga inspelningsplatser under vattnet är markerade på kartan till höger.
+                </text>
+            </label>
+            <label key="i633257e77438d1922d312042f190a1062_1264738321ad6e21488a57ba5bedfaa2_2">
+                <text>Forskarna måste välja två platser som gör det möjligt för dem att avgöra om passerande fartyg påverkar ljuden från fiskarna.</text>
+            </label>
+            <label key="i633257e77438d1922d312042f190a1062_1d6669919a2e0db4be5ba093eb5a1ae5_3">
+                <text>Välj de <strong>två</strong> platser där forskarna borde placera sina mikrofoner.</text>
+            </label>
+            <label key="i633257e77438d1922d312042f190a1062_choice_1_7fc56270e7a70fa81a5935b72eacbe29_4">
+                <text>A</text>
+            </label>
+            <label key="i633257e77438d1922d312042f190a1062_choice_2_9d5ed678fe57bcca610140957afab571_5">
+                <text>B</text>
+            </label>
+            <label key="i633257e77438d1922d312042f190a1062_choice_3_0d61f8370cad1d412f80b84d143e1257_6">
+                <text>C</text>
+            </label>
+            <label key="i633257e77438d1922d312042f190a1062_choice_4_f623e75af30e62bbd73d6df5b50bb7b5_7">
+                <text>D</text>
+            </label>
+            <label key="i633257e77438d1922d312042f190a1062_choice_5_3a3ea00cfc35332cedf6e5e9a32e94da_8">
+                <text>E</text>
+            </label>
+            <label key="i633257e77438d1922d312042f190a1062_dc72857901a1b54dabbb5801a9714077_9">
+                <text>Förklara varför du valde dessa platser för mikrofonerna.</text>
+            </label>
+        </item>
+        <item id="i6332589dcaf3716266e99ac4eb5738720">
+            <label key="i6332589dcaf3716266e99ac4eb5738720_4b938597532718e3296f5861bcf98200_1">
+                <text>Vilka av nedanstående förutsättningar måste vara uppfyllda för att det ska gå att dra slutsatser från studien om vilken effekt skeppsljud har på fiskars beteende?</text>
+            </label>
+            <label key="i6332589dcaf3716266e99ac4eb5738720_89b1c1de80f35eb0f385836481797561_2">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i6332589dcaf3716266e99ac4eb5738720_A_571ce93ff1fd28ae36b36c30ff8bfb9b_3">
+                <text>Den fiskart som producerar ljud ska vara samma på båda inspelningsplatserna.</text>
+            </label>
+            <label key="i6332589dcaf3716266e99ac4eb5738720_B_7a85b56e7203f8ab87c6541270fa81da_4">
+                <text>Alla fiskar i närheten av inspelningsplatserna måste producera ljud.</text>
+            </label>
+            <label key="i6332589dcaf3716266e99ac4eb5738720_C_73289c0d8473320393cf9294002948d8_5">
+                <text>Inspelningarna från varje plats som jämförs ska vara gjorda samtidigt.</text>
+            </label>
+            <label key="i6332589dcaf3716266e99ac4eb5738720_D_cde82fefba4aa0ae071310888345473d_6">
+                <text>Samma antal fartyg måste färdas längs transportleden varje dag under studien.</text>
+            </label>
+        </item>
+    </items>
+</file>

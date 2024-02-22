@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/65543168a99e27.66975881/passage NEW.xml">
+            <label key="65543168a99e27.66975881_0e9e76696ee628d8724114184ebeb5d8_1">
+                <text>Polymerer</text>
+            </label>
+            <label key="65543168a99e27.66975881_efb05cdb907423f4e575462523ce7395_2">
+                <text>Syntetiska polymerer är kemiska föreningar som används för att tillverka många olika produkter, till exempel kläder och plastpåsar. Produkter som är tillverkade av polymerer bryts inte ner lätt i naturen och kan slängas på soptippar eller förbrännas.</text>
+            </label>
+            <label key="65543168a99e27.66975881_73ffd2d955895c08597d4bcaf03fb71a_3">
+                <text>Tabellen nedan beskriver några egenskaper hos polymerer.</text>
+            </label>
+            <label key="65543168a99e27.66975881_5ad234cb2cde4266195252a23ca7d84e_4">
+                <text>Egenskap</text>
+            </label>
+            <label key="65543168a99e27.66975881_b5a7adde1af5c87d7fd797b6245c2a39_5">
+                <text>Beskrivning</text>
+            </label>
+            <label key="65543168a99e27.66975881_75c2f4990635f2eba6b0cc7ba22a4a01_6">
+                <text>Draghållfasthet</text>
+            </label>
+            <label key="65543168a99e27.66975881_6074a5bd14ec71e80d9f045b7470cf42_7">
+                <text>Ju högre draghållfasthet, desto mer kraft krävs för att slita av polymeren.</text>
+            </label>
+            <label key="65543168a99e27.66975881_f69f665cf29ff74df790334547587018_8">
+                <text>Styvhet</text>
+            </label>
+            <label key="65543168a99e27.66975881_9465d528dbb188ca71c6db38b3f4f9fa_9">
+                <text>Ju högre styvhet, desto mindre flexibel är polymeren.</text>
+            </label>
+            <label key="65543168a99e27.66975881_84d8d9791d44d678b8753c13a492cdca_10">
+                <text>Plasticitet</text>
+            </label>
+            <label key="65543168a99e27.66975881_823b8b4cfb66cc5fbe32a4f520230033_11">
+                <text>Vissa polymerer kan smältas, omformas och återanvändas. Some polymers break apart when heated.</text>
+            </label>
+            <label key="65543168a99e27.66975881_be94b64c31561513c225737b30fdcd4f_12">
+                <text>Kemisk reaktionsförmåga</text>
+            </label>
+            <label key="65543168a99e27.66975881_9d5e94519c0b9157994e3c303566bdcb_13">
+                <text>Ju högre kemisk reaktionsförmåga, desto snabbare kommer polymeren att brytas ner.</text>
+            </label>
+            <label key="65543168a99e27.66975881_76f495320f72603849ed66c5b0232cc0_14">
+                <text>Diagrammet nedan visar några egenskaper hos två nyutvecklade polymerer, A och B. Diagrammet visar de unika egenskaperna hos varje polymer samt vilka egenskaper de har gemensamt.</text>
+            </label>
+            <label key="65543168a99e27.66975881_45e37e15c30650f94e61478da36c6b83_15">
+                <text>blir mjuk vid upphettning</text>
+            </label>
+            <label key="65543168a99e27.66975881_408ad9e137edfaa1b501fa6dcab14260_16">
+                <text>hög draghållfasthet</text>
+            </label>
+            <label key="65543168a99e27.66975881_df0f4b9c8f1c66f9cf8d77aeeffcd885_17">
+                <text>break apart when heated</text>
+            </label>
+            <label key="65543168a99e27.66975881_487e8de16dc7dd34c2c49ed7604e634c_18">
+                <text>låg kemisk reaktionsförmåga</text>
+            </label>
+            <label key="65543168a99e27.66975881_9fbef178260827b7bb6c7c7b362cf014_19">
+                <text>hög styvhet</text>
+            </label>
+            <label key="65543168a99e27.66975881_a18535e7956089c21a0ffd6e8627fe4c_20">
+                <text>hög kemisk reaktionsförmåga</text>
+            </label>
+            <label key="65543168a99e27.66975881_9d359c6a0fd6c531ef567079ce32a1b8_21">
+                <text>Polymer A</text>
+            </label>
+            <label key="65543168a99e27.66975881_71c1ad9b04bcc09e35846a845a34ec50_22">
+                <text>Polymer B</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65543168a99e27.66975881/passage NEW.xml">
+            <label key="65543168a99e27.66975881_0e9e76696ee628d8724114184ebeb5d8_1">
+                <text>Polymerer</text>
+            </label>
+            <label key="65543168a99e27.66975881_efb05cdb907423f4e575462523ce7395_2">
+                <text>Syntetiska polymerer är kemiska föreningar som används för att tillverka många olika produkter, till exempel kläder och plastpåsar. Produkter som är tillverkade av polymerer bryts inte ner lätt i naturen och kan slängas på soptippar eller förbrännas.</text>
+            </label>
+            <label key="65543168a99e27.66975881_73ffd2d955895c08597d4bcaf03fb71a_3">
+                <text>Tabellen nedan beskriver några egenskaper hos polymerer.</text>
+            </label>
+            <label key="65543168a99e27.66975881_5ad234cb2cde4266195252a23ca7d84e_4">
+                <text>Egenskap</text>
+            </label>
+            <label key="65543168a99e27.66975881_b5a7adde1af5c87d7fd797b6245c2a39_5">
+                <text>Beskrivning</text>
+            </label>
+            <label key="65543168a99e27.66975881_75c2f4990635f2eba6b0cc7ba22a4a01_6">
+                <text>Draghållfasthet</text>
+            </label>
+            <label key="65543168a99e27.66975881_6074a5bd14ec71e80d9f045b7470cf42_7">
+                <text>Ju högre draghållfasthet, desto mer kraft krävs för att slita av polymeren.</text>
+            </label>
+            <label key="65543168a99e27.66975881_f69f665cf29ff74df790334547587018_8">
+                <text>Styvhet</text>
+            </label>
+            <label key="65543168a99e27.66975881_9465d528dbb188ca71c6db38b3f4f9fa_9">
+                <text>Ju högre styvhet, desto mindre flexibel är polymeren.</text>
+            </label>
+            <label key="65543168a99e27.66975881_84d8d9791d44d678b8753c13a492cdca_10">
+                <text>Plasticitet</text>
+            </label>
+            <label key="65543168a99e27.66975881_823b8b4cfb66cc5fbe32a4f520230033_11">
+                <text>Vissa polymerer kan smältas, omformas och återanvändas. Some polymers break apart when heated.</text>
+            </label>
+            <label key="65543168a99e27.66975881_be94b64c31561513c225737b30fdcd4f_12">
+                <text>Kemisk reaktionsförmåga</text>
+            </label>
+            <label key="65543168a99e27.66975881_9d5e94519c0b9157994e3c303566bdcb_13">
+                <text>Ju högre kemisk reaktionsförmåga, desto snabbare kommer polymeren att brytas ner.</text>
+            </label>
+            <label key="65543168a99e27.66975881_76f495320f72603849ed66c5b0232cc0_14">
+                <text>Diagrammet nedan visar några egenskaper hos två nyutvecklade polymerer, A och B. Diagrammet visar de unika egenskaperna hos varje polymer samt vilka egenskaper de har gemensamt.</text>
+            </label>
+            <label key="65543168a99e27.66975881_45e37e15c30650f94e61478da36c6b83_15">
+                <text>blir mjuk vid upphettning</text>
+            </label>
+            <label key="65543168a99e27.66975881_408ad9e137edfaa1b501fa6dcab14260_16">
+                <text>hög draghållfasthet</text>
+            </label>
+            <label key="65543168a99e27.66975881_df0f4b9c8f1c66f9cf8d77aeeffcd885_17">
+                <text>break apart when heated</text>
+            </label>
+            <label key="65543168a99e27.66975881_487e8de16dc7dd34c2c49ed7604e634c_18">
+                <text>låg kemisk reaktionsförmåga</text>
+            </label>
+            <label key="65543168a99e27.66975881_9fbef178260827b7bb6c7c7b362cf014_19">
+                <text>hög styvhet</text>
+            </label>
+            <label key="65543168a99e27.66975881_a18535e7956089c21a0ffd6e8627fe4c_20">
+                <text>hög kemisk reaktionsförmåga</text>
+            </label>
+            <label key="65543168a99e27.66975881_9d359c6a0fd6c531ef567079ce32a1b8_21">
+                <text>Polymer A</text>
+            </label>
+            <label key="65543168a99e27.66975881_71c1ad9b04bcc09e35846a845a34ec50_22">
+                <text>Polymer B</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639c13710459722203b33cbc2e8b0fa3e7">
+            <label key="i639c13710459722203b33cbc2e8b0fa3e7_1c6a45682c8092c46f87b376ef33569b_1">
+                <text>Vilken polymer skulle vara mest lämplig för att tillverka en flaska som ska innehålla en kolsyrad dryck och som kommer ha minst påverkan på miljön?</text>
+            </label>
+            <label key="i639c13710459722203b33cbc2e8b0fa3e7_A_9d359c6a0fd6c531ef567079ce32a1b8_2">
+                <text>Polymer A</text>
+            </label>
+            <label key="i639c13710459722203b33cbc2e8b0fa3e7_B_71c1ad9b04bcc09e35846a845a34ec50_3">
+                <text>Polymer B</text>
+            </label>
+            <label key="i639c13710459722203b33cbc2e8b0fa3e7_d3d98d679562f5fc727228e668329d48_4">
+                <text>Ange de unika egenskaper som gör ditt val av polymer lämpligt för varje krav.</text>
+            </label>
+            <label key="i639c13710459722203b33cbc2e8b0fa3e7_681784fdc055990fb1ec869474fca50a_5">
+                <text>kunna innehålla en kolsyrad dryck</text>
+            </label>
+            <label key="i639c13710459722203b33cbc2e8b0fa3e7_c8fea5fcf74f6cd1321d95181d6c374d_7">
+                <text>ha låg påverkan på miljön</text>
+            </label>
+            <label key="i639c13710459722203b33cbc2e8b0fa3e7_b1c68f8a126f0ad5b1549c15e345e9d6_9">
+                <text>Förklara varför du valde var och en av egenskaperna.</text>
+            </label>
+        </item>
+        <item id="i639c138eb779822194eec3a374693310e2">
+            <label key="i639c138eb779822194eec3a374693310e2_5463fc84b5318d24cdb4b6a72899fd56_1">
+                <text>Polykarbonat används vanligen för att tillverka kontaktlinser.</text>
+            </label>
+            <label key="i639c138eb779822194eec3a374693310e2_0bf639d2295e1ee5d9c2a801d57924ef_2">
+                <text>Kontaktlinser rengörs genom att sänka ner dem i kemikalier och de måste passa ögats form perfekt.</text>
+            </label>
+            <label key="i639c138eb779822194eec3a374693310e2_c9ae331bae1e5628f5fea93d062b4cda_3">
+                <text>Borde följande egenskaper hos polykarbonat vara höga eller låga?</text>
+            </label>
+            <label key="i639c138eb779822194eec3a374693310e2_a1e6700af524baf59e98a8d992a6a144_4">
+                <text>Välj 'Hög' eller 'Låg' för varje egenskap.</text>
+            </label>
+            <label key="i639c138eb779822194eec3a374693310e2_H_6bb6ad6f462c255b7758fb4f4613d2f8_5">
+                <text>
+                    <strong>‌Hög‌</strong>
+                </text>
+            </label>
+            <label key="i639c138eb779822194eec3a374693310e2_L_befa8ab54abe5c0777fee4fb6e2d881d_6">
+                <text>
+                    <strong>‌Låg‌</strong>
+                </text>
+            </label>
+            <label key="i639c138eb779822194eec3a374693310e2_Row2_7ab8fa131e248cf16b3763f657a31ec6_7">
+                <text>styvhet</text>
+            </label>
+            <label key="i639c138eb779822194eec3a374693310e2_Row3_46d306a2ccde9e980a33cdb4a4ca0e46_8">
+                <text>kemisk reaktionsförmåga</text>
+            </label>
+            <label key="i639c138eb779822194eec3a374693310e2_Row4_2371574be5e78ae4756191af1f7ca2b2_9">
+                <text>genomskinlighet</text>
+            </label>
+        </item>
+    </items>
+</file>

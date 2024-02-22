@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64641f1e94d801.32263704/passage NEW.xml">
+            <label key="64641f1e94d801.32263704_d29cf2e263a7c9824dfe75afaf3af0fc_1">
+                <text>Ice Stupas</text>
+            </label>
+            <label key="64641f1e94d801.32263704_efeb1c4fa7cff6d64fe2e401b10a05d7_2">
+                <text>Ladakh is a high-altitude desert in northern India. Winter temperatures are well below freezing at night.  </text>
+            </label>
+            <label key="64641f1e94d801.32263704_6e6f89b8a23748afd273bcd886611fe8_3">
+                <text>In the spring and summer, the villagers grow crops. In the past, villagers irrigated their crops using meltwater that trickled down from glaciers.</text>
+            </label>
+            <label key="64641f1e94d801.32263704_47bbbca617ecf8e27c7419eb0aed9fbf_4">
+                <text>Glaciers have been shrinking in recent decades and there has not been enough water for irrigation in spring.</text>
+            </label>
+            <label key="64641f1e94d801.32263704_faa7ae8ce4e6fe0425f729e8db083703_5">
+                <text>To alleviate this problem, engineers have created artificial glaciers, called ice stupas, to capture meltwater during the winter.</text>
+            </label>
+            <label key="64641f1e94d801.32263704_a80cff3e1b2b55844a7b4d87dcc3541b_6">
+                <text>An ice stupa consists of a conical framework of netting and thorn bushes.  At night, a pipe sprays the framework with meltwater, which freezes.  Over time, over 8 million litres of ice can accumulate. </text>
+            </label>
+            <label key="64641f1e94d801.32263704_0a8c0ffece1fa6eb96f2614bd6827b3f_7">
+                <text>In spring, the ice stupa begins to melt and provides water for the villagers and their crops.</text>
+            </label>
+            <label key="64641f1e94d801.32263704_4326f5fa12ca85c921c7d3278cfd68d5_8">
+                <text>glacier</text>
+            </label>
+            <label key="64641f1e94d801.32263704_6a9116df78ba286a3f3b0616577a8d6e_9">
+                <text>meltwater source</text>
+            </label>
+            <label key="64641f1e94d801.32263704_20826a3cb51d6c7d9c219c7f4bf4e5c9_10">
+                <text>pipe</text>
+            </label>
+            <label key="64641f1e94d801.32263704_4eeba69c9fd2cbcee2317aeeca220ee7_11">
+                <text>pipe inside stupa</text>
+            </label>
+            <label key="64641f1e94d801.32263704_b7c6a085cb0a78cf7594361cccda9f6e_12">
+                <text>ice stupa</text>
+            </label>
+            <label key="64641f1e94d801.32263704_055735916875c77f5ec78b9b114fa729_13">
+                <text>crops</text>
+            </label>
+            <label key="64641f1e94d801.32263704_af9b2fd4002f8f6d899b192e1eef2e61_14">
+                <text>netting and thorn bush frame filled with ice</text>
+            </label>
+            <label key="64641f1e94d801.32263704_8f98645041aa7d5f53913329c6946a6b_15">
+                <text>tap</text>
+            </label>
+            <label key="64641f1e94d801.32263704_a5b03048ebe345c488e0ca30eff6ab0c_16">
+                <text>river</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639a4b354f85c194587a6ac36ed8beba5f">
+            <label key="i639a4b354f85c194587a6ac36ed8beba5f_31bf19036caff8e37b6ef0707ebb4f18_1">
+                <text>Which one of the following forms of energy causes the water to spray over the ice stupa?</text>
+            </label>
+            <label key="i639a4b354f85c194587a6ac36ed8beba5f_02f4b0e8973dba14d25f39142fc78d4b_2">
+                <text>chemical potential energy</text>
+            </label>
+            <label key="i639a4b354f85c194587a6ac36ed8beba5f_f3a96a880bbb3dab60f43bdf8898ff13_3">
+                <text>thermal energy</text>
+            </label>
+            <label key="i639a4b354f85c194587a6ac36ed8beba5f_6e6ac1795560fe1b63f057465a770832_4">
+                <text>gravitational potential energy</text>
+            </label>
+            <label key="i639a4b354f85c194587a6ac36ed8beba5f_5d7ededaaf7a34050a55035e4ddc9ffe_5">
+                <text>light energy</text>
+            </label>
+        </item>
+        <item id="i639a4b4f435fd45906cb3cdfd6ef228edd">
+            <label key="i639a4b4f435fd45906cb3cdfd6ef228edd_82c8f958e1bc8f2c617be8632c080856_1">
+                <text>Salty water has a lower freezing point than pure water.</text>
+            </label>
+            <label key="i639a4b4f435fd45906cb3cdfd6ef228edd_a07c561e6df9b86b499e99ef78c2556b_2">
+                <text>Given this information, Saha made a suggestion.</text>
+            </label>
+            <label key="i639a4b4f435fd45906cb3cdfd6ef228edd_604190941c1eb22b2d720e5af5691165_3">
+                <text>Saha</text>
+            </label>
+            <label key="i639a4b4f435fd45906cb3cdfd6ef228edd_1c0b93b0ec5603ff82c0a192f68bee60_4">
+                <text>To prevent the water freezing in the pipes, we should add salt to the water to lower its freezing point.</text>
+            </label>
+            <label key="i639a4b4f435fd45906cb3cdfd6ef228edd_ec9b40737ee73593c1404f6cdb597577_5">
+                <text>Should salt be added to the water that is sprayed on the ice stupas, as Saha suggested?</text>
+            </label>
+            <label key="i639a4b4f435fd45906cb3cdfd6ef228edd_93cba07454f06a4a960172bbd6e2a435_6">
+                <text>Yes</text>
+            </label>
+            <label key="i639a4b4f435fd45906cb3cdfd6ef228edd_bafd7322c6e97d25b6299b5d6fe8920b_7">
+                <text>No</text>
+            </label>
+            <label key="i639a4b4f435fd45906cb3cdfd6ef228edd_4fd72ad9efa6be34b8ac1f513e76dfb5_8">
+                <text>Explain your answer.</text>
+            </label>
+        </item>
+        <item id="i639a4b694f54f14615ee4e5b5fdc71589d">
+            <label key="i639a4b694f54f14615ee4e5b5fdc71589d_9c4e3c3c8067141a3e49044e43af1c56_1">
+                <text>Why is water sprayed over the ice stupa at night?</text>
+            </label>
+            <label key="i639a4b694f54f14615ee4e5b5fdc71589d_169bc381c54704050903f6791fb06937_2">
+                <text>This minimises disturbances to the villagers.</text>
+            </label>
+            <label key="i639a4b694f54f14615ee4e5b5fdc71589d_78794ca6b36968adaa26e3ddc7f68bdf_3">
+                <text>Water is cheaper to pump at night.</text>
+            </label>
+            <label key="i639a4b694f54f14615ee4e5b5fdc71589d_4e63107ff0838982cb0bc358ae8942e5_4">
+                <text>The temperature is low enough at night for water to freeze.</text>
+            </label>
+            <label key="i639a4b694f54f14615ee4e5b5fdc71589d_be4db92efdcfc01e46437403b52bffa7_5">
+                <text>This allows the water to flow more easily from the glacier to the ice stupa.</text>
+            </label>
+        </item>
+        <item id="i639a4b7c5c1bb45837df3d573c905f662a">
+            <label key="i639a4b7c5c1bb45837df3d573c905f662a_9867f3499ab2d6ca261a1006125edd24_1">
+                <text>Which one of the following characteristics of the ice stupa would cause the ice to melt slowly?</text>
+            </label>
+            <label key="i639a4b7c5c1bb45837df3d573c905f662a_dbf8c68b2c8d2274d193ab48e2e719a4_2">
+                <text>The ice stupa is small in size.</text>
+            </label>
+            <label key="i639a4b7c5c1bb45837df3d573c905f662a_1bfc88e4d9c9539cbced2760936e1de6_3">
+                <text>The ice stupa forms from glacial meltwater.</text>
+            </label>
+            <label key="i639a4b7c5c1bb45837df3d573c905f662a_1bed889fe1fbf1086c81150e58e77b65_4">
+                <text>The ice stupa has a small surface-area-to-volume ratio.</text>
+            </label>
+            <label key="i639a4b7c5c1bb45837df3d573c905f662a_9c8828bf31051f70dca5ef7dad8f1edd_5">
+                <text>The ice stupa is lower than the glacier.</text>
+            </label>
+        </item>
+        <item id="i639a4b873accb1462664f547ac7f8cef9f">
+            <label key="i639a4b873accb1462664f547ac7f8cef9f_f871f191d5d00b91bf7a774918156621_1">
+                <text>Scientists conducted an investigation to determine the measures that could prevent water from freezing in metal pipes during cold weather.</text>
+            </label>
+            <label key="i639a4b873accb1462664f547ac7f8cef9f_476e603360b72e1158a551b6244e7384_2">
+                <text>Which of these actions are most likely to prevent water freezing in metal pipes?</text>
+            </label>
+            <label key="i639a4b873accb1462664f547ac7f8cef9f_89b1c1de80f35eb0f385836481797561_3">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="i639a4b873accb1462664f547ac7f8cef9f_be81c4091ce688fdf0b4712b5e794101_4">
+                <text>burying the pipe</text>
+            </label>
+            <label key="i639a4b873accb1462664f547ac7f8cef9f_55a280bcba6d59ba7fe625b0779a5338_5">
+                <text>insulating the pipe</text>
+            </label>
+            <label key="i639a4b873accb1462664f547ac7f8cef9f_d5ddfac5d78e8ffa3e2f26f859f783ee_6">
+                <text>reducing the diameter of the pipe</text>
+            </label>
+            <label key="i639a4b873accb1462664f547ac7f8cef9f_1346f7b8db3f8d4c40e3571b58443765_7">
+                <text>using a light-reflective material to make the pipe</text>
+            </label>
+        </item>
+        <item id="i639a4b89a3d0b4593428aba6e5f040d8d9">
+            <label key="i639a4b89a3d0b4593428aba6e5f040d8d9_1abeed5b60f7d9289daed627f4580dfe_1">
+                <text>Ladakh is in the Himalayan mountains in India.</text>
+            </label>
+            <label key="i639a4b89a3d0b4593428aba6e5f040d8d9_c26cbf6e0039b0b41c695943e77b3b3f_2">
+                <text>A similar artificial glacier project exists in the Andes Mountains in Chile, South America.</text>
+            </label>
+            <label key="i639a4b89a3d0b4593428aba6e5f040d8d9_17aafe8526b4e8edd1569dd014f5a943_3">
+                <text>Cajon del Maipo, Chile</text>
+            </label>
+            <label key="i639a4b89a3d0b4593428aba6e5f040d8d9_e2911ec08a39e867d5b0f6389b1fec78_4">
+                <text>Ladakh, India</text>
+            </label>
+            <label key="i639a4b89a3d0b4593428aba6e5f040d8d9_d5253fd59de9d41a52c8736106cdbf4d_5">
+                <text>In what month would ice stupas form in Chile? </text>
+            </label>
+            <label key="i639a4b89a3d0b4593428aba6e5f040d8d9_fa3e5edac607a88d8fd7ecb9d6d67424_6">
+                <text>March</text>
+            </label>
+            <label key="i639a4b89a3d0b4593428aba6e5f040d8d9_688937ccaf2a2b0c45a1c9bbba09698d_7">
+                <text>June</text>
+            </label>
+            <label key="i639a4b89a3d0b4593428aba6e5f040d8d9_cc5d90569e1c8313c2b1c2aab1401174_8">
+                <text>September</text>
+            </label>
+            <label key="i639a4b89a3d0b4593428aba6e5f040d8d9_82331503174acbae012b2004f6431fa5_9">
+                <text>December</text>
+            </label>
+        </item>
+    </items>
+</file>

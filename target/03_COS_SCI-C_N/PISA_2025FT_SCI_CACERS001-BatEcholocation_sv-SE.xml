@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64701342c9f738.77250889/passage NEW.xml">
+            <label key="64701342c9f738.77250889_863898f7bf5dd3c2690951ee7ac38190_1">
+                <text>Ekolokalisering hos fladdermöss</text>
+            </label>
+            <label key="64701342c9f738.77250889_84a1c806cc91047724daba21d27d38c1_2">
+                <text>Fladdermöss är däggdjur som kan flyga.</text>
+            </label>
+            <label key="64701342c9f738.77250889_3c0d08b1650ddec48bb2e71513fdc1fa_3">
+                <text>Fladdermöss sänder ut ljud och lyssnar efter ekon som hjälper dem att lokalisera föremål och föda.</text>
+            </label>
+            <label key="64701342c9f738.77250889_63a92a437fd409e687b80adc7a73f496_4">
+                <text>En fladdermus som sänder ut ljud mot ett föremål.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64701342c9f738.77250889/passage NEW.xml">
+            <label key="64701342c9f738.77250889_863898f7bf5dd3c2690951ee7ac38190_1">
+                <text>Ekolokalisering hos fladdermöss</text>
+            </label>
+            <label key="64701342c9f738.77250889_84a1c806cc91047724daba21d27d38c1_2">
+                <text>Fladdermöss är däggdjur som kan flyga.</text>
+            </label>
+            <label key="64701342c9f738.77250889_3c0d08b1650ddec48bb2e71513fdc1fa_3">
+                <text>Fladdermöss sänder ut ljud och lyssnar efter ekon som hjälper dem att lokalisera föremål och föda.</text>
+            </label>
+            <label key="64701342c9f738.77250889_63a92a437fd409e687b80adc7a73f496_4">
+                <text>En fladdermus som sänder ut ljud mot ett föremål.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/d67a0fbc647834e6b9713/passage NEW.xml">
+            <label key="d67a0fbc647834e6b9713_863898f7bf5dd3c2690951ee7ac38190_1">
+                <text>Ekolokalisering hos fladdermöss</text>
+            </label>
+            <label key="d67a0fbc647834e6b9713_84a1c806cc91047724daba21d27d38c1_2">
+                <text>Fladdermöss är däggdjur som kan flyga.</text>
+            </label>
+            <label key="d67a0fbc647834e6b9713_3c0d08b1650ddec48bb2e71513fdc1fa_3">
+                <text>Fladdermöss sänder ut ljud och lyssnar efter ekon som hjälper dem att lokalisera föremål och föda.</text>
+            </label>
+            <label key="d67a0fbc647834e6b9713_63a92a437fd409e687b80adc7a73f496_4">
+                <text>En fladdermus som sänder ut ljud mot ett föremål.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63281dac4aa0b2148c008f8120d5aec">
+            <label key="i63281dac4aa0b2148c008f8120d5aec_a16afcf7dcf20b45c5817b81f1b7500a_1">
+                <text>Hur kommer ljudet som sänds ut av en fladdermus tillbaka till fladdermusen?</text>
+            </label>
+            <label key="i63281dac4aa0b2148c008f8120d5aec_A_2e5cd5a506d7e1354775aef81cb42e0c_2">
+                <text>Ljudet reflekteras av ett föremål.</text>
+            </label>
+            <label key="i63281dac4aa0b2148c008f8120d5aec_B_2507da37a57fe996ba30c41dbfdb9d3e_3">
+                <text>Ljudet absorberas av ett föremål.</text>
+            </label>
+            <label key="i63281dac4aa0b2148c008f8120d5aec_C_44f15af6c3d9fbf65ce9f032044fa8b1_4">
+                <text>Ljudet kröker sig runt ett föremål.</text>
+            </label>
+            <label key="i63281dac4aa0b2148c008f8120d5aec_D_a559c3de45c76b7d7554286861a07cce_5">
+                <text>Ljudet förstärks av ett föremål.</text>
+            </label>
+        </item>
+        <item id="i63281dcb3866e155468bc5ab8af70d8">
+            <label key="i63281dcb3866e155468bc5ab8af70d8_98a6093966dd89bb64b0f4d4cecb4f46_1">
+                <text>Från vilken del av fladdermusen avges ljudet?</text>
+            </label>
+            <label key="i63281dcb3866e155468bc5ab8af70d8_A_746c2b4e3673f4d4835c011f1110abcf_2">
+                <text>öronen</text>
+            </label>
+            <label key="i63281dcb3866e155468bc5ab8af70d8_B_37c24a3158dc6f1aab7f6398e8cf5f70_3">
+                <text>huden</text>
+            </label>
+            <label key="i63281dcb3866e155468bc5ab8af70d8_C_a310e7658420302aad683d72f7ecf4c6_4">
+                <text>ögonen</text>
+            </label>
+            <label key="i63281dcb3866e155468bc5ab8af70d8_D_cb5786412becb979c90f606f25ad4b4f_5">
+                <text>munnen</text>
+            </label>
+        </item>
+        <item id="i632835814577f58620e51658693c10340">
+            <label key="i632835814577f58620e51658693c10340_7e27d87f2af400821d04a4bad7c47333_1">
+                <text>Skulle fladdermöss kunna använda ekon för aktiviteterna nedan?</text>
+            </label>
+            <label key="i632835814577f58620e51658693c10340_959e4c7d2c0849ded66776acdfd41adb_2">
+                <text>Välj antingen 'Ja' eller 'Nej' för varje aktivitet.</text>
+            </label>
+            <label key="i632835814577f58620e51658693c10340_Y_fdc1563a8afc5411a7aba3beeb918bd4_3">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i632835814577f58620e51658693c10340_N_758eaa648d8250f58a4ec4251f2ea215_4">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i632835814577f58620e51658693c10340_Row1_acb6c8fa378fef47a4f11ce93004c004_5">
+                <text>orientera sig på natten</text>
+            </label>
+            <label key="i632835814577f58620e51658693c10340_Row2_dbbd960598b0c3750e91df55544c3daf_6">
+                <text>undvika att flyga in i föremål</text>
+            </label>
+            <label key="i632835814577f58620e51658693c10340_Row3_e411454fcb0fda5c7ef946415776d080_7">
+                <text>sova på dagen</text>
+            </label>
+        </item>
+        <item id="i63282aaa6131415548329738477834c744">
+            <label key="i63282aaa6131415548329738477834c744_755979bbc3bc014d51779427e6ce5332_1">
+                <text>Fladdermusen använder ljud och ekon för att hitta insekter.</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_cfb8221ecaad4dbc05bd566b1cb19fd4_2">
+                <text>Vilken av de fyra insekterna är det mest troligt att fladdermusen hittar först?</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_choice_1_e27cc6f244d5b24c4fa15f9083d19ccf_3">
+                <text>insekt 1</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_choice_2_57561e2af2d06727d2015948a3723d8b_4">
+                <text>insekt 2</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_choice_3_0ddb9d83376dd6be0049bb8624e620ad_5">
+                <text>insekt 3</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_choice_4_b1d1617ce78324a287f2aa35d11d5a93_6">
+                <text>insekt 4</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_e043a70f53afd880b9320e8521603392_7">
+                <text>Krysset i bilden nedan visar var en fladdermus befinner sig i en grotta. Bilden visar även var fyra insekter befinner sig.</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_2d307356a9606ba5c373ded09d1e6c58_8">
+                <text>klippväggar</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_2d307356a9606ba5c373ded09d1e6c58_9">
+                <text>klippväggar</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_2d307356a9606ba5c373ded09d1e6c58_10">
+                <text>klippväggar</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_2d307356a9606ba5c373ded09d1e6c58_11">
+                <text>klippväggar</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_e27cc6f244d5b24c4fa15f9083d19ccf_12">
+                <text>insekt 1</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_57561e2af2d06727d2015948a3723d8b_13">
+                <text>insekt 2</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_0ddb9d83376dd6be0049bb8624e620ad_14">
+                <text>insekt 3</text>
+            </label>
+            <label key="i63282aaa6131415548329738477834c744_f6f61631e5f5c967e94b4870f500e32f_15">
+                <text>insekt 4</text>
+            </label>
+        </item>
+    </items>
+</file>

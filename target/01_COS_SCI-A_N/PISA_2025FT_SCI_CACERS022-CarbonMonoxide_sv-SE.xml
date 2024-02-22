@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/646411b6af8e33.49647124/passage NEW.xml">
+            <label key="646411b6af8e33.49647124_988ccf02a04dd716a1e16b07f20495db_1">
+                <text>Kolmonoxid</text>
+            </label>
+            <label key="646411b6af8e33.49647124_87ab36a0c11bc9108dba5dce04d7dfc0_2">
+                <text>En fabrik använder gassensorer för att mäta koncentrationen av kolmonoxid (CO) för att säkerställa arbetarnas säkerhet. Koncentrationen mäts i miljondelar (ppm).</text>
+            </label>
+            <label key="646411b6af8e33.49647124_ff77c8b09555f2a35255adcb2aa9cfc2_3">
+                <text>Sensorn mäter CO-nivån och visar den genomsnittliga koncentrationen för de senaste 60 sekunderna.</text>
+            </label>
+            <label key="646411b6af8e33.49647124_41701ce616ca5b28d8267594138a0d86_4">
+                <text>20 ppm CO </text>
+            </label>
+            <label key="646411b6af8e33.49647124_9793bf49ea4e0d6925c1716e87675de9_5">
+                <text>Sensorns elektronik producerar en spänning mellan 0 V och 5 V beroende på koncentrationen av kolmonoxid.</text>
+            </label>
+            <label key="646411b6af8e33.49647124_16140a0a94ca69d49b85e17333616b1b_6">
+                <text>Sensorn producerar 0 V när CO-koncentrationen är 20 ppm eller lägre.</text>
+            </label>
+            <label key="646411b6af8e33.49647124_7f7f19e317f5e9058a502fedcce8d0e7_7">
+                <text>Sensorn producerar 5 V när CO-koncentrationen är 100 ppm eller högre.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/1242ffd8634cdf096cbc0/passage NEW 2.xml">
+            <label key="1242ffd8634cdf096cbc0_03fd170d3755e35f029cc7cbcec57354_1">
+                <text>Serie 1:</text>
+            </label>
+            <label key="1242ffd8634cdf096cbc0_cd2fe2037d2b7132c74b9a2d082f85be_2">
+                <text>26, 20, 25, 20, 22</text>
+            </label>
+            <label key="1242ffd8634cdf096cbc0_e73aa35006bfb2fef9664b1872ef4b79_3">
+                <text>medelvärde = 22,6 ppm</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/9f25f291634cdf6730f47/passage NEW 3.xml">
+            <label key="9f25f291634cdf6730f47_9416ca43f3bafe346baf36e5545fbf71_1">
+                <text>Serie 2:</text>
+            </label>
+            <label key="9f25f291634cdf6730f47_64d1b989e47be286d05d183cf100c741_2">
+                <text>35, 31, 33, 36, 33</text>
+            </label>
+            <label key="9f25f291634cdf6730f47_80edc719160d66c382856fc2b1d817e1_3">
+                <text>medelvärde = 33,6 ppm</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6343761a2ffe2163926f0682b4168d7b5">
+            <label key="i6343761a2ffe2163926f0682b4168d7b5_fd1934127972d545c5ebe2e6fb96c1c2_1">
+                <text>En arbetare på fabriken uppskattar att när sensorn visar en CO-koncentration på 60 ppm, producerar sensorn en spänning på 2,5 V.</text>
+            </label>
+            <label key="i6343761a2ffe2163926f0682b4168d7b5_b8149a2ae4a86bd4d1a34d35797948b0_2">
+                <text>På vilket antagande grundade arbetaren sin uppskattning?</text>
+            </label>
+            <label key="i6343761a2ffe2163926f0682b4168d7b5_d41d8cd98f00b204e9800998ecf8427e_3">
+                <text/>
+            </label>
+        </item>
+        <item id="i6343768516766163909ae49d633b1a53c">
+            <label key="i6343768516766163909ae49d633b1a53c_f7cd1eaa216e65523dcc76a9949b57ec_1">
+                <text>Sensorer kan uppvisa små, slumpmässiga variationer i spänningen även när CO-koncentrationen är konstant. </text>
+            </label>
+            <label key="i6343768516766163909ae49d633b1a53c_3351f0d5995faaed491d5fad1c8c1f83_2">
+                <text>Vad är fördelen med att sensorn visar medelvärdet av koncentrationen när koncentrationen är konstant?</text>
+            </label>
+            <label key="i6343768516766163909ae49d633b1a53c_090677eafafbbfa8af4aa5ae4526399c_3">
+                <text>Lägre CO-koncentrationer kommer att kunna upptäckas.</text>
+            </label>
+            <label key="i6343768516766163909ae49d633b1a53c_89c405d2f4b968dca0ed0f73c663a2c5_4">
+                <text>Snabba förändringar i CO-koncentrationen kommer att upptäckas.</text>
+            </label>
+            <label key="i6343768516766163909ae49d633b1a53c_2b115421aef05978e6d4a2a5a53b682e_5">
+                <text>Sensorn kommer att upptäcka plötsliga variationer i CO-koncentrationen bättre.</text>
+            </label>
+            <label key="i6343768516766163909ae49d633b1a53c_f2fd4fd6ebcc70ad4d119c203ec6b054_6">
+                <text>Den visade genomsnittliga CO-koncentrationen kommer inte att uppvisa små variationer.</text>
+            </label>
+        </item>
+        <item id="i634376fe77af511368aaeda07960bdac2a">
+            <label key="i634376fe77af511368aaeda07960bdac2a_3b563f914c0396f1e5d333fb2acdc22e_1">
+                <text>Arbetarna i fabriken samlar in följande två serier av koncentrationsvärden (ppm) vid olika tider på dagen.</text>
+            </label>
+            <label key="i634376fe77af511368aaeda07960bdac2a_7dfe24feef7618681d045eb1f15e6761_2">
+                <text>Det gick lika lång tid mellan mätningarna i båda serierna.</text>
+            </label>
+            <label key="i634376fe77af511368aaeda07960bdac2a_f2319c9d557bc835632e82e3c8624147_3">
+                <text>De beräknar medelvärdet för varje serie.</text>
+            </label>
+            <label key="i634376fe77af511368aaeda07960bdac2a_bb74d304e1ffadb37cd4ac4b6234cc39_4">
+                <text>Vilken serie har ett medelvärde som mer korrekt representerar den faktiska genomsnittliga CO-koncentrationen under mätperioden?</text>
+            </label>
+            <label key="i634376fe77af511368aaeda07960bdac2a_1c1f6f5a379c00091bef49edbe49197a_5">
+                <text>Välj antingen 'Serie 1' eller 'Serie 2'.</text>
+            </label>
+            <label key="i634376fe77af511368aaeda07960bdac2a_14a742a5c8a85e7bdbb23e8e791c910b_6">
+                <text>Förklara ditt val.</text>
+            </label>
+        </item>
+        <item id="i63437b2d198171431644f5b360f4a4983f">
+            <label key="i63437b2d198171431644f5b360f4a4983f_8dc818b4c1b9bf372ac6cdba9434358f_1">
+                <text>Det finns tre identiska sensorer på olika platser i ett rum i fabriken.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_b30ba8e67ea80c81711c07f6d3269ea4_2">
+                <text>Den första är nära arbetarnas bänkar (inte en källa till CO).</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_c76b3a82decccdd29620928b0583c7a0_3">
+                <text>Den andra är nära en gaskamin (en möjlig källa till CO).</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_7d1e43bfd83ac1744ae8b32326404ed6_4">
+                <text>Den tredje är nära en förbränningsugn (en möjlig källa till CO).</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_4b829b47c270dfd04d123ccefeac7e96_5">
+                <text>Innan någon av de möjliga CO-källorna sätts på, visar alla sensorer den genomsnittliga bakgrundskoncentrationen av CO i rummet.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_99a69fb3278f39eab532630f8165375d_6">
+                <text>Sedan sätts både kaminen och förbränningsugnen på i 5 minuter.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_53eb7256eb0137f8574f13c3c482cbc1_7">
+                <text>Sensorn närmast kaminen når det högsta värdet.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_c24372bee4ef7da6229cd69238fc1b6f_8">
+                <text>Vad bör sensorerna visa efter att kolmonoxidkällorna har stängts av?<div></div><div>Välj korrekt svar.</div></text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_d22a7e8b8fa64c2f3e38b97812b5fb03_9">
+                <text>De två andra sensorerna kommer också snart att visa samma värde som sensorn nära gaskaminen.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_fd84726d7a677ba414d3b40c57a21498_10">
+                <text>Värdet som visades på sensorn nära kaminen kommer snabbt att minska till det ursprungliga bakgrundsvärdet.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_ea0705508e45d39c66eee23a687d58ac_11">
+                <text>Värdet som visas på varje sensor kommer att förbli detsamma.</text>
+            </label>
+            <label key="i63437b2d198171431644f5b360f4a4983f_055adf3ad3d691f94d0c31089e351728_12">
+                <text>Koncentrationerna som visades på sensorerna kommer att konvergera till samma värde. </text>
+            </label>
+        </item>
+    </items>
+</file>

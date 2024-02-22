@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:html5="html5" xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64d1c4bc63c7c0.66104868/passage NEW 2.xml">
+            <label key="64d1c4bc63c7c0.66104868_2177520839e13f037b3fd1e88d353469_1">
+                <text>Rött tidvatten</text>
+            </label>
+            <label key="64d1c4bc63c7c0.66104868_8af654db1bb1ad1067c765e816a707fe_2">
+                <text>Forskare undersöker hur lera (en finkornig jordart) kan användas för att motverka rött tidvatten.</text>
+            </label>
+            <label key="64d1c4bc63c7c0.66104868_19adead5866a1bf55c874a2458e0cb58_3">
+                <text>Leran sprejas över vattenytan. Rödvattenalgerna fastnar i leran och sjunker till botten.</text>
+            </label>
+            <label key="64d1c4bc63c7c0.66104868_19b765f7e60dfad2017b02244e606072_4">
+                <text>Illustrationerna gjordes efter observationer av algceller i mikroskop. De visar att algceller förstörs när de fastnar i lera.</text>
+            </label>
+            <label key="64d1c4bc63c7c0.66104868_d8ba08a869b030939e021569c09f7dc4_5">
+                <text>före användning av lera</text>
+            </label>
+            <label key="64d1c4bc63c7c0.66104868_864f9f4fce14aec942b434e9fc7e3e77_6">
+                <text>efter användning av lera</text>
+            </label>
+            <label key="64d1c4bc63c7c0.66104868_22715427b4b9d872ffd3589c6dcd7961_7">
+                <text>Forskarna använde följande metod för att undersöka användningen av lera för att förstöra algceller:</text>
+            </label>
+            <label key="64d1c4bc63c7c0.66104868_36011dc785dff7e3b2c93524c04fd290_8">
+                <text>Tillsätt 400 ml av en lösning med en känd koncentration av en kultur rödvattenalger till var och en av åtta olika 500 ml-bägare.</text>
+            </label>
+            <label key="64d1c4bc63c7c0.66104868_8d5747f9aebd32cb9ed5c3a254e53760_9">
+                <text>Tillsätt olika mängder lera till varje kärl; antingen 0, 80, 160, 320, 640, 1 280, 2 560 eller 5 120 mg lera.</text>
+            </label>
+            <label key="64d1c4bc63c7c0.66104868_d8006e90d8f005c47209aab30568691e_10">
+                <text>Undersök lösningen i varje kärl i ett mikroskop efter 1 timme och räkna antalet levande rödvattenalger. Använd dessa data för att beräkna procentandelen förstörda algceller (elimineringshastigheten) i varje kärl.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65542a3c427ec6.86958937/passage NEW 5.xml">
+            <label key="65542a3c427ec6.86958937_2177520839e13f037b3fd1e88d353469_1">
+                <text>Rött tidvatten</text>
+            </label>
+            <label key="65542a3c427ec6.86958937_c06dddd3743c996cdb22ff5dfedadca1_2">
+                <text>The factors that influence red–tide occurrences include the amount of sunlight, water temperature, and the amount of nutrients, such as ammonium and nitrate salts, that red-tide algae need to grow.</text>
+            </label>
+            <label key="65542a3c427ec6.86958937_4b3f85849824ed4ddd367b5249722803_3">
+                <text>Några av dessa näringsämnen ingår i konstgödsel och rengöringsmedel.</text>
+            </label>
+            <label key="65542a3c427ec6.86958937_746ff32ac9bc8c2423b7ddbb4eec0db5_4">
+                <text>
+                    rött tidvatten
+                </text>
+            </label>
+            <label key="65542a3c427ec6.86958937_1459e6d36765563b1b259e81e3964dbe_5">
+                <text>
+                    mängd solljus
+                </text>
+            </label>
+            <label key="65542a3c427ec6.86958937_b4a1eebb3644ac692bd915000ff960c2_6">
+                <text>
+                    vattentemperatur
+                </text>
+            </label>
+            <label key="65542a3c427ec6.86958937_7be70044335f8133a90341f221c5f846_7">
+                <text>
+                    mängd näringsämnen
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63719dd09528a255158cea2a1e7442b4f">
+            <label key="i63719dd09528a255158cea2a1e7442b4f_8550f8da8c442ce63663d08f651b1086_1">
+                <text>De genomsnittliga vattentemperaturerna för maj och augusti visas i tabellen nedan.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_195fbb57ffe7449796d23466085ce6d8_2">
+                <text>Maj</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_41ba70891fb6f39327d8ccb9b1dafb84_3">
+                <text>augusti</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_dc3182cde563a172f43d516f5da934aa_4">
+                <text>
+                    <strong>‌Genomsnittlig vattentemperatur (℃)‌</strong>
+                </text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_e3e5a4e071b34019caec47bec758eaa9_5">
+                <text>16,5</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_0a1d1d8aaf8a56cd0c8a02f55e67be02_6">
+                <text>25,3</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_8b8f158c798cbdf2de8d6861d5a082f3_7">
+                <text>Är följande påståenden sanna eller falska?</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_4a84b8b503029ed98b4b6fef8d83111a_8">
+                <text>Kör simuleringen för att samla in data för att svara på frågan.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_d756eecff214554c63cc57f73c880679_9">
+                <text>Välj antingen 'Sant' eller 'Falskt' för varje påstående.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_choice_1_f827cf462f62848df37c5e1e94a4da74_10">
+                <text>Sant</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_choice_2_f8320b26d30ab433c5a54546d21f414c_11">
+                <text>Falskt</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_Row1_8ddfdec89349f3b15fcdac46fa3e85ad_12">
+                <text>Populationsökningen av rödvattenalger är större i augusti än i maj.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_Row2_d62be1d18af4de201527993f9ec43f5f_13">
+                <text>Under 17 år har antalet tillfällen med rött tidvatten varit lägre i augusti än i maj.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_9343794eeafdf72a0dbbca2c7e3bd10d_14">
+                <text>Välj <strong>två</strong> rader med data i tabellen som stöder ditt svar.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_2177520839e13f037b3fd1e88d353469_15">
+                <text>Rött tidvatten</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_2afdec0afd54dc64bcb55b64b3172105_16">
+                <text>Under vissa förhållanden kan giftiga rödalger tillväxa och föröka sig snabbt, vilket leder till röd algblomning som visas i bilden. Denna algblomning kallas för <span class="fst-italic">rött tidvatten</span> när den sker i havet.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_5fb462c5c512bc7c08dd2582e4088c2b_17">
+                <text>På grund av sin giftighet kan röda tidvatten döda havslevande organismer, såsom delfiner, sköldpaddor och fiskar, och har en ekonomisk inverkan på fiskeindustrin.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_8cb59de6b15369cbce0a4dd957b3e6e4_18">
+                <text>Simuleringen nedan visar hur populationen av tre arter rödvattenalger och antalet röda tidvatten förändrades under 17 år beroende på vattentemperatur.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_65462fcca9eef6db0764c581e38791ba_19">
+                <text>Populationsförändring av rödvattenalger (%)</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_b9ae4660e1abd4c25c4b441f005e2466_20">
+                <text>Antal röda tidvatten under 17 år</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_c81e7127877260d33e2b17ee2d6b486f_21">
+                <text>Water temperature (°C)</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_80ca83312c8cb5315a99914af647ff7c_22">
+                <text>
+                    <button class="btn btn-outline-secondary" id="run-button">Kör</button>
+                </text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_5160b73292932411bebc015c484d82f4_23">
+                <text>Vattentemperatur</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_c81e7127877260d33e2b17ee2d6b486f_24">
+                <text>Water temperature (°C)</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_65462fcca9eef6db0764c581e38791ba_25">
+                <text>Populationsförändring av rödvattenalger (%)</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_b9ae4660e1abd4c25c4b441f005e2466_26">
+                <text>Antal röda tidvatten under 17 år</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_7d794a040eeb1c0f131c1b61a42e7b34_27">
+                <text>Följ stegen nedan för att se hur man styr simuleringen:</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_f703c9231f101fe361fec6abd2139291_28">
+                <text>Välj <b>Vattentemperatur</b>.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_35586cbfec66507eb42d2eb2003969fa_29">
+                <text>Klicka på knappen "Kör" för att se resultaten.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_62a82287b74b2913918d95c0847da453_30">
+                <text>Tabellen innehåller 4 rader för dina data.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_82e1c2c719d481df27cd5ca4a38a334c_31">
+                <text><span class="me-2" id="before-delete-icon"></span>‌Om du vill ta bort en rad med data klickar du på knappen "Ta bort" bredvid raden.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_b9b0f106fe7c0939da562980f568c5f3_32">
+                <text><span class="me-2" id="before-star-icon"></span>‌To select a row of data to answer a question, click anywhere on that row. Raden eller raderna du väljer markeras med en stjärna.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_82c9f8110a464b9cdbfd401a7425f03c_33">
+                <text>31 % ökning</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_4266ade99578b7bf9a4bfa3332236e44_34">
+                <text>40 % ökning</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_c66fdfac9e263787067ac9cb9ca13e62_35">
+                <text>41 % ökning</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_88e4c487c9cd336b6636173a2fc4e8a0_36">
+                <text>43 % ökning</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_cb4ec2a7c0100fca7af7fd529ad3c4fc_37">
+                <text>Select a water temperature.</text>
+            </label>
+            <label key="i63719dd09528a255158cea2a1e7442b4f_967daa44938b847583bdb3b68219547d_38">
+                <text>Selected water temperature already exists.</text>
+            </label>
+        </item>
+        <item id="i6371b64b76b3e2223029762534d146be3">
+            <label key="i6371b64b76b3e2223029762534d146be3_c49d07071477180f9aa05d61b07c4e06_1">
+                <text>Riley påstår att antalet röda tidvatten under 17 år hade ökat med samma hastighet som populationstillväxten av rödvattenalger.</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_38192e66014f081cf7f3ffbd2d45dfa2_2">
+                <text>Stämmer påståendet?</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_A_93cba07454f06a4a960172bbd6e2a435_3">
+                <text>Ja</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_B_bafd7322c6e97d25b6299b5d6fe8920b_4">
+                <text>Nej</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_4fd72ad9efa6be34b8ac1f513e76dfb5_5">
+                <text>Förklara ditt svar.</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_2177520839e13f037b3fd1e88d353469_6">
+                <text>Rött tidvatten</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_2afdec0afd54dc64bcb55b64b3172105_7">
+                <text>Under vissa förhållanden kan giftiga rödalger tillväxa och föröka sig snabbt, vilket leder till röd algblomning som visas i bilden. Denna algblomning kallas för <span class="fst-italic">rött tidvatten</span> när den sker i havet.</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_5fb462c5c512bc7c08dd2582e4088c2b_8">
+                <text>På grund av sin giftighet kan röda tidvatten döda havslevande organismer, såsom delfiner, sköldpaddor och fiskar, och har en ekonomisk inverkan på fiskeindustrin.</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_8cb59de6b15369cbce0a4dd957b3e6e4_9">
+                <text>Simuleringen nedan visar hur populationen av tre arter rödvattenalger och antalet röda tidvatten förändrades under 17 år beroende på vattentemperatur.</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_65462fcca9eef6db0764c581e38791ba_10">
+                <text>Populationsförändring av rödvattenalger (%)</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_b9ae4660e1abd4c25c4b441f005e2466_11">
+                <text>Antal röda tidvatten under 17 år</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_c81e7127877260d33e2b17ee2d6b486f_12">
+                <text>Water temperature (°C)</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_80ca83312c8cb5315a99914af647ff7c_13">
+                <text>
+                    <button class="btn btn-outline-secondary" id="run-button">Kör</button>
+                </text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_5160b73292932411bebc015c484d82f4_14">
+                <text>Vattentemperatur</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_c81e7127877260d33e2b17ee2d6b486f_15">
+                <text>Water temperature (°C)</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_65462fcca9eef6db0764c581e38791ba_16">
+                <text>Populationsförändring av rödvattenalger (%)</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_b9ae4660e1abd4c25c4b441f005e2466_17">
+                <text>Antal röda tidvatten under 17 år</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_7d794a040eeb1c0f131c1b61a42e7b34_18">
+                <text>Följ stegen nedan för att se hur man styr simuleringen:</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_f703c9231f101fe361fec6abd2139291_19">
+                <text>Välj <b>Vattentemperatur</b>.</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_35586cbfec66507eb42d2eb2003969fa_20">
+                <text>Klicka på knappen "Kör" för att se resultaten.</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_62a82287b74b2913918d95c0847da453_21">
+                <text>Tabellen innehåller 4 rader för dina data.</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_82e1c2c719d481df27cd5ca4a38a334c_22">
+                <text><span class="me-2" id="before-delete-icon"></span>‌Om du vill ta bort en rad med data klickar du på knappen "Ta bort" bredvid raden.</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_b9b0f106fe7c0939da562980f568c5f3_23">
+                <text><span class="me-2" id="before-star-icon"></span>‌To select a row of data to answer a question, click anywhere on that row. Raden eller raderna du väljer markeras med en stjärna.</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_82c9f8110a464b9cdbfd401a7425f03c_24">
+                <text>31 % ökning</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_4266ade99578b7bf9a4bfa3332236e44_25">
+                <text>40 % ökning</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_c66fdfac9e263787067ac9cb9ca13e62_26">
+                <text>41 % ökning</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_88e4c487c9cd336b6636173a2fc4e8a0_27">
+                <text>43 % ökning</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_cb4ec2a7c0100fca7af7fd529ad3c4fc_28">
+                <text>Select a water temperature.</text>
+            </label>
+            <label key="i6371b64b76b3e2223029762534d146be3_967daa44938b847583bdb3b68219547d_29">
+                <text>Selected water temperature already exists.</text>
+            </label>
+        </item>
+        <item id="i6371bd724afdb2520dda5a57c9fbee2b5">
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_a2a35200f41da10a99294bad8de37538_1">
+                <text>Här är resultaten av undersökningen.</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_d2e895a579e788c4c850bacd7e5058d3_2">
+                <text>Nummer på bägaren</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_0c59bd8790cffc77ff8dd0ba71c89e75_3">
+                <text>Mängd lera<br/>(mg)</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_78692a1301678d90aa1e0435d606d9b4_4">
+                <text>Elimineringshastighet<br/>(%)</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_c4ca4238a0b923820dcc509a6f75849b_5">
+                <text>1</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_c81e728d9d4c2f636f067f89cc14862c_6">
+                <text>2</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_f033ab37c30201f73f142449d037028d_7">
+                <text>80</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_810ccb2674a7978f74bbaf04fde1ba8e_8">
+                <text>59,9</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_eccbc87e4b5ce2fe28308fd9f2a7baf3_9">
+                <text>3</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_b73ce398c39f506af761d2277d853a92_10">
+                <text>160</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_32bb90e8976aab5298d5da10fe66f21d_11">
+                <text>72</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_a87ff679a2f3e71d9181a67b7542122c_12">
+                <text>4</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_320722549d1751cf3f247855f937b982_13">
+                <text>320</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_ad1115f1307ddb92d75c26547df16995_14">
+                <text>78,1</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_e4da3b7fbbce2345d7772b0674a318d5_15">
+                <text>5</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_4ffce04d92a4d6cb21c1494cdfcd6dc1_16">
+                <text>640</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_ff3a7b045e7cca51f910f75272c5153d_17">
+                <text>84,4</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_1679091c5a880faf6fb5e6087eb1b2dc_18">
+                <text>6</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_da11e8cd1811acb79ccf0fd62cd58f86_19">
+                <text>1280</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_35a96863a407840a3285b97d4f3cebc9_20">
+                <text>92,4</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_8f14e45fceea167a5a36dedd4bea2543_21">
+                <text>7</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_eb0ecdb070a1a0ac46de0cd733d39cf3_22">
+                <text>2560</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_f09e6cb450331f740c713be687175e58_23">
+                <text>98,2</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_c9f0f895fb98ab9159f51fd0297e236d_24">
+                <text>8</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_6aadca7bd86c4743e6724f9607256126_25">
+                <text>5120</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_f899139df5e1059396431415e770c6dd_26">
+                <text>100</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_e62b54a434a62397c1a01bf53b1c3a66_27">
+                <text>Vilken slutsats kan dras från resultaten av denna undersökning?</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_A_917dd9fe0f0dab1fcc540c8088e85a76_28">
+                <text>Fler rödvattenalger förstörs med 5 120 mg lera än med 160 mg lera.</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_B_e40ab6266325d0df07e8e97c3b20e103_29">
+                <text>När 40 mg lera används kommer elimineringshastigheten att bli 30 %.</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_C_dde503b55f30908cf60c6deb4386b8ec_30">
+                <text>Sprejning med lera kommer att stoppa röda tidvatten och inte skada det marina ekosystemet.</text>
+            </label>
+            <label key="i6371bd724afdb2520dda5a57c9fbee2b5_choice_1_b64d0b9749b1a62481e3363fed616730_31">
+                <text>Antalet levande rödvattenalger ökar när mängden lera ökar.</text>
+            </label>
+        </item>
+        <item id="i6371c658bb6d02520f50a55e86a501fe7">
+            <label key="i6371c658bb6d02520f50a55e86a501fe7_617c1cf965561fdf366d73b65547fa71_1">
+                <text>Röda tidvatten är naturliga, men de ökar i frekvens.</text>
+            </label>
+            <label key="i6371c658bb6d02520f50a55e86a501fe7_e42410326ce85544f9d58b87915033d6_2">
+                <text>Faktorerna som påverkar frekvensen av röda tidvatten (mängd solljus, vattentemperatur, mängd näringsämnen) förändras.<br/>Ge två anledningar som förklarar varför dessa faktorer förändras.</text>
+            </label>
+            <label key="i6371c658bb6d02520f50a55e86a501fe7_0bd0015927ec0a654a5264cc84c2d97f_3">
+                <text>Anledning 1:</text>
+            </label>
+            <label key="i6371c658bb6d02520f50a55e86a501fe7_c0b369721b61b490188b6f72c24cb88a_4">
+                <text>Anledning 2:</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/65544a4dd61142.74183573/passage NEW.xml">
+            <label key="65544a4dd61142.74183573_ed04be673499adfd248620b73107b340_1">
+                <text>Energikällor</text>
+            </label>
+            <label key="65544a4dd61142.74183573_1a364980dca58099ba9c706268f3f5bf_2">
+                <text>Du är borgmästare i en avlägsen stad i Zedland som genererar sin egen elektricitet med en dieseldriven generator. Nu är generatorn väldigt gammal och du behöver välja en annan energikälla.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_0de62ca364c88061cd32834f4d7143f5_3">
+                <text>Staden överväger fyra alternativa energikällor för att generera el till staden: vindkraftverk (vind), solceller (sol), vatten i rörelse (vattenkraftverk) och naturgas (ett fossilt bränsle).</text>
+            </label>
+            <label key="65544a4dd61142.74183573_51aaded1573b9cf2db63be7c33ef5686_4">
+                <text>Diagrammen nedanför visar den förväntade genomsnittliga effekten över 24 timmar i megawatt (MW) från varje källa.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b1e3436d17f9d6cbefc3624f652d335d_5">
+                <text>Diagrammen visar även kostnaden i zed per megawattimme (MWh) producerad el.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7b376d5f76b6833817251378c2b42732_6">
+                <text>Vind (4 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_7">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_8">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_9">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_10">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_11">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_12">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_13">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b25d01f851e3ad56697024b92f72fb1d_14">
+                <text>Sol (5 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_15">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_16">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_17">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_18">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_19">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_20">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_21">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_ca486cd53e99505ea82a28fc9a5f2752_22">
+                <text>Vattenkraft (3 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_23">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_24">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_25">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_26">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_27">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_28">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_29">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_dcf3f482d99bac39ed9ea34b76bfa8a8_30">
+                <text>Gas (8 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_31">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_32">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_33">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_34">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_35">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_36">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_37">
+                <text>0:00</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65544a4dd61142.74183573/passage NEW.xml">
+            <label key="65544a4dd61142.74183573_ed04be673499adfd248620b73107b340_1">
+                <text>Energikällor</text>
+            </label>
+            <label key="65544a4dd61142.74183573_1a364980dca58099ba9c706268f3f5bf_2">
+                <text>Du är borgmästare i en avlägsen stad i Zedland som genererar sin egen elektricitet med en dieseldriven generator. Nu är generatorn väldigt gammal och du behöver välja en annan energikälla.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_0de62ca364c88061cd32834f4d7143f5_3">
+                <text>Staden överväger fyra alternativa energikällor för att generera el till staden: vindkraftverk (vind), solceller (sol), vatten i rörelse (vattenkraftverk) och naturgas (ett fossilt bränsle).</text>
+            </label>
+            <label key="65544a4dd61142.74183573_51aaded1573b9cf2db63be7c33ef5686_4">
+                <text>Diagrammen nedanför visar den förväntade genomsnittliga effekten över 24 timmar i megawatt (MW) från varje källa.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b1e3436d17f9d6cbefc3624f652d335d_5">
+                <text>Diagrammen visar även kostnaden i zed per megawattimme (MWh) producerad el.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7b376d5f76b6833817251378c2b42732_6">
+                <text>Vind (4 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_7">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_8">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_9">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_10">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_11">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_12">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_13">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b25d01f851e3ad56697024b92f72fb1d_14">
+                <text>Sol (5 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_15">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_16">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_17">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_18">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_19">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_20">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_21">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_ca486cd53e99505ea82a28fc9a5f2752_22">
+                <text>Vattenkraft (3 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_23">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_24">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_25">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_26">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_27">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_28">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_29">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_dcf3f482d99bac39ed9ea34b76bfa8a8_30">
+                <text>Gas (8 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_31">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_32">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_33">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_34">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_35">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_36">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_37">
+                <text>0:00</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65544a4dd61142.74183573/passage NEW.xml">
+            <label key="65544a4dd61142.74183573_ed04be673499adfd248620b73107b340_1">
+                <text>Energikällor</text>
+            </label>
+            <label key="65544a4dd61142.74183573_1a364980dca58099ba9c706268f3f5bf_2">
+                <text>Du är borgmästare i en avlägsen stad i Zedland som genererar sin egen elektricitet med en dieseldriven generator. Nu är generatorn väldigt gammal och du behöver välja en annan energikälla.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_0de62ca364c88061cd32834f4d7143f5_3">
+                <text>Staden överväger fyra alternativa energikällor för att generera el till staden: vindkraftverk (vind), solceller (sol), vatten i rörelse (vattenkraftverk) och naturgas (ett fossilt bränsle).</text>
+            </label>
+            <label key="65544a4dd61142.74183573_51aaded1573b9cf2db63be7c33ef5686_4">
+                <text>Diagrammen nedanför visar den förväntade genomsnittliga effekten över 24 timmar i megawatt (MW) från varje källa.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b1e3436d17f9d6cbefc3624f652d335d_5">
+                <text>Diagrammen visar även kostnaden i zed per megawattimme (MWh) producerad el.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7b376d5f76b6833817251378c2b42732_6">
+                <text>Vind (4 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_7">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_8">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_9">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_10">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_11">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_12">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_13">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b25d01f851e3ad56697024b92f72fb1d_14">
+                <text>Sol (5 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_15">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_16">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_17">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_18">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_19">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_20">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_21">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_ca486cd53e99505ea82a28fc9a5f2752_22">
+                <text>Vattenkraft (3 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_23">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_24">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_25">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_26">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_27">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_28">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_29">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_dcf3f482d99bac39ed9ea34b76bfa8a8_30">
+                <text>Gas (8 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_31">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_32">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_33">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_34">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_35">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_36">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_37">
+                <text>0:00</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65544a4dd61142.74183573/passage NEW.xml">
+            <label key="65544a4dd61142.74183573_ed04be673499adfd248620b73107b340_1">
+                <text>Energikällor</text>
+            </label>
+            <label key="65544a4dd61142.74183573_1a364980dca58099ba9c706268f3f5bf_2">
+                <text>Du är borgmästare i en avlägsen stad i Zedland som genererar sin egen elektricitet med en dieseldriven generator. Nu är generatorn väldigt gammal och du behöver välja en annan energikälla.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_0de62ca364c88061cd32834f4d7143f5_3">
+                <text>Staden överväger fyra alternativa energikällor för att generera el till staden: vindkraftverk (vind), solceller (sol), vatten i rörelse (vattenkraftverk) och naturgas (ett fossilt bränsle).</text>
+            </label>
+            <label key="65544a4dd61142.74183573_51aaded1573b9cf2db63be7c33ef5686_4">
+                <text>Diagrammen nedanför visar den förväntade genomsnittliga effekten över 24 timmar i megawatt (MW) från varje källa.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b1e3436d17f9d6cbefc3624f652d335d_5">
+                <text>Diagrammen visar även kostnaden i zed per megawattimme (MWh) producerad el.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7b376d5f76b6833817251378c2b42732_6">
+                <text>Vind (4 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_7">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_8">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_9">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_10">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_11">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_12">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_13">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b25d01f851e3ad56697024b92f72fb1d_14">
+                <text>Sol (5 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_15">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_16">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_17">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_18">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_19">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_20">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_21">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_ca486cd53e99505ea82a28fc9a5f2752_22">
+                <text>Vattenkraft (3 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_23">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_24">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_25">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_26">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_27">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_28">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_29">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_dcf3f482d99bac39ed9ea34b76bfa8a8_30">
+                <text>Gas (8 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_31">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_32">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_33">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_34">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_35">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_36">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_37">
+                <text>0:00</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65544a4dd61142.74183573/passage NEW.xml">
+            <label key="65544a4dd61142.74183573_ed04be673499adfd248620b73107b340_1">
+                <text>Energikällor</text>
+            </label>
+            <label key="65544a4dd61142.74183573_1a364980dca58099ba9c706268f3f5bf_2">
+                <text>Du är borgmästare i en avlägsen stad i Zedland som genererar sin egen elektricitet med en dieseldriven generator. Nu är generatorn väldigt gammal och du behöver välja en annan energikälla.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_0de62ca364c88061cd32834f4d7143f5_3">
+                <text>Staden överväger fyra alternativa energikällor för att generera el till staden: vindkraftverk (vind), solceller (sol), vatten i rörelse (vattenkraftverk) och naturgas (ett fossilt bränsle).</text>
+            </label>
+            <label key="65544a4dd61142.74183573_51aaded1573b9cf2db63be7c33ef5686_4">
+                <text>Diagrammen nedanför visar den förväntade genomsnittliga effekten över 24 timmar i megawatt (MW) från varje källa.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b1e3436d17f9d6cbefc3624f652d335d_5">
+                <text>Diagrammen visar även kostnaden i zed per megawattimme (MWh) producerad el.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7b376d5f76b6833817251378c2b42732_6">
+                <text>Vind (4 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_7">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_8">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_9">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_10">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_11">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_12">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_13">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b25d01f851e3ad56697024b92f72fb1d_14">
+                <text>Sol (5 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_15">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_16">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_17">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_18">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_19">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_20">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_21">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_ca486cd53e99505ea82a28fc9a5f2752_22">
+                <text>Vattenkraft (3 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_23">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_24">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_25">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_26">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_27">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_28">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_29">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_dcf3f482d99bac39ed9ea34b76bfa8a8_30">
+                <text>Gas (8 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_31">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_32">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_33">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_34">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_35">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_36">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_37">
+                <text>0:00</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65544a4dd61142.74183573/passage NEW.xml">
+            <label key="65544a4dd61142.74183573_ed04be673499adfd248620b73107b340_1">
+                <text>Energikällor</text>
+            </label>
+            <label key="65544a4dd61142.74183573_1a364980dca58099ba9c706268f3f5bf_2">
+                <text>Du är borgmästare i en avlägsen stad i Zedland som genererar sin egen elektricitet med en dieseldriven generator. Nu är generatorn väldigt gammal och du behöver välja en annan energikälla.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_0de62ca364c88061cd32834f4d7143f5_3">
+                <text>Staden överväger fyra alternativa energikällor för att generera el till staden: vindkraftverk (vind), solceller (sol), vatten i rörelse (vattenkraftverk) och naturgas (ett fossilt bränsle).</text>
+            </label>
+            <label key="65544a4dd61142.74183573_51aaded1573b9cf2db63be7c33ef5686_4">
+                <text>Diagrammen nedanför visar den förväntade genomsnittliga effekten över 24 timmar i megawatt (MW) från varje källa.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b1e3436d17f9d6cbefc3624f652d335d_5">
+                <text>Diagrammen visar även kostnaden i zed per megawattimme (MWh) producerad el.</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7b376d5f76b6833817251378c2b42732_6">
+                <text>Vind (4 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_7">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_8">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_9">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_10">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_11">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_12">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_13">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_b25d01f851e3ad56697024b92f72fb1d_14">
+                <text>Sol (5 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_15">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_16">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_17">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_18">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_19">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_20">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_21">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_ca486cd53e99505ea82a28fc9a5f2752_22">
+                <text>Vattenkraft (3 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_23">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_24">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_25">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_26">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_27">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_28">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_29">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_dcf3f482d99bac39ed9ea34b76bfa8a8_30">
+                <text>Gas (8 zed per MWh)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_c84fd509544828f809e06e43f369423f_31">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="65544a4dd61142.74183573_27c1d56a7b82d2b8088c86fc4196dc53_32">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_33">
+                <text>0:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_7952773fea1557bb0d023447afadd0a8_34">
+                <text>6:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_18940d53c58a1ba453fcfbce1ab0609a_35">
+                <text>12:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_5c05df1fee74b1ce3f739301d0de4e2d_36">
+                <text>18:00</text>
+            </label>
+            <label key="65544a4dd61142.74183573_f589e35f791eb639390cfb1e5cc8306e_37">
+                <text>0:00</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i640fb803528ee609217d01154c893f2a46">
+            <label key="i640fb803528ee609217d01154c893f2a46_4a8c30e6d8d643231cead5eeb5a470f2_1">
+                <text>Var och en av de fyra tillgängliga energikällorna har en begränsning.</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_652faba5feacfd6692d5314937a28c08_2">
+                <text>Dra ett streck för att para ihop varje energikälla med dess begränsning.</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_f08cb6c29ae253f6043cb5318e29cb25_3">
+                <text>Para ihop rutor genom att välja en ruta i varje kolumn.</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_4fd6443aa40323c1355b592abc7d5cdc_4">
+                <text>Du kan ta bort en matchning genom att markera linjen och sedan klicka på 'x'.</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_f31bbdd1b3e85bccd652680e16935819_5">
+                <text>Källa</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_f3d9abb903127694db460aa9c7f4d7be_6">
+                <text>Begränsning</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_7e25b972e192b01004b62346ee9975a5_7">
+                <text>vind</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_941c9a65edc0c72b3ecdab1d08d9f4ee_8">
+                <text>fortsatt beroende av fossila bränslen</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_e2cf1817f9bb7713307949ada414cb68_9">
+                <text>sol</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_aca42ef511fe29ec3b4a2a032a15559c_10">
+                <text>svårt att tillförlitligt förutsäga elproduktion</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_76c71cf6763aece3cc9e89761c9a7244_11">
+                <text>vattenkraft</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_2794ca5be39bc4bcaa0a633f6cbc106e_12">
+                <text>leder till långsiktiga förändringar i naturen</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_fee74eac0728a1bb5ff7d4666f8c4a88_13">
+                <text>gas</text>
+            </label>
+            <label key="i640fb803528ee609217d01154c893f2a46_73e23318bbc3e2c24c0b9650f0d55fe5_14">
+                <text>största dagliga variation i elproduktion</text>
+            </label>
+        </item>
+        <item id="i63928f97126f32710f78a8c48de3d7c27">
+            <label key="i63928f97126f32710f78a8c48de3d7c27_53e601420634e0cdd983fb91a87a5c79_1">
+                <text>Diagrammet nedan visar den genomsnittliga dagliga elanvändningen i staden.</text>
+            </label>
+            <label key="i63928f97126f32710f78a8c48de3d7c27_27c1d56a7b82d2b8088c86fc4196dc53_2">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="i63928f97126f32710f78a8c48de3d7c27_23a320c166101220abe2595aeffd940b_3">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="i63928f97126f32710f78a8c48de3d7c27_f589e35f791eb639390cfb1e5cc8306e_4">
+                <text>0:00</text>
+            </label>
+            <label key="i63928f97126f32710f78a8c48de3d7c27_7952773fea1557bb0d023447afadd0a8_5">
+                <text>6:00</text>
+            </label>
+            <label key="i63928f97126f32710f78a8c48de3d7c27_18940d53c58a1ba453fcfbce1ab0609a_6">
+                <text>12:00</text>
+            </label>
+            <label key="i63928f97126f32710f78a8c48de3d7c27_5c05df1fee74b1ce3f739301d0de4e2d_7">
+                <text>18:00</text>
+            </label>
+            <label key="i63928f97126f32710f78a8c48de3d7c27_f589e35f791eb639390cfb1e5cc8306e_8">
+                <text>0:00</text>
+            </label>
+            <label key="i63928f97126f32710f78a8c48de3d7c27_7bc8e3630173847ead13b1009a02fb26_9">
+                <text>Vad är ett av problemen som staden skulle få om det inte fanns tillräckligt med elektricitet?</text>
+            </label>
+        </item>
+        <item id="i63928f18b0f1623329b4984831abf942c">
+            <label key="i63928f18b0f1623329b4984831abf942c_53e601420634e0cdd983fb91a87a5c79_1">
+                <text>Diagrammet nedan visar den genomsnittliga dagliga elanvändningen i staden.</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_27c1d56a7b82d2b8088c86fc4196dc53_2">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_c84fd509544828f809e06e43f369423f_3">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_f589e35f791eb639390cfb1e5cc8306e_4">
+                <text>0:00</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_7952773fea1557bb0d023447afadd0a8_5">
+                <text>6:00</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_18940d53c58a1ba453fcfbce1ab0609a_6">
+                <text>12:00</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_5c05df1fee74b1ce3f739301d0de4e2d_7">
+                <text>18:00</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_f589e35f791eb639390cfb1e5cc8306e_8">
+                <text>0:00</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_119fd8ec3492e6bfc7d9491e5ecdc043_9">
+                <text>Vilken enskild alternativ energikälla skulle kunna möta stadens dagliga elbehov alla timmar på dygnet?</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_choice_1_7e25b972e192b01004b62346ee9975a5_10">
+                <text>vind</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_choice_2_e2cf1817f9bb7713307949ada414cb68_11">
+                <text>sol</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_choice_3_76c71cf6763aece3cc9e89761c9a7244_12">
+                <text>vattenkraft</text>
+            </label>
+            <label key="i63928f18b0f1623329b4984831abf942c_choice_4_fee74eac0728a1bb5ff7d4666f8c4a88_13">
+                <text>gas</text>
+            </label>
+        </item>
+        <item id="i6392903fe722d27105b07f25c66a85c0e">
+            <label key="i6392903fe722d27105b07f25c66a85c0e_53e601420634e0cdd983fb91a87a5c79_1">
+                <text>Diagrammet nedan visar den genomsnittliga dagliga elanvändningen i staden.</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_27c1d56a7b82d2b8088c86fc4196dc53_2">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_18774531f4a56eba2980b4d14691f4a6_3">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_f589e35f791eb639390cfb1e5cc8306e_4">
+                <text>0:00</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_7952773fea1557bb0d023447afadd0a8_5">
+                <text>6:00</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_18940d53c58a1ba453fcfbce1ab0609a_6">
+                <text>12:00</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_5c05df1fee74b1ce3f739301d0de4e2d_7">
+                <text>18:00</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_f589e35f791eb639390cfb1e5cc8306e_8">
+                <text>0:00</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_058ef8c0ea84754b728b33d60da1f06e_9">
+                <text>Tänk på en dag med genomsnittlig elanvändning (visas ovan) och den el som förväntas genereras av alternativa källor (visas till höger).</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_e6608bd30674725f25b31360ab915f15_10">
+                <text>Vilken av följande kombinationer skulle tillhandahålla tillräckligt med el till staden för det lägsta priset?</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_54856a018828f91840e53a7b147acfca_11">
+                <text><strong>Primär källa</strong> Använd all tillgänglig el genererad från den primära källan | <strong>Sekundär källa</strong> Använd bara när el från den primära källan är otillräcklig</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_A_8d28a331849aa7b2154ab309d2bf1aca_12">
+                <text>vind | gas</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_B_d1b96b6cfa0de73209257e9e9c0b950e_13">
+                <text>vattenkraft | vind</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_C_f0ed6cbdd330b1dda18fd306bf4ac047_14">
+                <text>vind | sol</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_D_5137e0af459d309d6c8be84757c1a015_15">
+                <text>vattenkraft | gas</text>
+            </label>
+            <label key="i6392903fe722d27105b07f25c66a85c0e_b306f6f6423c72b8b5fc5c578a0856ca_16">
+                <text>Vad är en av riskerna för staden med den kombination du har valt?</text>
+            </label>
+        </item>
+        <item id="i639293ec8be4f232935b2c8587851bd62">
+            <label key="i639293ec8be4f232935b2c8587851bd62_53e601420634e0cdd983fb91a87a5c79_1">
+                <text>Diagrammet nedan visar den genomsnittliga dagliga elanvändningen i staden.</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_27c1d56a7b82d2b8088c86fc4196dc53_2">
+                <text>Effekt (MW)</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_18774531f4a56eba2980b4d14691f4a6_3">
+                <text>Tid på dagen</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_f589e35f791eb639390cfb1e5cc8306e_4">
+                <text>0:00</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_7952773fea1557bb0d023447afadd0a8_5">
+                <text>6:00</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_18940d53c58a1ba453fcfbce1ab0609a_6">
+                <text>12:00</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_5c05df1fee74b1ce3f739301d0de4e2d_7">
+                <text>18:00</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_f589e35f791eb639390cfb1e5cc8306e_8">
+                <text>0:00</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_13103cae61082c1bb476faba778fb483_9">
+                <text>Staden överväger att bara använda vattenkraft för att generera elektricitet och vill köpa ett batteri där det som inte omedelbart används kan lagras.</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_06b1f4b19612fc5d4e4429565a500ebd_10">
+                <text>Skulle kombinationen av vattenkraft och batteri garantera att stadens behov av elektricitet är uppfyllt alla timmar på dygnet?</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_choice_1_93cba07454f06a4a960172bbd6e2a435_11">
+                <text>Ja</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_choice_2_bafd7322c6e97d25b6299b5d6fe8920b_12">
+                <text>Nej</text>
+            </label>
+            <label key="i639293ec8be4f232935b2c8587851bd62_4fd72ad9efa6be34b8ac1f513e76dfb5_13">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+        <item id="i63928f39a32af233134615ab0d0efba5f">
+            <label key="i63928f39a32af233134615ab0d0efba5f_db6a3ed9ca0334dc6968e6e0d2cd8325_1">
+                <text>Regeringen inför en ny skatt – en så kallad koldioxidskatt – på mängden koldioxid som släpps ut när elektricitet genereras.</text>
+            </label>
+            <label key="i63928f39a32af233134615ab0d0efba5f_2771dc2425bde9d1c0a5e27a23a01aba_2">
+                <text>Koldioxidskatten är <strong>fem zed</strong> per ton koldioxid som släpps ut.</text>
+            </label>
+            <label key="i63928f39a32af233134615ab0d0efba5f_81891f990d344cbf640a8ebabbe37508_3">
+                <text>För vilken energikälla skulle kostnaden öka mest genom införandet av en koldioxidskatt?</text>
+            </label>
+            <label key="i63928f39a32af233134615ab0d0efba5f_A_7e25b972e192b01004b62346ee9975a5_4">
+                <text>vind</text>
+            </label>
+            <label key="i63928f39a32af233134615ab0d0efba5f_B_e2cf1817f9bb7713307949ada414cb68_5">
+                <text>sol</text>
+            </label>
+            <label key="i63928f39a32af233134615ab0d0efba5f_C_76c71cf6763aece3cc9e89761c9a7244_6">
+                <text>vattenkraft</text>
+            </label>
+            <label key="i63928f39a32af233134615ab0d0efba5f_D_fee74eac0728a1bb5ff7d4666f8c4a88_7">
+                <text>gas</text>
+            </label>
+            <label key="i63928f39a32af233134615ab0d0efba5f_b7fc0585b141c61aa2637c0e0341a694_8">
+                <text>Av vilka av följande anledningar skulle en regering kunna överväga att införa en koldioxidskatt?<div><div>Välj alla korrekta svar.</div></div></text>
+            </label>
+            <label key="i63928f39a32af233134615ab0d0efba5f_A_2_99f935dabd37aa8ba716a0ba8ad05293_9">
+                <text>för att garantera att staden har en kontinuerlig elförsörjning</text>
+            </label>
+            <label key="i63928f39a32af233134615ab0d0efba5f_B_2_67564dd5219528249780f75ef9e87db7_10">
+                <text>för att öka den totala mängden elektricitet som kan överföras</text>
+            </label>
+            <label key="i63928f39a32af233134615ab0d0efba5f_C_2_45b19f4fb65efc3ebba7af9b3a72331d_11">
+                <text>för att skapa finansiering för forskning om innovationer för ren energi</text>
+            </label>
+            <label key="i63928f39a32af233134615ab0d0efba5f_D_2_64e30c44351b9239da00badfe429198d_12">
+                <text>för att uppmuntra användning av energikällor som orsakar mindre miljöskador</text>
+            </label>
+        </item>
+    </items>
+</file>

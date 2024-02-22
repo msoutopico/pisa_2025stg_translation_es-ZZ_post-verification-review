@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64641e76bd72a4.52078075/passage NEW.xml">
+            <label key="64641e76bd72a4.52078075_606924e526ad48e78148df7e4bbfa35d_1">
+                <text>Förlorad biologisk mångfald</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_4d7a7838c8cdc7ef5cd0ca71269d9351_2">
+                <text>”Biologisk mångfald” syftar på variationen av växter, djur och andra organismer på en särskild plats eller i hela världen.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_e2d79418d800120eba0f41fa98b45d23_3">
+                <text>Korallrev anses ha den största biologiska mångfalden av alla ekosystem. Korallrev är stenstrukturer som byggts upp av korallorganismer och alger i grunda tropiska vatten. De är habitat för många marina djurarter.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_7e3562c95ce5e21650960893b2494d55_4">
+                <text>Förlust av biologisk mångfald pågår över hela världen. Diagrammet visar hur stor andel i procent av olika artgrupper i naturen som för tillfället riskerar att utrotas.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_9b126e449c7d05cf163e81c272ef319b_5">
+                <text>
+                    <strong>‌Utrotningsrisk för några artgrupper‌</strong>
+                </text>
+            </label>
+            <label key="64641e76bd72a4.52078075_b6b9e2f29a4c04f2a58e64adbf308b8c_6">
+                <text>Korallorganismer</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_054ddb0c149e58eaff39004aa1a388c9_7">
+                <text>Havssköldpaddor</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_d45e9b71c4138c2f3ad629d1ee907eae_8">
+                <text>Barrträd</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_4501a6b062e4d04f4011538f0608b6fb_9">
+                <text>Groddjur</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_bd3458e1e376b172af6ed1b62e1387bd_10">
+                <text>Däggdjur</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_8587a72eab920162227602c75e6ca1c0_11">
+                <text>Fåglar</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_b87aa85458d327e1c4548606af843417_12">
+                <text>
+                    <strong>‌Procentandelen av arter som riskerar utrotning‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64641e76bd72a4.52078075/passage NEW.xml">
+            <label key="64641e76bd72a4.52078075_606924e526ad48e78148df7e4bbfa35d_1">
+                <text>Förlorad biologisk mångfald</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_4d7a7838c8cdc7ef5cd0ca71269d9351_2">
+                <text>”Biologisk mångfald” syftar på variationen av växter, djur och andra organismer på en särskild plats eller i hela världen.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_e2d79418d800120eba0f41fa98b45d23_3">
+                <text>Korallrev anses ha den största biologiska mångfalden av alla ekosystem. Korallrev är stenstrukturer som byggts upp av korallorganismer och alger i grunda tropiska vatten. De är habitat för många marina djurarter.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_7e3562c95ce5e21650960893b2494d55_4">
+                <text>Förlust av biologisk mångfald pågår över hela världen. Diagrammet visar hur stor andel i procent av olika artgrupper i naturen som för tillfället riskerar att utrotas.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_9b126e449c7d05cf163e81c272ef319b_5">
+                <text>
+                    <strong>‌Utrotningsrisk för några artgrupper‌</strong>
+                </text>
+            </label>
+            <label key="64641e76bd72a4.52078075_b6b9e2f29a4c04f2a58e64adbf308b8c_6">
+                <text>Korallorganismer</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_054ddb0c149e58eaff39004aa1a388c9_7">
+                <text>Havssköldpaddor</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_d45e9b71c4138c2f3ad629d1ee907eae_8">
+                <text>Barrträd</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_4501a6b062e4d04f4011538f0608b6fb_9">
+                <text>Groddjur</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_bd3458e1e376b172af6ed1b62e1387bd_10">
+                <text>Däggdjur</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_8587a72eab920162227602c75e6ca1c0_11">
+                <text>Fåglar</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_b87aa85458d327e1c4548606af843417_12">
+                <text>
+                    <strong>‌Procentandelen av arter som riskerar utrotning‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64641e76bd72a4.52078075/passage NEW.xml">
+            <label key="64641e76bd72a4.52078075_606924e526ad48e78148df7e4bbfa35d_1">
+                <text>Förlorad biologisk mångfald</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_4d7a7838c8cdc7ef5cd0ca71269d9351_2">
+                <text>”Biologisk mångfald” syftar på variationen av växter, djur och andra organismer på en särskild plats eller i hela världen.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_e2d79418d800120eba0f41fa98b45d23_3">
+                <text>Korallrev anses ha den största biologiska mångfalden av alla ekosystem. Korallrev är stenstrukturer som byggts upp av korallorganismer och alger i grunda tropiska vatten. De är habitat för många marina djurarter.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_7e3562c95ce5e21650960893b2494d55_4">
+                <text>Förlust av biologisk mångfald pågår över hela världen. Diagrammet visar hur stor andel i procent av olika artgrupper i naturen som för tillfället riskerar att utrotas.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_9b126e449c7d05cf163e81c272ef319b_5">
+                <text>
+                    <strong>‌Utrotningsrisk för några artgrupper‌</strong>
+                </text>
+            </label>
+            <label key="64641e76bd72a4.52078075_b6b9e2f29a4c04f2a58e64adbf308b8c_6">
+                <text>Korallorganismer</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_054ddb0c149e58eaff39004aa1a388c9_7">
+                <text>Havssköldpaddor</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_d45e9b71c4138c2f3ad629d1ee907eae_8">
+                <text>Barrträd</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_4501a6b062e4d04f4011538f0608b6fb_9">
+                <text>Groddjur</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_bd3458e1e376b172af6ed1b62e1387bd_10">
+                <text>Däggdjur</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_8587a72eab920162227602c75e6ca1c0_11">
+                <text>Fåglar</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_b87aa85458d327e1c4548606af843417_12">
+                <text>
+                    <strong>‌Procentandelen av arter som riskerar utrotning‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639f8c6d1c1b150708bdf96d2cc080ac92">
+            <label key="i639f8c6d1c1b150708bdf96d2cc080ac92_95655e0179d781a5e2d0aee82d8be3a5_1">
+                <text>Vilket av följande påståenden har stöd av datan i diagrammet?</text>
+            </label>
+            <label key="i639f8c6d1c1b150708bdf96d2cc080ac92_A_a9536f0005e73f1997faa10bed6621bd_2">
+                <text>Procentandelen av arter som riskerar att bli utrotade är lika stor för barrträd och fåglar.</text>
+            </label>
+            <label key="i639f8c6d1c1b150708bdf96d2cc080ac92_B_26ad1152fba4a1c6f59906666396c3e5_3">
+                <text>Procentandelen av arter som riskerar att bli utrotade är lägre för däggdjur än för de andra artgrupperna.</text>
+            </label>
+            <label key="i639f8c6d1c1b150708bdf96d2cc080ac92_C_3cc28af7034fe97d16e29eb3c8a574a2_4">
+                <text>Procentandelen av arter som riskerar att bli utrotade är större för groddjur än för de andra artgrupperna.</text>
+            </label>
+            <label key="i639f8c6d1c1b150708bdf96d2cc080ac92_D_edd2227ab73a8c79adf3ae03d0f7aefa_5">
+                <text>Procentandelen av arter som riskerar att bli utrotade är större för havssköldpaddor än för de andra artgrupperna.</text>
+            </label>
+        </item>
+        <item id="i639f8c4bcc2f317132d978a255319a2cfb">
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_d79c027ad4a21112a0db9a9bd9173ff7_1">
+                <text>Beslutsfattare behöver pålitlig information för att avgöra vilka åtgärder som krävs för att förhindra ytterligare förluster av biologisk mångfald.</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_78781823528cea38394f154f27c1e974_2">
+                <text>Nedan finns fyra beskrivningar av källor till information om förlust av biologisk mångfald.</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_317a538200908aee3ceccea0736c6d26_3">
+                <text>Vilken informationskälla skulle vara mest pålitlig?</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_A_838d1a31844f032aeaf5d9dfe84c993d_4">
+                <text>Källan skrevs av en forskare som är specialiserad på astronomi.</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_B_f43b9490ea66cbc564c9a1d5f8d831aa_5">
+                <text>Källan hänvisar till källor som granskats av forskare som är experter på ämnet.</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_C_14d1422460ce1f5fa4ee7f7528a3747a_6">
+                <text>Källan skrevs av en miljöaktivist som är volontär i en naturvårdsorganisation.</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_D_2a5b79291ec517a746978068ea2a9efa_7">
+                <text>Källan publicerades på en webbplats för turism som gör reklam för semesterresor för att se utrotningshotade arter.</text>
+            </label>
+        </item>
+        <item id="i639f8c619ec9152384a442d77b87a73d95">
+            <label key="i639f8c619ec9152384a442d77b87a73d95_7c6e56fc02daefea9901dcc6242c4aca_1">
+                <text>
+                    <strong>‌Nyhetsrubriken nedan påstår att vår användning av marina resurser orsakar förlust av biologisk mångfald.‌</strong>
+                </text>
+            </label>
+            <label key="i639f8c619ec9152384a442d77b87a73d95_20be5f6c35126cc645b7eb8c6bed6742_2">
+                <text>Människans överutnyttjande av marina resurser har nått oöverträffade nivåer.</text>
+            </label>
+            <label key="i639f8c619ec9152384a442d77b87a73d95_68a036b16063dfb93c3b5690f10c3d17_3">
+                <text>Ger informationen i diagrammet stöd åt påståendet i rubriken?</text>
+            </label>
+            <label key="i639f8c619ec9152384a442d77b87a73d95_choice_1_93cba07454f06a4a960172bbd6e2a435_4">
+                <text>Ja</text>
+            </label>
+            <label key="i639f8c619ec9152384a442d77b87a73d95_choice_2_bafd7322c6e97d25b6299b5d6fe8920b_5">
+                <text>Nej</text>
+            </label>
+            <label key="i639f8c619ec9152384a442d77b87a73d95_4fd72ad9efa6be34b8ac1f513e76dfb5_6">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+    </items>
+</file>

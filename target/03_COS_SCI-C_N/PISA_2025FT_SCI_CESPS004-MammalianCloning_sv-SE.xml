@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64b0e83ca66150.29370899/passage NEW.xml">
+            <label key="64b0e83ca66150.29370899_9231be65513a875fb0a0a303ae162106_1">
+                <text>Kloning av däggdjur</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_ec0c8015ceda91eb327b9debad40d43b_2">
+                <text>Kloner är levande varelser som är genetiska kopior av varandra. Kloner har identiskt DNA.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_2bd5cfe268b72cff75a735469fa89046_3">
+                <text>Enäggstvillingar är ett exempel på naturligt förekommande kloner. Kloner kan också skapas i ett forskningslaboratorium.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_a07bed821b596e4f9b45ea5d0c8a23dc_4">
+                <text>1996 klonade forskare ett vuxet däggdjur för första gången. Resultatet var ett får som hette Dolly.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_385d7095fdb8d1db350d6e811768f56e_5">
+                <text>Kloningen för att skapa Dolly var en komplicerad process som involverade att använda en fårhona som surrogat (ersättningsfårhona) som bar på embryot under tiden det växte.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_bae36aaa206f460133777b76210e8731_6">
+                <text>Forskarna följde dessa steg:</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_a136d688ebc413ed5cfa20909b732967_7">
+                <text>
+                    <strong>‌Celldonator: honfår (av Finn–Dorset-ras)‌</strong>
+                </text>
+            </label>
+            <label key="64b0e83ca66150.29370899_b3d8670427459622d2b7a6717ade2ad0_8">
+                <text><strong>1</strong> Några celler tas från ett Finn-Dorset-får.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_c8bf6fda468836317f8f31012989a830_9">
+                <text><strong>2</strong> En cell, inklusive cellkärnan, väljs ut.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_907ab606c9519c737594755cac523fe8_10">
+                <text><strong>3</strong> En cell tas från ett Scottish Blackface-får. Cellkärnan tas bort.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_96b0787d954f6748f8a053e7dc167515_11">
+                <text><strong>4</strong> De två cellerna slås samman med hjälp av en elektrisk ström.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_055cdd25f7d0c88e30f53da8ae486678_12">
+                <text>
+                    <strong>‌Celldonator: honfår (Scottish Blackface-ras)‌</strong>
+                </text>
+            </label>
+            <label key="64b0e83ca66150.29370899_535835e071afcbfdc55a4b56fcaa9d0e_13">
+                <text><strong>5</strong> En enda cell bildas.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_a9d36a82f10bd8eb71721921e19dc1ee_14">
+                <text><strong>6</strong> Cellen börjar att dela sig normalt och bildar ett embryo.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_5acc2d001ffc7b2299360f646b50f2da_15">
+                <text><strong>u</strong> Embryot placeras i en fårhona (surrogat), där det fortsätter att växa.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_8cbbebf84b964aa9bc5f69e82f704372_16">
+                <text>
+                    <strong>‌Surrogatmamma: fårhona (Scottish Blackface-ras)‌</strong>
+                </text>
+            </label>
+            <label key="64b0e83ca66150.29370899_3a6f1da42b18e8bb2cd9e2cc0b9d9969_17">
+                <text><strong>8</strong> Ett lamm (Dolly) föds.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_2e827027f2bd1b6b1a8dff2abb1ccc64_18">
+                <text>
+                    <strong>‌Dolly‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64b0e83ca66150.29370899/passage NEW.xml">
+            <label key="64b0e83ca66150.29370899_9231be65513a875fb0a0a303ae162106_1">
+                <text>Kloning av däggdjur</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_ec0c8015ceda91eb327b9debad40d43b_2">
+                <text>Kloner är levande varelser som är genetiska kopior av varandra. Kloner har identiskt DNA.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_2bd5cfe268b72cff75a735469fa89046_3">
+                <text>Enäggstvillingar är ett exempel på naturligt förekommande kloner. Kloner kan också skapas i ett forskningslaboratorium.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_a07bed821b596e4f9b45ea5d0c8a23dc_4">
+                <text>1996 klonade forskare ett vuxet däggdjur för första gången. Resultatet var ett får som hette Dolly.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_385d7095fdb8d1db350d6e811768f56e_5">
+                <text>Kloningen för att skapa Dolly var en komplicerad process som involverade att använda en fårhona som surrogat (ersättningsfårhona) som bar på embryot under tiden det växte.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_bae36aaa206f460133777b76210e8731_6">
+                <text>Forskarna följde dessa steg:</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_a136d688ebc413ed5cfa20909b732967_7">
+                <text>
+                    <strong>‌Celldonator: honfår (av Finn–Dorset-ras)‌</strong>
+                </text>
+            </label>
+            <label key="64b0e83ca66150.29370899_b3d8670427459622d2b7a6717ade2ad0_8">
+                <text><strong>1</strong> Några celler tas från ett Finn-Dorset-får.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_c8bf6fda468836317f8f31012989a830_9">
+                <text><strong>2</strong> En cell, inklusive cellkärnan, väljs ut.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_907ab606c9519c737594755cac523fe8_10">
+                <text><strong>3</strong> En cell tas från ett Scottish Blackface-får. Cellkärnan tas bort.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_96b0787d954f6748f8a053e7dc167515_11">
+                <text><strong>4</strong> De två cellerna slås samman med hjälp av en elektrisk ström.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_055cdd25f7d0c88e30f53da8ae486678_12">
+                <text>
+                    <strong>‌Celldonator: honfår (Scottish Blackface-ras)‌</strong>
+                </text>
+            </label>
+            <label key="64b0e83ca66150.29370899_535835e071afcbfdc55a4b56fcaa9d0e_13">
+                <text><strong>5</strong> En enda cell bildas.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_a9d36a82f10bd8eb71721921e19dc1ee_14">
+                <text><strong>6</strong> Cellen börjar att dela sig normalt och bildar ett embryo.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_5acc2d001ffc7b2299360f646b50f2da_15">
+                <text><strong>u</strong> Embryot placeras i en fårhona (surrogat), där det fortsätter att växa.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_8cbbebf84b964aa9bc5f69e82f704372_16">
+                <text>
+                    <strong>‌Surrogatmamma: fårhona (Scottish Blackface-ras)‌</strong>
+                </text>
+            </label>
+            <label key="64b0e83ca66150.29370899_3a6f1da42b18e8bb2cd9e2cc0b9d9969_17">
+                <text><strong>8</strong> Ett lamm (Dolly) föds.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_2e827027f2bd1b6b1a8dff2abb1ccc64_18">
+                <text>
+                    <strong>‌Dolly‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64b0e83ca66150.29370899/passage NEW.xml">
+            <label key="64b0e83ca66150.29370899_9231be65513a875fb0a0a303ae162106_1">
+                <text>Kloning av däggdjur</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_ec0c8015ceda91eb327b9debad40d43b_2">
+                <text>Kloner är levande varelser som är genetiska kopior av varandra. Kloner har identiskt DNA.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_2bd5cfe268b72cff75a735469fa89046_3">
+                <text>Enäggstvillingar är ett exempel på naturligt förekommande kloner. Kloner kan också skapas i ett forskningslaboratorium.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_a07bed821b596e4f9b45ea5d0c8a23dc_4">
+                <text>1996 klonade forskare ett vuxet däggdjur för första gången. Resultatet var ett får som hette Dolly.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_385d7095fdb8d1db350d6e811768f56e_5">
+                <text>Kloningen för att skapa Dolly var en komplicerad process som involverade att använda en fårhona som surrogat (ersättningsfårhona) som bar på embryot under tiden det växte.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_bae36aaa206f460133777b76210e8731_6">
+                <text>Forskarna följde dessa steg:</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_a136d688ebc413ed5cfa20909b732967_7">
+                <text>
+                    <strong>‌Celldonator: honfår (av Finn–Dorset-ras)‌</strong>
+                </text>
+            </label>
+            <label key="64b0e83ca66150.29370899_b3d8670427459622d2b7a6717ade2ad0_8">
+                <text><strong>1</strong> Några celler tas från ett Finn-Dorset-får.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_c8bf6fda468836317f8f31012989a830_9">
+                <text><strong>2</strong> En cell, inklusive cellkärnan, väljs ut.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_907ab606c9519c737594755cac523fe8_10">
+                <text><strong>3</strong> En cell tas från ett Scottish Blackface-får. Cellkärnan tas bort.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_96b0787d954f6748f8a053e7dc167515_11">
+                <text><strong>4</strong> De två cellerna slås samman med hjälp av en elektrisk ström.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_055cdd25f7d0c88e30f53da8ae486678_12">
+                <text>
+                    <strong>‌Celldonator: honfår (Scottish Blackface-ras)‌</strong>
+                </text>
+            </label>
+            <label key="64b0e83ca66150.29370899_535835e071afcbfdc55a4b56fcaa9d0e_13">
+                <text><strong>5</strong> En enda cell bildas.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_a9d36a82f10bd8eb71721921e19dc1ee_14">
+                <text><strong>6</strong> Cellen börjar att dela sig normalt och bildar ett embryo.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_5acc2d001ffc7b2299360f646b50f2da_15">
+                <text><strong>u</strong> Embryot placeras i en fårhona (surrogat), där det fortsätter att växa.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_8cbbebf84b964aa9bc5f69e82f704372_16">
+                <text>
+                    <strong>‌Surrogatmamma: fårhona (Scottish Blackface-ras)‌</strong>
+                </text>
+            </label>
+            <label key="64b0e83ca66150.29370899_3a6f1da42b18e8bb2cd9e2cc0b9d9969_17">
+                <text><strong>8</strong> Ett lamm (Dolly) föds.</text>
+            </label>
+            <label key="64b0e83ca66150.29370899_2e827027f2bd1b6b1a8dff2abb1ccc64_18">
+                <text>
+                    <strong>‌Dolly‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6396c29b479a6221430c3db9978905494">
+            <label key="i6396c29b479a6221430c3db9978905494_d232049641e105729384e27724bdecff_1">
+                <text>Använd informationen i diagrammet för att identifiera de <strong>experimentella svårigheter</strong> som forskare kan ha stött på när de försökte klona fåret.</text>
+            </label>
+            <label key="i6396c29b479a6221430c3db9978905494_89b1c1de80f35eb0f385836481797561_2">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i6396c29b479a6221430c3db9978905494_A_9055559079c65ca807c3a37a84f95703_3">
+                <text>Celler kan skadas när de tas ut.</text>
+            </label>
+            <label key="i6396c29b479a6221430c3db9978905494_B_e8fc56c73231bee45e9b11eddb44cc4e_4">
+                <text>Kloning är dyrt och det kan vara svårt att få pengar till experiment.</text>
+            </label>
+            <label key="i6396c29b479a6221430c3db9978905494_C_2a5c4c5db5851c0a07f463335ecbaf3b_5">
+                <text>Celler kan förstöras när man tar bort cellkärnan.</text>
+            </label>
+            <label key="i6396c29b479a6221430c3db9978905494_D_9560448509d948c76dee449174a9dc56_6">
+                <text>En del människor tycker att kloning inte ska vara tillåtet.</text>
+            </label>
+        </item>
+        <item id="i6396c2b5648492714723650d4209c05e9">
+            <label key="i6396c2b5648492714723650d4209c05e9_8608c4a92df2e084663665e54f762eb0_1">
+                <text>Är följande påståenden om kloningen för att skapa Dolly sanna eller falska?</text>
+            </label>
+            <label key="i6396c2b5648492714723650d4209c05e9_118eed61599a262f87b3aff78388ed7f_2">
+                <text>Välj 'Sant' eller 'Falskt' för varje påstående.</text>
+            </label>
+            <label key="i6396c2b5648492714723650d4209c05e9_T_73af94ed797e34dea84fc87ff7271312_3">
+                <text>
+                    <strong>‌Sant‌</strong>
+                </text>
+            </label>
+            <label key="i6396c2b5648492714723650d4209c05e9_F_b6eb5d76f702d77514b6e2952f322e39_4">
+                <text>
+                    <strong>‌Falskt‌</strong>
+                </text>
+            </label>
+            <label key="i6396c2b5648492714723650d4209c05e9_Row1_8806bfc32d68a95acc580f60b23f2ac6_5">
+                <text>Dolly är genetiskt identisk med Finn-Dorset-donatorn.</text>
+            </label>
+            <label key="i6396c2b5648492714723650d4209c05e9_Row2_e8dd704bce4fb6eb262490654f051c5e_6">
+                <text>Dolly är genetiskt identisk med surrogatmamman.</text>
+            </label>
+            <label key="i6396c2b5648492714723650d4209c05e9_Row3_1e69b866a1de105149061d9b89876861_7">
+                <text>Surrogatmamman och Finn–Dorset-donatorn är genetiskt olika.</text>
+            </label>
+            <label key="i6396c2b5648492714723650d4209c05e9_Row4_bc41b78d7354d948e13a000782bacc99_8">
+                <text>Gener från cellkärnan i donatorcellen från Scottish Blackface kommer att överföras till Dolly.</text>
+            </label>
+        </item>
+        <item id="i6396c2cc5ba9b13573eca3f986bb1c2f63">
+            <label key="i6396c2cc5ba9b13573eca3f986bb1c2f63_3f4430b98413d995db7c568c7dc98693_1">
+                <text>Forskarna valde två olika fårraser när de utformade experimentet. </text>
+            </label>
+            <label key="i6396c2cc5ba9b13573eca3f986bb1c2f63_e8aa759bd066be0bf73aa9a977d6f0f7_2">
+                <text>Hur hjälpte användningen av olika fårraser forskarna att avgöra om kloningen lyckades?</text>
+            </label>
+        </item>
+    </items>
+</file>

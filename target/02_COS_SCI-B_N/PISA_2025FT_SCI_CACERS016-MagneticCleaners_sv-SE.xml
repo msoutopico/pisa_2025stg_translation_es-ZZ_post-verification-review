@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/646ed77a890ae0.32004108/passage NEW.xml">
+            <label key="646ed77a890ae0.32004108_ceffd00ce96b04a1c590a2b7dbb3fcbc_1">
+                <text>Magnetiska städare</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_0117aec78d6177811e8fe9a5f0b01a1f_2">
+                <text>Järnfilspån är små bitar av järn som bildas när man filar eller skär järn.</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_e8073df0f7fb145a187a3e05d3384776_3">
+                <text>En metallfabrik använder fyra maskiner med permanentmagneter för att samla upp järnfilspån som är jämnt utspritt på fabriksgolvet. Maskinerna kör runt i fabriken hela dagen. Två av de fyra maskinerna visas nedan.</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_59cfa26c741d65f06e84a3afb4583677_4">
+                <text>magnet</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_402154b4e743ac85fc5c2f60e4f249da_5">
+                <text>styrenhet och batteri</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_8d9c307cb7f3c4a32822a51922d1ceaa_6">
+                <text>N</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_5dbc98dcc983a70728bd082d1a47546e_7">
+                <text>S</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_5dbc98dcc983a70728bd082d1a47546e_8">
+                <text>S</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_8d9c307cb7f3c4a32822a51922d1ceaa_9">
+                <text>N</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_f16d11db3d019bbbd42dd8b38a76fa43_10">
+                <text>De fyra maskinerna färdas med samma hastighet och har identiska magneter men deras konstruktion skiljer sig åt på följande sätt:</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_96301de4b02dde60210952b46da649f9_11">
+                <text>olika stora hjul (vilket påverkar magnetens höjd över marken)</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_fde95ad8522dd48231f8bdd1f4585614_12">
+                <text>riktningen på magnetens nordpol (uppåt eller nedåt)</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_449632aa557922ebb593e3923155a362_13">
+                <text>styrenhetens placering (framtill, i mitten eller baktill).</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646ed77a890ae0.32004108/passage NEW.xml">
+            <label key="646ed77a890ae0.32004108_ceffd00ce96b04a1c590a2b7dbb3fcbc_1">
+                <text>Magnetiska städare</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_0117aec78d6177811e8fe9a5f0b01a1f_2">
+                <text>Järnfilspån är små bitar av järn som bildas när man filar eller skär järn.</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_e8073df0f7fb145a187a3e05d3384776_3">
+                <text>En metallfabrik använder fyra maskiner med permanentmagneter för att samla upp järnfilspån som är jämnt utspritt på fabriksgolvet. Maskinerna kör runt i fabriken hela dagen. Två av de fyra maskinerna visas nedan.</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_59cfa26c741d65f06e84a3afb4583677_4">
+                <text>magnet</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_402154b4e743ac85fc5c2f60e4f249da_5">
+                <text>styrenhet och batteri</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_8d9c307cb7f3c4a32822a51922d1ceaa_6">
+                <text>N</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_5dbc98dcc983a70728bd082d1a47546e_7">
+                <text>S</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_5dbc98dcc983a70728bd082d1a47546e_8">
+                <text>S</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_8d9c307cb7f3c4a32822a51922d1ceaa_9">
+                <text>N</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_f16d11db3d019bbbd42dd8b38a76fa43_10">
+                <text>De fyra maskinerna färdas med samma hastighet och har identiska magneter men deras konstruktion skiljer sig åt på följande sätt:</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_96301de4b02dde60210952b46da649f9_11">
+                <text>olika stora hjul (vilket påverkar magnetens höjd över marken)</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_fde95ad8522dd48231f8bdd1f4585614_12">
+                <text>riktningen på magnetens nordpol (uppåt eller nedåt)</text>
+            </label>
+            <label key="646ed77a890ae0.32004108_449632aa557922ebb593e3923155a362_13">
+                <text>styrenhetens placering (framtill, i mitten eller baktill).</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646ed940a89773.01039510/passage NEW 9.xml">
+            <label key="646ed940a89773.01039510_ceffd00ce96b04a1c590a2b7dbb3fcbc_1">
+                <text>Magnetiska städare</text>
+            </label>
+            <label key="646ed940a89773.01039510_afa9c6f4f4d9742246ed3a5a9e7fec29_2">
+                <text>Du är ansvarig för att förbättra borttagandet av metallspån från golvet i en metallfabrik.</text>
+            </label>
+            <label key="646ed940a89773.01039510_fe5f1e3f5edbace32f78f170840f3b77_3">
+                <text>Fabriken arbetar med flera olika material, inklusive järn. Borttagande av metallavfall med de befintliga magnetiska städarna är inte effektivt för alla typer av metallavfall. Därför måste golvet ofta sopas med en borste för att samla upp och städa bort resten av metallavfallet.</text>
+            </label>
+            <label key="646ed940a89773.01039510_d95c552476cf8d8becbea02eebb76599_4">
+                <text>Du vill utveckla en metod som förbättrar borttagandet av alla typer av metallavfall.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646ed940a89773.01039510/passage NEW 9.xml">
+            <label key="646ed940a89773.01039510_ceffd00ce96b04a1c590a2b7dbb3fcbc_1">
+                <text>Magnetiska städare</text>
+            </label>
+            <label key="646ed940a89773.01039510_afa9c6f4f4d9742246ed3a5a9e7fec29_2">
+                <text>Du är ansvarig för att förbättra borttagandet av metallspån från golvet i en metallfabrik.</text>
+            </label>
+            <label key="646ed940a89773.01039510_fe5f1e3f5edbace32f78f170840f3b77_3">
+                <text>Fabriken arbetar med flera olika material, inklusive järn. Borttagande av metallavfall med de befintliga magnetiska städarna är inte effektivt för alla typer av metallavfall. Därför måste golvet ofta sopas med en borste för att samla upp och städa bort resten av metallavfallet.</text>
+            </label>
+            <label key="646ed940a89773.01039510_d95c552476cf8d8becbea02eebb76599_4">
+                <text>Du vill utveckla en metod som förbättrar borttagandet av alla typer av metallavfall.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i633283acdd85019265dba20d556c142f5">
+            <label key="i633283acdd85019265dba20d556c142f5_b647d89a762dc7de580dddd5131bb876_1">
+                <text>Tabellen nedan visar skillnaderna mellan maskinerna samt mängden järnfilspån som samlats in under en femdagarsperiod.</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_47c954121886a5e5aaca7eece461b56f_2">
+                <text>Maskin</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_1c53df0212373009e5dc660a1a9d4bb9_3">
+                <text>Magnetens höjd över marken (mm)</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_9766c0db3ec8d99c461788fd9cdf1277_4">
+                <text>Magnetens orientering</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_63d62f9674526403bf68902d1b46f710_5">
+                <text>Styrenhetens placering</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_def17c110e4b7aeeee8d34fd5ac67945_6">
+                <text>Total massa som samlas upp under fem dagar (kg)</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_c4ca4238a0b923820dcc509a6f75849b_7">
+                <text>1</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_7ef605fc8dba5425d6965fbd4c8fbe1f_8">
+                <text>150</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_928a70a354b6465087c783a383df9a15_9">
+                <text>N uppåt</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_469bba0a564235dfceede42db14f17b0_10">
+                <text>baktill</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_d3d9446802a44259755d38e6d163e820_11">
+                <text>10</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_c81e728d9d4c2f636f067f89cc14862c_12">
+                <text>2</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_f899139df5e1059396431415e770c6dd_13">
+                <text>100</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_0c39988ba417d4e0e150e45f69f8619b_14">
+                <text>S uppåt</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_d64a4d022098892cecf250b5842c2a48_15">
+                <text>i mitten</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_c20ad4d76fe97759aa27a0c99bff6710_16">
+                <text>12</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_eccbc87e4b5ce2fe28308fd9f2a7baf3_17">
+                <text>3</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_3def184ad8f4755ff269862ea77393dd_18">
+                <text>125</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_928a70a354b6465087c783a383df9a15_19">
+                <text>N uppåt</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_e6ec529ba185279aa0adcf93e645c7cd_20">
+                <text>framtill</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_6512bd43d9caa6e02c990b0a82652dca_21">
+                <text>11</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_024ecde0ac7b60520c4041143d71e02c_22">
+                <text>​4</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_3644a684f98ea8fe223c713b77189a77_23">
+                <text>200</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_0c39988ba417d4e0e150e45f69f8619b_24">
+                <text>S uppåt</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_e6ec529ba185279aa0adcf93e645c7cd_25">
+                <text>framtill</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_45c48cce2e2d7fbdea1afc51c7c6ad26_26">
+                <text>9</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_14cacd46321b9c2005de30affbc54ec8_27">
+                <text>Vilken skillnad förklarar varför vissa maskiner samlar upp mer järnfilspån än andra?</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_A_11abdd1687ba27fc19b91c0f21cdb3d5_28">
+                <text>orienteringen på magneternas poler</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_B_984d959694fe083e719794d8a2836471_29">
+                <text>placeringen av deras styrenheter</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_C_e2e449ba299594ad6971bfa267e5b0b7_30">
+                <text>hur högt över golvet deras magneter sitter</text>
+            </label>
+            <label key="i633283acdd85019265dba20d556c142f5_D_f6ce9fbc5a60d52b38d27ae8c520efb3_31">
+                <text>storleken på deras magneter</text>
+            </label>
+        </item>
+        <item id="i633286158e4a916295e03d5d7030838ae">
+            <label key="i633286158e4a916295e03d5d7030838ae_bef07d2f52542c718d383e39d4f252d2_1">
+                <text>Tabellen nedan visar mängden järnfilspån som samlats in varje dag av varje maskin under en femdagarsperiod och den genomsnittliga mängden som samlats in under alla fem dagar.</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_6a8c67d854f52b951a5a6bfc0ddd9027_2">
+                <text>
+                    <strong>‌Uppsamlad massa av järnspån (kg)‌</strong>
+                </text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_faba582bb439d5cd836a674b446052c1_3">
+                <text>Dag 1</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_5d0d9e50bf708684c2c6e57b56ae9e8c_4">
+                <text>Dag 2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_223e2965264ed5a7335008666fb8bf98_5">
+                <text>Dag 3</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_df06f69911ab808ad1be095f974e0508_6">
+                <text>Dag 4</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_b37043dfa5cf1c205558e40d1a3efbd7_7">
+                <text>Dag 5</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_b1897515d548a960afe49ecf66a29021_8">
+                <text>Genomsnittlig</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_be1ad82314e638b657dad74166f23c92_9">
+                <text>Maskin 1</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_c81e728d9d4c2f636f067f89cc14862c_10">
+                <text>2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_8221435bcce913b5c2dc22eaf6cb6590_11">
+                <text>2,5</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_c81e728d9d4c2f636f067f89cc14862c_12">
+                <text>2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_f932bed2d12442d21507b51d22b88dd7_13">
+                <text>1,8</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_7fd3cdaaba74a0b0ef3d707a8545df7c_14">
+                <text>1,7</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_c81e728d9d4c2f636f067f89cc14862c_15">
+                <text>2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_e938e260d113bbb9703b612c41b4c2a2_16">
+                <text>Maskin 2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_e9aa2cebdb28a919e34609630508c269_17">
+                <text>2,4</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_e9aa2cebdb28a919e34609630508c269_18">
+                <text>2,4</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_1718d57986110b6af2dd96b59d3db416_19">
+                <text>2,2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_d0e5f27655754425719bae64b4186dce_20">
+                <text>2,6</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_e9aa2cebdb28a919e34609630508c269_21">
+                <text>2,4</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_e9aa2cebdb28a919e34609630508c269_22">
+                <text>2,4</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_88e974da14f696ecb0ffb1f21acd9ff0_23">
+                <text>Maskin 3</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_08207d752d8a566368d1fd97b6142fa3_24">
+                <text>2,1</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_1718d57986110b6af2dd96b59d3db416_25">
+                <text>2,2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_1a18da63cbbfb49cb9616e6bfd35f662_26">
+                <text>2,3</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_1718d57986110b6af2dd96b59d3db416_27">
+                <text>2,2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_1718d57986110b6af2dd96b59d3db416_28">
+                <text>2,2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_1718d57986110b6af2dd96b59d3db416_29">
+                <text>2,2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_16f5ea9231fe227ec4280e12a3d3a394_30">
+                <text>Maskin 4</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_4341447b6ad78bf4d7eb59ebb5a53d63_31">
+                <text>1,6</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_6008647277c4454cecd97d33c069f0ca_32">
+                <text>1,5</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_c81e728d9d4c2f636f067f89cc14862c_33">
+                <text>2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_1a18da63cbbfb49cb9616e6bfd35f662_34">
+                <text>2,3</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_f932bed2d12442d21507b51d22b88dd7_35">
+                <text>1,8</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_f932bed2d12442d21507b51d22b88dd7_36">
+                <text>1,8</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_5e032042d7b0a953ea1adcbfdeb979a8_37">
+                <text>Vilken maskin var mest enhetlig i mängden uppsamlat järnspån varje dag?</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_choice_1_be1ad82314e638b657dad74166f23c92_38">
+                <text>Maskin 1</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_choice_2_e938e260d113bbb9703b612c41b4c2a2_39">
+                <text>Maskin 2</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_choice_3_88e974da14f696ecb0ffb1f21acd9ff0_40">
+                <text>Maskin 3</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_choice_4_16f5ea9231fe227ec4280e12a3d3a394_41">
+                <text>Maskin 4</text>
+            </label>
+            <label key="i633286158e4a916295e03d5d7030838ae_e829caabc1d7f246003b9fb7530e2873_42">
+                <text>Ge en förklaring som stöder ditt svar.</text>
+            </label>
+        </item>
+        <item id="i633287932eea4155854724547860033fdf">
+            <label key="i633287932eea4155854724547860033fdf_2d14f0d015b0a28d941c28970f808b1e_1">
+                <text>Ditt första steg är att söka på internet för att hitta information som kan hjälpa dig att förbättra borttagandet av avfall i form av metallspån.</text>
+            </label>
+            <label key="i633287932eea4155854724547860033fdf_9c052d0a5de383cdb74ea9ed0714d284_2">
+                <text>Vilka av nedanstående grupper av ord skulle ge dig mest information vid en sökning på internet för att hjälpa dig att förbättra borttagandet av avfall i form av metallspån i fabriken?</text>
+            </label>
+            <label key="i633287932eea4155854724547860033fdf_choice_1_b0343c9f5b3d150d86628ca584fc7e7f_3">
+                <text>magnetisk avfallsstädare</text>
+            </label>
+            <label key="i633287932eea4155854724547860033fdf_choice_2_67996c0350bd2db20148968f062c7837_4">
+                <text>magnetisk städare metallavfall</text>
+            </label>
+            <label key="i633287932eea4155854724547860033fdf_choice_3_9f8fbb3b592d1d62aec0f28ba040c513_5">
+                <text>metallavfall borttagning</text>
+            </label>
+            <label key="i633287932eea4155854724547860033fdf_choice_4_88078d931ee540e70824407821afdea7_6">
+                <text>metallavfall bortskaffande fabrik</text>
+            </label>
+        </item>
+        <item id="i6413c7bfddf5a2425e6513424af2270">
+            <label key="i6413c7bfddf5a2425e6513424af2270_7d5aee20aa92fc594d34cba322904ca8_1">
+                <text>Att lösa ett tekniskt problem är en process i flera steg. Dessa steg omfattar:</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_2ad58ffa28fd1d284f223eab1c864adc_2">
+                <text>att identifiera det problem som ska lösas</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_1fd9516e916cec54a22adc8b5353302d_3">
+                <text>att hitta möjliga lösningar till problemet</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_5918b1e2b35af64fe30bf5ea482bb723_4">
+                <text>att välja den bästa lösningen till problemet.</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_3b2b782358cea99942a0ffed89201313_5">
+                <text>Överväg följande handlingar som skulle kunna ingå i de olika stegen för att förbättra borttagandet av metallspån från ditt fabriksgolv.</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_2902222693b679afd2d5cb6e5df6431c_6">
+                <text>Para ihop var och en av de fem handlingarna med det problemlösningssteg där handlingen hör hemma.</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_6a2d71fd7409606e76e5c321c57029d9_7">
+                <text>Para ihop rutor genom att välja en ruta i varje kolumn. Du kan ta bort en matchning genom att markera linjen och sedan klicka på 'x'.</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_4f53108c6cd4a44cd3caee2c5b7b0467_8">
+                <text>
+                    <strong>‌Aktivitet‌</strong>
+                </text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_533e0a47fcdabd2371637f8cc57f4156_9">
+                <text>
+                    <strong>‌Problemlösningssteg‌</strong>
+                </text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_dd24c4f58a016cee61e635f178ae9037_10">
+                <text>att avgöra mängden och storleken på spånen som måste städas bort från fabriksgolvet</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_2ad58ffa28fd1d284f223eab1c864adc_11">
+                <text>att identifiera det problem som ska lösas</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_57a444b7fc2f23a2f91be1105ba0a14b_12">
+                <text>att söka på internet efter olika typer av utrustning som kan användas</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_1fd9516e916cec54a22adc8b5353302d_13">
+                <text>att hitta möjliga lösningar till problemet</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_7d27586fea286f69f3dc07c8d4786eb8_14">
+                <text>att fastställa varför de befintliga magnetiska städarna inte helt tar bort metallspånen </text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_5ff8691a6d04bf6007e9e74d6327bb90_15">
+                <text>att välja den bästa lösningen på problemet</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_81923c34aaf393af79248a5ea44afd25_16">
+                <text>att jämföra prestandan hos potentiellt lämplig utrustning</text>
+            </label>
+            <label key="i6413c7bfddf5a2425e6513424af2270_ea03bea27fea499ab0957debb0c29557_17">
+                <text>att hitta artiklar i industritidskrifter om olika tekniker som används för att bortskaffa metallspån</text>
+            </label>
+        </item>
+    </items>
+</file>

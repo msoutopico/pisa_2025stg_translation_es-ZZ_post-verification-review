@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/646f0046728844.37586946/passage NEW.xml">
+            <label key="646f0046728844.37586946_85837ff413a71ed2663781845ca95070_1">
+                <text>Artificiell intelligens i vetenskapen</text>
+            </label>
+            <label key="646f0046728844.37586946_02dc075ae8197f7d6187907394f7ac46_2">
+                <text>Artificiell intelligens (AI) är en datorprogramvara som simulerar mänsklig intelligens.</text>
+            </label>
+            <label key="646f0046728844.37586946_728862e879775ec0624ee8e95a082b9b_3">
+                <text>Medicinska expertsystem är en typ av AI som hjälper läkare att diagnostisera och behandla sjukdomar. Systemen identifierar mönster i stora datamängder som tillhandahålls från många patienter över tid.</text>
+            </label>
+            <label key="646f0046728844.37586946_180769d3987061ff6bc075b0b6fea236_4">
+                <text>Systemen följer hierarkiska regler i ett datorprogram, som genererar frågor som en läkare kan ställa till en patient. Nästa fråga som ställs i en sekvens beror på svaret på föregående fråga.</text>
+            </label>
+            <label key="646f0046728844.37586946_78bd26b080f589cbd5c3a9e6c8f7f89e_5">
+                <text>Dessa system ersätter inte läkare.</text>
+            </label>
+            <label key="646f0046728844.37586946_4c3c33b8c4d3c6a9ff60bd00ffbfd1fe_6">
+                <text>MYCIN är ett tidigt exempel på ett medicinskt expertsystem. MYCIN utvecklades för att avgöra om AI kunde hjälpa till att diagnostisera bakteriella infektioner.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646f0046728844.37586946/passage NEW.xml">
+            <label key="646f0046728844.37586946_85837ff413a71ed2663781845ca95070_1">
+                <text>Artificiell intelligens i vetenskapen</text>
+            </label>
+            <label key="646f0046728844.37586946_02dc075ae8197f7d6187907394f7ac46_2">
+                <text>Artificiell intelligens (AI) är en datorprogramvara som simulerar mänsklig intelligens.</text>
+            </label>
+            <label key="646f0046728844.37586946_728862e879775ec0624ee8e95a082b9b_3">
+                <text>Medicinska expertsystem är en typ av AI som hjälper läkare att diagnostisera och behandla sjukdomar. Systemen identifierar mönster i stora datamängder som tillhandahålls från många patienter över tid.</text>
+            </label>
+            <label key="646f0046728844.37586946_180769d3987061ff6bc075b0b6fea236_4">
+                <text>Systemen följer hierarkiska regler i ett datorprogram, som genererar frågor som en läkare kan ställa till en patient. Nästa fråga som ställs i en sekvens beror på svaret på föregående fråga.</text>
+            </label>
+            <label key="646f0046728844.37586946_78bd26b080f589cbd5c3a9e6c8f7f89e_5">
+                <text>Dessa system ersätter inte läkare.</text>
+            </label>
+            <label key="646f0046728844.37586946_4c3c33b8c4d3c6a9ff60bd00ffbfd1fe_6">
+                <text>MYCIN är ett tidigt exempel på ett medicinskt expertsystem. MYCIN utvecklades för att avgöra om AI kunde hjälpa till att diagnostisera bakteriella infektioner.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646f0046728844.37586946/passage NEW.xml">
+            <label key="646f0046728844.37586946_85837ff413a71ed2663781845ca95070_1">
+                <text>Artificiell intelligens i vetenskapen</text>
+            </label>
+            <label key="646f0046728844.37586946_02dc075ae8197f7d6187907394f7ac46_2">
+                <text>Artificiell intelligens (AI) är en datorprogramvara som simulerar mänsklig intelligens.</text>
+            </label>
+            <label key="646f0046728844.37586946_728862e879775ec0624ee8e95a082b9b_3">
+                <text>Medicinska expertsystem är en typ av AI som hjälper läkare att diagnostisera och behandla sjukdomar. Systemen identifierar mönster i stora datamängder som tillhandahålls från många patienter över tid.</text>
+            </label>
+            <label key="646f0046728844.37586946_180769d3987061ff6bc075b0b6fea236_4">
+                <text>Systemen följer hierarkiska regler i ett datorprogram, som genererar frågor som en läkare kan ställa till en patient. Nästa fråga som ställs i en sekvens beror på svaret på föregående fråga.</text>
+            </label>
+            <label key="646f0046728844.37586946_78bd26b080f589cbd5c3a9e6c8f7f89e_5">
+                <text>Dessa system ersätter inte läkare.</text>
+            </label>
+            <label key="646f0046728844.37586946_4c3c33b8c4d3c6a9ff60bd00ffbfd1fe_6">
+                <text>MYCIN är ett tidigt exempel på ett medicinskt expertsystem. MYCIN utvecklades för att avgöra om AI kunde hjälpa till att diagnostisera bakteriella infektioner.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646f0046728844.37586946/passage NEW.xml">
+            <label key="646f0046728844.37586946_85837ff413a71ed2663781845ca95070_1">
+                <text>Artificiell intelligens i vetenskapen</text>
+            </label>
+            <label key="646f0046728844.37586946_02dc075ae8197f7d6187907394f7ac46_2">
+                <text>Artificiell intelligens (AI) är en datorprogramvara som simulerar mänsklig intelligens.</text>
+            </label>
+            <label key="646f0046728844.37586946_728862e879775ec0624ee8e95a082b9b_3">
+                <text>Medicinska expertsystem är en typ av AI som hjälper läkare att diagnostisera och behandla sjukdomar. Systemen identifierar mönster i stora datamängder som tillhandahålls från många patienter över tid.</text>
+            </label>
+            <label key="646f0046728844.37586946_180769d3987061ff6bc075b0b6fea236_4">
+                <text>Systemen följer hierarkiska regler i ett datorprogram, som genererar frågor som en läkare kan ställa till en patient. Nästa fråga som ställs i en sekvens beror på svaret på föregående fråga.</text>
+            </label>
+            <label key="646f0046728844.37586946_78bd26b080f589cbd5c3a9e6c8f7f89e_5">
+                <text>Dessa system ersätter inte läkare.</text>
+            </label>
+            <label key="646f0046728844.37586946_4c3c33b8c4d3c6a9ff60bd00ffbfd1fe_6">
+                <text>MYCIN är ett tidigt exempel på ett medicinskt expertsystem. MYCIN utvecklades för att avgöra om AI kunde hjälpa till att diagnostisera bakteriella infektioner.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646f01b1d6c066.55824439/passage NEW 7.xml">
+            <label key="646f01b1d6c066.55824439_5b950926797815b20e19db4457c6f655_1">
+                <text>Det här är ett exempel på konsultationsarbete genomfört av en programvara som MYCIN.</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_56ebf09c6766ef4cf6dcdebbf6920eb4_2">
+                <text>
+                    <strong>‌MYCIN-frågenummer‌</strong>
+                </text>
+            </label>
+            <label key="646f01b1d6c066.55824439_a97ea56b0e00b2379736ae60869ff66a_3">
+                <text>Fråga</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_d64ed3e9c10229648e069f56e32f4c8e_4">
+                <text>Svar</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_c4ca4238a0b923820dcc509a6f75849b_5">
+                <text>1</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_a1821a0e752657e5e465b5a23feb2380_6">
+                <text>Patientens namn och efternamn?</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_9245b7947c410be4e5c4114b4bbac522_7">
+                <text>Ove Lind</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_c81e728d9d4c2f636f067f89cc14862c_8">
+                <text>2</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_51d2476de9fcf8d88d953b7921f74e22_9">
+                <text>Kön?</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_63889cfb9d3cbe05d1bd2be5cc9953fd_10">
+                <text>Man</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_eccbc87e4b5ce2fe28308fd9f2a7baf3_11">
+                <text>3</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_873520d70d559d0b05c12476b75eaeae_12">
+                <text>Ålder?</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_b53b3a3d6ab90ce0268229151c9bde11_13">
+                <text>55</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_a87ff679a2f3e71d9181a67b7542122c_14">
+                <text>4</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_7be6773fbfe261debb31e2304816900a_15">
+                <text>Har odlingar gjorts i mikrobiologiska laboratoriet av prover som lämnats av Ove Lind?</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_bfc6942b14743201fa2ec6df00fed093_16">
+                <text>Ja, odling-1.</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_e4da3b7fbbce2345d7772b0674a318d5_17">
+                <text>5 år</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_925bc552a0e21fd5735016dd456c7451_18">
+                <text>Varifrån har odling-1 tagits?</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_747f992097b9e5c9df7585931537150a_19">
+                <text>Blod</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_1679091c5a880faf6fb5e6087eb1b2dc_20">
+                <text>6 år</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_d059afaa103662f8cbf1434d99ad1f56_21">
+                <text>När lämnades odling-1? (dag/månad/år)</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_019795b1176edf416faa5f6af7b2f6a3_22">
+                <text>20 juni 1970</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_8f14e45fceea167a5a36dedd4bea2543_23">
+                <text>7 år</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_c944182b84a4e9924c20417d0f93bce8_24">
+                <text>Namnet på organismen som identifierades i odling-1 är organism-1.  Skriv in namnet på organism-1 som anges i laboratorierapporten.</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_88183b946cc5f0e8c96b2e66e1c74a7e_25">
+                <text>Okänt</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_c9f0f895fb98ab9159f51fd0297e236d_26">
+                <text>8 år</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_ca5f94c7c3d52227ff9c23af4139a43b_27">
+                <text>Är Organism-1 stav- eller kulformad?</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_8a108f81fb28f503b77d08bbe539ff27_28">
+                <text>STAV</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_45c48cce2e2d7fbdea1afc51c7c6ad26_29">
+                <text>9</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_b08b5b4413aaae3a1d4018bb47af099a_30">
+                <text>Är Ove Lind en brännskadepatient?</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_bafd7322c6e97d25b6299b5d6fe8920b_31">
+                <text>Nej</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_d3d9446802a44259755d38e6d163e820_32">
+                <text>10</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_3d2643b225a0c6863b7e55c98156c6cd_33">
+                <text>Har Ove Lind feber?</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_93cba07454f06a4a960172bbd6e2a435_34">
+                <text>Ja</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_3e2681c5b453402d25d970f13dbdc4b8_35">
+                <text><strong>‌Efter mer än 60 frågor och svar gav programvaran följande svar:‌</strong><br/>INFEKTION-1 BAKTERIEMI</text>
+            </label>
+            <label key="646f01b1d6c066.55824439_a14041a38167fbcd6398749d31ce398f_36">
+                <text>BAKTERIEORGANISMER:<br/>- <em>E.COLI</em> [ORGANISM-1]<br/>- <em>KLEBSIELLA</em> [ORGANISM-1]<br/>- <em>ENTEROBACTER</em> [ORGANISM-1]<br/>- <em>KLEBSIELLA-PNEUMONIAE</em> [ORGANISM-1]<br/>BEHANDLING: Receptet (REC-1) täcker de 4 fallen ovan. Applicera GENTAMICIN; dos: 119 mg (0,6 ml) 10 dagar, en dos IV var 8 timme (beräknat på 1,7 mg), ändra dosen i händelse av njursvikt.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6368949f364ad21624809888b49f708716">
+            <label key="i6368949f364ad21624809888b49f708716_1ce31e4fc0885cd7736297ec7201f0a3_1">
+                <text>I vilken ordning kommer stegen som MYCIN följer för att förse en läkare med en rekommenderad behandling för en patient?</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_3b8f50622cda23d440acff7dd8727d03_2">
+                <text>Dra vart och ett av stegen nedan till rätt plats i flödesdiagrammet.</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_c0e2c9970b48db729b66b1ab8298593a_3">
+                <text>Patientdata</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_792f3b0c4358cecd942546d734da9891_4">
+                <text>Behandlingsförslag</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_523223d6c6fe8798f0d70f376ffc99b8_5">
+                <text>Diagnos</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_1ed3f1ce43a0b54269d535ffa6e2cf82_6">
+                <text>Laboratorieresultat</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_be376793bb17c553fbdcfd5218bf49b9_7">
+                <text>Utfärda recept</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_75e752b7ac1d4f0b0f19125dc2be010c_8">
+                <text>Frågor om symtom</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_b8dfd0b0013ac7112f598c9fc47d1b21_9">
+                <text>Patient Data</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_1ed3f1ce43a0b54269d535ffa6e2cf82_10">
+                <text>Laboratorieresultat</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_792f3b0c4358cecd942546d734da9891_11">
+                <text>Behandlingsförslag</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_523223d6c6fe8798f0d70f376ffc99b8_12">
+                <text>Diagnos</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_be376793bb17c553fbdcfd5218bf49b9_13">
+                <text>Utfärda recept</text>
+            </label>
+            <label key="i6368949f364ad21624809888b49f708716_75e752b7ac1d4f0b0f19125dc2be010c_14">
+                <text>Frågor om symtom</text>
+            </label>
+        </item>
+        <item id="i6357199e60860384805ccdce7dea1caa9f">
+            <label key="i6357199e60860384805ccdce7dea1caa9f_fbce2f452e9a7f639fd76ca7b4243d57_1">
+                <text><div>Den föreskrivna behandlingen genererades baserat på fler än 60 frågor under konsultationen. Under konsultationen besvarades frågan "Har Ove Lind feber?" med "Ja".</div><div></div>Om frågan hade besvarats med ”Nej”, skulle antalet frågor som ställts under konsultationen ha ändrats?</text>
+            </label>
+            <label key="i6357199e60860384805ccdce7dea1caa9f_Y_93cba07454f06a4a960172bbd6e2a435_2">
+                <text>Ja</text>
+            </label>
+            <label key="i6357199e60860384805ccdce7dea1caa9f_N_bafd7322c6e97d25b6299b5d6fe8920b_3">
+                <text>Nej</text>
+            </label>
+            <label key="i6357199e60860384805ccdce7dea1caa9f_4fd72ad9efa6be34b8ac1f513e76dfb5_4">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+        <item id="i63571a1095eb4132928d0f6764ac97adb1">
+            <label key="i63571a1095eb4132928d0f6764ac97adb1_e591b7d5521603f266e5cc245f90f113_1">
+                <text>Give one advantage and one disadvantage of doctors using AI systems to make a diagnosis.</text>
+            </label>
+            <label key="i63571a1095eb4132928d0f6764ac97adb1_5083a761fb71c93c469b0e67d3399cdf_2">
+                <text>Fördel med att använda AI-system:</text>
+            </label>
+            <label key="i63571a1095eb4132928d0f6764ac97adb1_c4e3d118f05679e20f51ae69f8cd8bac_3">
+                <text>Nackdel med att använda AI-system:</text>
+            </label>
+        </item>
+        <item id="i63571a321c52a132889f8fae8fb7c93987">
+            <label key="i63571a321c52a132889f8fae8fb7c93987_3ddb736e25aa6737648833e90f58e22f_1">
+                <text>Vad är huvudsyftena med ett medicinskt expertsystem?<br/>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i63571a321c52a132889f8fae8fb7c93987_A_2027d0eb55b92a66a09faae5a69c2d2a_2">
+                <text>att minska antalet läkare </text>
+            </label>
+            <label key="i63571a321c52a132889f8fae8fb7c93987_B_2675cd7cd6943fc99abde12af232299e_3">
+                <text>att minska antalet felaktiga diagnoser</text>
+            </label>
+            <label key="i63571a321c52a132889f8fae8fb7c93987_C_417c8b3416ff1f69f6a6f9397859b8e3_4">
+                <text>att ge läkare vägledning för behandling</text>
+            </label>
+            <label key="i63571a321c52a132889f8fae8fb7c93987_D_1de0716746efc4018c033a5dad8f5a83_5">
+                <text>att uppfylla krav på förebyggande behandling</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6583c92feee550.33849477/passage NEW.xml">
+            <label key="6583c92feee550.33849477_645f7526a206c8bff080ff29ef9485c7_1">
+                <text>Biologisk bekämpning</text>
+            </label>
+            <label key="6583c92feee550.33849477_1a0a8e59252a70f63aed7dbf680053ef_2">
+                <text>Ett <em>ogräs</em> är en växt som växer i ett område där den är oönskad, till exempel bland odlade växter.</text>
+            </label>
+            <label key="6583c92feee550.33849477_81873b5909218ca88a094079c8a0760d_3">
+                <text>Jordbrukare försöker bekämpa ogräs med olika metoder eftersom ogräs konkurrerar med odlade växter om resurser som solljus, näringsämnen och vatten. </text>
+            </label>
+            <label key="6583c92feee550.33849477_6e8dc27d00bdda036294199d5c994572_4">
+                <text><em>Biologisk bekämpning</em> är när en organism (till exempel ett ogräs) bekämpas genom att föra in ett biologiskt medel.  Följande är exempel på biologiska bekämpningsmedel:</text>
+            </label>
+            <label key="6583c92feee550.33849477_a0770b05043db13598b3f61878bdb795_5">
+                <text>djur som äter ogräs, till exempel insekter</text>
+            </label>
+            <label key="6583c92feee550.33849477_cda875543b5f0ad73a413831e4ffadf1_6">
+                <text>patogener som är skadliga för ogräs, till exempel bakterier och svampar</text>
+            </label>
+            <label key="6583c92feee550.33849477_0746b9ec86929df455b2cbf57129b938_7">
+                <text>Införandet av biologiska bekämpningsmedel simulerades för att se effekten på tätheten för ogräs och för odlade växter. Diagrammet nedan visar resultaten.</text>
+            </label>
+            <label key="6583c92feee550.33849477_dfa1e290736e5d16750959ad7e8be5f5_8">
+                <text><em>Tröskelvärdet för ogrässkador</em> avser den maximala mängden skador som kan accepteras på den odlade växten till följd av ogräset.</text>
+            </label>
+            <label key="6583c92feee550.33849477_7c32dd9d88382cc1602936b95c5fff43_9">
+                <text>
+                    <strong>Populationstäthet<br/>(biomassa per kvadratmeter)</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_ec30091240e7a328862954337a111afe_10">
+                <text>Tröskelvärde för ogrässkador</text>
+            </label>
+            <label key="6583c92feee550.33849477_6df524004fce9113005784cf8688a26b_11">
+                <text>
+                    <strong>‌Veckor‌</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_8417a031bdadfb493a827cfec74bba14_12">
+                <text>ogräs</text>
+            </label>
+            <label key="6583c92feee550.33849477_bdca63827d6a33ccfef0b5ab74f68992_13">
+                <text>biologiskt bekämpningsmedel</text>
+            </label>
+            <label key="6583c92feee550.33849477_59004861d75e131a42cf512c720f7128_14">
+                <text>odlad växt</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6583c92feee550.33849477/passage NEW.xml">
+            <label key="6583c92feee550.33849477_645f7526a206c8bff080ff29ef9485c7_1">
+                <text>Biologisk bekämpning</text>
+            </label>
+            <label key="6583c92feee550.33849477_1a0a8e59252a70f63aed7dbf680053ef_2">
+                <text>Ett <em>ogräs</em> är en växt som växer i ett område där den är oönskad, till exempel bland odlade växter.</text>
+            </label>
+            <label key="6583c92feee550.33849477_81873b5909218ca88a094079c8a0760d_3">
+                <text>Jordbrukare försöker bekämpa ogräs med olika metoder eftersom ogräs konkurrerar med odlade växter om resurser som solljus, näringsämnen och vatten. </text>
+            </label>
+            <label key="6583c92feee550.33849477_6e8dc27d00bdda036294199d5c994572_4">
+                <text><em>Biologisk bekämpning</em> är när en organism (till exempel ett ogräs) bekämpas genom att föra in ett biologiskt medel.  Följande är exempel på biologiska bekämpningsmedel:</text>
+            </label>
+            <label key="6583c92feee550.33849477_a0770b05043db13598b3f61878bdb795_5">
+                <text>djur som äter ogräs, till exempel insekter</text>
+            </label>
+            <label key="6583c92feee550.33849477_cda875543b5f0ad73a413831e4ffadf1_6">
+                <text>patogener som är skadliga för ogräs, till exempel bakterier och svampar</text>
+            </label>
+            <label key="6583c92feee550.33849477_0746b9ec86929df455b2cbf57129b938_7">
+                <text>Införandet av biologiska bekämpningsmedel simulerades för att se effekten på tätheten för ogräs och för odlade växter. Diagrammet nedan visar resultaten.</text>
+            </label>
+            <label key="6583c92feee550.33849477_dfa1e290736e5d16750959ad7e8be5f5_8">
+                <text><em>Tröskelvärdet för ogrässkador</em> avser den maximala mängden skador som kan accepteras på den odlade växten till följd av ogräset.</text>
+            </label>
+            <label key="6583c92feee550.33849477_7c32dd9d88382cc1602936b95c5fff43_9">
+                <text>
+                    <strong>Populationstäthet<br/>(biomassa per kvadratmeter)</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_ec30091240e7a328862954337a111afe_10">
+                <text>Tröskelvärde för ogrässkador</text>
+            </label>
+            <label key="6583c92feee550.33849477_6df524004fce9113005784cf8688a26b_11">
+                <text>
+                    <strong>‌Veckor‌</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_8417a031bdadfb493a827cfec74bba14_12">
+                <text>ogräs</text>
+            </label>
+            <label key="6583c92feee550.33849477_bdca63827d6a33ccfef0b5ab74f68992_13">
+                <text>biologiskt bekämpningsmedel</text>
+            </label>
+            <label key="6583c92feee550.33849477_59004861d75e131a42cf512c720f7128_14">
+                <text>odlad växt</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6583c92feee550.33849477/passage NEW.xml">
+            <label key="6583c92feee550.33849477_645f7526a206c8bff080ff29ef9485c7_1">
+                <text>Biologisk bekämpning</text>
+            </label>
+            <label key="6583c92feee550.33849477_1a0a8e59252a70f63aed7dbf680053ef_2">
+                <text>Ett <em>ogräs</em> är en växt som växer i ett område där den är oönskad, till exempel bland odlade växter.</text>
+            </label>
+            <label key="6583c92feee550.33849477_81873b5909218ca88a094079c8a0760d_3">
+                <text>Jordbrukare försöker bekämpa ogräs med olika metoder eftersom ogräs konkurrerar med odlade växter om resurser som solljus, näringsämnen och vatten. </text>
+            </label>
+            <label key="6583c92feee550.33849477_6e8dc27d00bdda036294199d5c994572_4">
+                <text><em>Biologisk bekämpning</em> är när en organism (till exempel ett ogräs) bekämpas genom att föra in ett biologiskt medel.  Följande är exempel på biologiska bekämpningsmedel:</text>
+            </label>
+            <label key="6583c92feee550.33849477_a0770b05043db13598b3f61878bdb795_5">
+                <text>djur som äter ogräs, till exempel insekter</text>
+            </label>
+            <label key="6583c92feee550.33849477_cda875543b5f0ad73a413831e4ffadf1_6">
+                <text>patogener som är skadliga för ogräs, till exempel bakterier och svampar</text>
+            </label>
+            <label key="6583c92feee550.33849477_0746b9ec86929df455b2cbf57129b938_7">
+                <text>Införandet av biologiska bekämpningsmedel simulerades för att se effekten på tätheten för ogräs och för odlade växter. Diagrammet nedan visar resultaten.</text>
+            </label>
+            <label key="6583c92feee550.33849477_dfa1e290736e5d16750959ad7e8be5f5_8">
+                <text><em>Tröskelvärdet för ogrässkador</em> avser den maximala mängden skador som kan accepteras på den odlade växten till följd av ogräset.</text>
+            </label>
+            <label key="6583c92feee550.33849477_7c32dd9d88382cc1602936b95c5fff43_9">
+                <text>
+                    <strong>Populationstäthet<br/>(biomassa per kvadratmeter)</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_ec30091240e7a328862954337a111afe_10">
+                <text>Tröskelvärde för ogrässkador</text>
+            </label>
+            <label key="6583c92feee550.33849477_6df524004fce9113005784cf8688a26b_11">
+                <text>
+                    <strong>‌Veckor‌</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_8417a031bdadfb493a827cfec74bba14_12">
+                <text>ogräs</text>
+            </label>
+            <label key="6583c92feee550.33849477_bdca63827d6a33ccfef0b5ab74f68992_13">
+                <text>biologiskt bekämpningsmedel</text>
+            </label>
+            <label key="6583c92feee550.33849477_59004861d75e131a42cf512c720f7128_14">
+                <text>odlad växt</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6583c92feee550.33849477/passage NEW.xml">
+            <label key="6583c92feee550.33849477_645f7526a206c8bff080ff29ef9485c7_1">
+                <text>Biologisk bekämpning</text>
+            </label>
+            <label key="6583c92feee550.33849477_1a0a8e59252a70f63aed7dbf680053ef_2">
+                <text>Ett <em>ogräs</em> är en växt som växer i ett område där den är oönskad, till exempel bland odlade växter.</text>
+            </label>
+            <label key="6583c92feee550.33849477_81873b5909218ca88a094079c8a0760d_3">
+                <text>Jordbrukare försöker bekämpa ogräs med olika metoder eftersom ogräs konkurrerar med odlade växter om resurser som solljus, näringsämnen och vatten. </text>
+            </label>
+            <label key="6583c92feee550.33849477_6e8dc27d00bdda036294199d5c994572_4">
+                <text><em>Biologisk bekämpning</em> är när en organism (till exempel ett ogräs) bekämpas genom att föra in ett biologiskt medel.  Följande är exempel på biologiska bekämpningsmedel:</text>
+            </label>
+            <label key="6583c92feee550.33849477_a0770b05043db13598b3f61878bdb795_5">
+                <text>djur som äter ogräs, till exempel insekter</text>
+            </label>
+            <label key="6583c92feee550.33849477_cda875543b5f0ad73a413831e4ffadf1_6">
+                <text>patogener som är skadliga för ogräs, till exempel bakterier och svampar</text>
+            </label>
+            <label key="6583c92feee550.33849477_0746b9ec86929df455b2cbf57129b938_7">
+                <text>Införandet av biologiska bekämpningsmedel simulerades för att se effekten på tätheten för ogräs och för odlade växter. Diagrammet nedan visar resultaten.</text>
+            </label>
+            <label key="6583c92feee550.33849477_dfa1e290736e5d16750959ad7e8be5f5_8">
+                <text><em>Tröskelvärdet för ogrässkador</em> avser den maximala mängden skador som kan accepteras på den odlade växten till följd av ogräset.</text>
+            </label>
+            <label key="6583c92feee550.33849477_7c32dd9d88382cc1602936b95c5fff43_9">
+                <text>
+                    <strong>Populationstäthet<br/>(biomassa per kvadratmeter)</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_ec30091240e7a328862954337a111afe_10">
+                <text>Tröskelvärde för ogrässkador</text>
+            </label>
+            <label key="6583c92feee550.33849477_6df524004fce9113005784cf8688a26b_11">
+                <text>
+                    <strong>‌Veckor‌</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_8417a031bdadfb493a827cfec74bba14_12">
+                <text>ogräs</text>
+            </label>
+            <label key="6583c92feee550.33849477_bdca63827d6a33ccfef0b5ab74f68992_13">
+                <text>biologiskt bekämpningsmedel</text>
+            </label>
+            <label key="6583c92feee550.33849477_59004861d75e131a42cf512c720f7128_14">
+                <text>odlad växt</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6583c92feee550.33849477/passage NEW.xml">
+            <label key="6583c92feee550.33849477_645f7526a206c8bff080ff29ef9485c7_1">
+                <text>Biologisk bekämpning</text>
+            </label>
+            <label key="6583c92feee550.33849477_1a0a8e59252a70f63aed7dbf680053ef_2">
+                <text>Ett <em>ogräs</em> är en växt som växer i ett område där den är oönskad, till exempel bland odlade växter.</text>
+            </label>
+            <label key="6583c92feee550.33849477_81873b5909218ca88a094079c8a0760d_3">
+                <text>Jordbrukare försöker bekämpa ogräs med olika metoder eftersom ogräs konkurrerar med odlade växter om resurser som solljus, näringsämnen och vatten. </text>
+            </label>
+            <label key="6583c92feee550.33849477_6e8dc27d00bdda036294199d5c994572_4">
+                <text><em>Biologisk bekämpning</em> är när en organism (till exempel ett ogräs) bekämpas genom att föra in ett biologiskt medel.  Följande är exempel på biologiska bekämpningsmedel:</text>
+            </label>
+            <label key="6583c92feee550.33849477_a0770b05043db13598b3f61878bdb795_5">
+                <text>djur som äter ogräs, till exempel insekter</text>
+            </label>
+            <label key="6583c92feee550.33849477_cda875543b5f0ad73a413831e4ffadf1_6">
+                <text>patogener som är skadliga för ogräs, till exempel bakterier och svampar</text>
+            </label>
+            <label key="6583c92feee550.33849477_0746b9ec86929df455b2cbf57129b938_7">
+                <text>Införandet av biologiska bekämpningsmedel simulerades för att se effekten på tätheten för ogräs och för odlade växter. Diagrammet nedan visar resultaten.</text>
+            </label>
+            <label key="6583c92feee550.33849477_dfa1e290736e5d16750959ad7e8be5f5_8">
+                <text><em>Tröskelvärdet för ogrässkador</em> avser den maximala mängden skador som kan accepteras på den odlade växten till följd av ogräset.</text>
+            </label>
+            <label key="6583c92feee550.33849477_7c32dd9d88382cc1602936b95c5fff43_9">
+                <text>
+                    <strong>Populationstäthet<br/>(biomassa per kvadratmeter)</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_ec30091240e7a328862954337a111afe_10">
+                <text>Tröskelvärde för ogrässkador</text>
+            </label>
+            <label key="6583c92feee550.33849477_6df524004fce9113005784cf8688a26b_11">
+                <text>
+                    <strong>‌Veckor‌</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_8417a031bdadfb493a827cfec74bba14_12">
+                <text>ogräs</text>
+            </label>
+            <label key="6583c92feee550.33849477_bdca63827d6a33ccfef0b5ab74f68992_13">
+                <text>biologiskt bekämpningsmedel</text>
+            </label>
+            <label key="6583c92feee550.33849477_59004861d75e131a42cf512c720f7128_14">
+                <text>odlad växt</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6583c92feee550.33849477/passage NEW.xml">
+            <label key="6583c92feee550.33849477_645f7526a206c8bff080ff29ef9485c7_1">
+                <text>Biologisk bekämpning</text>
+            </label>
+            <label key="6583c92feee550.33849477_1a0a8e59252a70f63aed7dbf680053ef_2">
+                <text>Ett <em>ogräs</em> är en växt som växer i ett område där den är oönskad, till exempel bland odlade växter.</text>
+            </label>
+            <label key="6583c92feee550.33849477_81873b5909218ca88a094079c8a0760d_3">
+                <text>Jordbrukare försöker bekämpa ogräs med olika metoder eftersom ogräs konkurrerar med odlade växter om resurser som solljus, näringsämnen och vatten. </text>
+            </label>
+            <label key="6583c92feee550.33849477_6e8dc27d00bdda036294199d5c994572_4">
+                <text><em>Biologisk bekämpning</em> är när en organism (till exempel ett ogräs) bekämpas genom att föra in ett biologiskt medel.  Följande är exempel på biologiska bekämpningsmedel:</text>
+            </label>
+            <label key="6583c92feee550.33849477_a0770b05043db13598b3f61878bdb795_5">
+                <text>djur som äter ogräs, till exempel insekter</text>
+            </label>
+            <label key="6583c92feee550.33849477_cda875543b5f0ad73a413831e4ffadf1_6">
+                <text>patogener som är skadliga för ogräs, till exempel bakterier och svampar</text>
+            </label>
+            <label key="6583c92feee550.33849477_0746b9ec86929df455b2cbf57129b938_7">
+                <text>Införandet av biologiska bekämpningsmedel simulerades för att se effekten på tätheten för ogräs och för odlade växter. Diagrammet nedan visar resultaten.</text>
+            </label>
+            <label key="6583c92feee550.33849477_dfa1e290736e5d16750959ad7e8be5f5_8">
+                <text><em>Tröskelvärdet för ogrässkador</em> avser den maximala mängden skador som kan accepteras på den odlade växten till följd av ogräset.</text>
+            </label>
+            <label key="6583c92feee550.33849477_7c32dd9d88382cc1602936b95c5fff43_9">
+                <text>
+                    <strong>Populationstäthet<br/>(biomassa per kvadratmeter)</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_ec30091240e7a328862954337a111afe_10">
+                <text>Tröskelvärde för ogrässkador</text>
+            </label>
+            <label key="6583c92feee550.33849477_6df524004fce9113005784cf8688a26b_11">
+                <text>
+                    <strong>‌Veckor‌</strong>
+                </text>
+            </label>
+            <label key="6583c92feee550.33849477_8417a031bdadfb493a827cfec74bba14_12">
+                <text>ogräs</text>
+            </label>
+            <label key="6583c92feee550.33849477_bdca63827d6a33ccfef0b5ab74f68992_13">
+                <text>biologiskt bekämpningsmedel</text>
+            </label>
+            <label key="6583c92feee550.33849477_59004861d75e131a42cf512c720f7128_14">
+                <text>odlad växt</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i636af222d8b3144613ecb2c0ac899102a1">
+            <label key="i636af222d8b3144613ecb2c0ac899102a1_b3adb224ec666b7e66976a4a08e1906f_1">
+                <text>När ett biologiskt bekämpningsmedel väljs ut för att bidra till att kontrollera en ogräsart, vilken egenskap <strong>måste</strong> vara gemensam för ogräset och andra växtarter?</text>
+            </label>
+            <label key="i636af222d8b3144613ecb2c0ac899102a1_A_2f688e12c94808ad3bc2838deaabec4c_2">
+                <text>samma livslängd</text>
+            </label>
+            <label key="i636af222d8b3144613ecb2c0ac899102a1_B_b9c25bb0b6caf2ecb8af756f90913f8a_3">
+                <text>samma tillväxthastighet</text>
+            </label>
+            <label key="i636af222d8b3144613ecb2c0ac899102a1_C_6ae3cc86c7e9544cf0e2b52fe81de19a_4">
+                <text>krav på samma typer av näringsämnen</text>
+            </label>
+            <label key="i636af222d8b3144613ecb2c0ac899102a1_D_58b7c2700b1131a1d4ae4c82a8e888a2_5">
+                <text>samma växtplats</text>
+            </label>
+        </item>
+        <item id="i636af2325a50014143b9f9e683725b5e86">
+            <label key="i636af2325a50014143b9f9e683725b5e86_bad585135730f2b590c62c55e1a5c521_1">
+                <text>Vad orsakar att populationstätheten för det biologiska bekämpningsmedlet ökar?</text>
+            </label>
+            <label key="i636af2325a50014143b9f9e683725b5e86_2908930da57721e86434d442eaf3c4dc_2">
+                <text>Använd diagrammet för att avgöra vilket svar som är korrekt.</text>
+            </label>
+            <label key="i636af2325a50014143b9f9e683725b5e86_A_43a115ac19bd8328758a74092d240be5_3">
+                <text>en ökning av tätheten för den odlade växten</text>
+            </label>
+            <label key="i636af2325a50014143b9f9e683725b5e86_B_2b5f3bdfbc4c22c79330032bdc5e9b7b_4">
+                <text>en minskning av tätheten för den odlade växten</text>
+            </label>
+            <label key="i636af2325a50014143b9f9e683725b5e86_C_eb66a0289172f23890ab27226c71429e_5">
+                <text>en ökning av ogrästätheten</text>
+            </label>
+            <label key="i636af2325a50014143b9f9e683725b5e86_D_ba6d1c53a22d5778dd37b7bd02b07696_6">
+                <text>en minskning av ogrästätheten</text>
+            </label>
+        </item>
+        <item id="i636af2600716f447506fdc4286603ece04">
+            <label key="i636af2600716f447506fdc4286603ece04_6d2a4f4163ff2dc7625183177139f3e1_1">
+                <text>Tänk över följande konsekvenser av att använda ett biologiskt bekämpningsmedel.</text>
+            </label>
+            <label key="i636af2600716f447506fdc4286603ece04_027579f394c4ab9aea5b5c27fc780288_2">
+                <text>Vilka av dessa är <strong>oönskade</strong> konsekvenser?</text>
+            </label>
+            <label key="i636af2600716f447506fdc4286603ece04_89b1c1de80f35eb0f385836481797561_3">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i636af2600716f447506fdc4286603ece04_A_2415c58aff4c9bf671534b137762cb8c_4">
+                <text>Det biologiska bekämpningsmedlet kan börja orsaka miljöskador.</text>
+            </label>
+            <label key="i636af2600716f447506fdc4286603ece04_B_450da51aecb000624a1961646a9a61c4_5">
+                <text>Det biologiska bekämpningsmedlet kan överföra sjukdomar till andra organismer i miljön.</text>
+            </label>
+            <label key="i636af2600716f447506fdc4286603ece04_C_a68c8269210e2394d5f3e9dbde80b35f_6">
+                <text>Det biologiska bekämpningsmedlet kan överleva och reproducera sig när ogrästätheten är mycket låg.</text>
+            </label>
+            <label key="i636af2600716f447506fdc4286603ece04_D_1f645502011e441098cc81dc4ba4fc7e_7">
+                <text>Det biologiska bekämpningsmedlet kanske inte är tillräckligt för att tätheten för den odlade växten ska kunna överskrida tröskelvärdet för ogrässkador.</text>
+            </label>
+        </item>
+        <item id="i636af29d736de44750046fe244bb957eda">
+            <label key="i636af29d736de44750046fe244bb957eda_1d98dcf7c4217a79bb4f21c681fce63e_1">
+                <text>En jordbrukare observerar att införandet av en insektsart på fälten som ett biologiskt bekämpningsmedel leder till en stor minskning av ogrästätheten.</text>
+            </label>
+            <label key="i636af29d736de44750046fe244bb957eda_84f8db572fdc9b1b53965c20a7a09677_2">
+                <text>Jordbrukaren besprutar sedan med insektsmedel för att döda insekterna som förts in.</text>
+            </label>
+            <label key="i636af29d736de44750046fe244bb957eda_9a9c2d3d9242d8b4a998eb5225c13d38_3">
+                <text>Vilket av följande påståenden om användning av insektsmedel för att döda insekterna som förts in är korrekt?</text>
+            </label>
+            <label key="i636af29d736de44750046fe244bb957eda_A_43f0d011b9cd5a2eafa146f19a25a9f6_4">
+                <text>Det är <strong>skadligt</strong> eftersom insekterna som förts in är en naturlig del av den lokala näringsväven.</text>
+            </label>
+            <label key="i636af29d736de44750046fe244bb957eda_B_d40eded19df5b46e2f4de14495151d9a_5">
+                <text>Det är <strong>onödigt</strong> eftersom alla insekter som förts in kommer att dö när ogrästätheten är låg.</text>
+            </label>
+            <label key="i636af29d736de44750046fe244bb957eda_C_fbed408fcaef2c6c77e78272d4a6d700_6">
+                <text>Det är <strong>inte bra</strong> eftersom det inte kommer att finnas några införda insekter som kontrollerar ogräset om ogrästätheten ökar.</text>
+            </label>
+            <label key="i636af29d736de44750046fe244bb957eda_D_71dba7974507369556b5a50b0e69e06d_7">
+                <text>Det är <strong>bra</strong> eftersom insekterna som förts in inte längre behövs.</text>
+            </label>
+        </item>
+        <item id="i636af2985f0e84463660a79d53a8ae4acf">
+            <label key="i636af2985f0e84463660a79d53a8ae4acf_7af6aa71097c92ab3cd12f3681e77476_1">
+                <text>En jordbrukare använder fyra insektsarter för att minska populationstätheten för en ogräsart på gården.</text>
+            </label>
+            <label key="i636af2985f0e84463660a79d53a8ae4acf_d0c3a3b44d1ec1e0c02d0e7fb8943f77_2">
+                <text>Vilka fördelar kan denna metod ha jämfört med att använda en insektsart?</text>
+            </label>
+            <label key="i636af2985f0e84463660a79d53a8ae4acf_89b1c1de80f35eb0f385836481797561_3">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i636af2985f0e84463660a79d53a8ae4acf_A_36e2c229a513ccf439a4fd15e7b782c9_4">
+                <text>Olika insektsarter kan livnära sig på olika växter.</text>
+            </label>
+            <label key="i636af2985f0e84463660a79d53a8ae4acf_B_9fd66cd706083e444efa43929c00e8b7_5">
+                <text>Olika insektsarter kan vara aktiva under olika tider på året.</text>
+            </label>
+            <label key="i636af2985f0e84463660a79d53a8ae4acf_C_17b93aaa035a45b69180ab83a9b323c2_6">
+                <text>Olika insektsarter kan vara inriktade på olika stadier i ogräsets livscykel.</text>
+            </label>
+            <label key="i636af2985f0e84463660a79d53a8ae4acf_D_9ef500f7253065b429600436d5460a8a_7">
+                <text>Olika insektsarter kan livnära sig på olika delar av växten, till exempel rötter, stjälkar och blad.</text>
+            </label>
+        </item>
+        <item id="i636af285250cf1415752eb4ee04dc4ec3d">
+            <label key="i636af285250cf1415752eb4ee04dc4ec3d_bce314488034b9c2a1053ff9dcebcc99_1">
+                <text>Diagrammet visar att förändringen av det biologiska bekämpningsmedlets täthet följer samma mönster som ogräset men inträffar senare.</text>
+            </label>
+            <label key="i636af285250cf1415752eb4ee04dc4ec3d_72664eb5eef7a57955bd7d45855ced70_2">
+                <text>Förklara orsaken till detta.</text>
+            </label>
+        </item>
+    </items>
+</file>

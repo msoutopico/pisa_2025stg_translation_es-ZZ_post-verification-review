@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64641db2b0af76.60121287/passage NEW.xml">
+            <label key="64641db2b0af76.60121287_3ca449cd081caf0e64ca8cf6aec988f6_1">
+                <text>Canadian Climate Change</text>
+            </label>
+            <label key="64641db2b0af76.60121287_242b965d5d45add6ef5f36e481538bbf_2">
+                <text>Climate change has had several impacts in Canada:</text>
+            </label>
+            <label key="64641db2b0af76.60121287_e27537ffbbe668ba9b761f5064951644_3">
+                <text>melting of ice within the Arctic Circle</text>
+            </label>
+            <label key="64641db2b0af76.60121287_9112c9adabd9089b3ee538d221de9639_4">
+                <text>extended periods without rain (drought)</text>
+            </label>
+            <label key="64641db2b0af76.60121287_bfba6c8127d5fcd651059fbd59bd6cbe_5">
+                <text>people having to relocate due to soil erosion</text>
+            </label>
+            <label key="64641db2b0af76.60121287_bb6f50d4082d9522b776f2c591ecb46e_6">
+                <text>fire outbreaks in forests (wildfires).</text>
+            </label>
+            <label key="64641db2b0af76.60121287_968a960cc733202f75b918ac2e33e133_7">
+                <text>SOME CLIMATE CHANGE IMPACTS IN CANADA</text>
+            </label>
+            <label key="64641db2b0af76.60121287_897356954c2cd3d41b221e3f24f99bba_8">
+                <text>Key</text>
+            </label>
+            <label key="64641db2b0af76.60121287_06dbe4e49bbc2d2cb390efd87186bb16_9">
+                <text>Melting ice</text>
+            </label>
+            <label key="64641db2b0af76.60121287_98ba0347be299d23c2c4ce1ce4585aca_10">
+                <text>Wildfires</text>
+            </label>
+            <label key="64641db2b0af76.60121287_eb851d8734999927589c75fde9f5910e_11">
+                <text>Drought</text>
+            </label>
+            <label key="64641db2b0af76.60121287_e0239b12a3e33be698a7c7c049e45599_12">
+                <text>Relocation due to erosion</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639bc9728800a23319f8e96d08eba852c">
+            <label key="i639bc9728800a23319f8e96d08eba852c_2e62785148697d10d5931e23ce31e2e7_1">
+                <text>A school student is completing an assignment about the environmental impacts of climate change across Canada.</text>
+            </label>
+            <label key="i639bc9728800a23319f8e96d08eba852c_03392247db0ad67d180fea6962684166_2">
+                <text>Which of the following sources of information are relevant and reliable for the student to use?</text>
+            </label>
+            <label key="i639bc9728800a23319f8e96d08eba852c_89b1c1de80f35eb0f385836481797561_3">
+                <text>Select all correct answers.</text>
+            </label>
+            <label key="i639bc9728800a23319f8e96d08eba852c_18793a34e5b506ae59a9d449794d4853_4">
+                <text>an online survey of 100 Canadian people</text>
+            </label>
+            <label key="i639bc9728800a23319f8e96d08eba852c_b0886705ef5c75f1507149dc8296ecda_5">
+                <text>an interview with a weather expert</text>
+            </label>
+            <label key="i639bc9728800a23319f8e96d08eba852c_e803f83526efca041e56a4f4bc073b70_6">
+                <text>a study about the climate published by a university</text>
+            </label>
+            <label key="i639bc9728800a23319f8e96d08eba852c_c1239d2054d5a9e574b6bda733e95969_7">
+                <text>the data from a thermometer in the student’s garden</text>
+            </label>
+        </item>
+        <item id="i639bc999d886312652527f7908945dc">
+            <label key="i639bc999d886312652527f7908945dc_d9b47fc6428c84a80cd12c123f973c36_1">
+                <text>What is the most likely outcome for each climate change impact?</text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_977a561febc4e594809213f138cc5257_2">
+                <text>Match each climate change impact with its most likely outcome by selecting both.</text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_4fd6443aa40323c1355b592abc7d5cdc_3">
+                <text>You can remove a match by selecting the line and then selecting ‘x’.</text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_02ea5ca4e71bb0dd4afefb3491eb3e2f_4">
+                <text>
+                    <strong>‌Impact‌</strong>
+                </text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_42d3741aaea9d9a89097c9b4257f06e0_5">
+                <text>
+                    <strong>‌Outcome‌</strong>
+                </text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_e0239b12a3e33be698a7c7c049e45599_6">
+                <text>Relocation due to erosion</text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_996e968c2dc2de0afe771efd801e098f_7">
+                <text>Landscape becomes muddy</text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_98ba0347be299d23c2c4ce1ce4585aca_8">
+                <text>Wildfires</text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_518342736ab49f752d9cf36cb5410035_9">
+                <text>Dirty air causing asthma</text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_eb851d8734999927589c75fde9f5910e_10">
+                <text>Drought</text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_0fc905375107ee43744e393691b4c2a8_11">
+                <text>Crops fail to grow</text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_06dbe4e49bbc2d2cb390efd87186bb16_12">
+                <text>Melting ice</text>
+            </label>
+            <label key="i639bc999d886312652527f7908945dc_5d2018b96eab34f5fa10088afc10a7a1_13">
+                <text>Loss of local indigenous culture</text>
+            </label>
+        </item>
+        <item id="i639bcab9b11d22331fabe74342c1047">
+            <label key="i639bcab9b11d22331fabe74342c1047_756b09a1a02495b101f2f9c541bfbb63_1">
+                <text>In what order do these events occur during a wildfire?</text>
+            </label>
+            <label key="i639bcab9b11d22331fabe74342c1047_9c795fc0a48efff80b05a756d8d27953_2">
+                <text>Drag each event into the space provided to show the correct order.</text>
+            </label>
+            <label key="i639bcab9b11d22331fabe74342c1047_ed722b544ab25df33d93231854fdcac3_3">
+                <text>fire spreads</text>
+            </label>
+            <label key="i639bcab9b11d22331fabe74342c1047_13af3b2ed6be075bb4856ee4975c9578_4">
+                <text>loss of natural habitats</text>
+            </label>
+            <label key="i639bcab9b11d22331fabe74342c1047_0276a085e963971342d31a868ccd8ba5_5">
+                <text>wildfire starts</text>
+            </label>
+            <label key="i639bcab9b11d22331fabe74342c1047_042ee952b61d38e988ea4e22d59b1a0b_6">
+                <text>animals homeless</text>
+            </label>
+        </item>
+    </items>
+</file>

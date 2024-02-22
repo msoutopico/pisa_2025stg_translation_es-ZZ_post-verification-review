@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/646efabc5380d8.52565287/passage NEW.xml">
+            <label key="646efabc5380d8.52565287_65844fabab4a3af64d853b4ab1770141_1">
+                <text>Elfordon</text>
+            </label>
+            <label key="646efabc5380d8.52565287_f72d1b364e9fdc8213716fad63e83b33_2">
+                <text>Bilar och lastbilar som använder fossila bränslen håller på att ersättas av elfordon. </text>
+            </label>
+            <label key="646efabc5380d8.52565287_682f39dd2328be1a5a3c4dbed74ca860_3">
+                <text>Tabellen nedan jämför de typiska koldioxidutsläppen (CO₂) från bilar som drivs med fossila bränslen med de typiska koldioxidutsläppen från bilar som drivs med elektricitet som genererats av olika källor.</text>
+            </label>
+            <label key="646efabc5380d8.52565287_3cc113765718df623f613e9b59b320f1_4">
+                <text><strong>Observera:</strong> Mängden CO₂ som släpps ut vid tillverkningen av bränsle inkluderar all CO₂ som produceras vid gruvdrift, förädling och generering av elektricitet.</text>
+            </label>
+            <label key="646efabc5380d8.52565287_8244e0928eb8f6c2c466e37fe59c8c5a_5">
+                <text>
+                    <strong>‌CO₂-utsläpp per 100 km körning‌</strong>
+                </text>
+            </label>
+            <label key="646efabc5380d8.52565287_066827048413f99e48014d8b3211d934_6">
+                <text>Energikälla</text>
+            </label>
+            <label key="646efabc5380d8.52565287_317eaa9a0468ece120c2a03048ec1526_7">
+                <text>Metod för att generera elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_01bdfd3544b198ef28cdf86e8c84d004_8">
+                <text>CO₂-utsläpp (kg) från bilen </text>
+            </label>
+            <label key="646efabc5380d8.52565287_355121506260e120da3231a1b0e131bf_9">
+                <text>CO₂ (kg) emitted by production of required fuel</text>
+            </label>
+            <label key="646efabc5380d8.52565287_310192cf7ea447f3854b0c8678049bfe_10">
+                <text>Totala CO₂-utsläpp (kg)</text>
+            </label>
+            <label key="646efabc5380d8.52565287_a25fd0d99d8fa9ec11855f02859b572d_11">
+                <text>fossilt bränsle</text>
+            </label>
+            <label key="646efabc5380d8.52565287_37ce74088416f28dc9bb04355c2e5a28_12">
+                <text>–</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c8db6b584c8dcb25982bde0c566a0fbe_13">
+                <text>14,6</text>
+            </label>
+            <label key="646efabc5380d8.52565287_7681fa48c2680d1f25b9ea32cd16d657_14">
+                <text>2,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_e4943631400ccf72d3d1b46d9973d074_15">
+                <text>16,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_cc01389a21ccebe928bb1a693b681131_16">
+                <text>​electricity</text>
+            </label>
+            <label key="646efabc5380d8.52565287_5271e118dc81adb543b7856bb6ea0445_17">
+                <text>kol</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_18">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_591cc1c9a3b4cbd908178203fc545d5d_19">
+                <text>16,4</text>
+            </label>
+            <label key="646efabc5380d8.52565287_591cc1c9a3b4cbd908178203fc545d5d_20">
+                <text>16,4</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_21">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_400a8f6716375443c853ae0dfd78b768_22">
+                <text>naturgas</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_23">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_fa6a0a46109c62108a885cd6e253180d_24">
+                <text>9,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_3a07fac5e695033fff12b0335b7b4bd5_25">
+                <text>9,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_26">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_01fc903531b7b98431f27201f99614e0_27">
+                <text>kärnkraft</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_28">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_d3a8d0f7a51471caa270e6baba23ddc1_29">
+                <text>0,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_f39a913a3d2ad81062a8a77a90e15aaf_30">
+                <text>0,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_31">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_19c4ff1149f03bce14b376ddb8cfafc9_32">
+                <text>förnybar energi</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_33">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_221cbbb7308380b3099240d07d29a191_34">
+                <text>0,6</text>
+            </label>
+            <label key="646efabc5380d8.52565287_564d1d04b6139eccd8f8a5b0e58c2404_35">
+                <text>0,6</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646efabc5380d8.52565287/passage NEW.xml">
+            <label key="646efabc5380d8.52565287_65844fabab4a3af64d853b4ab1770141_1">
+                <text>Elfordon</text>
+            </label>
+            <label key="646efabc5380d8.52565287_f72d1b364e9fdc8213716fad63e83b33_2">
+                <text>Bilar och lastbilar som använder fossila bränslen håller på att ersättas av elfordon. </text>
+            </label>
+            <label key="646efabc5380d8.52565287_682f39dd2328be1a5a3c4dbed74ca860_3">
+                <text>Tabellen nedan jämför de typiska koldioxidutsläppen (CO₂) från bilar som drivs med fossila bränslen med de typiska koldioxidutsläppen från bilar som drivs med elektricitet som genererats av olika källor.</text>
+            </label>
+            <label key="646efabc5380d8.52565287_3cc113765718df623f613e9b59b320f1_4">
+                <text><strong>Observera:</strong> Mängden CO₂ som släpps ut vid tillverkningen av bränsle inkluderar all CO₂ som produceras vid gruvdrift, förädling och generering av elektricitet.</text>
+            </label>
+            <label key="646efabc5380d8.52565287_8244e0928eb8f6c2c466e37fe59c8c5a_5">
+                <text>
+                    <strong>‌CO₂-utsläpp per 100 km körning‌</strong>
+                </text>
+            </label>
+            <label key="646efabc5380d8.52565287_066827048413f99e48014d8b3211d934_6">
+                <text>Energikälla</text>
+            </label>
+            <label key="646efabc5380d8.52565287_317eaa9a0468ece120c2a03048ec1526_7">
+                <text>Metod för att generera elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_01bdfd3544b198ef28cdf86e8c84d004_8">
+                <text>CO₂-utsläpp (kg) från bilen </text>
+            </label>
+            <label key="646efabc5380d8.52565287_355121506260e120da3231a1b0e131bf_9">
+                <text>CO₂ (kg) emitted by production of required fuel</text>
+            </label>
+            <label key="646efabc5380d8.52565287_310192cf7ea447f3854b0c8678049bfe_10">
+                <text>Totala CO₂-utsläpp (kg)</text>
+            </label>
+            <label key="646efabc5380d8.52565287_a25fd0d99d8fa9ec11855f02859b572d_11">
+                <text>fossilt bränsle</text>
+            </label>
+            <label key="646efabc5380d8.52565287_37ce74088416f28dc9bb04355c2e5a28_12">
+                <text>–</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c8db6b584c8dcb25982bde0c566a0fbe_13">
+                <text>14,6</text>
+            </label>
+            <label key="646efabc5380d8.52565287_7681fa48c2680d1f25b9ea32cd16d657_14">
+                <text>2,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_e4943631400ccf72d3d1b46d9973d074_15">
+                <text>16,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_cc01389a21ccebe928bb1a693b681131_16">
+                <text>​electricity</text>
+            </label>
+            <label key="646efabc5380d8.52565287_5271e118dc81adb543b7856bb6ea0445_17">
+                <text>kol</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_18">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_591cc1c9a3b4cbd908178203fc545d5d_19">
+                <text>16,4</text>
+            </label>
+            <label key="646efabc5380d8.52565287_591cc1c9a3b4cbd908178203fc545d5d_20">
+                <text>16,4</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_21">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_400a8f6716375443c853ae0dfd78b768_22">
+                <text>naturgas</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_23">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_fa6a0a46109c62108a885cd6e253180d_24">
+                <text>9,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_3a07fac5e695033fff12b0335b7b4bd5_25">
+                <text>9,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_26">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_01fc903531b7b98431f27201f99614e0_27">
+                <text>kärnkraft</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_28">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_d3a8d0f7a51471caa270e6baba23ddc1_29">
+                <text>0,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_f39a913a3d2ad81062a8a77a90e15aaf_30">
+                <text>0,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_31">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_19c4ff1149f03bce14b376ddb8cfafc9_32">
+                <text>förnybar energi</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_33">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_221cbbb7308380b3099240d07d29a191_34">
+                <text>0,6</text>
+            </label>
+            <label key="646efabc5380d8.52565287_564d1d04b6139eccd8f8a5b0e58c2404_35">
+                <text>0,6</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646efabc5380d8.52565287/passage NEW.xml">
+            <label key="646efabc5380d8.52565287_65844fabab4a3af64d853b4ab1770141_1">
+                <text>Elfordon</text>
+            </label>
+            <label key="646efabc5380d8.52565287_f72d1b364e9fdc8213716fad63e83b33_2">
+                <text>Bilar och lastbilar som använder fossila bränslen håller på att ersättas av elfordon. </text>
+            </label>
+            <label key="646efabc5380d8.52565287_682f39dd2328be1a5a3c4dbed74ca860_3">
+                <text>Tabellen nedan jämför de typiska koldioxidutsläppen (CO₂) från bilar som drivs med fossila bränslen med de typiska koldioxidutsläppen från bilar som drivs med elektricitet som genererats av olika källor.</text>
+            </label>
+            <label key="646efabc5380d8.52565287_3cc113765718df623f613e9b59b320f1_4">
+                <text><strong>Observera:</strong> Mängden CO₂ som släpps ut vid tillverkningen av bränsle inkluderar all CO₂ som produceras vid gruvdrift, förädling och generering av elektricitet.</text>
+            </label>
+            <label key="646efabc5380d8.52565287_8244e0928eb8f6c2c466e37fe59c8c5a_5">
+                <text>
+                    <strong>‌CO₂-utsläpp per 100 km körning‌</strong>
+                </text>
+            </label>
+            <label key="646efabc5380d8.52565287_066827048413f99e48014d8b3211d934_6">
+                <text>Energikälla</text>
+            </label>
+            <label key="646efabc5380d8.52565287_317eaa9a0468ece120c2a03048ec1526_7">
+                <text>Metod för att generera elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_01bdfd3544b198ef28cdf86e8c84d004_8">
+                <text>CO₂-utsläpp (kg) från bilen </text>
+            </label>
+            <label key="646efabc5380d8.52565287_355121506260e120da3231a1b0e131bf_9">
+                <text>CO₂ (kg) emitted by production of required fuel</text>
+            </label>
+            <label key="646efabc5380d8.52565287_310192cf7ea447f3854b0c8678049bfe_10">
+                <text>Totala CO₂-utsläpp (kg)</text>
+            </label>
+            <label key="646efabc5380d8.52565287_a25fd0d99d8fa9ec11855f02859b572d_11">
+                <text>fossilt bränsle</text>
+            </label>
+            <label key="646efabc5380d8.52565287_37ce74088416f28dc9bb04355c2e5a28_12">
+                <text>–</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c8db6b584c8dcb25982bde0c566a0fbe_13">
+                <text>14,6</text>
+            </label>
+            <label key="646efabc5380d8.52565287_7681fa48c2680d1f25b9ea32cd16d657_14">
+                <text>2,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_e4943631400ccf72d3d1b46d9973d074_15">
+                <text>16,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_cc01389a21ccebe928bb1a693b681131_16">
+                <text>​electricity</text>
+            </label>
+            <label key="646efabc5380d8.52565287_5271e118dc81adb543b7856bb6ea0445_17">
+                <text>kol</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_18">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_591cc1c9a3b4cbd908178203fc545d5d_19">
+                <text>16,4</text>
+            </label>
+            <label key="646efabc5380d8.52565287_591cc1c9a3b4cbd908178203fc545d5d_20">
+                <text>16,4</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_21">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_400a8f6716375443c853ae0dfd78b768_22">
+                <text>naturgas</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_23">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_fa6a0a46109c62108a885cd6e253180d_24">
+                <text>9,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_3a07fac5e695033fff12b0335b7b4bd5_25">
+                <text>9,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_26">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_01fc903531b7b98431f27201f99614e0_27">
+                <text>kärnkraft</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_28">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_d3a8d0f7a51471caa270e6baba23ddc1_29">
+                <text>0,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_f39a913a3d2ad81062a8a77a90e15aaf_30">
+                <text>0,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_31">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_19c4ff1149f03bce14b376ddb8cfafc9_32">
+                <text>förnybar energi</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_33">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_221cbbb7308380b3099240d07d29a191_34">
+                <text>0,6</text>
+            </label>
+            <label key="646efabc5380d8.52565287_564d1d04b6139eccd8f8a5b0e58c2404_35">
+                <text>0,6</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646efabc5380d8.52565287/passage NEW.xml">
+            <label key="646efabc5380d8.52565287_65844fabab4a3af64d853b4ab1770141_1">
+                <text>Elfordon</text>
+            </label>
+            <label key="646efabc5380d8.52565287_f72d1b364e9fdc8213716fad63e83b33_2">
+                <text>Bilar och lastbilar som använder fossila bränslen håller på att ersättas av elfordon. </text>
+            </label>
+            <label key="646efabc5380d8.52565287_682f39dd2328be1a5a3c4dbed74ca860_3">
+                <text>Tabellen nedan jämför de typiska koldioxidutsläppen (CO₂) från bilar som drivs med fossila bränslen med de typiska koldioxidutsläppen från bilar som drivs med elektricitet som genererats av olika källor.</text>
+            </label>
+            <label key="646efabc5380d8.52565287_3cc113765718df623f613e9b59b320f1_4">
+                <text><strong>Observera:</strong> Mängden CO₂ som släpps ut vid tillverkningen av bränsle inkluderar all CO₂ som produceras vid gruvdrift, förädling och generering av elektricitet.</text>
+            </label>
+            <label key="646efabc5380d8.52565287_8244e0928eb8f6c2c466e37fe59c8c5a_5">
+                <text>
+                    <strong>‌CO₂-utsläpp per 100 km körning‌</strong>
+                </text>
+            </label>
+            <label key="646efabc5380d8.52565287_066827048413f99e48014d8b3211d934_6">
+                <text>Energikälla</text>
+            </label>
+            <label key="646efabc5380d8.52565287_317eaa9a0468ece120c2a03048ec1526_7">
+                <text>Metod för att generera elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_01bdfd3544b198ef28cdf86e8c84d004_8">
+                <text>CO₂-utsläpp (kg) från bilen </text>
+            </label>
+            <label key="646efabc5380d8.52565287_355121506260e120da3231a1b0e131bf_9">
+                <text>CO₂ (kg) emitted by production of required fuel</text>
+            </label>
+            <label key="646efabc5380d8.52565287_310192cf7ea447f3854b0c8678049bfe_10">
+                <text>Totala CO₂-utsläpp (kg)</text>
+            </label>
+            <label key="646efabc5380d8.52565287_a25fd0d99d8fa9ec11855f02859b572d_11">
+                <text>fossilt bränsle</text>
+            </label>
+            <label key="646efabc5380d8.52565287_37ce74088416f28dc9bb04355c2e5a28_12">
+                <text>–</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c8db6b584c8dcb25982bde0c566a0fbe_13">
+                <text>14,6</text>
+            </label>
+            <label key="646efabc5380d8.52565287_7681fa48c2680d1f25b9ea32cd16d657_14">
+                <text>2,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_e4943631400ccf72d3d1b46d9973d074_15">
+                <text>16,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_cc01389a21ccebe928bb1a693b681131_16">
+                <text>​electricity</text>
+            </label>
+            <label key="646efabc5380d8.52565287_5271e118dc81adb543b7856bb6ea0445_17">
+                <text>kol</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_18">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_591cc1c9a3b4cbd908178203fc545d5d_19">
+                <text>16,4</text>
+            </label>
+            <label key="646efabc5380d8.52565287_591cc1c9a3b4cbd908178203fc545d5d_20">
+                <text>16,4</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_21">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_400a8f6716375443c853ae0dfd78b768_22">
+                <text>naturgas</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_23">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_fa6a0a46109c62108a885cd6e253180d_24">
+                <text>9,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_3a07fac5e695033fff12b0335b7b4bd5_25">
+                <text>9,8</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_26">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_01fc903531b7b98431f27201f99614e0_27">
+                <text>kärnkraft</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_28">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_d3a8d0f7a51471caa270e6baba23ddc1_29">
+                <text>0,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_f39a913a3d2ad81062a8a77a90e15aaf_30">
+                <text>0,2</text>
+            </label>
+            <label key="646efabc5380d8.52565287_641b2b00d03f9990007869f7cc5281e4_31">
+                <text>elektricitet</text>
+            </label>
+            <label key="646efabc5380d8.52565287_19c4ff1149f03bce14b376ddb8cfafc9_32">
+                <text>förnybar energi</text>
+            </label>
+            <label key="646efabc5380d8.52565287_c4cf9ac443d8423c639f53a622c57544_33">
+                <text>0,0</text>
+            </label>
+            <label key="646efabc5380d8.52565287_221cbbb7308380b3099240d07d29a191_34">
+                <text>0,6</text>
+            </label>
+            <label key="646efabc5380d8.52565287_564d1d04b6139eccd8f8a5b0e58c2404_35">
+                <text>0,6</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a1243108529237735fed37f1a9dc87e">
+            <label key="i63a1243108529237735fed37f1a9dc87e_a36145dadf59417819098050ceb2cb86_1">
+                <text>Släpper elfordon ut mindre CO₂ per körd kilometer än andra fordon som använder fossila bränslen?</text>
+            </label>
+            <label key="i63a1243108529237735fed37f1a9dc87e_A_93cba07454f06a4a960172bbd6e2a435_2">
+                <text>Ja</text>
+            </label>
+            <label key="i63a1243108529237735fed37f1a9dc87e_B_bafd7322c6e97d25b6299b5d6fe8920b_3">
+                <text>Nej</text>
+            </label>
+            <label key="i63a1243108529237735fed37f1a9dc87e_321777133075cda474631c062196d935_4">
+                <text>Använd uppgifterna i tabellen som stöd för ditt svar.</text>
+            </label>
+        </item>
+        <item id="i63a124434038f280950ef57a03729bbac">
+            <label key="i63a124434038f280950ef57a03729bbac_3b5e86c6b3b09ea89039a30c37ed16cc_1">
+                <text>Tabellen visar mängden CO₂ som släpps ut av bilar och genom produktion av bilbränsle.</text>
+            </label>
+            <label key="i63a124434038f280950ef57a03729bbac_d80c7c8bee360720462165f4fff1b3c0_2">
+                <text>Vilken av följande faktorer bör också beaktas vid fastställande av totala CO₂-utsläpp från bilanvändning?</text>
+            </label>
+            <label key="i63a124434038f280950ef57a03729bbac_A_6f6e6a7056eecb1c670114e921fa0a07_3">
+                <text>energin som frigörs genom förbränning av bränslet</text>
+            </label>
+            <label key="i63a124434038f280950ef57a03729bbac_B_6bdb4ee89ad6d733546bf75ada9c7289_4">
+                <text>energin som förbrukas genom användning av strålkastare</text>
+            </label>
+            <label key="i63a124434038f280950ef57a03729bbac_C_3f34c3fe84cbbd7422b827aded65b49f_5">
+                <text>energin som omvandlas genom att man bromsar</text>
+            </label>
+            <label key="i63a124434038f280950ef57a03729bbac_D_eb15fe6030308d4ccee55c6f20813771_6">
+                <text>energin som används vid tillverkning av bilen</text>
+            </label>
+        </item>
+        <item id="i63a1245d6c7e02380687cd0fbea5698ed">
+            <label key="i63a1245d6c7e02380687cd0fbea5698ed_0b8893315f40c4c57dcfc5580816a3f8_1">
+                <text>Elbilar använder el från energi som är lagrad i ett batteripaket.</text>
+            </label>
+            <label key="i63a1245d6c7e02380687cd0fbea5698ed_3da7ef3f01717671c885e6aba099adcc_2">
+                <text>Tillverkningen av dessa batteripaket kräver elektricitet som genereras från fossila bränslen som till exempel kol.</text>
+            </label>
+            <label key="i63a1245d6c7e02380687cd0fbea5698ed_b37690b5f776725b64dc473b68072be9_3">
+                <text>Vilken åtgärd skulle minska mängden CO₂-utsläpp från tillverkningen av batteripaket mest?</text>
+            </label>
+            <label key="i63a1245d6c7e02380687cd0fbea5698ed_A_73dece6c8120e1e07a3b88b877f83927_4">
+                <text>Öka mängden el som genereras av naturgas.</text>
+            </label>
+            <label key="i63a1245d6c7e02380687cd0fbea5698ed_B_b3dc0f5ec84fd4e5fee9822d94839b01_5">
+                <text>Att öka mängden energi som kan lagras i bilens batteripaket.</text>
+            </label>
+            <label key="i63a1245d6c7e02380687cd0fbea5698ed_C_e0ce5911ef85a7708a77bf9e49b317b5_6">
+                <text>Att öka sträckan bilen kan köra innan batteriet måste laddas på nytt.</text>
+            </label>
+            <label key="i63a1245d6c7e02380687cd0fbea5698ed_D_539f1c2ad5375776ae772cada225bc85_7">
+                <text>Öka effektiviteten i energiomvandlingen vid kolkraftverk.</text>
+            </label>
+        </item>
+        <item id="i63a126c24f0b8143618a43edc45d17e5c4">
+            <label key="i63a126c24f0b8143618a43edc45d17e5c4_f6b6fa2837e758cd917325d2286590d1_1">
+                <text>Att byta från fossildrivna bilar till elbilar kan ge upphov till andra problem. Dessa problem kan lösas av forskare eller andra yrkesgrupper som till exempel politiker och ekonomer.</text>
+            </label>
+            <label key="i63a126c24f0b8143618a43edc45d17e5c4_caec727eced40424cfe6cf8fd4a7f689_2">
+                <text>Vilken yrkesgrupp kan bäst lösa vart och ett av problemen i tabellen nedan?</text>
+            </label>
+            <label key="i63a126c24f0b8143618a43edc45d17e5c4_9d80fd4402d51ef09a269feea8445c27_3">
+                <text>Välj 'Forskare' eller 'Andra' för varje problem.</text>
+            </label>
+            <label key="i63a126c24f0b8143618a43edc45d17e5c4_Y_11c2081ff371174ffeaaf9fb62bdafb1_4">
+                <text>
+                    <b>‌Forskare‌</b>
+                </text>
+            </label>
+            <label key="i63a126c24f0b8143618a43edc45d17e5c4_N_d9ce7b2f2a264a93382219f194553514_5">
+                <text>
+                    <b>‌​Other‌</b>
+                </text>
+            </label>
+            <label key="i63a126c24f0b8143618a43edc45d17e5c4_Row1_c4df19d85b3d3c940c2a9b0d661db1fc_6">
+                <text>Det är tekniskt komplicerat att ersätta fossila bränslen med förnybar energi för att generera elektricitet för laddning av bilar.</text>
+            </label>
+            <label key="i63a126c24f0b8143618a43edc45d17e5c4_Row2_00bf6c3ab9d6c9837579a53f35640e77_7">
+                <text>Elfordon är för dyra för de flesta.</text>
+            </label>
+            <label key="i63a126c24f0b8143618a43edc45d17e5c4_Row3_10fccf03ff3f612c30e8cff8b006b013_8">
+                <text>Människor förlorar sina jobb eftersom industrierna som använder fossilbränsledrivna fordon minskar.</text>
+            </label>
+            <label key="i63a126c24f0b8143618a43edc45d17e5c4_Row4_41d7dfbdcbd52d0291f40ac9541571a4_9">
+                <text>Elfordon kan inte färdas långa sträckor.</text>
+            </label>
+        </item>
+    </items>
+</file>

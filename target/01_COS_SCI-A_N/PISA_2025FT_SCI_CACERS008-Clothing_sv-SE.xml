@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6462d695d0e918.95402874/passage NEW.xml">
+            <label key="6462d695d0e918.95402874_efe0bd2c212eceec598c42a15b8cd07f_1">
+                <text>Kläder</text>
+            </label>
+            <label key="6462d695d0e918.95402874_e35dcce68e93b58ea35da5342f461679_2">
+                <text>Det här är en jacka som är tillverkad av flera sorters material.</text>
+            </label>
+            <label key="6462d695d0e918.95402874_5b6f79ff316da79c3c209560f278819e_3">
+                <text>Yttertyg-vindtätt, vattentätt</text>
+            </label>
+            <label key="6462d695d0e918.95402874_ab56ac3bb1f664979108e76099a26efd_4">
+                <text>Inre isolerande lager</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6462d695d0e918.95402874/passage NEW.xml">
+            <label key="6462d695d0e918.95402874_efe0bd2c212eceec598c42a15b8cd07f_1">
+                <text>Kläder</text>
+            </label>
+            <label key="6462d695d0e918.95402874_e35dcce68e93b58ea35da5342f461679_2">
+                <text>Det här är en jacka som är tillverkad av flera sorters material.</text>
+            </label>
+            <label key="6462d695d0e918.95402874_5b6f79ff316da79c3c209560f278819e_3">
+                <text>Yttertyg-vindtätt, vattentätt</text>
+            </label>
+            <label key="6462d695d0e918.95402874_ab56ac3bb1f664979108e76099a26efd_4">
+                <text>Inre isolerande lager</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6462d695d0e918.95402874/passage NEW.xml">
+            <label key="6462d695d0e918.95402874_efe0bd2c212eceec598c42a15b8cd07f_1">
+                <text>Kläder</text>
+            </label>
+            <label key="6462d695d0e918.95402874_e35dcce68e93b58ea35da5342f461679_2">
+                <text>Det här är en jacka som är tillverkad av flera sorters material.</text>
+            </label>
+            <label key="6462d695d0e918.95402874_5b6f79ff316da79c3c209560f278819e_3">
+                <text>Yttertyg-vindtätt, vattentätt</text>
+            </label>
+            <label key="6462d695d0e918.95402874_ab56ac3bb1f664979108e76099a26efd_4">
+                <text>Inre isolerande lager</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63329274450c916297301255eeb3fadb3">
+            <label key="i63329274450c916297301255eeb3fadb3_4c4535cce4f2e91e2d344065c0fd2f5e_1">
+                <text>Julia har på sig en jacka när det är kallt ute.</text>
+            </label>
+            <label key="i63329274450c916297301255eeb3fadb3_d8f7a2811d906e02e55e40edfec2c65b_2">
+                <text>Vad är huvudsyftet med isoleringen i jackan en kall dag?</text>
+            </label>
+            <label key="i63329274450c916297301255eeb3fadb3_A_7b40b9d89eff80e093fd402a7454ec94_3">
+                <text>att hålla Julia torr</text>
+            </label>
+            <label key="i63329274450c916297301255eeb3fadb3_B_e8d8c0aa4764b07e4c9054863b269f7d_4">
+                <text>att hjälpa till att absorbera värme från solen</text>
+            </label>
+            <label key="i63329274450c916297301255eeb3fadb3_C_b3676e64b1b119c5a8959091c9211a1e_5">
+                <text>att hindra den varma luften från att lämna jackan</text>
+            </label>
+            <label key="i63329274450c916297301255eeb3fadb3_D_068463cac82bf2d43e285d132eeb6466_6">
+                <text>att hindra den kalla luften från att komma in i jackan</text>
+            </label>
+        </item>
+        <item id="i63329567811701927b88a2cf1ce41c21d">
+            <label key="i63329567811701927b88a2cf1ce41c21d_7d3cbf4849fb0ab3c8a27446fcb56485_1">
+                <text>Julia vill ta reda på hur bra jackan skyddar mot vatten när det regnar.</text>
+            </label>
+            <label key="i63329567811701927b88a2cf1ce41c21d_1bff4f002b0847cd8b8f9ad262509813_2">
+                <text>Hur kan Julia testa hur vattentät jackan är i regn?</text>
+            </label>
+            <label key="i63329567811701927b88a2cf1ce41c21d_A_1d1bb6c36c76fb9fb3b4b76523ed95e2_3">
+                <text>Lämna jackan utomhus en molnig dag.<div><br/><img alt="CACERS008Q02_clothing_A.svg" src="assets/df5c562263bf775054c91.svg" type="image/svg+xml" width="32%"/>‌</div></text>
+            </label>
+            <label key="i63329567811701927b88a2cf1ce41c21d_B_2a62c284436fa789772c24b503257ef4_4">
+                <text>Blöta jackan i en balja med vatten.<div><br/><img alt="CACERS008Q02_clothing_B.svg" src="assets/48f441f963bf774f8b027.svg" type="image/svg+xml" width="31%"/>‌</div></text>
+            </label>
+            <label key="i63329567811701927b88a2cf1ce41c21d_C_eb819d9a272cbe2e6e11efc609f298dd_5">
+                <text>Gnida jackan med en blöt trasa.<div><img alt="CACERS008Q02_clothing_C.svg" src="assets/c5934cb063bf774f8bc9b.svg" type="image/svg+xml" width="21%"/>‌</div></text>
+            </label>
+            <label key="i63329567811701927b88a2cf1ce41c21d_D_5ca7380fe63f6efad9209fc3a3dff463_6">
+                <text>Spraya vatten på jackan.<div><img alt="CACERS008Q02_clothing_D.svg" src="assets/d1b8af4b63bf774f84705.svg" type="image/svg+xml" width="16%"/>‌</div></text>
+            </label>
+        </item>
+        <item id="i6332986f201e115573abfda3b96b65b38b">
+            <label key="i6332986f201e115573abfda3b96b65b38b_634aa47c447f554885f935c1f314daac_1">
+                <text>Det tjocka isolerande lagret i Julias jacka består av många fibrer.</text>
+            </label>
+            <label key="i6332986f201e115573abfda3b96b65b38b_76ff0afa13e075547552e1012c37027b_2">
+                <text>Hur hjälper det isolerande lagret till att hålla Julia varm?</text>
+            </label>
+            <label key="i6332986f201e115573abfda3b96b65b38b_A_489e101e7e83143d2c5a9707ddaa4573_3">
+                <text>Fibrerna släpper ut varm luft och släpper in kall luft.</text>
+            </label>
+            <label key="i6332986f201e115573abfda3b96b65b38b_B_87080c88599884a1f7c5e05408d4ce27_4">
+                <text>Fibrerna ger upphov till värme när de gnids mot tyglagret.</text>
+            </label>
+            <label key="i6332986f201e115573abfda3b96b65b38b_C_05ca3abcf8f9130bf79642ca58c5f5c0_5">
+                <text>Fibrerna reflekterar bort kyla från Julias kropp.</text>
+            </label>
+            <label key="i6332986f201e115573abfda3b96b65b38b_D_8842805265f8fe8a797f8df46a8557ce_6">
+                <text>Fibrerna gör värmeöverföringen långsammare genom att fånga luft.</text>
+            </label>
+        </item>
+    </items>
+</file>

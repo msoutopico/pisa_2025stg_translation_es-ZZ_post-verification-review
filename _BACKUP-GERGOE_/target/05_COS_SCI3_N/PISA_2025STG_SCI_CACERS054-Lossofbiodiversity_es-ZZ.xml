@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64641e76bd72a4.52078075/passage NEW.xml">
+            <label key="64641e76bd72a4.52078075_606924e526ad48e78148df7e4bbfa35d_1">
+                <text>Loss of Biodiversity</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_4d7a7838c8cdc7ef5cd0ca71269d9351_2">
+                <text>‘Biodiversity’ refers to the variety of plants, animals and other organisms in a particular location or throughout the world.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_e2d79418d800120eba0f41fa98b45d23_3">
+                <text>Coral reefs are believed to have the highest biodiversity of any ecosystem. They are stony structures built by coral organisms and algae in shallow tropical waters. They provide habitat for many species of marine animals.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_7e3562c95ce5e21650960893b2494d55_4">
+                <text>Loss of biodiversity is widespread throughout the world. The graph shows the percentage of groups of species that are currently at risk of becoming extinct in the wild.</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_9b126e449c7d05cf163e81c272ef319b_5">
+                <text>
+                    <strong>‌Risk of extinction for some groups of species‌</strong>
+                </text>
+            </label>
+            <label key="64641e76bd72a4.52078075_b6b9e2f29a4c04f2a58e64adbf308b8c_6">
+                <text>Coral organisms</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_054ddb0c149e58eaff39004aa1a388c9_7">
+                <text>Marine turtles</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_d45e9b71c4138c2f3ad629d1ee907eae_8">
+                <text>Conifer trees</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_4501a6b062e4d04f4011538f0608b6fb_9">
+                <text>Amphibians</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_bd3458e1e376b172af6ed1b62e1387bd_10">
+                <text>Mammals</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_8587a72eab920162227602c75e6ca1c0_11">
+                <text>Birds</text>
+            </label>
+            <label key="64641e76bd72a4.52078075_b87aa85458d327e1c4548606af843417_12">
+                <text>
+                    <strong>‌Percentage of species at risk of extinction‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639f8c4bcc2f317132d978a255319a2cfb">
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_d79c027ad4a21112a0db9a9bd9173ff7_1">
+                <text>Policymakers need reliable information to determine what action is needed to prevent further biodiversity loss.</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_78781823528cea38394f154f27c1e974_2">
+                <text>Below are four descriptions of sources of information on biodiversity loss.</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_317a538200908aee3ceccea0736c6d26_3">
+                <text>Which source of information would be the most reliable?</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_838d1a31844f032aeaf5d9dfe84c993d_4">
+                <text>It was written by a scientist who specialises in astronomy.</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_f43b9490ea66cbc564c9a1d5f8d831aa_5">
+                <text>It referred to sources that were reviewed by scientists who are experts on the subject.</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_14d1422460ce1f5fa4ee7f7528a3747a_6">
+                <text>It was written by an environmentalist who volunteers with a conservation organisation.</text>
+            </label>
+            <label key="i639f8c4bcc2f317132d978a255319a2cfb_2a5b79291ec517a746978068ea2a9efa_7">
+                <text>It was published on a tourism website advertising a holiday to see endangered species.</text>
+            </label>
+        </item>
+        <item id="i639f8c619ec9152384a442d77b87a73d95">
+            <label key="i639f8c619ec9152384a442d77b87a73d95_7c6e56fc02daefea9901dcc6242c4aca_1">
+                <text>
+                    <strong>‌The news headline below suggests that our use of marine resources is causing biodiversity loss.‌</strong>
+                </text>
+            </label>
+            <label key="i639f8c619ec9152384a442d77b87a73d95_20be5f6c35126cc645b7eb8c6bed6742_2">
+                <text>Human overuse of marine resources has reached unprecedented levels</text>
+            </label>
+            <label key="i639f8c619ec9152384a442d77b87a73d95_68a036b16063dfb93c3b5690f10c3d17_3">
+                <text>Does the information in the graph provide evidence to support the claim in the headline?</text>
+            </label>
+            <label key="i639f8c619ec9152384a442d77b87a73d95_93cba07454f06a4a960172bbd6e2a435_4">
+                <text>Yes</text>
+            </label>
+            <label key="i639f8c619ec9152384a442d77b87a73d95_bafd7322c6e97d25b6299b5d6fe8920b_5">
+                <text>No</text>
+            </label>
+            <label key="i639f8c619ec9152384a442d77b87a73d95_4fd72ad9efa6be34b8ac1f513e76dfb5_6">
+                <text>Explain your answer.</text>
+            </label>
+        </item>
+        <item id="i639f8c6d1c1b150708bdf96d2cc080ac92">
+            <label key="i639f8c6d1c1b150708bdf96d2cc080ac92_95655e0179d781a5e2d0aee82d8be3a5_1">
+                <text>Which one of the following statements is supported by the data in the graph?</text>
+            </label>
+            <label key="i639f8c6d1c1b150708bdf96d2cc080ac92_a9536f0005e73f1997faa10bed6621bd_2">
+                <text>The percentage of species at risk of extinction is equal for conifer trees and for birds.</text>
+            </label>
+            <label key="i639f8c6d1c1b150708bdf96d2cc080ac92_26ad1152fba4a1c6f59906666396c3e5_3">
+                <text>The percentage of species at risk of extinction is lower for mammals than for the other groups of species.</text>
+            </label>
+            <label key="i639f8c6d1c1b150708bdf96d2cc080ac92_3cc28af7034fe97d16e29eb3c8a574a2_4">
+                <text>The percentage of species at risk of extinction is higher for amphibians than for the other groups of species.</text>
+            </label>
+            <label key="i639f8c6d1c1b150708bdf96d2cc080ac92_edd2227ab73a8c79adf3ae03d0f7aefa_5">
+                <text>The percentage of species at risk of extinction is higher for marine turtles than for the other groups of species.</text>
+            </label>
+        </item>
+    </items>
+</file>

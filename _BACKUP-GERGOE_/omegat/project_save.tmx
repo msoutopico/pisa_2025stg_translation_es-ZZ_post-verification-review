@@ -1,0 +1,3069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>% of respondents</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>% of respondents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>20 ppm CO</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084515Z" creationid="REV" creationdate="20230606T084515Z">
+        <seg>20 ppm CO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>26, 20, 25, 20, 22</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084517Z" creationid="REV" creationdate="20230606T084517Z">
+        <seg>26, 20, 25, 20, 22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>35, 31, 33, 36, 33</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084517Z" creationid="REV" creationdate="20230606T084517Z">
+        <seg>35, 31, 33, 36, 33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;Salt water concentration (g/L)</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>&lt;g1&gt;Salt water concentration (g/L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&lt;g1&gt;‌</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>&lt;g1&gt;‌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>&lt;x1/&gt;‌</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>&lt;x1/&gt;‌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084511Z" creationid="REV" creationdate="20230606T084511Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A decision is made to reduce light pollution in one city.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>A decision is made to reduce light pollution in one city.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A factory is using gas sensors to measure the concentration of carbon monoxide (CO) to ensure workers’ safety.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T122121Z" creationid="REV" creationdate="20230606T084513Z">
+        <seg>A factory is using gas sensors to measure the concentration of carbon monoxide (CO) to ensure workers’ safety_VERIFICATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A particular fish species only makes sounds at night and in muddy water during daylight.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084508Z">
+        <seg>A particular fish species only makes NATIONAL ADAPTATIONs at night and in muddy water during daylight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A school student is completing an assignment about the environmental impacts of climate change across Canada.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>A school student is completing an assignment about the environmental impacts of climate change across Canada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A similar artificial glacier project exists in the Andes Mountains in Chile, South America.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>A similar artificial glacier project exists in the Andes Mountains in Chile, South America.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A total of 205 responses were collected.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>A total of 205 responses were collected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A typical river system has freshwater upstream of the estuary (towards the river source).</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>A typical river system has freshwater upstream of the estuary (towards the river source).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>A worker at the factory estimates that, when the sensor displays a concentration of CO as 60 ppm, the voltage produced by the sensor is 2.5 V.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084517Z" creationid="REV" creationdate="20230606T084517Z">
+        <seg>A worker at the factory estimates that, when the sensor displays a concentration of CO as 60 ppm, the voltage produced by the sensor is 2.5 V.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>According to the graph, for which suggestion does the profession of the respondent have the greatest influence on their opinion?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>According to the graph, for which suggestion does the profession of the respondent have the greatest influence on their opinion?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Advertising lights on the exterior of city buildings</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Advertising lights on the exterior of city buildings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>All advertising lights and all lighting in industrial areas will be turned off between 11 pm and 4 am.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>All advertising lights and all lighting in industrial areas will be turned off between 11 pm and 4 am.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>All of the following statements about desalination are true.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>All of the following statements about desalination are true.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Allow more people to experience naturally dark nights</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Allow more people to experience naturally dark nights</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Allow more people to experience naturally dark nights.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Allow more people to experience naturally dark nights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Amphibians</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Amphibians</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>An ice stupa consists of a conical framework of netting and thorn bushes.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>An ice stupa consists of a conical framework of netting and thorn bushes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Apply better technology</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Apply better technology</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Apply better technology.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Apply better technology.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Are the results of the survey likely to be a true reflection of the opinion of &lt;g1&gt;all&lt;/g1&gt; lighting specialists and light pollution experts?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Are the results of the survey likely to be a true reflection of the opinion of &lt;g1&gt;all&lt;/g1&gt; lighting specialists and light pollution experts?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>At either location, the release of brine will increase the salt concentration of the water by approximately 15 g/L.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084527Z" creationid="REV" creationdate="20230606T084527Z">
+        <seg>At either location, the release of brine will increase the salt concentration of the water by approximately 15 g/L.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>At night, a pipe sprays the framework with meltwater, which freezes.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>At night, a pipe sprays the framework with meltwater, which freezes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>B</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084511Z" creationid="REV" creationdate="20230606T084511Z">
+        <seg>B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Before any possible CO source is turned on, the sensors all display the average background CO concentration in the room.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>Before any possible CO source is turned on, the sensors all display the average background CO concentration in the room.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Below are four descriptions of sources of information on biodiversity loss.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Below are four descriptions of sources of information on biodiversity loss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Birds</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Birds</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Brine is commonly released into rivers or the sea.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Brine is commonly released into rivers or the sea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084511Z" creationid="REV" creationdate="20230606T084511Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Cajon del Maipo, Chile</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Cajon del Maipo, Chile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Canadian Climate Change</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Canadian Climate Change</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Carbon Monoxide</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T122113Z" creationid="REV" creationdate="20230606T084513Z">
+        <seg>Carbon Monoxide_VERIFICATION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Climate change has had several impacts in Canada:</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Climate change has had several impacts in Canada:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Clutter</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>Clutter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Conifer trees</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Conifer trees</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Coral organisms</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Coral organisms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Coral reefs are believed to have the highest biodiversity of any ecosystem.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Coral reefs are believed to have the highest biodiversity of any ecosystem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Create binding regulations and legal frameworks</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Create binding regulations and legal frameworks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Create binding regulations and legal frameworks.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Create binding regulations and legal frameworks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Crops fail to grow</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Crops fail to grow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084511Z" creationid="REV" creationdate="20230606T084511Z">
+        <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>December</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084609Z" creationid="REV" creationdate="20230606T084609Z">
+        <seg>December</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Desalination</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Desalination</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Desalination plants provide a reliable source of freshwater, ensuring that water supplies for manufacturing can be maintained.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>Desalination plants provide a reliable source of freshwater, ensuring that water supplies for manufacturing can be maintained.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Desalination technology has been proven to work: almost 16,000 desalination plants are operating in about 180 countries.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084527Z" creationid="REV" creationdate="20230606T084527Z">
+        <seg>Desalination technology has been proven to work: almost 16,000 desalination plants are operating in about 180 countries.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084521Z" creationid="REV" creationdate="20230606T084521Z">
+        <seg>Description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Dirty air causing asthma</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Dirty air causing asthma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Do the sounds made by the fish change during the day?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084511Z">
+        <seg>Do the NATIONAL ADAPTATIONs made by the fish change during the day?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Does the information in the graph provide evidence to support the claim in the headline?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>Does the information in the graph provide evidence to support the claim in the headline?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Drag each event into the space provided to show the correct order.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Drag each event into the space provided to show the correct order.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Drought</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Drought</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084511Z" creationid="REV" creationdate="20230606T084511Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Educate light planners and lighting designers</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Educate light planners and lighting designers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Educate light planners and lighting designers.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Educate light planners and lighting designers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Estuarine water</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>Estuarine water</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Every fish near the recording locations should make sounds.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084512Z">
+        <seg>Every fish near the recording locations should make NATIONAL ADAPTATIONs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Excessive use of artificial outdoor lights contributes to light pollution, which can have many negative impacts.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084521Z" creationid="REV" creationdate="20230606T084521Z">
+        <seg>Excessive use of artificial outdoor lights contributes to light pollution, which can have many negative impacts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Explain why you chose these locations for the microphones.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084512Z" creationid="REV" creationdate="20230606T084512Z">
+        <seg>Explain why you chose these locations for the microphones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Explain your answer.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Explain your answer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Explain your choice.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>Explain your choice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Five possible underwater recording locations are marked on the map to the right.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084511Z" creationid="REV" creationdate="20230606T084511Z">
+        <seg>Five possible underwater recording locations are marked on the map to the right.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>For example, birds sing.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T131053Z" creationid="REV" creationdate="20230606T084458Z">
+        <seg>For example, birds sing_VERIFICATION.PM verification review</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>For the investigation to produce a conclusion about the effect of ship noise on fish behaviour, which of these conditions must occur?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084512Z" creationid="REV" creationdate="20230606T084512Z">
+        <seg>For the investigation to produce a conclusion about the effect of ship noise on fish behaviour, which of these conditions must occur?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>For which of the following activities could making a sound help the animal?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084506Z">
+        <seg>For which of the following activities could making a NATIONAL ADAPTATION help the animal?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Freshwater</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>Freshwater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Given this information, Saha made a suggestion.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Given this information, Saha made a suggestion.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Glaciers have been shrinking in recent decades and there has not been enough water for irrigation in spring.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>Glaciers have been shrinking in recent decades and there has not been enough water for irrigation in spring.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Glare</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084521Z" creationid="REV" creationdate="20230606T084521Z">
+        <seg>Glare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>How loud are the sounds made by the fish?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084510Z">
+        <seg>How loud are the NATIONAL ADAPTATIONs made by the fish?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>How should light pollution be reduced?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>How should light pollution be reduced?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Human overuse of marine resources has reached unprecedented levels</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>Human overuse of marine resources has reached unprecedented levels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Ice Stupas</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>Ice Stupas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>If the brine was released into freshwater, it would only affect the number of freshwater species.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>If the brine was released into freshwater, it would only affect the number of freshwater species.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Impact</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Impact</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In spring, the ice stupa begins to melt and provides water for the villagers and their crops.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>In spring, the ice stupa begins to melt and provides water for the villagers and their crops.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In the past, villagers irrigated their crops using meltwater that trickled down from glaciers.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>In the past, villagers irrigated their crops using meltwater that trickled down from glaciers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In the spring and summer, the villagers grow crops.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>In the spring and summer, the villagers grow crops.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In what month would ice stupas form in Chile?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>In what month would ice stupas form in Chile?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>In what order do these events occur during a wildfire?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>In what order do these events occur during a wildfire?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Increasing the saltiness of freshwater (upstream) will greatly reduce the number of all types of aquatic species whereas increasing the water in an estuary is more likely to cause an increase in the number of most aquatic species.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084527Z" creationid="REV" creationdate="20230606T084527Z">
+        <seg>Increasing the saltiness of freshwater (upstream) will greatly reduce the number of all types of aquatic species whereas increasing the water in an estuary is more likely to cause an increase in the number of most aquatic species.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It avoids the need to protect the local environment.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>It avoids the need to protect the local environment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It cannot hear sounds during daylight.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084510Z">
+        <seg>It cannot hear NATIONAL ADAPTATIONs during daylight.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It does not make sounds if it can see.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084510Z">
+        <seg>It does not make NATIONAL ADAPTATIONs if it can see.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It has poor vision.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084510Z" creationid="REV" creationdate="20230606T084510Z">
+        <seg>It has poor vision.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It increases the productivity of the workforce.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>It increases the productivity of the workforce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It is only active at night.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084510Z" creationid="REV" creationdate="20230606T084510Z">
+        <seg>It is only active at night.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It reduces the distance over which the freshwater is transported.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>It reduces the distance over which the freshwater is transported.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It reduces the energy needed to power the desalination plants.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>It reduces the energy needed to power the desalination plants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It referred to sources that were reviewed by scientists who are experts on the subject.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>It referred to sources that were reviewed by scientists who are experts on the subject.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It was published on a tourism website advertising a holiday to see endangered species.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>It was published on a tourism website advertising a holiday to see endangered species.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It was written by a scientist who specialises in astronomy.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>It was written by a scientist who specialises in astronomy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It was written by an environmentalist who volunteers with a conservation organisation.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>It was written by an environmentalist who volunteers with a conservation organisation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>It will reduce skyglow, light trespass and glare.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>It will reduce skyglow, light trespass and glare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>June</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>June</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Key</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Ladakh is a high-altitude desert in northern India.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>Ladakh is a high-altitude desert in northern India.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Ladakh is in the Himalayan mountains in India.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Ladakh is in the Himalayan mountains in India.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Ladakh, India</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Ladakh, India</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Landscape becomes muddy</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Landscape becomes muddy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Large scale desalination plants produce freshwater from seawater.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Large scale desalination plants produce freshwater from seawater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Light at Night</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084521Z" creationid="REV" creationdate="20230606T084521Z">
+        <seg>Light at Night</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Light pollution</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Light pollution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Light pollution experts</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Light pollution experts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Light pollution experts are professionals who have studied environmental science or astronomy.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>Light pollution experts are professionals who have studied environmental science or astronomy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Light trespass</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>Light trespass</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Lighting specialist</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Lighting specialist</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Lighting specialists are professionals who supply, install and design lighting systems.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>Lighting specialists are professionals who supply, install and design lighting systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Loss of Biodiversity</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Loss of Biodiversity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Loss of biodiversity is widespread throughout the world.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Loss of biodiversity is widespread throughout the world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Loss of local indigenous culture</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Loss of local indigenous culture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Lower CO concentrations will be able to be detected.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>Lower CO concentrations will be able to be detected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Mammals</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Mammals</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Many animals make sounds.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T131050Z" creationid="REV" creationdate="20230606T084457Z">
+        <seg>Many animals make NATIONAL ADAPTATION_VERIFICATION.PM verification review</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>March</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>March</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Marine turtles</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Marine turtles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Match each climate change impact with its most likely outcome by selecting both.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Match each climate change impact with its most likely outcome by selecting both.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Melting ice</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Melting ice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Migrating insects that are attracted to lights will be more likely to follow their migration paths.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Migrating insects that are attracted to lights will be more likely to follow their migration paths.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Moonlight preventing the observation of the stars</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Moonlight preventing the observation of the stars</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>No</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Not light pollution</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Not light pollution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Number of species</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>Number of species</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>On what assumption did the worker base the estimate?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>On what assumption did the worker base the estimate?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>One technique used in these plants is reverse osmosis.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>One technique used in these plants is reverse osmosis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Operating desalination plants is expensive.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Operating desalination plants is expensive.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Outcome</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Outcome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Over lighting</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>Over lighting</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Over time, over 8 million litres of ice can accumulate.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>Over time, over 8 million litres of ice can accumulate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Participants accessed the survey via email invitations, online posts and through connections at their workplace.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>Participants accessed the survey via email invitations, online posts and through connections at their workplace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Percentage of species at risk of extinction</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Percentage of species at risk of extinction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Policymakers need reliable information to determine what action is needed to prevent further biodiversity loss.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Policymakers need reliable information to determine what action is needed to prevent further biodiversity loss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Promote best practice lighting projects, e.g. in municipalities</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Promote best practice lighting projects, e.g. in municipalities</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Promote best-practice lighting projects, e.g. in municipalities.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Promote best-practice lighting projects, e.g. in municipalities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Quick changes in CO concentration will be detected.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>Quick changes in CO concentration will be detected.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Releasing brine into any part of a river system would eliminate all the freshwater species.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>Releasing brine into any part of a river system would eliminate all the freshwater species.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Relocation due to erosion</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Relocation due to erosion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Reverse osmosis involves forcing seawater onto a semi-permeable membrane.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Reverse osmosis involves forcing seawater onto a semi-permeable membrane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Risk of extinction for some groups of species</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Risk of extinction for some groups of species</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>SOME CLIMATE CHANGE IMPACTS IN CANADA</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>SOME CLIMATE CHANGE IMPACTS IN CANADA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Safety light illuminating an alleyway at night</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Safety light illuminating an alleyway at night</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Saha</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Saha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Salt water concentration (g/L)</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084527Z" creationid="REV" creationdate="20230606T084527Z">
+        <seg>Salt water concentration (g/L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Salty water has a lower freezing point than pure water.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Salty water has a lower freezing point than pure water.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Scientists are studying if the noise made by passing ships affects the sounds made by fish.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084504Z">
+        <seg>Scientists are studying if the noise made by passing ships affects the NATIONAL ADAPTATIONs made by fish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Scientists conducted an investigation to determine the measures that could prevent water from freezing in metal pipes during cold weather.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Scientists conducted an investigation to determine the measures that could prevent water from freezing in metal pipes during cold weather.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Seawater</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>Seawater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select all correct answers.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084507Z" creationid="REV" creationdate="20230606T084507Z">
+        <seg>Select all correct answers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select all that apply.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084510Z" creationid="REV" creationdate="20230606T084510Z">
+        <seg>Select all that apply.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select either ‘Series 1’ or ‘Series 2’.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>Select either ‘Series 1’ or ‘Series 2’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select either ‘Yes’ or ‘No’.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Select either ‘Yes’ or ‘No’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select the &lt;g1&gt;two&lt;/g1&gt; locations where the scientists should place their microphones.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084511Z" creationid="REV" creationdate="20230606T084511Z">
+        <seg>Select the &lt;g1&gt;two&lt;/g1&gt; locations where the scientists should place their microphones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select the correct answer.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084509Z" creationid="REV" creationdate="20230606T084509Z">
+        <seg>Select the correct answer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Select ‘Light pollution’ or ‘Not light pollution’ for each situation.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Select ‘Light pollution’ or ‘Not light pollution’ for each situation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Sensors can experience small, random fluctuations in voltage, even when the CO concentration is constant.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>Sensors can experience small, random fluctuations in voltage, even when the CO concentration is constant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>September</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>September</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Series 1:</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084517Z" creationid="REV" creationdate="20230606T084517Z">
+        <seg>Series 1:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Series 2:</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084517Z" creationid="REV" creationdate="20230606T084517Z">
+        <seg>Series 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Should salt be added to the water that is sprayed on the ice stupas, as Saha suggested?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Should salt be added to the water that is sprayed on the ice stupas, as Saha suggested?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Singing Fish</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T135233Z" creationid="REV" creationdate="20230606T084457Z">
+        <seg>Singing Fish_VERIFICATION_PM verification review_POSTVERIFICATION REVIEW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Skyglow</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084521Z" creationid="REV" creationdate="20230606T084521Z">
+        <seg>Skyglow</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some species of fish can make sounds.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T135237Z" creationid="REV" creationdate="20230606T084458Z">
+        <seg>Some species of fish can make NATIONAL ADAPTATION.PM verification reviewPOSTVERIFICATION REVIEW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Sonic muscles squash or expand the swim bladder to make sound.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T131122Z" creationid="REV" creationdate="20230606T084501Z">
+        <seg>PM verification reviewpand the swim bladder to make NATIONAL ADAPTATION.PM verification review</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Street lights shining through a bedroom window</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Street lights shining through a bedroom window</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Structural changes to existing buildings are not needed for this action.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Structural changes to existing buildings are not needed for this action.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swim bladders are gas-filled organs that help fish float or sink.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T135245Z" creationid="REV" creationdate="20230606T084500Z">
+        <seg>Swim bladders are gas-filled organs that help fish float or sink.PM verification reviewPOSTVERIFICATION REVIEW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The concentration is measured in parts per million (ppm).</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084515Z" creationid="REV" creationdate="20230606T084515Z">
+        <seg>The concentration is measured in parts per million (ppm).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The concentrations displayed on the sensors will converge to the same value.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>The concentrations displayed on the sensors will converge to the same value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The data was organised according to the profession of the respondent.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>The data was organised according to the profession of the respondent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The diagram below shows the sonic muscles surrounding the swim bladder of a fish in cross-section (left).</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T135249Z" creationid="REV" creationdate="20230606T084501Z">
+        <seg>The diagram below shows the sonic muscles surrounding the POSTVERIFICATION REVIEWswim bladder of a fish in cross-section (left).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The displayed average CO concentration will not show small fluctuations.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>The displayed average CO concentration will not show small fluctuations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The electronics of the sensor produces a voltage from 0 V to 5 V, depending on the concentration of carbon monoxide.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084516Z" creationid="REV" creationdate="20230606T084516Z">
+        <seg>The electronics of the sensor produces a voltage from 0 V to 5 V, depending on the concentration of carbon monoxide.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The environmental impact of desalination plants can be reduced if carbon-neutral energy sources are used and the disposal of brine is carefully managed.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084527Z" creationid="REV" creationdate="20230606T084527Z">
+        <seg>The environmental impact of desalination plants can be reduced if carbon-neutral energy sources are used and the disposal of brine is carefully managed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The estuary is where the river meets the sea and freshwater mixes with salty seawater.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>The estuary is where the river meets the sea and freshwater mixes with salty seawater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The factory workers collect the following two series of concentration values (ppm) at different times of the day.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>The factory workers collect the following two series of concentration values (ppm) at different times of the day.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The first is near the workers’ desks (not a source of CO).</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>The first is near the workers’ desks (not a source of CO).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The graph below shows the percentage of respondents who agreed with a suggestion about how light pollution should be reduced.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>The graph below shows the percentage of respondents who agreed with a suggestion about how light pollution should be reduced.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The graph shows the percentage of groups of species that are currently at risk of becoming extinct in the wild.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>The graph shows the percentage of groups of species that are currently at risk of becoming extinct in the wild.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The greatest change in the number of species would occur if brine was released into estuarine water.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>The greatest change in the number of species would occur if brine was released into estuarine water.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The ice stupa forms from glacial meltwater.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>The ice stupa forms from glacial meltwater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The ice stupa has a small surface-area-to-volume ratio.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>The ice stupa has a small surface-area-to-volume ratio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The ice stupa is lower than the glacier.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>The ice stupa is lower than the glacier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The ice stupa is small in size.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>The ice stupa is small in size.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The light pollution problem is viewed differently among lighting professionals.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>The light pollution problem is viewed differently among lighting professionals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The map shows the route (shipping lane) that ships take through the ocean to a port.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084504Z" creationid="REV" creationdate="20230606T084504Z">
+        <seg>The map shows the route (shipping lane) that ships take through the ocean to a port.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The membrane only allows small, non-charged particles to pass through.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>The membrane only allows small, non-charged particles to pass through.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The news headline below suggests that our use of marine resources is causing biodiversity loss.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>The news headline below suggests that our use of marine resources is causing biodiversity loss.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The opinions from these two groups of professionals were collected using an open access online survey.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>The opinions from these two groups of professionals were collected using an open access online survey.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The other two sensors will soon also display the same value as the sensor near the gas heater.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>The other two sensors will soon also display the same value as the sensor near the gas heater.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The percentage of species at risk of extinction is equal for conifer trees and for birds.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>The percentage of species at risk of extinction is equal for conifer trees and for birds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The percentage of species at risk of extinction is higher for amphibians than for the other groups of species.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>The percentage of species at risk of extinction is higher for amphibians than for the other groups of species.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The percentage of species at risk of extinction is higher for marine turtles than for the other groups of species.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>The percentage of species at risk of extinction is higher for marine turtles than for the other groups of species.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The percentage of species at risk of extinction is lower for mammals than for the other groups of species.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>The percentage of species at risk of extinction is lower for mammals than for the other groups of species.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The recordings from each location that are compared should be made at the same time.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084512Z" creationid="REV" creationdate="20230606T084512Z">
+        <seg>The recordings from each location that are compared should be made at the same time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The same number of ships should travel along the shipping lane on each day of the study.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084512Z" creationid="REV" creationdate="20230606T084512Z">
+        <seg>The same number of ships should travel along the shipping lane on each day of the study.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The scientists must pick two locations that will allow them to determine if passing ships affect the sounds made by the fish.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084511Z">
+        <seg>The scientists must pick two locations that will allow them to determine if passing ships affect the NATIONAL ADAPTATIONs made by the fish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The scientists only record the sounds made by the fish.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084510Z">
+        <seg>The scientists only record the NATIONAL ADAPTATIONs made by the fish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The second is near a gas heater (a possible source of CO).</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>The second is near a gas heater (a possible source of CO).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The sensor display near the heater reaches the highest value.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>The sensor display near the heater reaches the highest value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The sensor measures the level of CO and displays the average concentration for the previous 60 seconds.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084515Z" creationid="REV" creationdate="20230606T084515Z">
+        <seg>The sensor measures the level of CO and displays the average concentration for the previous 60 seconds.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The sensor produces 0 V when the concentration of CO is 20 ppm or less.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084516Z" creationid="REV" creationdate="20230606T084516Z">
+        <seg>The sensor produces 0 V when the concentration of CO is 20 ppm or less.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The sensor produces 5 V when the concentration of CO is 100 ppm or more.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084516Z" creationid="REV" creationdate="20230606T084516Z">
+        <seg>The sensor produces 5 V when the concentration of CO is 100 ppm or more.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The sensor will better detect sudden fluctuations in CO concentration.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>The sensor will better detect sudden fluctuations in CO concentration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The ships only travel along the shipping lane to and from the port.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084504Z" creationid="REV" creationdate="20230606T084504Z">
+        <seg>The ships only travel along the shipping lane to and from the port.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The species of fish making sounds should be the same at both recording locations.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084512Z">
+        <seg>The species of fish making NATIONAL ADAPTATIONs should be the same at both recording locations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The survey was circulated around the world but was only available in English.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>The survey was circulated around the world but was only available in English.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The swim bladder of a fish is also shown in side view (right).</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T135253Z" creationid="REV" creationdate="20230606T084502Z">
+        <seg>PM verification reviewso POSTVERIFICATION REVIEWshown in side view (right).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The table below describes the different types of light pollution.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084521Z" creationid="REV" creationdate="20230606T084521Z">
+        <seg>The table below describes the different types of light pollution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The temperature is low enough at night for water to freeze.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>The temperature is low enough at night for water to freeze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The third is near an incinerator (a possible source of CO).</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>The third is near an incinerator (a possible source of CO).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The value displayed on each sensor will remain the same.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>The value displayed on each sensor will remain the same.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>The value displayed on the sensor near the heater will quickly decrease to the initial background value.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>The value displayed on the sensor near the heater will quickly decrease to the initial background value.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Then, both the heater and the incinerator are turned on for 5 minutes.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>Then, both the heater and the incinerator are turned on for 5 minutes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>There are no safety risks for pedestrians or drivers.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>There are no safety risks for pedestrians or drivers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>There are three identical sensors in different places around a room in the factory.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>There are three identical sensors in different places around a room in the factory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>There is no economic impact.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>There is no economic impact.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>There was the same amount of time between measurements in both series.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>There was the same amount of time between measurements in both series.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>There would be no effect if the brine released into the seawater had a salt concentration of 37 g/L.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>There would be no effect if the brine released into the seawater had a salt concentration of 37 g/L.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>These fish produce sounds from their swim bladder.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T131105Z" creationid="REV" creationdate="20230606T084459Z">
+        <seg>These fish produce NATIONAL ADAPTATION from their swim bladder.PM verification review</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>These sounds can be heard by other animals.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T131057Z" creationid="REV" creationdate="20230606T084458Z">
+        <seg>These NATIONAL ADAPTATION can be heard by other animals.PM verification review</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>They are stony structures built by coral organisms and algae in shallow tropical waters.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>They are stony structures built by coral organisms and algae in shallow tropical waters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>They calculate the average value of each series.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>They calculate the average value of each series.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>They provide habitat for many species of marine animals.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>They provide habitat for many species of marine animals.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>This allows the water to flow more easily from the glacier to the ice stupa.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>This allows the water to flow more easily from the glacier to the ice stupa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>This graph shows how salt concentration affects the number of aquatic species found in these environments.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084527Z" creationid="REV" creationdate="20230606T084527Z">
+        <seg>This graph shows how salt concentration affects the number of aquatic species found in these environments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>This graph shows how salt concentration affects the number of species in aquatic environments.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>This graph shows how salt concentration affects the number of species in aquatic environments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>This minimises disturbances to the villagers.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>This minimises disturbances to the villagers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>This process produces freshwater and a highly concentrated salt solution (brine).</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>This process produces freshwater and a highly concentrated salt solution (brine).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>To alleviate this problem, engineers have created artificial glaciers, called ice stupas, to capture meltwater during the winter.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>To alleviate this problem, engineers have created artificial glaciers, called ice stupas, to capture meltwater during the winter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>To do this they will use two underwater microphones to record the sounds made by fish.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084504Z">
+        <seg>To do this they will use two underwater microphones to record the NATIONAL ADAPTATIONs made by fish.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>To prevent the water freezing in the pipes, we should add salt to the water to lower its freezing point.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>To prevent the water freezing in the pipes, we should add salt to the water to lower its freezing point.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Two locations are being considered for a desalination plant.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084527Z" creationid="REV" creationdate="20230606T084527Z">
+        <seg>Two locations are being considered for a desalination plant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Type of light pollution</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084521Z" creationid="REV" creationdate="20230606T084521Z">
+        <seg>Type of light pollution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Use of desalination plants can provide water security for regions of the world where water scarcity can lead to poor hygiene and increased rates of disease.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084527Z" creationid="REV" creationdate="20230606T084527Z">
+        <seg>Use of desalination plants can provide water security for regions of the world where water scarcity can lead to poor hygiene and increased rates of disease.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Using the descriptions in the table on the right, identify which of the situations in the table below should be classified as light pollution.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Using the descriptions in the table on the right, identify which of the situations in the table below should be classified as light pollution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Water conservation can be an effective way for communities to overcome water shortages.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Water conservation can be an effective way for communities to overcome water shortages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Water is cheaper to pump at night.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Water is cheaper to pump at night.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>What does this suggest about this fish species?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084509Z" creationid="REV" creationdate="20230606T084509Z">
+        <seg>What does this suggest about this fish species?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>What is one way that communities can conserve water?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>What is one way that communities can conserve water?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>What is the advantage of the sensor displaying the average concentration value when the concentration is constant?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>What is the advantage of the sensor displaying the average concentration value when the concentration is constant?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>What is the most likely outcome for each climate change impact?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>What is the most likely outcome for each climate change impact?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>What should the sensors display after the carbon monoxide sources are turned off?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084519Z" creationid="REV" creationdate="20230606T084519Z">
+        <seg>What should the sensors display after the carbon monoxide sources are turned off?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>What types of sounds are made by the fish?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084510Z">
+        <seg>What types of NATIONAL ADAPTATIONs are made by the fish?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which of the following sources of information are relevant and reliable for the student to use?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Which of the following sources of information are relevant and reliable for the student to use?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which of these actions are most likely to prevent water freezing in metal pipes?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Which of these actions are most likely to prevent water freezing in metal pipes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which of these locations is likely to have the least impact on the number of aquatic species?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084527Z" creationid="REV" creationdate="20230606T084527Z">
+        <seg>Which of these locations is likely to have the least impact on the number of aquatic species?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which of these statements describe likely benefits of this action?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Which of these statements describe likely benefits of this action?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which one of the following actions could an individual take to immediately help to reduce light pollution?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>Which one of the following actions could an individual take to immediately help to reduce light pollution?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which one of the following characteristics of the ice stupa would cause the ice to melt slowly?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Which one of the following characteristics of the ice stupa would cause the ice to melt slowly?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which one of the following conclusions best describes what would happen to the number of aquatic species if brine was released into a river or the sea?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>Which one of the following conclusions best describes what would happen to the number of aquatic species if brine was released into a river or the sea?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which one of the following forms of energy causes the water to spray over the ice stupa?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Which one of the following forms of energy causes the water to spray over the ice stupa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which one of the following statements is supported by the data in the graph?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>Which one of the following statements is supported by the data in the graph?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which series has an average that more accurately represents the actual CO average concentration during the measurement period?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084518Z" creationid="REV" creationdate="20230606T084518Z">
+        <seg>Which series has an average that more accurately represents the actual CO average concentration during the measurement period?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which source of information would be the most reliable?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Which source of information would be the most reliable?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which statement justifies the use of desalination plants to allow all people equal access to essential resources?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>Which statement justifies the use of desalination plants to allow all people equal access to essential resources?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Which type of particle will pass through the semi-permeable membrane?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>Which type of particle will pass through the semi-permeable membrane?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Why are costs reduced if desalination plants are located close to where freshwater is needed?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>Why are costs reduced if desalination plants are located close to where freshwater is needed?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Why do fish make sounds?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084511Z">
+        <seg>Why do fish make NATIONAL ADAPTATIONs?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Why is water sprayed over the ice stupa at night?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>Why is water sprayed over the ice stupa at night?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Wildfires</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Wildfires</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Winter temperatures are well below freezing at night.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>Winter temperatures are well below freezing at night.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>With only a recording of the fish sounds, can the scientists answer the following questions?</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T090732Z" creationid="REV" creationdate="20230606T084510Z">
+        <seg>With only a recording of the fish NATIONAL ADAPTATIONs, can the scientists answer the following questions?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>Yes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>You can remove a match by selecting the line and then selecting ‘x’.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>You can remove a match by selecting the line and then selecting ‘x’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>a study about the climate published by a university</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>a study about the climate published by a university</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>an interview with a weather expert</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>an interview with a weather expert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>an online survey of 100 Canadian people</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>an online survey of 100 Canadian people</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>animals homeless</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>animals homeless</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>average = 22.6 ppm</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084517Z" creationid="REV" creationdate="20230606T084517Z">
+        <seg>average = 22.6 ppm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>average = 33.6 ppm</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084517Z" creationid="REV" creationdate="20230606T084517Z">
+        <seg>average = 33.6 ppm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>build a desalination plant</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>build a desalination plant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>burying the pipe</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>burying the pipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>chemical potential energy</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>chemical potential energy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>crops</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>crops</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>deep water</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084505Z" creationid="REV" creationdate="20230606T084505Z">
+        <seg>deep water</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>designing low-glare lights</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>designing low-glare lights</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>estuary (where the river meets the sea)</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084527Z" creationid="REV" creationdate="20230606T084527Z">
+        <seg>estuary (where the river meets the sea)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>extended periods without rain (drought)</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>extended periods without rain (drought)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>fins</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T135301Z" creationid="REV" creationdate="20230606T084503Z">
+        <seg>finsPOSTVERIFICATION REVIEW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>fire outbreaks in forests (wildfires).</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>fire outbreaks in forests (wildfires).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>fire spreads</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>fire spreads</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>gills</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T135306Z" creationid="REV" creationdate="20230606T084503Z">
+        <seg>POSTVERIFICATION REVIEW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>glacier</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084529Z" creationid="REV" creationdate="20230606T084529Z">
+        <seg>glacier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>gravitational potential energy</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>gravitational potential energy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>ice stupa</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>ice stupa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>incoming salt water (HIGH PRESSURE)</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>incoming salt water (HIGH PRESSURE)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>install rainwater tanks</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>install rainwater tanks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>insulating the pipe</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>insulating the pipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>intestines</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T135309Z" creationid="REV" creationdate="20230606T084503Z">
+        <seg>POSTVERIFICATION REVIEW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>introducing lighting guidelines for new housing developments</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>introducing lighting guidelines for new housing developments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>land</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084505Z" creationid="REV" creationdate="20230606T084505Z">
+        <seg>land</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>light energy</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>light energy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>light that reduces the visibility of the objects in the night sky</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>light that reduces the visibility of the objects in the night sky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>light that shines in unwanted places</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>light that shines in unwanted places</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>loss of natural habitats</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>loss of natural habitats</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>melting of ice within the Arctic Circle</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>melting of ice within the Arctic Circle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>meltwater source</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>meltwater source</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>netting and thorn bush frame filled with ice</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>netting and thorn bush frame filled with ice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>particles from dissolved salt</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>particles from dissolved salt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>people having to relocate due to soil erosion</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084524Z" creationid="REV" creationdate="20230606T084524Z">
+        <seg>people having to relocate due to soil erosion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>pipe</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>pipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>pipe inside stupa</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>pipe inside stupa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>port</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084505Z" creationid="REV" creationdate="20230606T084505Z">
+        <seg>port</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>provide free bottled water</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>provide free bottled water</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>reducing the diameter of the pipe</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>reducing the diameter of the pipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>river</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>river</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>semi-permeable membrane</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>semi-permeable membrane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>several sources of light that cause a visual distraction</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>several sources of light that cause a visual distraction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>shallow water</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084505Z" creationid="REV" creationdate="20230606T084505Z">
+        <seg>shallow water</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>shipping lane</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084504Z" creationid="REV" creationdate="20230606T084504Z">
+        <seg>shipping lane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>signing international agreements on reducing light pollution</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>signing international agreements on reducing light pollution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>some particles pass through</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>some particles pass through</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>sonic muscles</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T131130Z" creationid="REV" creationdate="20230606T084502Z">
+        <seg>PM verification review</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>spine</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084503Z" creationid="REV" creationdate="20230606T084503Z">
+        <seg>spine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>strong light that temporarily blinds the observer</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084521Z" creationid="REV" creationdate="20230606T084521Z">
+        <seg>strong light that temporarily blinds the observer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>swim bladder</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="PISA25_VER_ua-UA_solonenk0" changedate="20230619T135258Z" creationid="REV" creationdate="20230606T084503Z">
+        <seg>PM verification reviewPOSTVERIFICATION REVIEW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>tap</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>tap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>the data from a thermometer in the student’s garden</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>the data from a thermometer in the student’s garden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>thermal energy</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>thermal energy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>to attract a mate for reproduction</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084508Z" creationid="REV" creationdate="20230606T084508Z">
+        <seg>to attract a mate for reproduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>to communicate with other fish</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084507Z" creationid="REV" creationdate="20230606T084507Z">
+        <seg>to communicate with other fish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>to sleep at night</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084507Z" creationid="REV" creationdate="20230606T084507Z">
+        <seg>to sleep at night</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>to stay hidden from predators</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084507Z" creationid="REV" creationdate="20230606T084507Z">
+        <seg>to stay hidden from predators</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>upstream (freshwater)</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084527Z" creationid="REV" creationdate="20230606T084527Z">
+        <seg>upstream (freshwater)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>use groundwater</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>use groundwater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>use of light when it is not necessary</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084522Z" creationid="REV" creationdate="20230606T084522Z">
+        <seg>use of light when it is not necessary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>using a light-reflective material to make the pipe</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084530Z" creationid="REV" creationdate="20230606T084530Z">
+        <seg>using a light-reflective material to make the pipe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>using motion sensors to turn on lights</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>using motion sensors to turn on lights</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>water particle</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>water particle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>wildfire starts</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084525Z" creationid="REV" creationdate="20230606T084525Z">
+        <seg>wildfire starts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>‌&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084523Z" creationid="REV" creationdate="20230606T084523Z">
+        <seg>‌&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>‌Diadromous species – travel between salt and freshwater</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>‌Diadromous species – travel between salt and freshwater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>‌Estuarine species – mainly live where the river meets the sea</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>‌Estuarine species – mainly live where the river meets the sea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>‌Freshwater species – mainly found in freshwater</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>‌Freshwater species – mainly found in freshwater</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>‌Marine species – mainly found in the sea</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084526Z" creationid="REV" creationdate="20230606T084526Z">
+        <seg>‌Marine species – mainly found in the sea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="en">
+        <seg>‘Biodiversity’ refers to the variety of plants, animals and other organisms in a particular location or throughout the world.</seg>
+      </tuv>
+      <tuv lang="es-ZZ" changeid="REV" changedate="20230606T084528Z" creationid="REV" creationdate="20230606T084528Z">
+        <seg>‘Biodiversity’ refers to the variety of plants, animals and other organisms in a particular location or throughout the world.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

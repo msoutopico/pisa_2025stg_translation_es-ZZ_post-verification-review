@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64ca5367392da2.79183226/passage NEW.xml">
+            <label key="64ca5367392da2.79183226_fc0405a04f65a9e43e956ec27ccaef77_1">
+                <text>Grodor och trafikbuller</text>
+            </label>
+            <label key="64ca5367392da2.79183226_576aa20ff68cb8ce6864a5409af719c5_2">
+                <text>Forskare är oroliga för att trafikbuller påverkar grodors lockläten.</text>
+            </label>
+            <label key="64ca5367392da2.79183226_b2a07033fa96bad54a1732cf2be4d332_3">
+                <text>För att undersöka detta studerade de två grodarter i ett område nära en damm.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6334e638920ae14262126a574acca4c303">
+            <label key="i6334e638920ae14262126a574acca4c303_2eeba57787331f2f349a832fb7f5952f_1">
+                <text>Grodor måste leva i dammar eller på andra platser med vatten för att överleva.</text>
+            </label>
+            <label key="i6334e638920ae14262126a574acca4c303_1f3517cd952a497a30cf001784d3fa14_2">
+                <text>Varför måste grodor leva på platser med vatten?</text>
+            </label>
+            <label key="i6334e638920ae14262126a574acca4c303_A_f4469a536527715f76a00fb7835fc2b5_3">
+                <text>De simmar i vatten.</text>
+            </label>
+            <label key="i6334e638920ae14262126a574acca4c303_B_02157c09dd0bd6310d039a9f58b213d7_4">
+                <text>De måste hålla sin hud fuktig för att kunna andas.</text>
+            </label>
+            <label key="i6334e638920ae14262126a574acca4c303_C_50fe45ccf231258ed5782e7b9aafb639_5">
+                <text>De livnär sig på föda som lever i dammar.</text>
+            </label>
+            <label key="i6334e638920ae14262126a574acca4c303_D_0c29de214ac18191ee566b9b8fde6fe1_6">
+                <text>De hittar skydd under växter i dammar.</text>
+            </label>
+        </item>
+        <item id="i6334e91c15dff14234cc3deaf95ea79f4e">
+            <label key="i6334e91c15dff14234cc3deaf95ea79f4e_6f7c595603341b22df81454b2da7369d_1">
+                <text>Bara hangrodor gör läten för att locka på hongrodor.</text>
+            </label>
+            <label key="i6334e91c15dff14234cc3deaf95ea79f4e_446cf32fa6e771e337f4b5949cd7da63_2">
+                <text>Varför lockar hangrodor på hongrodor?</text>
+            </label>
+            <label key="i6334e91c15dff14234cc3deaf95ea79f4e_A_fe60be9fde69baca4b621e4dd9918103_3">
+                <text>för att hitta en partner och fortplanta sig </text>
+            </label>
+            <label key="i6334e91c15dff14234cc3deaf95ea79f4e_B_453e9f3cccdaa20725e4f47a04b400f8_4">
+                <text>för att hitta en vattenkälla </text>
+            </label>
+            <label key="i6334e91c15dff14234cc3deaf95ea79f4e_C_16ead5827c24f187f6444a03f2faf7ad_5">
+                <text>för att undvika trafikbuller </text>
+            </label>
+            <label key="i6334e91c15dff14234cc3deaf95ea79f4e_D_9eaed3ee2974e68ec428dac912d51638_6">
+                <text>för att undvika att bli uppätna </text>
+            </label>
+        </item>
+        <item id="i6334ea83dd04c35160829f293396fdad0f">
+            <label key="i6334ea83dd04c35160829f293396fdad0f_89b0f1f227f0122645bbf620ce88ebc1_1">
+                <text>Forskare spelade upp en inspelning med trafikbuller från en högtalare så fort de hittade en groda som lockade.</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_2c549df1ebe3da3063e79fcdad19e772_2">
+                <text>Forskarna observerade grodans reaktion på bullret.</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_a71210426497d2dd35bca90a2ce2e8f6_3">
+                <text>Några observationer redovisas i tabellen för de två grodarterna.</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_15e2532becd7746cdee829e8ea5893ac_4">
+                <text>Grodarter</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_4531196aaaa547b3d413fddda78dba6b_5">
+                <text>Totalt antal grodor som hittades</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_85ca5577daac990a0fab5b7d14f97bbe_6">
+                <text>Grodor som flyttade sig och fortsatte med sina lockläten</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_7792ae1259b0bf288545aabb1651ca5d_7">
+                <text>Grodor som flyttade sig och slutade med sina lockläten</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_6218deb42e775711ab3085ce9353b59d_8">
+                <text>Grodart 1</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_1f0e3dad99908345f7439f8ffabdffc4_9">
+                <text>19</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_eccbc87e4b5ce2fe28308fd9f2a7baf3_10">
+                <text>3</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_c4ca4238a0b923820dcc509a6f75849b_11">
+                <text>1</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_4a2242d387312780d33170aeb0e0f0ea_12">
+                <text>Grodart 2</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_37693cfc748049e45d87b8c7d8b9aacd_13">
+                <text>23</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_eccbc87e4b5ce2fe28308fd9f2a7baf3_14">
+                <text>3</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_d6a996fededdcd7cb3c69338ff375405_15">
+                <text>Vilket av följande påståenden är korrekt?</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_A_95ff832ee5089d9a594649130b397b4d_16">
+                <text>En groda av art 2 slutade med sina lockläten.</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_B_c08d15d63daffaddd5fe52ac9d2de5a9_17">
+                <text>Fler grodor av art 1 än av art 2 som lockade hittades.</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_C_bb7104fbf5051ecdb9f9fb7798111235_18">
+                <text>Samma antal av båda grodarterna flyttade sig bort från högtalaren och fortsatte med sina lockläten.</text>
+            </label>
+            <label key="i6334ea83dd04c35160829f293396fdad0f_D_53100f1c9015136094ee762364058905_19">
+                <text>Inga grodor av art 2 flyttade sig bort från högtalaren.</text>
+            </label>
+        </item>
+        <item id="i6334efd98364314239dde950de57a1c9d1">
+            <label key="i6334efd98364314239dde950de57a1c9d1_066a26e5356fcbfa9fb01cd16c55f742_1">
+                <text>När en lockande groda hittades, spelades inspelningen av trafikbullret upp i 12 minuter.</text>
+            </label>
+            <label key="i6334efd98364314239dde950de57a1c9d1_b0b29528cb452b57a24544208cf19792_2">
+                <text>Högtalaren var alltid placerad två meter från en groda som lockade.</text>
+            </label>
+            <label key="i6334efd98364314239dde950de57a1c9d1_5640ea2c161cb0f3d5ba9b3c912ff479_3">
+                <text>Varför var högtalaren placerad på samma avstånd från varje groda som lockade?</text>
+            </label>
+            <label key="i6334efd98364314239dde950de57a1c9d1_A_eff73df06514ee6b28bff5d63479e858_4">
+                <text>för att högtalaren ska vara nära en väg</text>
+            </label>
+            <label key="i6334efd98364314239dde950de57a1c9d1_B_ea7495a5161282d9c408394e010d3d7a_5">
+                <text>för att spela in varje grodas lockläten tydligt</text>
+            </label>
+            <label key="i6334efd98364314239dde950de57a1c9d1_C_5f3706af6c09c9368961338364dd28a5_6">
+                <text>för att varje groda som lockar ska höra inspelningen med samma volym</text>
+            </label>
+            <label key="i6334efd98364314239dde950de57a1c9d1_D_d9152da1844e4bbe45a11d246d1870f6_7">
+                <text>för att spela upp trafikbuller för alla grodor i området</text>
+            </label>
+        </item>
+    </items>
+</file>

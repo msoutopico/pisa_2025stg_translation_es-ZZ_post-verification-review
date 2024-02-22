@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6554363aa5cb79.38462679/passage NEW.xml">
+            <label key="6554363aa5cb79.38462679_e74260acfc6ee65c4160908d9389a26f_1">
+                <text>Isoleringsegenskaper</text>
+            </label>
+            <label key="6554363aa5cb79.38462679_09ad3381a8a66a297417c3f70220b7e7_2">
+                <text>Information om olika tygmaterials isoleringsförmåga kan användas för att besluta vilka material som ska användas i kläder.</text>
+            </label>
+            <label key="6554363aa5cb79.38462679_ab0907a56828fe9b93bbcf0c9c9151fb_3">
+                <text>Värmeledningsförmåga är ett mått på hur bra ett material leder värme. En låg värmeledningsförmåga betyder att materialet har ett högt motstånd mot värmeflöde.</text>
+            </label>
+            <label key="6554363aa5cb79.38462679_fbe9f1eb16401884f7929e27aa465a75_4">
+                <text>Värmemotstånd (R-värde) är ett mått på ett materials motstånd mot värmeflöde.</text>
+            </label>
+            <label key="6554363aa5cb79.38462679_a9851b6a0df4f12d8c2ed47dffc45501_5">
+                <text>
+                    <strong><em>R</em> (thermal resistance) =</strong>
+                </text>
+            </label>
+            <label key="6554363aa5cb79.38462679_44a17b8860cad778c5f19c5680adf652_6">
+                <text>
+                    <strong>‌thickness of material‌</strong>
+                </text>
+            </label>
+            <label key="6554363aa5cb79.38462679_d61edf4572fc5c6e27e42450dc2d1d70_7">
+                <text>
+                    <strong>‌thermal conductivity of the material‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6554366bdaa4f7.85441210/passage NEW 1.xml">
+            <label key="6554366bdaa4f7.85441210_e74260acfc6ee65c4160908d9389a26f_1">
+                <text>Isoleringsegenskaper</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_09ad3381a8a66a297417c3f70220b7e7_2">
+                <text>Information om olika tygmaterials isoleringsförmåga kan användas för att besluta vilka material som ska användas i kläder.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_94befdf75ac5148bdda55dcf9d858408_3">
+                <text>'Värmeledningsförmåga' är ett mått på hur bra ett material leder värme. En låg värmeledningsförmåga betyder att materialet har ett högt motstånd mot värmeflöde.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_fbe9f1eb16401884f7929e27aa465a75_4">
+                <text>Värmemotstånd (R-värde) är ett mått på ett materials motstånd mot värmeflöde.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_a9851b6a0df4f12d8c2ed47dffc45501_5">
+                <text>
+                    <strong><em>R</em> (thermal resistance) =</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_44a17b8860cad778c5f19c5680adf652_6">
+                <text>
+                    <strong>‌thickness of material‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_d61edf4572fc5c6e27e42450dc2d1d70_7">
+                <text>
+                    <strong>‌thermal conductivity of the material‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_df5e7778740e1642fbf29f6e62af3628_8">
+                <text>Materialtestning</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_9bc3303c5577a8b3db871292cd56db46_9">
+                <text>Isolerande tyger från fem olika klädesplagg testades i ett experiment. Tygproverna var tillverkade i olika material och hade olika tjocklekar. Varje tygprov testades i en låda så som visas i diagrammet.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_3d8807e8472ff61bdc13fce566a62065_10">
+                <text>I lådan fanns en värmekälla under tyget. Ett block av koldioxid i fast form (torris) hängde över tyget.  Koldioxid övergår till fast form vid –78 °C.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_85d6733b831a20738af5b44719b13682_11">
+                <text>Temperaturerna på både testplattan och i luften ovanför tyget registrerades med 10-minutersintervall under en timme.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_8bad3f6e6a673f17b7a9f8090366be18_12">
+                <text>
+                    <strong>‌förenklad illustration av den stängda lådan ‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_0f6cdb621b452ac6fb994d88e674e49f_13">
+                <text>korg</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_3c4588116394d2164657875b7430907e_14">
+                <text>luft</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_6cc30c29c2313987dbcc2a9ae7a3f333_15">
+                <text>fast koldioxid</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_6319aa1da855da64aaed56842ee9f45a_16">
+                <text>tygprov</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_50322351bef70c78842a70c3b9e7b062_17">
+                <text>testplatta</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_788c0018254f184843395d7e66964023_18">
+                <text>värmekälla (37 °C)</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_19de894e0da15057192a8971e07c127c_19">
+                <text>10 cm</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_19de894e0da15057192a8971e07c127c_20">
+                <text>10 cm</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6554366bdaa4f7.85441210/passage NEW 1.xml">
+            <label key="6554366bdaa4f7.85441210_e74260acfc6ee65c4160908d9389a26f_1">
+                <text>Isoleringsegenskaper</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_09ad3381a8a66a297417c3f70220b7e7_2">
+                <text>Information om olika tygmaterials isoleringsförmåga kan användas för att besluta vilka material som ska användas i kläder.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_94befdf75ac5148bdda55dcf9d858408_3">
+                <text>'Värmeledningsförmåga' är ett mått på hur bra ett material leder värme. En låg värmeledningsförmåga betyder att materialet har ett högt motstånd mot värmeflöde.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_fbe9f1eb16401884f7929e27aa465a75_4">
+                <text>Värmemotstånd (R-värde) är ett mått på ett materials motstånd mot värmeflöde.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_a9851b6a0df4f12d8c2ed47dffc45501_5">
+                <text>
+                    <strong><em>R</em> (thermal resistance) =</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_44a17b8860cad778c5f19c5680adf652_6">
+                <text>
+                    <strong>‌thickness of material‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_d61edf4572fc5c6e27e42450dc2d1d70_7">
+                <text>
+                    <strong>‌thermal conductivity of the material‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_df5e7778740e1642fbf29f6e62af3628_8">
+                <text>Materialtestning</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_9bc3303c5577a8b3db871292cd56db46_9">
+                <text>Isolerande tyger från fem olika klädesplagg testades i ett experiment. Tygproverna var tillverkade i olika material och hade olika tjocklekar. Varje tygprov testades i en låda så som visas i diagrammet.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_3d8807e8472ff61bdc13fce566a62065_10">
+                <text>I lådan fanns en värmekälla under tyget. Ett block av koldioxid i fast form (torris) hängde över tyget.  Koldioxid övergår till fast form vid –78 °C.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_85d6733b831a20738af5b44719b13682_11">
+                <text>Temperaturerna på både testplattan och i luften ovanför tyget registrerades med 10-minutersintervall under en timme.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_8bad3f6e6a673f17b7a9f8090366be18_12">
+                <text>
+                    <strong>‌förenklad illustration av den stängda lådan ‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_0f6cdb621b452ac6fb994d88e674e49f_13">
+                <text>korg</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_3c4588116394d2164657875b7430907e_14">
+                <text>luft</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_6cc30c29c2313987dbcc2a9ae7a3f333_15">
+                <text>fast koldioxid</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_6319aa1da855da64aaed56842ee9f45a_16">
+                <text>tygprov</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_50322351bef70c78842a70c3b9e7b062_17">
+                <text>testplatta</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_788c0018254f184843395d7e66964023_18">
+                <text>värmekälla (37 °C)</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_19de894e0da15057192a8971e07c127c_19">
+                <text>10 cm</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_19de894e0da15057192a8971e07c127c_20">
+                <text>10 cm</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6554366bdaa4f7.85441210/passage NEW 1.xml">
+            <label key="6554366bdaa4f7.85441210_e74260acfc6ee65c4160908d9389a26f_1">
+                <text>Isoleringsegenskaper</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_09ad3381a8a66a297417c3f70220b7e7_2">
+                <text>Information om olika tygmaterials isoleringsförmåga kan användas för att besluta vilka material som ska användas i kläder.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_94befdf75ac5148bdda55dcf9d858408_3">
+                <text>'Värmeledningsförmåga' är ett mått på hur bra ett material leder värme. En låg värmeledningsförmåga betyder att materialet har ett högt motstånd mot värmeflöde.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_fbe9f1eb16401884f7929e27aa465a75_4">
+                <text>Värmemotstånd (R-värde) är ett mått på ett materials motstånd mot värmeflöde.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_a9851b6a0df4f12d8c2ed47dffc45501_5">
+                <text>
+                    <strong><em>R</em> (thermal resistance) =</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_44a17b8860cad778c5f19c5680adf652_6">
+                <text>
+                    <strong>‌thickness of material‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_d61edf4572fc5c6e27e42450dc2d1d70_7">
+                <text>
+                    <strong>‌thermal conductivity of the material‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_df5e7778740e1642fbf29f6e62af3628_8">
+                <text>Materialtestning</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_9bc3303c5577a8b3db871292cd56db46_9">
+                <text>Isolerande tyger från fem olika klädesplagg testades i ett experiment. Tygproverna var tillverkade i olika material och hade olika tjocklekar. Varje tygprov testades i en låda så som visas i diagrammet.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_3d8807e8472ff61bdc13fce566a62065_10">
+                <text>I lådan fanns en värmekälla under tyget. Ett block av koldioxid i fast form (torris) hängde över tyget.  Koldioxid övergår till fast form vid –78 °C.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_85d6733b831a20738af5b44719b13682_11">
+                <text>Temperaturerna på både testplattan och i luften ovanför tyget registrerades med 10-minutersintervall under en timme.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_8bad3f6e6a673f17b7a9f8090366be18_12">
+                <text>
+                    <strong>‌förenklad illustration av den stängda lådan ‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_0f6cdb621b452ac6fb994d88e674e49f_13">
+                <text>korg</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_3c4588116394d2164657875b7430907e_14">
+                <text>luft</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_6cc30c29c2313987dbcc2a9ae7a3f333_15">
+                <text>fast koldioxid</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_6319aa1da855da64aaed56842ee9f45a_16">
+                <text>tygprov</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_50322351bef70c78842a70c3b9e7b062_17">
+                <text>testplatta</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_788c0018254f184843395d7e66964023_18">
+                <text>värmekälla (37 °C)</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_19de894e0da15057192a8971e07c127c_19">
+                <text>10 cm</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_19de894e0da15057192a8971e07c127c_20">
+                <text>10 cm</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6554366bdaa4f7.85441210/passage NEW 1.xml">
+            <label key="6554366bdaa4f7.85441210_e74260acfc6ee65c4160908d9389a26f_1">
+                <text>Isoleringsegenskaper</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_09ad3381a8a66a297417c3f70220b7e7_2">
+                <text>Information om olika tygmaterials isoleringsförmåga kan användas för att besluta vilka material som ska användas i kläder.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_94befdf75ac5148bdda55dcf9d858408_3">
+                <text>'Värmeledningsförmåga' är ett mått på hur bra ett material leder värme. En låg värmeledningsförmåga betyder att materialet har ett högt motstånd mot värmeflöde.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_fbe9f1eb16401884f7929e27aa465a75_4">
+                <text>Värmemotstånd (R-värde) är ett mått på ett materials motstånd mot värmeflöde.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_a9851b6a0df4f12d8c2ed47dffc45501_5">
+                <text>
+                    <strong><em>R</em> (thermal resistance) =</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_44a17b8860cad778c5f19c5680adf652_6">
+                <text>
+                    <strong>‌thickness of material‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_d61edf4572fc5c6e27e42450dc2d1d70_7">
+                <text>
+                    <strong>‌thermal conductivity of the material‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_df5e7778740e1642fbf29f6e62af3628_8">
+                <text>Materialtestning</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_9bc3303c5577a8b3db871292cd56db46_9">
+                <text>Isolerande tyger från fem olika klädesplagg testades i ett experiment. Tygproverna var tillverkade i olika material och hade olika tjocklekar. Varje tygprov testades i en låda så som visas i diagrammet.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_3d8807e8472ff61bdc13fce566a62065_10">
+                <text>I lådan fanns en värmekälla under tyget. Ett block av koldioxid i fast form (torris) hängde över tyget.  Koldioxid övergår till fast form vid –78 °C.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_85d6733b831a20738af5b44719b13682_11">
+                <text>Temperaturerna på både testplattan och i luften ovanför tyget registrerades med 10-minutersintervall under en timme.</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_8bad3f6e6a673f17b7a9f8090366be18_12">
+                <text>
+                    <strong>‌förenklad illustration av den stängda lådan ‌</strong>
+                </text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_0f6cdb621b452ac6fb994d88e674e49f_13">
+                <text>korg</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_3c4588116394d2164657875b7430907e_14">
+                <text>luft</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_6cc30c29c2313987dbcc2a9ae7a3f333_15">
+                <text>fast koldioxid</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_6319aa1da855da64aaed56842ee9f45a_16">
+                <text>tygprov</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_50322351bef70c78842a70c3b9e7b062_17">
+                <text>testplatta</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_788c0018254f184843395d7e66964023_18">
+                <text>värmekälla (37 °C)</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_19de894e0da15057192a8971e07c127c_19">
+                <text>10 cm</text>
+            </label>
+            <label key="6554366bdaa4f7.85441210_19de894e0da15057192a8971e07c127c_20">
+                <text>10 cm</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64704ac847c9b0.57893273/passage NEW 2.xml">
+            <label key="64704ac847c9b0.57893273_e74260acfc6ee65c4160908d9389a26f_1">
+                <text>Isoleringsegenskaper</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_31358d216d8791e2403cc21311270d91_2">
+                <text>När människor har på sig kläder och svettas kan vattnet som kroppen släpper ifrån sig kraftigt påverka tygets totala värmeledningsförmåga.</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_a6fa5911b9986f6273b10185c831060c_3">
+                <text>Värmeledningsförmågan under simulerade svettningsförhållanden anges i tabellen nedan för vart och ett av de fem tygerna.</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_ad19a754e2808a72847dde053502d04e_4">
+                <text>
+                    <strong>‌Tyg‌</strong>
+                </text>
+            </label>
+            <label key="64704ac847c9b0.57893273_3c1d813f1d343ec8b48c63236a286cb6_5">
+                <text>
+                    <strong>‌Värmeledningsförmåga vid −29 °C‌</strong>
+                </text>
+            </label>
+            <label key="64704ac847c9b0.57893273_361b3cbf8c97b6ccf066ba63cf650788_6">
+                <text>Tyg 1</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_246c0903b5a64b2a854ec1e7865f174f_7">
+                <text>0,29</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_d18d5e5ad865ddf26bf5f2bdb56a09b0_8">
+                <text>Tyg 2</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_b1659515b9d1a59ebbc790e01084a8f0_9">
+                <text>0,12</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_e9bf6b5062c5cecb6eaec77edacf87af_10">
+                <text>Tyg 3</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_45efc23f34e05a9ea4f5024988047dd6_11">
+                <text>0,28</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_303bfa89d74b1d499975bb0e6f8117ef_12">
+                <text>Tyg 4</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_e85b79abfd76b7c13b1334d8d8c194a5_13">
+                <text>0,3</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_d0c9d08e2dd24262c4057a32c3143e85_14">
+                <text>Tyg 5</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_9f4721cf71c0ed18cd60356036b953cc_15">
+                <text>0,32</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64704ac847c9b0.57893273/passage NEW 2.xml">
+            <label key="64704ac847c9b0.57893273_e74260acfc6ee65c4160908d9389a26f_1">
+                <text>Isoleringsegenskaper</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_31358d216d8791e2403cc21311270d91_2">
+                <text>När människor har på sig kläder och svettas kan vattnet som kroppen släpper ifrån sig kraftigt påverka tygets totala värmeledningsförmåga.</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_a6fa5911b9986f6273b10185c831060c_3">
+                <text>Värmeledningsförmågan under simulerade svettningsförhållanden anges i tabellen nedan för vart och ett av de fem tygerna.</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_ad19a754e2808a72847dde053502d04e_4">
+                <text>
+                    <strong>‌Tyg‌</strong>
+                </text>
+            </label>
+            <label key="64704ac847c9b0.57893273_3c1d813f1d343ec8b48c63236a286cb6_5">
+                <text>
+                    <strong>‌Värmeledningsförmåga vid −29 °C‌</strong>
+                </text>
+            </label>
+            <label key="64704ac847c9b0.57893273_361b3cbf8c97b6ccf066ba63cf650788_6">
+                <text>Tyg 1</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_246c0903b5a64b2a854ec1e7865f174f_7">
+                <text>0,29</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_d18d5e5ad865ddf26bf5f2bdb56a09b0_8">
+                <text>Tyg 2</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_b1659515b9d1a59ebbc790e01084a8f0_9">
+                <text>0,12</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_e9bf6b5062c5cecb6eaec77edacf87af_10">
+                <text>Tyg 3</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_45efc23f34e05a9ea4f5024988047dd6_11">
+                <text>0,28</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_303bfa89d74b1d499975bb0e6f8117ef_12">
+                <text>Tyg 4</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_e85b79abfd76b7c13b1334d8d8c194a5_13">
+                <text>0,3</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_d0c9d08e2dd24262c4057a32c3143e85_14">
+                <text>Tyg 5</text>
+            </label>
+            <label key="64704ac847c9b0.57893273_9f4721cf71c0ed18cd60356036b953cc_15">
+                <text>0,32</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6343acc65fc2420270470591156f909484">
+            <label key="i6343acc65fc2420270470591156f909484_f9185b27eb5abb16fed710adcace6de9_1">
+                <text>Om två tygmaterial som används i kläder har samma tjocklek och olika värmeledningsförmågor, vilket är då mest effektivt när det gäller att minska värmeförlusten från kroppen på den som bär tyget?</text>
+            </label>
+            <label key="i6343acc65fc2420270470591156f909484_A_0b5d21506dc8f92a1085643e7aec1c7f_2">
+                <text>Materialet med lägre värmeledningsförmåga.</text>
+            </label>
+            <label key="i6343acc65fc2420270470591156f909484_B_9155c1eca4fdf98e2f1da6ce862508c5_3">
+                <text>Materialet med högre värmeledningsförmåga.</text>
+            </label>
+            <label key="i6343acc65fc2420270470591156f909484_C_dbcd84b835443a9835a569e3cdd6315e_4">
+                <text>Båda materialen kommer att minska värmeförlusterna lika mycket.</text>
+            </label>
+        </item>
+        <item id="i6343ad3f1bd35196534cc8f81f4b7a80f">
+            <label key="i6343ad3f1bd35196534cc8f81f4b7a80f_704aec0767ee9564b25a3f9a6cf9b5b5_1">
+                <text>Se informationen om 'Materialtestning'.</text>
+            </label>
+            <label key="i6343ad3f1bd35196534cc8f81f4b7a80f_fcd15ee4490245f258c08ecb5762961c_2">
+                <text>Vilken funktion har blocket av koldioxid i fast form i detta experiment?</text>
+            </label>
+        </item>
+        <item id="i6343ad84ca2512027040d3d9a63ba723d9">
+            <label key="i6343ad84ca2512027040d3d9a63ba723d9_97d7938eb4c9a5859e3c4f780c860390_1">
+                <text>
+                    Se informationen om 'Materialtestning'.
+                </text>
+            </label>
+            <label key="i6343ad84ca2512027040d3d9a63ba723d9_ac5ca8fe36af01d3267c827da33d285c_2">
+                <text>
+                    De fem tygproverna som användes i testet var olika tjocka. Tjockleken på tygproverna i testet var samma som tjockleken på tygerna i klädesplaggen.
+                </text>
+            </label>
+            <label key="i6343ad84ca2512027040d3d9a63ba723d9_4925bffb3e7cb953a3b7f03d01df68ef_3">
+                <text>
+                    Varför var varje tygprov i testet lika tjockt som i kläderna?
+                </text>
+            </label>
+        </item>
+        <item id="i6343adc15f470130370782e43939f477bf">
+            <label key="i6343adc15f470130370782e43939f477bf_4b617b4e8b83ee880d525148b55ad090_1">
+                <text>Diagrammet nedan visar värmeledningsförmågorna hos de fem tygproverna vid olika temperaturer.</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_48e9ee0fbbd25a7ecb3c2e7cd0bae5a0_2">
+                <text>
+                    <strong>‌Värmeledningsförmåga hos fem tyger ‌</strong>
+                </text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_d3fa108fa2d42568ec9533424b176a18_3">
+                <text>Värmeledningsförmåga</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_1101472e52bf152feca1f66b5b6cd337_4">
+                <text>Temperatur (°C)</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_f3f4475e88877947f73d09fe828d2a4b_5">
+                <text>0.45</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_54fbf38cf649866815e0fefc46a1f6c7_6">
+                <text>0,4</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_8ce3fac7e23a02ab4e00cf0f1e03310a_7">
+                <text>0.35</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_e85b79abfd76b7c13b1334d8d8c194a5_8">
+                <text>0,3</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_70da82175ec8a195a3d8b0fa8f69681d_9">
+                <text>0.25</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_3d522deaf85577451c01974654b36ad3_10">
+                <text>0,2</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_9ffc7a03c1959674fa8c0a7369460097_11">
+                <text>0.15</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_cb5ae17636e975f9bf71ddf5bc542075_12">
+                <text>0,1</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_b14399cbaac6da4b5b733b483106383f_13">
+                <text>0.05</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_361b3cbf8c97b6ccf066ba63cf650788_14">
+                <text>Tyg 1</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_d18d5e5ad865ddf26bf5f2bdb56a09b0_15">
+                <text>Tyg 2</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_e9bf6b5062c5cecb6eaec77edacf87af_16">
+                <text>Tyg 3</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_303bfa89d74b1d499975bb0e6f8117ef_17">
+                <text>Tyg 4</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_d0c9d08e2dd24262c4057a32c3143e85_18">
+                <text>Tyg 5</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_1b9b06e664c0e34cb34ff6ae55cb2d3e_19">
+                <text>Vilket av de fem tygerna är bäst på att minska värmeförlust?</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_choice_2_361b3cbf8c97b6ccf066ba63cf650788_20">
+                <text>Tyg 1</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_choice_3_d18d5e5ad865ddf26bf5f2bdb56a09b0_21">
+                <text>Tyg 2</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_choice_4_e9bf6b5062c5cecb6eaec77edacf87af_22">
+                <text>Tyg 3</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_choice_5_303bfa89d74b1d499975bb0e6f8117ef_23">
+                <text>Tyg 4</text>
+            </label>
+            <label key="i6343adc15f470130370782e43939f477bf_choice_6_d0c9d08e2dd24262c4057a32c3143e85_24">
+                <text>Tyg 5</text>
+            </label>
+        </item>
+        <item id="i6343b05a98ae01964ca42aec17f656d0e">
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_7831c2ab36686568b234eea479dc6396_1">
+                <text>Jan förutsåg att Tyg 5 skulle ha bäst isoleringsförmåga eftersom det var tjockast.</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_4b617b4e8b83ee880d525148b55ad090_2">
+                <text>Diagrammet nedan visar värmeledningsförmågorna hos de fem tygproverna vid olika temperaturer.</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_48e9ee0fbbd25a7ecb3c2e7cd0bae5a0_3">
+                <text>
+                    <strong>‌Värmeledningsförmåga hos fem tyger ‌</strong>
+                </text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_d3fa108fa2d42568ec9533424b176a18_4">
+                <text>Värmeledningsförmåga</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_1101472e52bf152feca1f66b5b6cd337_5">
+                <text>Temperatur (°C)</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_f3f4475e88877947f73d09fe828d2a4b_6">
+                <text>0.45</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_54fbf38cf649866815e0fefc46a1f6c7_7">
+                <text>0,4</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_8ce3fac7e23a02ab4e00cf0f1e03310a_8">
+                <text>0.35</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_e85b79abfd76b7c13b1334d8d8c194a5_9">
+                <text>0,3</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_70da82175ec8a195a3d8b0fa8f69681d_10">
+                <text>0.25</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_3d522deaf85577451c01974654b36ad3_11">
+                <text>0,2</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_9ffc7a03c1959674fa8c0a7369460097_12">
+                <text>0.15</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_cb5ae17636e975f9bf71ddf5bc542075_13">
+                <text>0,1</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_b14399cbaac6da4b5b733b483106383f_14">
+                <text>0.05</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_361b3cbf8c97b6ccf066ba63cf650788_15">
+                <text>Tyg 1</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_d18d5e5ad865ddf26bf5f2bdb56a09b0_16">
+                <text>Tyg 2</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_e9bf6b5062c5cecb6eaec77edacf87af_17">
+                <text>Tyg 3</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_303bfa89d74b1d499975bb0e6f8117ef_18">
+                <text>Tyg 4</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_d0c9d08e2dd24262c4057a32c3143e85_19">
+                <text>Tyg 5</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_440a74e844725284f83bb4d0ff371d00_20">
+                <text>Stödjer resultaten av experimentet Jans förutsägelse?</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_33a4910e5c5dc9b5b9b61c8c52e00765_21">
+                <text>Välj 'Ja' eller 'Nej'.</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_Y_93cba07454f06a4a960172bbd6e2a435_22">
+                <text>Ja</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_N_bafd7322c6e97d25b6299b5d6fe8920b_23">
+                <text>Nej</text>
+            </label>
+            <label key="i6343b05a98ae01964ca42aec17f656d0e_4fd72ad9efa6be34b8ac1f513e76dfb5_24">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+        <item id="i6343b155642e915582b3c56c75da9d5e8f">
+            <label key="i6343b155642e915582b3c56c75da9d5e8f_10011225e5841f324f02fe22c07d6209_1">
+                <text>Hur kan svett påverka hur bra ett tyg isolerar?</text>
+            </label>
+            <label key="i6343b155642e915582b3c56c75da9d5e8f_A_25084f70d73605724ce3cbdf684c63d8_2">
+                <text>Vattnet i svetten leder värme mindre effektivt än luft.</text>
+            </label>
+            <label key="i6343b155642e915582b3c56c75da9d5e8f_B_cb5d3e94aaf81895049be9fe8cc54a8c_3">
+                <text>Vattnet i svetten reagerar med tyget och frigör värme.</text>
+            </label>
+            <label key="i6343b155642e915582b3c56c75da9d5e8f_C_93f9cc85ca6f5634ddb3a2e66b52f04d_4">
+                <text>Tyget absorberar vattnet från svetten och blir tjockare.</text>
+            </label>
+            <label key="i6343b155642e915582b3c56c75da9d5e8f_D_f7071d1e9453f33007941a84d3543441_5">
+                <text>Vattnet i svetten ersätter luftfickor som är fångade i tyget.</text>
+            </label>
+        </item>
+        <item id="i6343b1e84f42019652225e08344c0a4be">
+            <label key="i6343b1e84f42019652225e08344c0a4be_5cb3d10cb2ce86d63869ffd7cede8817_1">
+                <text>Diagrammet nedan visar värmeledningsförmågorna hos de fem torra tygproverna vid olika temperaturer.</text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_9f11e31696e8222c8b1433be20cade35_2">
+                <text>
+                    <strong>‌Värmeledningsförmåga‌</strong>
+                </text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_910e695629ae9ee720ef920189751186_3">
+                <text>
+                    <strong>‌Temperatur (°C) ‌</strong>
+                </text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_bc2259e2875a64ee00adcada70860e28_4">
+                <text>Tyg 1 </text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_fc7bc24f8cca22d60d3c2bc632ba75eb_5">
+                <text>Tyg 2 </text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_6d73e5f178f108c83666482ca8fff333_6">
+                <text>Tyg 3 </text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_7c35abf9da3ee7c35ccfbb48b799121c_7">
+                <text>Tyg 4 </text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_af8ece6a6b7821d3458fec5b6c1efefb_8">
+                <text>Tyg 5 </text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_864a71a45100822616e24ceba5b1774b_9">
+                <text>Hos vilket tyg ökade värmeledningsförmågan mest efter simuleringen av svettning vid −29 °C?</text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_choice_2_361b3cbf8c97b6ccf066ba63cf650788_10">
+                <text>Tyg 1</text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_choice_3_d18d5e5ad865ddf26bf5f2bdb56a09b0_11">
+                <text>Tyg 2</text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_choice_4_e9bf6b5062c5cecb6eaec77edacf87af_12">
+                <text>Tyg 3</text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_choice_5_303bfa89d74b1d499975bb0e6f8117ef_13">
+                <text>Tyg 4</text>
+            </label>
+            <label key="i6343b1e84f42019652225e08344c0a4be_choice_6_d0c9d08e2dd24262c4057a32c3143e85_14">
+                <text>Tyg 5</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/646ed45361c202.88328794/passage NEW 1.xml">
+            <label key="646ed45361c202.88328794_a86fcee0221c84098dba862f8efc6621_1">
+                <text>Vindkraftspark</text>
+            </label>
+            <label key="646ed45361c202.88328794_41f946946220fe6fa3870783bdef5c8d_2">
+                <text>Invånarna i en stad undersöker om de har en lämplig plats för en vindkraftspark.</text>
+            </label>
+            <label key="646ed45361c202.88328794_5362ae0331520125d4f8204a97c5854d_3">
+                <text>Tabellen nedan visar vindförhållandena på fyra möjliga platser runt staden.</text>
+            </label>
+            <label key="646ed45361c202.88328794_a7d6475ec8993b7224d6facc8cb0ead6_4">
+                <text>Plats</text>
+            </label>
+            <label key="646ed45361c202.88328794_aabc230ba440519840bb6d11afac5f77_5">
+                <text>Högsta vindhastighet</text>
+            </label>
+            <label key="646ed45361c202.88328794_5bb9772f5973ea49572c92c314cf6247_6">
+                <text>
+                    (m/s)
+                </text>
+            </label>
+            <label key="646ed45361c202.88328794_54cf4cc386e859f963b1539cc9f4b975_7">
+                <text>Genomsnittlig vindhastighet</text>
+            </label>
+            <label key="646ed45361c202.88328794_5bb9772f5973ea49572c92c314cf6247_8">
+                <text>
+                    (m/s)
+                </text>
+            </label>
+            <label key="646ed45361c202.88328794_c96a7dea1ff89c91162776c1d45b91c0_9">
+                <text>Procentandel tid utan vind</text>
+            </label>
+            <label key="646ed45361c202.88328794_7fc56270e7a70fa81a5935b72eacbe29_10">
+                <text>A</text>
+            </label>
+            <label key="646ed45361c202.88328794_aab3238922bcc25a6f606eb525ffdc56_11">
+                <text>14</text>
+            </label>
+            <label key="646ed45361c202.88328794_8ed3bd7a545d74cca9ad9e48ca7422b9_12">
+                <text>3,7</text>
+            </label>
+            <label key="646ed45361c202.88328794_42025c145fac9a208f66128d9a1ef198_13">
+                <text>11,4 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_9d5ed678fe57bcca610140957afab571_14">
+                <text>B</text>
+            </label>
+            <label key="646ed45361c202.88328794_2b67f2a477f43c623f2825d7fa501905_15">
+                <text>13,9</text>
+            </label>
+            <label key="646ed45361c202.88328794_d3fc3e6e42d7ebd71ce2e5001c965277_16">
+                <text>5,2</text>
+            </label>
+            <label key="646ed45361c202.88328794_1569f4bca7e6e54589cb3708fb0b6e7b_17">
+                <text>8,3 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_0d61f8370cad1d412f80b84d143e1257_18">
+                <text>C</text>
+            </label>
+            <label key="646ed45361c202.88328794_2dd5ad4b93b8726c85105850c423c5d8_19">
+                <text>14,7</text>
+            </label>
+            <label key="646ed45361c202.88328794_4fb437564892944d73f87c822342e2bb_20">
+                <text>4,8</text>
+            </label>
+            <label key="646ed45361c202.88328794_59a500c69018f89ec8203cccda7940a1_21">
+                <text>10,6 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_f623e75af30e62bbd73d6df5b50bb7b5_22">
+                <text>D</text>
+            </label>
+            <label key="646ed45361c202.88328794_6f07f584f3d9d201369708139df42f66_23">
+                <text>25,1</text>
+            </label>
+            <label key="646ed45361c202.88328794_d3fc3e6e42d7ebd71ce2e5001c965277_24">
+                <text>5,2</text>
+            </label>
+            <label key="646ed45361c202.88328794_00b6742d52a5ed71ad2b4484cec72bc3_25">
+                <text>9,1 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_24ef3cd46253c1ffd7ddbc138b72c630_26">
+                <text>Vindkraftverken som staden överväger att använda för vindkraftsparken har följande egenskaper.</text>
+            </label>
+            <label key="646ed45361c202.88328794_1d82e80e3b565e105bfd7ea8d78e3ab5_27">
+                <text>De genererar mest el vid vindhastigheter på 12 m/s.</text>
+            </label>
+            <label key="646ed45361c202.88328794_3a437813c3eeea16b4e2b9c2204cfca3_28">
+                <text>De slutar generera el vid vindhastigheter över 25 m/s.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646ed45361c202.88328794/passage NEW 1.xml">
+            <label key="646ed45361c202.88328794_a86fcee0221c84098dba862f8efc6621_1">
+                <text>Vindkraftspark</text>
+            </label>
+            <label key="646ed45361c202.88328794_41f946946220fe6fa3870783bdef5c8d_2">
+                <text>Invånarna i en stad undersöker om de har en lämplig plats för en vindkraftspark.</text>
+            </label>
+            <label key="646ed45361c202.88328794_5362ae0331520125d4f8204a97c5854d_3">
+                <text>Tabellen nedan visar vindförhållandena på fyra möjliga platser runt staden.</text>
+            </label>
+            <label key="646ed45361c202.88328794_a7d6475ec8993b7224d6facc8cb0ead6_4">
+                <text>Plats</text>
+            </label>
+            <label key="646ed45361c202.88328794_aabc230ba440519840bb6d11afac5f77_5">
+                <text>Högsta vindhastighet</text>
+            </label>
+            <label key="646ed45361c202.88328794_5bb9772f5973ea49572c92c314cf6247_6">
+                <text>
+                    (m/s)
+                </text>
+            </label>
+            <label key="646ed45361c202.88328794_54cf4cc386e859f963b1539cc9f4b975_7">
+                <text>Genomsnittlig vindhastighet</text>
+            </label>
+            <label key="646ed45361c202.88328794_5bb9772f5973ea49572c92c314cf6247_8">
+                <text>
+                    (m/s)
+                </text>
+            </label>
+            <label key="646ed45361c202.88328794_c96a7dea1ff89c91162776c1d45b91c0_9">
+                <text>Procentandel tid utan vind</text>
+            </label>
+            <label key="646ed45361c202.88328794_7fc56270e7a70fa81a5935b72eacbe29_10">
+                <text>A</text>
+            </label>
+            <label key="646ed45361c202.88328794_aab3238922bcc25a6f606eb525ffdc56_11">
+                <text>14</text>
+            </label>
+            <label key="646ed45361c202.88328794_8ed3bd7a545d74cca9ad9e48ca7422b9_12">
+                <text>3,7</text>
+            </label>
+            <label key="646ed45361c202.88328794_42025c145fac9a208f66128d9a1ef198_13">
+                <text>11,4 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_9d5ed678fe57bcca610140957afab571_14">
+                <text>B</text>
+            </label>
+            <label key="646ed45361c202.88328794_2b67f2a477f43c623f2825d7fa501905_15">
+                <text>13,9</text>
+            </label>
+            <label key="646ed45361c202.88328794_d3fc3e6e42d7ebd71ce2e5001c965277_16">
+                <text>5,2</text>
+            </label>
+            <label key="646ed45361c202.88328794_1569f4bca7e6e54589cb3708fb0b6e7b_17">
+                <text>8,3 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_0d61f8370cad1d412f80b84d143e1257_18">
+                <text>C</text>
+            </label>
+            <label key="646ed45361c202.88328794_2dd5ad4b93b8726c85105850c423c5d8_19">
+                <text>14,7</text>
+            </label>
+            <label key="646ed45361c202.88328794_4fb437564892944d73f87c822342e2bb_20">
+                <text>4,8</text>
+            </label>
+            <label key="646ed45361c202.88328794_59a500c69018f89ec8203cccda7940a1_21">
+                <text>10,6 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_f623e75af30e62bbd73d6df5b50bb7b5_22">
+                <text>D</text>
+            </label>
+            <label key="646ed45361c202.88328794_6f07f584f3d9d201369708139df42f66_23">
+                <text>25,1</text>
+            </label>
+            <label key="646ed45361c202.88328794_d3fc3e6e42d7ebd71ce2e5001c965277_24">
+                <text>5,2</text>
+            </label>
+            <label key="646ed45361c202.88328794_00b6742d52a5ed71ad2b4484cec72bc3_25">
+                <text>9,1 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_24ef3cd46253c1ffd7ddbc138b72c630_26">
+                <text>Vindkraftverken som staden överväger att använda för vindkraftsparken har följande egenskaper.</text>
+            </label>
+            <label key="646ed45361c202.88328794_1d82e80e3b565e105bfd7ea8d78e3ab5_27">
+                <text>De genererar mest el vid vindhastigheter på 12 m/s.</text>
+            </label>
+            <label key="646ed45361c202.88328794_3a437813c3eeea16b4e2b9c2204cfca3_28">
+                <text>De slutar generera el vid vindhastigheter över 25 m/s.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646ed45361c202.88328794/passage NEW 1.xml">
+            <label key="646ed45361c202.88328794_a86fcee0221c84098dba862f8efc6621_1">
+                <text>Vindkraftspark</text>
+            </label>
+            <label key="646ed45361c202.88328794_41f946946220fe6fa3870783bdef5c8d_2">
+                <text>Invånarna i en stad undersöker om de har en lämplig plats för en vindkraftspark.</text>
+            </label>
+            <label key="646ed45361c202.88328794_5362ae0331520125d4f8204a97c5854d_3">
+                <text>Tabellen nedan visar vindförhållandena på fyra möjliga platser runt staden.</text>
+            </label>
+            <label key="646ed45361c202.88328794_a7d6475ec8993b7224d6facc8cb0ead6_4">
+                <text>Plats</text>
+            </label>
+            <label key="646ed45361c202.88328794_aabc230ba440519840bb6d11afac5f77_5">
+                <text>Högsta vindhastighet</text>
+            </label>
+            <label key="646ed45361c202.88328794_5bb9772f5973ea49572c92c314cf6247_6">
+                <text>
+                    (m/s)
+                </text>
+            </label>
+            <label key="646ed45361c202.88328794_54cf4cc386e859f963b1539cc9f4b975_7">
+                <text>Genomsnittlig vindhastighet</text>
+            </label>
+            <label key="646ed45361c202.88328794_5bb9772f5973ea49572c92c314cf6247_8">
+                <text>
+                    (m/s)
+                </text>
+            </label>
+            <label key="646ed45361c202.88328794_c96a7dea1ff89c91162776c1d45b91c0_9">
+                <text>Procentandel tid utan vind</text>
+            </label>
+            <label key="646ed45361c202.88328794_7fc56270e7a70fa81a5935b72eacbe29_10">
+                <text>A</text>
+            </label>
+            <label key="646ed45361c202.88328794_aab3238922bcc25a6f606eb525ffdc56_11">
+                <text>14</text>
+            </label>
+            <label key="646ed45361c202.88328794_8ed3bd7a545d74cca9ad9e48ca7422b9_12">
+                <text>3,7</text>
+            </label>
+            <label key="646ed45361c202.88328794_42025c145fac9a208f66128d9a1ef198_13">
+                <text>11,4 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_9d5ed678fe57bcca610140957afab571_14">
+                <text>B</text>
+            </label>
+            <label key="646ed45361c202.88328794_2b67f2a477f43c623f2825d7fa501905_15">
+                <text>13,9</text>
+            </label>
+            <label key="646ed45361c202.88328794_d3fc3e6e42d7ebd71ce2e5001c965277_16">
+                <text>5,2</text>
+            </label>
+            <label key="646ed45361c202.88328794_1569f4bca7e6e54589cb3708fb0b6e7b_17">
+                <text>8,3 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_0d61f8370cad1d412f80b84d143e1257_18">
+                <text>C</text>
+            </label>
+            <label key="646ed45361c202.88328794_2dd5ad4b93b8726c85105850c423c5d8_19">
+                <text>14,7</text>
+            </label>
+            <label key="646ed45361c202.88328794_4fb437564892944d73f87c822342e2bb_20">
+                <text>4,8</text>
+            </label>
+            <label key="646ed45361c202.88328794_59a500c69018f89ec8203cccda7940a1_21">
+                <text>10,6 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_f623e75af30e62bbd73d6df5b50bb7b5_22">
+                <text>D</text>
+            </label>
+            <label key="646ed45361c202.88328794_6f07f584f3d9d201369708139df42f66_23">
+                <text>25,1</text>
+            </label>
+            <label key="646ed45361c202.88328794_d3fc3e6e42d7ebd71ce2e5001c965277_24">
+                <text>5,2</text>
+            </label>
+            <label key="646ed45361c202.88328794_00b6742d52a5ed71ad2b4484cec72bc3_25">
+                <text>9,1 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_24ef3cd46253c1ffd7ddbc138b72c630_26">
+                <text>Vindkraftverken som staden överväger att använda för vindkraftsparken har följande egenskaper.</text>
+            </label>
+            <label key="646ed45361c202.88328794_1d82e80e3b565e105bfd7ea8d78e3ab5_27">
+                <text>De genererar mest el vid vindhastigheter på 12 m/s.</text>
+            </label>
+            <label key="646ed45361c202.88328794_3a437813c3eeea16b4e2b9c2204cfca3_28">
+                <text>De slutar generera el vid vindhastigheter över 25 m/s.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646ed45361c202.88328794/passage NEW 1.xml">
+            <label key="646ed45361c202.88328794_a86fcee0221c84098dba862f8efc6621_1">
+                <text>Vindkraftspark</text>
+            </label>
+            <label key="646ed45361c202.88328794_41f946946220fe6fa3870783bdef5c8d_2">
+                <text>Invånarna i en stad undersöker om de har en lämplig plats för en vindkraftspark.</text>
+            </label>
+            <label key="646ed45361c202.88328794_5362ae0331520125d4f8204a97c5854d_3">
+                <text>Tabellen nedan visar vindförhållandena på fyra möjliga platser runt staden.</text>
+            </label>
+            <label key="646ed45361c202.88328794_a7d6475ec8993b7224d6facc8cb0ead6_4">
+                <text>Plats</text>
+            </label>
+            <label key="646ed45361c202.88328794_aabc230ba440519840bb6d11afac5f77_5">
+                <text>Högsta vindhastighet</text>
+            </label>
+            <label key="646ed45361c202.88328794_5bb9772f5973ea49572c92c314cf6247_6">
+                <text>
+                    (m/s)
+                </text>
+            </label>
+            <label key="646ed45361c202.88328794_54cf4cc386e859f963b1539cc9f4b975_7">
+                <text>Genomsnittlig vindhastighet</text>
+            </label>
+            <label key="646ed45361c202.88328794_5bb9772f5973ea49572c92c314cf6247_8">
+                <text>
+                    (m/s)
+                </text>
+            </label>
+            <label key="646ed45361c202.88328794_c96a7dea1ff89c91162776c1d45b91c0_9">
+                <text>Procentandel tid utan vind</text>
+            </label>
+            <label key="646ed45361c202.88328794_7fc56270e7a70fa81a5935b72eacbe29_10">
+                <text>A</text>
+            </label>
+            <label key="646ed45361c202.88328794_aab3238922bcc25a6f606eb525ffdc56_11">
+                <text>14</text>
+            </label>
+            <label key="646ed45361c202.88328794_8ed3bd7a545d74cca9ad9e48ca7422b9_12">
+                <text>3,7</text>
+            </label>
+            <label key="646ed45361c202.88328794_42025c145fac9a208f66128d9a1ef198_13">
+                <text>11,4 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_9d5ed678fe57bcca610140957afab571_14">
+                <text>B</text>
+            </label>
+            <label key="646ed45361c202.88328794_2b67f2a477f43c623f2825d7fa501905_15">
+                <text>13,9</text>
+            </label>
+            <label key="646ed45361c202.88328794_d3fc3e6e42d7ebd71ce2e5001c965277_16">
+                <text>5,2</text>
+            </label>
+            <label key="646ed45361c202.88328794_1569f4bca7e6e54589cb3708fb0b6e7b_17">
+                <text>8,3 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_0d61f8370cad1d412f80b84d143e1257_18">
+                <text>C</text>
+            </label>
+            <label key="646ed45361c202.88328794_2dd5ad4b93b8726c85105850c423c5d8_19">
+                <text>14,7</text>
+            </label>
+            <label key="646ed45361c202.88328794_4fb437564892944d73f87c822342e2bb_20">
+                <text>4,8</text>
+            </label>
+            <label key="646ed45361c202.88328794_59a500c69018f89ec8203cccda7940a1_21">
+                <text>10,6 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_f623e75af30e62bbd73d6df5b50bb7b5_22">
+                <text>D</text>
+            </label>
+            <label key="646ed45361c202.88328794_6f07f584f3d9d201369708139df42f66_23">
+                <text>25,1</text>
+            </label>
+            <label key="646ed45361c202.88328794_d3fc3e6e42d7ebd71ce2e5001c965277_24">
+                <text>5,2</text>
+            </label>
+            <label key="646ed45361c202.88328794_00b6742d52a5ed71ad2b4484cec72bc3_25">
+                <text>9,1 %</text>
+            </label>
+            <label key="646ed45361c202.88328794_24ef3cd46253c1ffd7ddbc138b72c630_26">
+                <text>Vindkraftverken som staden överväger att använda för vindkraftsparken har följande egenskaper.</text>
+            </label>
+            <label key="646ed45361c202.88328794_1d82e80e3b565e105bfd7ea8d78e3ab5_27">
+                <text>De genererar mest el vid vindhastigheter på 12 m/s.</text>
+            </label>
+            <label key="646ed45361c202.88328794_3a437813c3eeea16b4e2b9c2204cfca3_28">
+                <text>De slutar generera el vid vindhastigheter över 25 m/s.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639296e0e9ad7232877a570778155e5">
+            <label key="i639296e0e9ad7232877a570778155e5_6e05b14d1e4ba0513428a9707554a423_1">
+                <text>De fyra platserna visas på bilden nedan.</text>
+            </label>
+            <label key="i639296e0e9ad7232877a570778155e5_75694fe83fb7370039946ef08a5dcf53_2">
+                <text>Vilken av de fyra platserna lämpar sig bäst för en vindkraftspark?</text>
+            </label>
+            <label key="i639296e0e9ad7232877a570778155e5_a3258fb6841d3bedeb3d6caab1435ca0_3">
+                <text>Välj den mest lämpliga platsen på bilden nedan.</text>
+            </label>
+            <label key="i639296e0e9ad7232877a570778155e5_c16dac173aa8377a1c07aed8e0472f7c_4">
+                <text>Stad</text>
+            </label>
+            <label key="i639296e0e9ad7232877a570778155e5_7fc56270e7a70fa81a5935b72eacbe29_5">
+                <text>A</text>
+            </label>
+            <label key="i639296e0e9ad7232877a570778155e5_9d5ed678fe57bcca610140957afab571_6">
+                <text>B</text>
+            </label>
+            <label key="i639296e0e9ad7232877a570778155e5_0d61f8370cad1d412f80b84d143e1257_7">
+                <text>C</text>
+            </label>
+            <label key="i639296e0e9ad7232877a570778155e5_f623e75af30e62bbd73d6df5b50bb7b5_8">
+                <text>D</text>
+            </label>
+        </item>
+        <item id="i640fc2c091dcc193716fb35659bce991ba">
+            <label key="i640fc2c091dcc193716fb35659bce991ba_b3cb9c252572d70bee8d68ff85d650cb_1">
+                <text>Vindkraftverk är konstruerade för att drivas inom särskilda genomsnittliga vindhastighetsområden.</text>
+            </label>
+            <label key="i640fc2c091dcc193716fb35659bce991ba_08712491d3aaff347501bae454bbdd5b_2">
+                <text>Det är dyrare att bygga ett vindkraftverk som är avsett för högre hastigheter.</text>
+            </label>
+            <label key="i640fc2c091dcc193716fb35659bce991ba_9a6a92fe143f1a809e2f69faf79a0738_3">
+                <text>Vindkraftverk klass 3: fungerar med genomsnittliga vindhastigheter upp till 7,5 m/s</text>
+            </label>
+            <label key="i640fc2c091dcc193716fb35659bce991ba_cb8342bb36bba414be3f1b91fc62e7bf_4">
+                <text>Vindkraftverk klass 2: fungerar med genomsnittliga vindhastigheter upp till 8,5 m/s</text>
+            </label>
+            <label key="i640fc2c091dcc193716fb35659bce991ba_8d2412a9cc58ec3bbe81da3257a13677_5">
+                <text>Vindkraftverk klass 1: fungerar med genomsnittliga vindhastigheter över 8,5 m</text>
+            </label>
+            <label key="i640fc2c091dcc193716fb35659bce991ba_95c77223060d20e3ae6ef3c33f013f9c_6">
+                <text>Oavsett vilken plats som väljs, vilken av de tre klasserna av vindkraftverk skulle vara lämplig för staden?</text>
+            </label>
+            <label key="i640fc2c091dcc193716fb35659bce991ba_A_9b7012ab32d24fc8152eb4561d7549f0_7">
+                <text>Vind klass 3</text>
+            </label>
+            <label key="i640fc2c091dcc193716fb35659bce991ba_B_70f3162373ca04d04c45afe66d29727c_8">
+                <text>Vind klass 2</text>
+            </label>
+            <label key="i640fc2c091dcc193716fb35659bce991ba_C_7607e67051d876d767eda7c4aedef2b5_9">
+                <text>Vind klass 1</text>
+            </label>
+        </item>
+        <item id="i640fc313f0ffa6263870a9cce85a18a6b5">
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_0af68fd94ca176ff4970b6f16cde20b9_1">
+                <text>Följande frågor om vindkraftsparken ställdes av personer i staden.</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_35cba94cfbff2c86edf37d9fc2eff9fb_2">
+                <text>Beslutsfattande innebär överväganden av olika aspekter som till exempel etik eller ekonomi.</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_233a37377473c58798c0d17741977635_3">
+                <text>Para ihop varje fråga med den huvudsakliga beslutsfattande aspekten som frågan är kopplad till.</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_f08cb6c29ae253f6043cb5318e29cb25_4">
+                <text>Para ihop rutor genom att välja en ruta i varje kolumn.</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_4fd6443aa40323c1355b592abc7d5cdc_5">
+                <text>Du kan ta bort en matchning genom att markera linjen och sedan klicka på 'x'.</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_459d65b6b5c2aeaa4211d39079e30875_6">
+                <text>
+                    <strong>‌Fråga ‌</strong>
+                </text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_b6d732862d9638a15bb853814eededc8_7">
+                <text>
+                    <strong>‌Aspekt av beslutsfattande‌</strong>
+                </text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_d925d5af9236ad28da2db2c2a9d43613_8">
+                <text>Kommer vindkraftsparken att skapa jobbmöjligheter för stadens invånare?</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_79516c5f24a4b044babd6267a11c94ea_9">
+                <text>ekologisk</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_735095d194a96aba005e0acedbcadde3_10">
+                <text>Kommer vindkraftsparken att påverka flyttrutterna för flyttfåglar?</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_c69d78f9f42df7ae2a88eea21588a579_11">
+                <text>etisk</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_091e6a8c6a984964fdec76a7f7dd6230_12">
+                <text>Hur mycket el kommer vindkraftsparken att generera?</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_d5cc7a8dc301f6269e33a393e01f47b1_13">
+                <text>ekonomisk</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_e74f5b0267e8d68bf404d5b48986a8e5_14">
+                <text>Kommer de som stödjer vindkraftsparken att gynnas ekonomiskt av dess utveckling?</text>
+            </label>
+            <label key="i640fc313f0ffa6263870a9cce85a18a6b5_55a95650a66b53ecbb960b53d985b964_15">
+                <text>vetenskaplig</text>
+            </label>
+        </item>
+        <item id="i640fc330873661796231a0fbad3f08f1e6">
+            <label key="i640fc330873661796231a0fbad3f08f1e6_e42a30305112bbc84c03679f021d253d_1">
+                <text>En rådgivare föreslår flera åtgärder för att hantera stadens energianvändning.</text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_c011849ed3587814b08a135ff8caadad_2">
+                <text>Invånarna vill fastställa om dessa åtgärder minskar följande:</text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_1fad6142e49aee0698e9a85626591a1f_3">
+                <text>stadens totala energianvändning</text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_83b50d61742a9dbbe5742828aaa6031a_4">
+                <text>de dagliga topparna i stadens energianvändning</text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_c82496882170b03c3578b8b912c7ef4f_5">
+                <text>stadens totala energianvändning <strong>och</strong> topparna i stadens energianvändning.</text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_a4921d0fb20c300eda29f8cf4b20e69d_6">
+                <text>För varje åtgärd, välj en cell för att visa de sätt på vilka den skulle minska energianvändningen.</text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_change1_5e9f1043a2de7f0b0998d4bbc7964679_7">
+                <text>Minska den totala energianvändningen</text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_change2_16fba1ff8f4e28cc4382752efe355d93_8">
+                <text>Minska toppar i energianvändningen </text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_change3_21f13e878cfca63fdb9c26106118730c_9">
+                <text>Minska den totala energianvändningen <strong>och</strong> toppar i energianvändningen</text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_action1_5481ac2418c93f1f9620498b8fd87f3d_10">
+                <text>Endast använda kallvatten i tvättmaskiner.</text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_action2_9409c1e6aa04a3de726275dd1967c26e_11">
+                <text>Endast använda tvättmaskiner och diskmaskiner när den totala efterfrågan på energi är låg.</text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_action3_3acaa3331f09abb9df62dcc5fc148bb9_12">
+                <text>Byta ut gamla hushållsapparater mot mer energieffektiva.</text>
+            </label>
+            <label key="i640fc330873661796231a0fbad3f08f1e6_action4_f0a4e5c3c9f6bd9750e8ec48e9b4ec07_13">
+                <text>Koppla ur apparater som tv, datorer och spelkonsoler i slutet av varje dag.</text>
+            </label>
+        </item>
+    </items>
+</file>

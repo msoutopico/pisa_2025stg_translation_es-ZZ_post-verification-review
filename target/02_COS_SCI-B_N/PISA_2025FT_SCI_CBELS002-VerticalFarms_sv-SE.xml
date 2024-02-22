@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/649cfcaa4151c1.02616156/passage NEW.xml">
+            <label key="649cfcaa4151c1.02616156_f05d20456557c096dde6b4ec65f9a7ad_1">
+                <text>Vertikala odlingar</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_3be78d97d855fbe30e0192ed3a1e42c6_2">
+                <text>Till 2050 kan världens befolkning öka till cirka 10 miljarder människor. Forskare uppskattar att livsmedelsproduktionen måste öka med 30 % för att kunna föda denna befolkning.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_df7f79df5325b80fed3d6dd4247ed5df_3">
+                <text>I nuläget odlas de flesta grödor utomhus på jordbruk. Men denna metod kommer sannolikt inte att tillgodose det ökande behovet av mat.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_477bd266c1e04716907bf860cceeb1fe_4">
+                <text>Vertikala odlingar kan vara en lösning på denna utmaning. I vertikala odlingar odlas grödor i vertikala skikt i slutna byggnader som drivs av solpaneler.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_6e363cddfd964ac84b73825fb087cba0_5">
+                <text>Teknik används för att se till att följande villkor är uppfyllda:</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_5171e78e48c7a6d18bcbb68f777150c1_6">
+                <text>vatten flödar uppifrån och ner och återvinns</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_a1f1e45529e0aa37829927ca044bdc46_7">
+                <text>optimala nivåer av ljus, näring och temperatur upprätthålls.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_0f02f40c4ffb3bfad5a0a7917f377bd5_8">
+                <text>vattentank</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_e562e839d2f88b9e9e53751d0c7df830_9">
+                <text>energikälla (solpaneler)</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_abac83435858c33190a090825015e3f1_10">
+                <text>ljuskälla</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_4510c81f0181e2f8192c2f4c83b57965_11">
+                <text>näringskälla</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_73bf9432240c299a7de7ae340194e21a_12">
+                <text>luftkonditionering</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_4f5ad46737b01bf45da5de0e4868c468_13">
+                <text>kontrollsystem</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649cfcaa4151c1.02616156/passage NEW.xml">
+            <label key="649cfcaa4151c1.02616156_f05d20456557c096dde6b4ec65f9a7ad_1">
+                <text>Vertikala odlingar</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_3be78d97d855fbe30e0192ed3a1e42c6_2">
+                <text>Till 2050 kan världens befolkning öka till cirka 10 miljarder människor. Forskare uppskattar att livsmedelsproduktionen måste öka med 30 % för att kunna föda denna befolkning.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_df7f79df5325b80fed3d6dd4247ed5df_3">
+                <text>I nuläget odlas de flesta grödor utomhus på jordbruk. Men denna metod kommer sannolikt inte att tillgodose det ökande behovet av mat.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_477bd266c1e04716907bf860cceeb1fe_4">
+                <text>Vertikala odlingar kan vara en lösning på denna utmaning. I vertikala odlingar odlas grödor i vertikala skikt i slutna byggnader som drivs av solpaneler.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_6e363cddfd964ac84b73825fb087cba0_5">
+                <text>Teknik används för att se till att följande villkor är uppfyllda:</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_5171e78e48c7a6d18bcbb68f777150c1_6">
+                <text>vatten flödar uppifrån och ner och återvinns</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_a1f1e45529e0aa37829927ca044bdc46_7">
+                <text>optimala nivåer av ljus, näring och temperatur upprätthålls.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_0f02f40c4ffb3bfad5a0a7917f377bd5_8">
+                <text>vattentank</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_e562e839d2f88b9e9e53751d0c7df830_9">
+                <text>energikälla (solpaneler)</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_abac83435858c33190a090825015e3f1_10">
+                <text>ljuskälla</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_4510c81f0181e2f8192c2f4c83b57965_11">
+                <text>näringskälla</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_73bf9432240c299a7de7ae340194e21a_12">
+                <text>luftkonditionering</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_4f5ad46737b01bf45da5de0e4868c468_13">
+                <text>kontrollsystem</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649cfcaa4151c1.02616156/passage NEW.xml">
+            <label key="649cfcaa4151c1.02616156_f05d20456557c096dde6b4ec65f9a7ad_1">
+                <text>Vertikala odlingar</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_3be78d97d855fbe30e0192ed3a1e42c6_2">
+                <text>Till 2050 kan världens befolkning öka till cirka 10 miljarder människor. Forskare uppskattar att livsmedelsproduktionen måste öka med 30 % för att kunna föda denna befolkning.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_df7f79df5325b80fed3d6dd4247ed5df_3">
+                <text>I nuläget odlas de flesta grödor utomhus på jordbruk. Men denna metod kommer sannolikt inte att tillgodose det ökande behovet av mat.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_477bd266c1e04716907bf860cceeb1fe_4">
+                <text>Vertikala odlingar kan vara en lösning på denna utmaning. I vertikala odlingar odlas grödor i vertikala skikt i slutna byggnader som drivs av solpaneler.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_6e363cddfd964ac84b73825fb087cba0_5">
+                <text>Teknik används för att se till att följande villkor är uppfyllda:</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_5171e78e48c7a6d18bcbb68f777150c1_6">
+                <text>vatten flödar uppifrån och ner och återvinns</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_a1f1e45529e0aa37829927ca044bdc46_7">
+                <text>optimala nivåer av ljus, näring och temperatur upprätthålls.</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_0f02f40c4ffb3bfad5a0a7917f377bd5_8">
+                <text>vattentank</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_e562e839d2f88b9e9e53751d0c7df830_9">
+                <text>energikälla (solpaneler)</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_abac83435858c33190a090825015e3f1_10">
+                <text>ljuskälla</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_4510c81f0181e2f8192c2f4c83b57965_11">
+                <text>näringskälla</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_73bf9432240c299a7de7ae340194e21a_12">
+                <text>luftkonditionering</text>
+            </label>
+            <label key="649cfcaa4151c1.02616156_4f5ad46737b01bf45da5de0e4868c468_13">
+                <text>kontrollsystem</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6385677da9a17139699010a2d0d79fc809">
+            <label key="i6385677da9a17139699010a2d0d79fc809_ea465ca4c9a97158a3f61905a943deee_1">
+                <text>Följande påståenden om vertikal odling är sanna.</text>
+            </label>
+            <label key="i6385677da9a17139699010a2d0d79fc809_744cbac40f6e41f29be8bba479578a7a_2">
+                <text>Vilka av påståendena beskriver en <strong>fördel</strong> med vertikal odling jämfört med utomhusodling?</text>
+            </label>
+            <label key="i6385677da9a17139699010a2d0d79fc809_0d6ca4cdda4411da38b038868b60eaf0_3">
+                <text>
+                    Välj alla korrekta svar.
+                </text>
+            </label>
+            <label key="i6385677da9a17139699010a2d0d79fc809_A_c746a037417e36e0f89d16476e5a0bc2_4">
+                <text>Vatten används mer effektivt.</text>
+            </label>
+            <label key="i6385677da9a17139699010a2d0d79fc809_B_b3dea97fde6a1780ec9e64b841f60cb3_5">
+                <text>Endast små bladgrödor kan odlas.</text>
+            </label>
+            <label key="i6385677da9a17139699010a2d0d79fc809_C_6ce880cc6ecf7671c57d50f9998e84f8_6">
+                <text>Anställda behövs för att pollinera växterna.</text>
+            </label>
+            <label key="i6385677da9a17139699010a2d0d79fc809_D_a6f325cd79e7c907fc07ff4fe56aa26b_7">
+                <text>Säsongsgrödor kan odlas när som helst på året.</text>
+            </label>
+            <label key="i6385677da9a17139699010a2d0d79fc809_choice_1_2cf5366f912a1cbc86e0ed816fbe723b_8">
+                <text>Grödor skyddas mot extremväder.</text>
+            </label>
+            <label key="i6385677da9a17139699010a2d0d79fc809_choice_2_3b4177ab025ff351e97d2212f8066052_9">
+                <text>Grödorna växer snabbare.</text>
+            </label>
+            <label key="i6385677da9a17139699010a2d0d79fc809_choice_3_0002e0c72223503e72b8ff50195f76e4_10">
+                <text>Vertikala odlingar är dyrare att bygga och underhålla än utomhusodlingar.</text>
+            </label>
+        </item>
+        <item id="i63856765c4a8f251603bce18a6e664ca8">
+            <label key="i63856765c4a8f251603bce18a6e664ca8_d81951062b776bd90ace2dd4ec9ae7bf_1">
+                <text>Beskriv en fördel med att placera livsmedelsproduktion i stadsområden.</text>
+            </label>
+        </item>
+        <item id="i638567eb52ed025107bed1ba5048ce2b2">
+            <label key="i638567eb52ed025107bed1ba5048ce2b2_9d7c6795bf359fb43e910651759fb480_1">
+                <text>Figuren nedan visar hur vatten återvinns genom de olika lagren i en vertikal odling.</text>
+            </label>
+            <label key="i638567eb52ed025107bed1ba5048ce2b2_6db022440cd66552f4372860787471e1_2">
+                <text>
+                    vatten och näringsämnen
+                </text>
+            </label>
+            <label key="i638567eb52ed025107bed1ba5048ce2b2_3b78d75c38ce8c97f24382343bf2b257_3">
+                <text>
+                    översta lagret
+                </text>
+            </label>
+            <label key="i638567eb52ed025107bed1ba5048ce2b2_5dbe9f7708dfcc3d348f0abb1ce182d0_4">
+                <text>Förekomsten av en enda sjuk växt i en vertikal odling är ett större problem än en sjuk växt i en utomhusodling. Förklara varför.</text>
+            </label>
+        </item>
+    </items>
+</file>

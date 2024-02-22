@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64ca0ad88ddf78.99798328/passage NEW.xml">
+            <label key="64ca0ad88ddf78.99798328_671f028142280b556a85ffdd90e0a43d_1">
+                <text>Mars</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_79f4c592812b19cbdb98d1f71baf94e3_2">
+                <text>Några forskare har föreslagit att bygga en koloni på Mars till 2050.</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_3c864406221b1bdf91939a5a56d2e825_3">
+                <text>Mars och Venus är de två planeter vars omloppsbanor liknar jordens mest.</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_0441cd2229ce790ba1db754df3e558ca_4">
+                <text>Tabellen nedan visar några egenskaper hos jorden, Venus och Mars.</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_5cdd21c97f86686cc505e02fd32a7523_5">
+                <text>Jorden</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_0bdc508a17811a3a860d32749ad44e4b_6">
+                <text>Venus</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_671f028142280b556a85ffdd90e0a43d_7">
+                <text>Mars</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_1556423e332967163439223be033948d_8">
+                <text>Gravitationsfältets styrka vid ytan (gravitation)</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_e1a11363f83df023b1728c3cc33479d8_9">
+                <text>9,8 N/kg</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_b3c0f56509a800f5dc81039ccadf8e0b_10">
+                <text>8,9 N/kg</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_f55bd399e3778348421b5390b3184000_11">
+                <text>3,7 N/kg</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_28da800053d07b10deaf47e631e91ab6_12">
+                <text>Tid för ett helt varv runt solen (i jorddagar)</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_06ca3abd90af37997a68841c7b3b9a3c_13">
+                <text>365,3 dagar</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_4566f66b9c6cb1f4f1c0ccf0f80b0cdb_14">
+                <text>224,7 dagar</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_1618b474b9007a97d2ba55f186133f54_15">
+                <text>686,9 dagar</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_5350c736f1f9d83bcbda9dfdafa54a39_16">
+                <text>Rotationstid runt sin axel (jordtimmar)</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_ebfac6c8e0903208c88cfb328099e052_17">
+                <text>23 h 56 min</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_e88c6c950151b32967d2e9d406872a1b_18">
+                <text>5 815 h 48 min</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_26d88d8022a2da4c621f5195503c1c14_19">
+                <text>24 h 37 min</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_c56c3726892a4f851626eb0246bea505_20">
+                <text>Genomsnittligt tryck vid ytan</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_ca01793368f295ff456770721fd5bdf1_21">
+                <text>101 300 N/m²</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_a17ed2af64f607d02f627918c5ae9a75_22">
+                <text>9 322 000 N/m²</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_9b8c2cbdc5466d5bee84602a81a21b0e_23">
+                <text>700 N/m²</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_cf9a41f011a090a794abc8e118788dde_24">
+                <text>Genomsnittlig temperatur vid ytan</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_e01339728fc428b5bc185ea6e6008af1_25">
+                <text>15 °C</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_2d54b2a0f742472849349e528f61ee56_26">
+                <text>462 °C</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_1a6f6613c6f5d28f4498cb45bd8ca5e3_27">
+                <text>–63 °C</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_41d776fb79311e7252a15e8dda75a74b_28">
+                <text>Atmosfärens sammansättning</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_cd03e2fe64ae57ba59ecebc923e7597e_29">
+                <text>78 % kväve, 21 % syre, 1 % andra gaser inklusive koldioxid</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_bfe85ce3926c2c31d46a2a4fc8cadd42_30">
+                <text>96 % koldioxid, 3 % kväve, 1 % andra gaser</text>
+            </label>
+            <label key="64ca0ad88ddf78.99798328_397a794a0c1670ce9aadc8fefd786b81_31">
+                <text>95,3 % koldioxid, 2,7 % kväve, 2 % andra gaser inklusive syre</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6396c773027bf41886323bc7b00497098">
+            <label key="i6396c773027bf41886323bc7b00497098_2203e6ae5d5851e33958d3d71b449655_1">
+                <text>Ordna planeterna enligt dagslängd, från den kortaste till den längsta, genom att dra dem till rätt plats.</text>
+            </label>
+            <label key="i6396c773027bf41886323bc7b00497098_choice_3_5cdd21c97f86686cc505e02fd32a7523_2">
+                <text>Jorden</text>
+            </label>
+            <label key="i6396c773027bf41886323bc7b00497098_choice_4_671f028142280b556a85ffdd90e0a43d_3">
+                <text>Mars</text>
+            </label>
+            <label key="i6396c773027bf41886323bc7b00497098_choice_1_0bdc508a17811a3a860d32749ad44e4b_4">
+                <text>Venus</text>
+            </label>
+            <label key="i6396c773027bf41886323bc7b00497098_a386b16c552a9f88da442a6740e18e7c_5">
+                <text>(Kortast dag) <gap fixed="false" identifier="gap_1" required="false"/> <gap fixed="false" identifier="gap_2" required="false"/> <gap fixed="false" identifier="gap_3" required="false"/> (Längst dag)</text>
+            </label>
+        </item>
+        <item id="i6396c78aaa0e12212f6787dd79ed872b0">
+            <label key="i6396c78aaa0e12212f6787dd79ed872b0_962bbb53a8e05ccc45ec5c534cae4d13_1">
+                <text>Om en hammare föll ur en astronauts hand på Mars, hur lång tid skulle det ta innan hammaren nådde marken?</text>
+            </label>
+            <label key="i6396c78aaa0e12212f6787dd79ed872b0_A_2271ba583fc3dbd0f7a7eaa2e7f590f2_2">
+                <text>Lika lång tid som på jorden</text>
+            </label>
+            <label key="i6396c78aaa0e12212f6787dd79ed872b0_B_820f509a68df4b5c3d5eb7d9a4219381_3">
+                <text>Längre tid än på jorden</text>
+            </label>
+            <label key="i6396c78aaa0e12212f6787dd79ed872b0_C_cd679d8e991d7a3df3eeefc9745c399e_4">
+                <text>Kortare tid än på jorden</text>
+            </label>
+            <label key="i6396c78aaa0e12212f6787dd79ed872b0_D_84ff5ca11f37016eae5c565751640ef6_5">
+                <text>Hammaren skulle inte falla; den skulle sväva i luften.</text>
+            </label>
+        </item>
+        <item id="i6396ca9730c9024481cd66d16323b953e6">
+            <label key="i6396ca9730c9024481cd66d16323b953e6_3c853a6d408ac6778115b5d416c5ce98_1">
+                <text>Skulle människor kunna leva på Mars utan andningsutrustning?</text>
+            </label>
+            <label key="i6396ca9730c9024481cd66d16323b953e6_A_93cba07454f06a4a960172bbd6e2a435_2">
+                <text>Ja</text>
+            </label>
+            <label key="i6396ca9730c9024481cd66d16323b953e6_B_bafd7322c6e97d25b6299b5d6fe8920b_3">
+                <text>Nej</text>
+            </label>
+            <label key="i6396ca9730c9024481cd66d16323b953e6_4ada479a4fc5a081d613291140b9c052_4">
+                <text>Använd information från tabellen för att förklara ditt svar.</text>
+            </label>
+        </item>
+    </items>
+</file>

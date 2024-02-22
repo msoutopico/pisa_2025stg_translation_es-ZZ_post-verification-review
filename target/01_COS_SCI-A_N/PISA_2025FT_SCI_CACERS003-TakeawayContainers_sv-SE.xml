@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6465954767ea98.69174978/passage NEW.xml">
+            <label key="6465954767ea98.69174978_198be2c5347ba7cda7413f9439735042_1">
+                <text>Förpackningar för hämtmat</text>
+            </label>
+            <label key="6465954767ea98.69174978_511a40a89151b8cbaa16d7c08828a9f6_2">
+                <text>Forskare letar efter sätt att göra engångsförpackningar för mat mer miljömässigt hållbara.</text>
+            </label>
+            <label key="6465954767ea98.69174978_f724621deab61f3d7fdbd71b60e6e80a_3">
+                <text>Forskarna undersöker egenskaperna hos material som kan användas för att täcka engångsförpackningar av papp. Förpackningarna måste vara lämpliga både för att lagra mat i och klara transporter.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i633180eada7522398956fdad4c82879a4">
+            <label key="i633180eada7522398956fdad4c82879a4_33a36c8202281b058a960a52b9ba5d87_1">
+                <text>En restaurangägare vill ha ris på den ena sidan av förpackningen och currygryta på den andra sidan. Currygryta är en maträtt som består av kött eller grönsaker i en tjock, flytande sås.</text>
+            </label>
+            <label key="i633180eada7522398956fdad4c82879a4_3767b450824877f2b8f284f7a5625440_2">
+                <text>risdryck</text>
+            </label>
+            <label key="i633180eada7522398956fdad4c82879a4_aedc82e8ceba8f56566817e173f12029_3">
+                <text>currygryta </text>
+            </label>
+            <label key="i633180eada7522398956fdad4c82879a4_15ac3ba14dd1881f8ea5261a0aaf0530_4">
+                <text>Vilken av nedanstående egenskaper är viktigast för matförpackningar i papp?</text>
+            </label>
+            <label key="i633180eada7522398956fdad4c82879a4_1f4a9407e68feb3b0ae2a5318551099a_5">
+                <text>de ska vara elastiska</text>
+            </label>
+            <label key="i633180eada7522398956fdad4c82879a4_ea19a572832c431da946c87b0afb3361_6">
+                <text>de ska inte läcka</text>
+            </label>
+            <label key="i633180eada7522398956fdad4c82879a4_0d97d817cd3ade2789b11f4b19e5551b_7">
+                <text>de ska vara återvinningsbara</text>
+            </label>
+            <label key="i633180eada7522398956fdad4c82879a4_0b14acf86db769da950e390a37b2aab2_8">
+                <text>maten ska synas genom locket</text>
+            </label>
+        </item>
+        <item id="i633182a7bc8e819362af0488a1412617a2">
+            <label key="i633182a7bc8e819362af0488a1412617a2_c957bf9de97a8d3c08cca9efdbdc8e14_1">
+                <text>Matförpackningar ska ha bra isolering (för att hålla maten varm eller kall).</text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_7d4662a7d620ae9800035cee1cc89d20_2">
+                <text>Forskarna testade hur länge matbehållare gjorda av olika material kan hålla maten varm. Matbehållarna hade samma storlek och form.</text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_41d2addcae7058f2b671c623555ba1c0_3">
+                <text>Forskarna placerade mat som värmts upp till 60 °C i varje förpackning, stängde förpackningen med ett lock och satte in en termometer genom ett litet hål i locket.</text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_3767b450824877f2b8f284f7a5625440_4">
+                <text>risdryck </text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_b6a657fe9f0e8ae3a4377666fee0c870_5">
+                <text>termometer </text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_ab2ff2b029b0e95559bfb293c4f67654_6">
+                <text>currygryta</text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_a03903c7a32e08d59d79223e16852397_7">
+                <text>Vad måste hållas konstant för att testet ska vara vetenskapligt korrekt?</text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_89b1c1de80f35eb0f385836481797561_8">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_e522d1e71cd18fdcea6300e6d5595d36_9">
+                <text>mängden mat i varje förpackning</text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_869a5066d93f01e5d9ba2ff6a1611e9b_10">
+                <text>materialet som varje förpackning är tillverkad av</text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_e3f20fe717633dfc0828c5bdc067fb52_11">
+                <text>temperaturen på luften runt varje förpackning</text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_5c3f3bade119e546bcad45de22929d74_12">
+                <text>tidpunkten när temperaturen på maten mäts i varje förpackning</text>
+            </label>
+            <label key="i633182a7bc8e819362af0488a1412617a2_d68c36a58fc207b892a73c386565f784_13">
+                <text>temperaturen på maten i varje förpackning i slutet av testet</text>
+            </label>
+        </item>
+        <item id="i6331838fcd17216969b9080e3689334d5">
+            <label key="i6331838fcd17216969b9080e3689334d5_08ccc136cdb5deb31d735df753b4c3a5_1">
+                <text>Forskarna utvecklade material för att täcka engångsförpackningar av papp och skydda dem från att brännas.</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_725197e51d03982177d4900430d3993b_2">
+                <text>Förpackningarna måste tåla temperaturer upp till 200 °C i en ugn.</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_68fbdc713be8c140bdbdd1d613c0e82c_3">
+                <text>Det här är några av deras resultat.</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_fd8ad5f1d9dcde7de4852909cd4aae83_4">
+                <text>Temperaturen vid vilken varje material brändes</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_1101472e52bf152feca1f66b5b6cd337_5">
+                <text>Temperatur (°C)</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_67b2add18cde34f0287b2a3b23dd4018_6">
+                <text>Testade material</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_e18b0df260dd0e482cd977589e46e196_7">
+                <text>Material G</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_daef765f9e219e529e71f47a09fd2cf8_8">
+                <text>Material H</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_e69a973aeaeef1bd734a52e813f7b170_9">
+                <text>Material I</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_148449d3b4743e711d4d15ed6623be6f_10">
+                <text>Material J</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_8f6832db2a55ade54f90b9e00bbb2899_11">
+                <text>Vilka material visade sig tåla temperaturer upp till 200°C i ugnen? </text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_89b1c1de80f35eb0f385836481797561_12">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_e18b0df260dd0e482cd977589e46e196_13">
+                <text>Material G</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_daef765f9e219e529e71f47a09fd2cf8_14">
+                <text>Material H</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_e69a973aeaeef1bd734a52e813f7b170_15">
+                <text>Material I</text>
+            </label>
+            <label key="i6331838fcd17216969b9080e3689334d5_148449d3b4743e711d4d15ed6623be6f_16">
+                <text>Material J</text>
+            </label>
+        </item>
+        <item id="i63318520d8a031397d80ea2feb8d1bc6a">
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_8018508c0fd69f270d19e14ec2c4db58_1">
+                <text>Forskarna täckte engångsförpackningar av papp med tre olika material.</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_4c29dfbd449be93a795cf9ba0623f307_2">
+                <text>De testade några egenskaper hos dessa pappförpackningar.</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_3c386cdd17d94998671cfdc24ee808fc_3">
+                <text>Tabellen visar deras resultat.</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_24f73ec06af2914d0aafdba36f7c2214_4">
+                <text>
+                    <strong>‌Tiden det tar att brytas ner‌</strong>
+                </text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_98cab80cf6a920b94121cea13fa1029c_5">
+                <text>
+                    <strong>‌Är materialet giftigt?‌</strong>
+                </text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_4339a7ffe300d8b136a69bbd520659b6_6">
+                <text>
+                    <strong>‌Hur lång tid det tar innan förpackningen läcker‌</strong>
+                </text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_69ba9763dae344ef0be4604df9015617_7">
+                <text>
+                    <strong>‌Material X‌</strong>
+                </text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_de0353cab16c9faa68162dffe7b3ec08_8">
+                <text>3 månader</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_a6105c0a611b41b08f1209506350279e_9">
+                <text>ja</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_1b534c416006e917300175882a6c0783_10">
+                <text>7 dagar</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_f38e44a0db0e4e79fac233154e8706fb_11">
+                <text>
+                    <strong>‌Material Y‌</strong>
+                </text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_9f7aa8ce719604f269027cacec634cf1_12">
+                <text>6 månader</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_7fa3b767c460b54a2be4d49030b349c7_13">
+                <text>nej</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_a1c834e20580e28e66f752dd3e2fa8df_14">
+                <text>5 dagar</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_e6d9449cec7c47285eedae187e346886_15">
+                <text>
+                    <strong>‌Material Z‌</strong>
+                </text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_aade02e4b1470fa877b2715d0e6c2a7d_16">
+                <text>bröts inte ner under testtiden</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_7fa3b767c460b54a2be4d49030b349c7_17">
+                <text>nej</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_2d836c595463e39451f4bc5201b13c16_18">
+                <text>10 dagar</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_8ae77f025ff9f4f62f66f3bca6a30937_19">
+                <text>Vilket material är lämpligt för förvaring av mat och är miljömässigt hållbart?</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_5f254e05278b330ec766717e54457a99_20">
+                <text>Material X</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_05360e584a2c4684a9c1532429dc55c1_21">
+                <text>Material Y</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_e9e0ee03d7b770f50eec5152c3cd7c8b_22">
+                <text>Material Z</text>
+            </label>
+            <label key="i63318520d8a031397d80ea2feb8d1bc6a_4fd72ad9efa6be34b8ac1f513e76dfb5_23">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+        <item id="i633187d0bb4be19353ab9ffb8cdce8b8f6">
+            <label key="i633187d0bb4be19353ab9ffb8cdce8b8f6_57cdad914700d140bfe14ec93fc87d52_1">
+                <text>Forskarna trodde att en fylld pappförpackning kunde krossas av vikten från andra fyllda förpackningar som staplats ovanpå den.</text>
+            </label>
+            <label key="i633187d0bb4be19353ab9ffb8cdce8b8f6_9d0034714f6d37788bb3b4f99150b3b1_2">
+                <text>Varje pappförpackning har en massa på ungefär 30 g. Massan av mat i pappförpackningen är ungefär 400 g.</text>
+            </label>
+            <label key="i633187d0bb4be19353ab9ffb8cdce8b8f6_04fc01cf56408ac54b6ec6da05c8f5d2_3">
+                <text>Kan var och en av följande metoder användas för att uppskatta hur mycket vikt en engångsförpackning av papp tål innan den krossas? </text>
+            </label>
+            <label key="i633187d0bb4be19353ab9ffb8cdce8b8f6_540de7248eda6bacf43eaddaa2c86c35_4">
+                <text>Välj 'Ja' eller 'Nej' för varje metod.</text>
+            </label>
+            <label key="i633187d0bb4be19353ab9ffb8cdce8b8f6_fdc1563a8afc5411a7aba3beeb918bd4_5">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i633187d0bb4be19353ab9ffb8cdce8b8f6_758eaa648d8250f58a4ec4251f2ea215_6">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i633187d0bb4be19353ab9ffb8cdce8b8f6_e1ddf6fce1268c8372da9a59e80e691f_7">
+                <text>Placera ett föremål med 100 g massa ovanpå varje behållare och se om det krossar behållaren.</text>
+            </label>
+            <label key="i633187d0bb4be19353ab9ffb8cdce8b8f6_335018277b9da29eaec2f67439d5dcf8_8">
+                <text>Placera föremål med gradvis ökande massa ovanpå varje förpackning i tur och ordning och anteckna massan på det lättaste föremål som krossar förpackningen.</text>
+            </label>
+            <label key="i633187d0bb4be19353ab9ffb8cdce8b8f6_c2d6258b5ff23a7c4c429d5d14ad94b9_9">
+                <text>Placera ett föremål i varje förpackning med samma massa som massan av mat och stapla förpackningarna tills förpackningen längst ner krossas.</text>
+            </label>
+        </item>
+    </items>
+</file>

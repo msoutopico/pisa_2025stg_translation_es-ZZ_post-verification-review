@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/655459644420d4.09191267/passage NEW.xml">
+            <label key="655459644420d4.09191267_61a27cd6b459c369ed382e343ab0c944_1">
+                <text>Koldioxidavtryck av livsmedel</text>
+            </label>
+            <label key="655459644420d4.09191267_4f9b3bf3b9a0234f6297f78ba61dd245_2">
+                <text>Ett koldioxidavtryck definieras som den totala mängden växthusgasutsläpp som släpps ut under alla stadier i en produkts livscykel, från produktion och transport till användning och avfallshantering.</text>
+            </label>
+            <label key="655459644420d4.09191267_386daa6410a16221506fac6403dc4318_3">
+                <text>Livsmedelsindustrin svarar för omkring 22 % av människans totala växthusgasutsläpp. Olika livsmedel har olika koldioxidavtryck. Diagrammet visar utsläppen av växthusgaser för olika stadier i livscykeln för några livsmedel.</text>
+            </label>
+            <label key="655459644420d4.09191267_f5ef75ca0cdce007a69b08dbffef588c_4">
+                <text>
+                    <strong>‌Livsmedel: utsläpp av växthusgaser under livscykeln‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_39970e05644e3ddf8af7b76e8b025c95_5">
+                <text>
+                    <strong>‌Typ av livsmedel‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_7925db1bbe9d801a15207eaae72d676b_6">
+                <text>
+                    <strong>‌Totalt nettoutsläpp av växthusgaser (kg CO₂ per kg livsmedel)‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_fea0f1f6fede90bd0a925b4194deac11_7">
+                <text>ost</text>
+            </label>
+            <label key="655459644420d4.09191267_c378985d629e99a4e86213db0cd5e70d_8">
+                <text>choklad</text>
+            </label>
+            <label key="655459644420d4.09191267_83e4a96aed96436c621b9809e258b309_9">
+                <text>fisk</text>
+            </label>
+            <label key="655459644420d4.09191267_ab92d9fae5ee7975c7735376ec60851b_10">
+                <text>ägg</text>
+            </label>
+            <label key="655459644420d4.09191267_3767b450824877f2b8f284f7a5625440_11">
+                <text>risdryck</text>
+            </label>
+            <label key="655459644420d4.09191267_5c5a606dc65057349d83c9321f6f7bf0_12">
+                <text>vetebröd</text>
+            </label>
+            <label key="655459644420d4.09191267_530ee768024a342527dd36293e5e7ba7_13">
+                <text>sojadryck</text>
+            </label>
+            <label key="655459644420d4.09191267_ec121ff80513ae58ed478d5c5787075b_14">
+                <text>bananer</text>
+            </label>
+            <label key="655459644420d4.09191267_daeccf0ad3c1fc8c8015205c332f5b42_15">
+                <text>äpplen</text>
+            </label>
+            <label key="655459644420d4.09191267_8749246c850dfc40522ab007e5424898_16">
+                <text>nötter</text>
+            </label>
+            <label key="655459644420d4.09191267_b13e0478540cde46d87786ab03193ac7_17">
+                <text>
+                    <strong>‌Växthusgasutsläpp per kilogram mat (kg CO₂ per kg livsmedel)‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_e79053567546e3294adcd8e1258c20c4_18">
+                <text>20,8</text>
+            </label>
+            <label key="655459644420d4.09191267_5276857864dd0d201daa7c2f2b3e8a71_19">
+                <text>19,5</text>
+            </label>
+            <label key="655459644420d4.09191267_7a22247de8db3271f3bf8573be10e986_20">
+                <text>6,2</text>
+            </label>
+            <label key="655459644420d4.09191267_66aa0b173104355df724f8ed2101f575_21">
+                <text>5,4</text>
+            </label>
+            <label key="655459644420d4.09191267_89f4d802f77128b7787f36c14e8092a6_22">
+                <text>3,95</text>
+            </label>
+            <label key="655459644420d4.09191267_e7f5a4a79f64388df4ef81d3bebb611a_23">
+                <text>1,45</text>
+            </label>
+            <label key="655459644420d4.09191267_a894124cc6d5c5c71afe060d5dde0762_24">
+                <text>0,9</text>
+            </label>
+            <label key="655459644420d4.09191267_91c85f899e56014969935fefd68830b9_25">
+                <text>0,7</text>
+            </label>
+            <label key="655459644420d4.09191267_54fbf38cf649866815e0fefc46a1f6c7_26">
+                <text>0,4</text>
+            </label>
+            <label key="655459644420d4.09191267_e85b79abfd76b7c13b1334d8d8c194a5_27">
+                <text>0,3</text>
+            </label>
+            <label key="655459644420d4.09191267_c81e728d9d4c2f636f067f89cc14862c_28">
+                <text>2</text>
+            </label>
+            <label key="655459644420d4.09191267_a87ff679a2f3e71d9181a67b7542122c_29">
+                <text>4</text>
+            </label>
+            <label key="655459644420d4.09191267_1679091c5a880faf6fb5e6087eb1b2dc_30">
+                <text>6</text>
+            </label>
+            <label key="655459644420d4.09191267_c9f0f895fb98ab9159f51fd0297e236d_31">
+                <text>8</text>
+            </label>
+            <label key="655459644420d4.09191267_d3d9446802a44259755d38e6d163e820_32">
+                <text>10</text>
+            </label>
+            <label key="655459644420d4.09191267_c20ad4d76fe97759aa27a0c99bff6710_33">
+                <text>12</text>
+            </label>
+            <label key="655459644420d4.09191267_aab3238922bcc25a6f606eb525ffdc56_34">
+                <text>14</text>
+            </label>
+            <label key="655459644420d4.09191267_c74d97b01eae257e44aa9d5bade97baf_35">
+                <text>16</text>
+            </label>
+            <label key="655459644420d4.09191267_6f4922f45568161a8cdf4ad2299f6d23_36">
+                <text>18</text>
+            </label>
+            <label key="655459644420d4.09191267_98f13708210194c475687be6106a3b84_37">
+                <text>20</text>
+            </label>
+            <label key="655459644420d4.09191267_b6d767d2f8ed5d21a44b0e5886680cb9_38">
+                <text>22</text>
+            </label>
+            <label key="655459644420d4.09191267_f6a72cdab7ea67daa88a5c570ff596bb_39">
+                <text>förändringar av mark genom användning av bränsledrivna maskiner (till exempel skog omvandlad till odlad jord)</text>
+            </label>
+            <label key="655459644420d4.09191267_bcda91550064ec9563af964d7b214887_40">
+                <text>jordbruksaktiviteter</text>
+            </label>
+            <label key="655459644420d4.09191267_4c77596337e02bc7f79c7f7410aa4fd9_41">
+                <text>produktion av foder för djur</text>
+            </label>
+            <label key="655459644420d4.09191267_f8b85fe7054b55a14efa13460207e0ef_42">
+                <text>livsmedelsproduktion, transport och avfallshantering</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655459644420d4.09191267/passage NEW.xml">
+            <label key="655459644420d4.09191267_61a27cd6b459c369ed382e343ab0c944_1">
+                <text>Koldioxidavtryck av livsmedel</text>
+            </label>
+            <label key="655459644420d4.09191267_4f9b3bf3b9a0234f6297f78ba61dd245_2">
+                <text>Ett koldioxidavtryck definieras som den totala mängden växthusgasutsläpp som släpps ut under alla stadier i en produkts livscykel, från produktion och transport till användning och avfallshantering.</text>
+            </label>
+            <label key="655459644420d4.09191267_386daa6410a16221506fac6403dc4318_3">
+                <text>Livsmedelsindustrin svarar för omkring 22 % av människans totala växthusgasutsläpp. Olika livsmedel har olika koldioxidavtryck. Diagrammet visar utsläppen av växthusgaser för olika stadier i livscykeln för några livsmedel.</text>
+            </label>
+            <label key="655459644420d4.09191267_f5ef75ca0cdce007a69b08dbffef588c_4">
+                <text>
+                    <strong>‌Livsmedel: utsläpp av växthusgaser under livscykeln‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_39970e05644e3ddf8af7b76e8b025c95_5">
+                <text>
+                    <strong>‌Typ av livsmedel‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_7925db1bbe9d801a15207eaae72d676b_6">
+                <text>
+                    <strong>‌Totalt nettoutsläpp av växthusgaser (kg CO₂ per kg livsmedel)‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_fea0f1f6fede90bd0a925b4194deac11_7">
+                <text>ost</text>
+            </label>
+            <label key="655459644420d4.09191267_c378985d629e99a4e86213db0cd5e70d_8">
+                <text>choklad</text>
+            </label>
+            <label key="655459644420d4.09191267_83e4a96aed96436c621b9809e258b309_9">
+                <text>fisk</text>
+            </label>
+            <label key="655459644420d4.09191267_ab92d9fae5ee7975c7735376ec60851b_10">
+                <text>ägg</text>
+            </label>
+            <label key="655459644420d4.09191267_3767b450824877f2b8f284f7a5625440_11">
+                <text>risdryck</text>
+            </label>
+            <label key="655459644420d4.09191267_5c5a606dc65057349d83c9321f6f7bf0_12">
+                <text>vetebröd</text>
+            </label>
+            <label key="655459644420d4.09191267_530ee768024a342527dd36293e5e7ba7_13">
+                <text>sojadryck</text>
+            </label>
+            <label key="655459644420d4.09191267_ec121ff80513ae58ed478d5c5787075b_14">
+                <text>bananer</text>
+            </label>
+            <label key="655459644420d4.09191267_daeccf0ad3c1fc8c8015205c332f5b42_15">
+                <text>äpplen</text>
+            </label>
+            <label key="655459644420d4.09191267_8749246c850dfc40522ab007e5424898_16">
+                <text>nötter</text>
+            </label>
+            <label key="655459644420d4.09191267_b13e0478540cde46d87786ab03193ac7_17">
+                <text>
+                    <strong>‌Växthusgasutsläpp per kilogram mat (kg CO₂ per kg livsmedel)‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_e79053567546e3294adcd8e1258c20c4_18">
+                <text>20,8</text>
+            </label>
+            <label key="655459644420d4.09191267_5276857864dd0d201daa7c2f2b3e8a71_19">
+                <text>19,5</text>
+            </label>
+            <label key="655459644420d4.09191267_7a22247de8db3271f3bf8573be10e986_20">
+                <text>6,2</text>
+            </label>
+            <label key="655459644420d4.09191267_66aa0b173104355df724f8ed2101f575_21">
+                <text>5,4</text>
+            </label>
+            <label key="655459644420d4.09191267_89f4d802f77128b7787f36c14e8092a6_22">
+                <text>3,95</text>
+            </label>
+            <label key="655459644420d4.09191267_e7f5a4a79f64388df4ef81d3bebb611a_23">
+                <text>1,45</text>
+            </label>
+            <label key="655459644420d4.09191267_a894124cc6d5c5c71afe060d5dde0762_24">
+                <text>0,9</text>
+            </label>
+            <label key="655459644420d4.09191267_91c85f899e56014969935fefd68830b9_25">
+                <text>0,7</text>
+            </label>
+            <label key="655459644420d4.09191267_54fbf38cf649866815e0fefc46a1f6c7_26">
+                <text>0,4</text>
+            </label>
+            <label key="655459644420d4.09191267_e85b79abfd76b7c13b1334d8d8c194a5_27">
+                <text>0,3</text>
+            </label>
+            <label key="655459644420d4.09191267_c81e728d9d4c2f636f067f89cc14862c_28">
+                <text>2</text>
+            </label>
+            <label key="655459644420d4.09191267_a87ff679a2f3e71d9181a67b7542122c_29">
+                <text>4</text>
+            </label>
+            <label key="655459644420d4.09191267_1679091c5a880faf6fb5e6087eb1b2dc_30">
+                <text>6</text>
+            </label>
+            <label key="655459644420d4.09191267_c9f0f895fb98ab9159f51fd0297e236d_31">
+                <text>8</text>
+            </label>
+            <label key="655459644420d4.09191267_d3d9446802a44259755d38e6d163e820_32">
+                <text>10</text>
+            </label>
+            <label key="655459644420d4.09191267_c20ad4d76fe97759aa27a0c99bff6710_33">
+                <text>12</text>
+            </label>
+            <label key="655459644420d4.09191267_aab3238922bcc25a6f606eb525ffdc56_34">
+                <text>14</text>
+            </label>
+            <label key="655459644420d4.09191267_c74d97b01eae257e44aa9d5bade97baf_35">
+                <text>16</text>
+            </label>
+            <label key="655459644420d4.09191267_6f4922f45568161a8cdf4ad2299f6d23_36">
+                <text>18</text>
+            </label>
+            <label key="655459644420d4.09191267_98f13708210194c475687be6106a3b84_37">
+                <text>20</text>
+            </label>
+            <label key="655459644420d4.09191267_b6d767d2f8ed5d21a44b0e5886680cb9_38">
+                <text>22</text>
+            </label>
+            <label key="655459644420d4.09191267_f6a72cdab7ea67daa88a5c570ff596bb_39">
+                <text>förändringar av mark genom användning av bränsledrivna maskiner (till exempel skog omvandlad till odlad jord)</text>
+            </label>
+            <label key="655459644420d4.09191267_bcda91550064ec9563af964d7b214887_40">
+                <text>jordbruksaktiviteter</text>
+            </label>
+            <label key="655459644420d4.09191267_4c77596337e02bc7f79c7f7410aa4fd9_41">
+                <text>produktion av foder för djur</text>
+            </label>
+            <label key="655459644420d4.09191267_f8b85fe7054b55a14efa13460207e0ef_42">
+                <text>livsmedelsproduktion, transport och avfallshantering</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655459644420d4.09191267/passage NEW.xml">
+            <label key="655459644420d4.09191267_61a27cd6b459c369ed382e343ab0c944_1">
+                <text>Koldioxidavtryck av livsmedel</text>
+            </label>
+            <label key="655459644420d4.09191267_4f9b3bf3b9a0234f6297f78ba61dd245_2">
+                <text>Ett koldioxidavtryck definieras som den totala mängden växthusgasutsläpp som släpps ut under alla stadier i en produkts livscykel, från produktion och transport till användning och avfallshantering.</text>
+            </label>
+            <label key="655459644420d4.09191267_386daa6410a16221506fac6403dc4318_3">
+                <text>Livsmedelsindustrin svarar för omkring 22 % av människans totala växthusgasutsläpp. Olika livsmedel har olika koldioxidavtryck. Diagrammet visar utsläppen av växthusgaser för olika stadier i livscykeln för några livsmedel.</text>
+            </label>
+            <label key="655459644420d4.09191267_f5ef75ca0cdce007a69b08dbffef588c_4">
+                <text>
+                    <strong>‌Livsmedel: utsläpp av växthusgaser under livscykeln‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_39970e05644e3ddf8af7b76e8b025c95_5">
+                <text>
+                    <strong>‌Typ av livsmedel‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_7925db1bbe9d801a15207eaae72d676b_6">
+                <text>
+                    <strong>‌Totalt nettoutsläpp av växthusgaser (kg CO₂ per kg livsmedel)‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_fea0f1f6fede90bd0a925b4194deac11_7">
+                <text>ost</text>
+            </label>
+            <label key="655459644420d4.09191267_c378985d629e99a4e86213db0cd5e70d_8">
+                <text>choklad</text>
+            </label>
+            <label key="655459644420d4.09191267_83e4a96aed96436c621b9809e258b309_9">
+                <text>fisk</text>
+            </label>
+            <label key="655459644420d4.09191267_ab92d9fae5ee7975c7735376ec60851b_10">
+                <text>ägg</text>
+            </label>
+            <label key="655459644420d4.09191267_3767b450824877f2b8f284f7a5625440_11">
+                <text>risdryck</text>
+            </label>
+            <label key="655459644420d4.09191267_5c5a606dc65057349d83c9321f6f7bf0_12">
+                <text>vetebröd</text>
+            </label>
+            <label key="655459644420d4.09191267_530ee768024a342527dd36293e5e7ba7_13">
+                <text>sojadryck</text>
+            </label>
+            <label key="655459644420d4.09191267_ec121ff80513ae58ed478d5c5787075b_14">
+                <text>bananer</text>
+            </label>
+            <label key="655459644420d4.09191267_daeccf0ad3c1fc8c8015205c332f5b42_15">
+                <text>äpplen</text>
+            </label>
+            <label key="655459644420d4.09191267_8749246c850dfc40522ab007e5424898_16">
+                <text>nötter</text>
+            </label>
+            <label key="655459644420d4.09191267_b13e0478540cde46d87786ab03193ac7_17">
+                <text>
+                    <strong>‌Växthusgasutsläpp per kilogram mat (kg CO₂ per kg livsmedel)‌</strong>
+                </text>
+            </label>
+            <label key="655459644420d4.09191267_e79053567546e3294adcd8e1258c20c4_18">
+                <text>20,8</text>
+            </label>
+            <label key="655459644420d4.09191267_5276857864dd0d201daa7c2f2b3e8a71_19">
+                <text>19,5</text>
+            </label>
+            <label key="655459644420d4.09191267_7a22247de8db3271f3bf8573be10e986_20">
+                <text>6,2</text>
+            </label>
+            <label key="655459644420d4.09191267_66aa0b173104355df724f8ed2101f575_21">
+                <text>5,4</text>
+            </label>
+            <label key="655459644420d4.09191267_89f4d802f77128b7787f36c14e8092a6_22">
+                <text>3,95</text>
+            </label>
+            <label key="655459644420d4.09191267_e7f5a4a79f64388df4ef81d3bebb611a_23">
+                <text>1,45</text>
+            </label>
+            <label key="655459644420d4.09191267_a894124cc6d5c5c71afe060d5dde0762_24">
+                <text>0,9</text>
+            </label>
+            <label key="655459644420d4.09191267_91c85f899e56014969935fefd68830b9_25">
+                <text>0,7</text>
+            </label>
+            <label key="655459644420d4.09191267_54fbf38cf649866815e0fefc46a1f6c7_26">
+                <text>0,4</text>
+            </label>
+            <label key="655459644420d4.09191267_e85b79abfd76b7c13b1334d8d8c194a5_27">
+                <text>0,3</text>
+            </label>
+            <label key="655459644420d4.09191267_c81e728d9d4c2f636f067f89cc14862c_28">
+                <text>2</text>
+            </label>
+            <label key="655459644420d4.09191267_a87ff679a2f3e71d9181a67b7542122c_29">
+                <text>4</text>
+            </label>
+            <label key="655459644420d4.09191267_1679091c5a880faf6fb5e6087eb1b2dc_30">
+                <text>6</text>
+            </label>
+            <label key="655459644420d4.09191267_c9f0f895fb98ab9159f51fd0297e236d_31">
+                <text>8</text>
+            </label>
+            <label key="655459644420d4.09191267_d3d9446802a44259755d38e6d163e820_32">
+                <text>10</text>
+            </label>
+            <label key="655459644420d4.09191267_c20ad4d76fe97759aa27a0c99bff6710_33">
+                <text>12</text>
+            </label>
+            <label key="655459644420d4.09191267_aab3238922bcc25a6f606eb525ffdc56_34">
+                <text>14</text>
+            </label>
+            <label key="655459644420d4.09191267_c74d97b01eae257e44aa9d5bade97baf_35">
+                <text>16</text>
+            </label>
+            <label key="655459644420d4.09191267_6f4922f45568161a8cdf4ad2299f6d23_36">
+                <text>18</text>
+            </label>
+            <label key="655459644420d4.09191267_98f13708210194c475687be6106a3b84_37">
+                <text>20</text>
+            </label>
+            <label key="655459644420d4.09191267_b6d767d2f8ed5d21a44b0e5886680cb9_38">
+                <text>22</text>
+            </label>
+            <label key="655459644420d4.09191267_f6a72cdab7ea67daa88a5c570ff596bb_39">
+                <text>förändringar av mark genom användning av bränsledrivna maskiner (till exempel skog omvandlad till odlad jord)</text>
+            </label>
+            <label key="655459644420d4.09191267_bcda91550064ec9563af964d7b214887_40">
+                <text>jordbruksaktiviteter</text>
+            </label>
+            <label key="655459644420d4.09191267_4c77596337e02bc7f79c7f7410aa4fd9_41">
+                <text>produktion av foder för djur</text>
+            </label>
+            <label key="655459644420d4.09191267_f8b85fe7054b55a14efa13460207e0ef_42">
+                <text>livsmedelsproduktion, transport och avfallshantering</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i638d7de5b82122218819f4fb49b67e996">
+            <label key="i638d7de5b82122218819f4fb49b67e996_e91204216abb7ceb79ff32d75228a516_1">
+                <text>Tre olika snacks räknas upp nedan.</text>
+            </label>
+            <label key="i638d7de5b82122218819f4fb49b67e996_b34bd1129b890de8fdffd7d29dc5c0bf_2">
+                <text>Använd informationen i diagrammet för att avgöra koldioxidavtrycket för varje snacks.</text>
+            </label>
+            <label key="i638d7de5b82122218819f4fb49b67e996_299d021537a19272b1537fdd9425ea33_3">
+                <text>Ordna snacksen från lägsta till högsta koldioxidavtryck genom att dra dem till rätt plats.</text>
+            </label>
+            <label key="i638d7de5b82122218819f4fb49b67e996_choice_5_c8b08bcbecd32df893e24b0611b03635_4">
+                <text>bananer med sojadryck</text>
+            </label>
+            <label key="i638d7de5b82122218819f4fb49b67e996_choice_4_109013fbaeed995b6c4eb1aebcc9a6bb_5">
+                <text>vetebröd med ost</text>
+            </label>
+            <label key="i638d7de5b82122218819f4fb49b67e996_choice_6_c205bae56bdacad169bb4e59af8e6fdf_6">
+                <text>äpplen med nötter</text>
+            </label>
+            <label key="i638d7de5b82122218819f4fb49b67e996_1e3308d35c3de031f05b1f3e4923a546_7">
+                <text>1. Lägst koldioxidavtryck: <gap fixed="false" identifier="gap_1" required="false"/></text>
+            </label>
+            <label key="i638d7de5b82122218819f4fb49b67e996_5c34693767c06b7bd7aaf429994bb23b_8">
+                <text>2. Medelhögt koldioxidavtryck: <gap fixed="false" identifier="gap_2" required="false"/></text>
+            </label>
+            <label key="i638d7de5b82122218819f4fb49b67e996_09a7634bb27aa319917504e80ea9afef_9">
+                <text>3. Högst koldioxidavtryck: <gap fixed="false" identifier="gap_3" required="false"/></text>
+            </label>
+        </item>
+        <item id="i638d7ec19d9fb17159da4664d29e4f7649">
+            <label key="i638d7ec19d9fb17159da4664d29e4f7649_9cec2345b95294ddddafb86c8a73324d_1">
+                <text>Diagrammet visar utsläppen av växthusgaser för olika stadier i livscykeln för några livsmedel.</text>
+            </label>
+            <label key="i638d7ec19d9fb17159da4664d29e4f7649_2fbe18eaf4abb89010a2dc6d46a21aca_2">
+                <text>Vilket stadium av livscykeln bidrar i genomsnitt mest till de totala växthusgasutsläppen?</text>
+            </label>
+            <label key="i638d7ec19d9fb17159da4664d29e4f7649_A_5eaaad2aefd20d51310a23ec640d22fb_3">
+                <text>förändringar av mark genom användning av bränsledrivna maskiner</text>
+            </label>
+            <label key="i638d7ec19d9fb17159da4664d29e4f7649_B_bcda91550064ec9563af964d7b214887_4">
+                <text>jordbruksaktiviteter</text>
+            </label>
+            <label key="i638d7ec19d9fb17159da4664d29e4f7649_C_4c77596337e02bc7f79c7f7410aa4fd9_5">
+                <text>produktion av foder för djur</text>
+            </label>
+            <label key="i638d7ec19d9fb17159da4664d29e4f7649_D_f8b85fe7054b55a14efa13460207e0ef_6">
+                <text>livsmedelsproduktion, transport och avfallshantering</text>
+            </label>
+        </item>
+        <item id="i638d7f6d6e0bb17161c8561d2fffd1975a">
+            <label key="i638d7f6d6e0bb17161c8561d2fffd1975a_541efc73cf25a63ce4faf4fec5919a49_1">
+                <text>Vad är en strategi som skulle kunna användas för att minska utsläppen av växthusgaser från transport av livsmedelsprodukter?</text>
+            </label>
+        </item>
+    </items>
+</file>

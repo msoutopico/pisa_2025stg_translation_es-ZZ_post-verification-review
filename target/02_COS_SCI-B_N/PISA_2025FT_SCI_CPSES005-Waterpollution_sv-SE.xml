@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/646efce7e9d997.21249990/passage NEW.xml">
+            <label key="646efce7e9d997.21249990_f5433bd3e836ad4ef4e597d4e7146ea3_1">
+                <text>​Water Pollution</text>
+            </label>
+            <label key="646efce7e9d997.21249990_eda0815cd822b42fd26ffdfb63af9702_2">
+                <text>Industriellt avloppsvatten släpps ofta ut utan att renas, vilket orsakar föroreningar i marken, grundvattnet och havsvattnet.</text>
+            </label>
+            <label key="646efce7e9d997.21249990_0c09ee0e1a0fa00982394130ea0bd99c_3">
+                <text>Föroreningar som gör vattnet otjänligt att dricka eller använda kan vara biologiska, kemiska, radioaktiva eller termiska (värme).</text>
+            </label>
+            <label key="646efce7e9d997.21249990_a47e17decc235494d1d325e10421ca5f_4">
+                <text>Avloppsvatten från industrier kan innehålla metallföroreningar som till exempel krom, koppar och zink, vilket räknas som föroreningar vid högre koncentrationer.</text>
+            </label>
+            <label key="646efce7e9d997.21249990_baf715bf821b8ad0e3f0a8e242ce3bff_5">
+                <text>Bilden visar hur industriellt avloppsvatten släpps ut från ett rör.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646efe423edf94.29365209/passage NEW 1.xml">
+            <label key="646efe423edf94.29365209_3e8d33652a33c5a868001326ece76746_1">
+                <text>Vattenföroreningar</text>
+            </label>
+            <label key="646efe423edf94.29365209_30fe760c31c0fcfc515b07cb5b41f416_2">
+                <text>Att plötsligt släppa ut avloppsvatten i ett vattendrag kan leda till att mängden kväve i vattnet ökar. Ett överskott av kväve kan överstimulera tillväxten av organiskt material (vattenlevande växter och alger).</text>
+            </label>
+            <label key="646efe423edf94.29365209_d4a739216bf02356982d46aa27687398_3">
+                <text>När mängden organiskt material ökar i ett vattendrag ökar också mängden nedbrytare. Nedbrytare förbrukar stora mängder upplöst syre och släpper ut koldioxid i vattnet.</text>
+            </label>
+            <label key="646efe423edf94.29365209_e3fe26601e9fd853602a88536d4115dc_4">
+                <text>Diagrammet visar förändringarna i koncentrationen av två ämnen, X och Y, i en flod som förorenats av avloppsvatten.</text>
+            </label>
+            <label key="646efe423edf94.29365209_7556d2feb4ffeedc9c104c8a06896d59_5">
+                <text>Koncentration av ämnet</text>
+            </label>
+            <label key="646efe423edf94.29365209_bfbc7070000fa8500baadb21af9a92c0_6">
+                <text>avloppsvatten tillsätts till floden här</text>
+            </label>
+            <label key="646efe423edf94.29365209_93366e06c0d2fcbce5ba81479d6f9712_7">
+                <text>Sträcka som vattnet färdats i floden</text>
+            </label>
+            <label key="646efe423edf94.29365209_4cf47bb55483d6e9a179a444ec6a6d60_8">
+                <text>ämne X</text>
+            </label>
+            <label key="646efe423edf94.29365209_a7027dfb038ede553fcd2f7a3b9632cf_9">
+                <text>ämne Y</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646efe423edf94.29365209/passage NEW 1.xml">
+            <label key="646efe423edf94.29365209_3e8d33652a33c5a868001326ece76746_1">
+                <text>Vattenföroreningar</text>
+            </label>
+            <label key="646efe423edf94.29365209_30fe760c31c0fcfc515b07cb5b41f416_2">
+                <text>Att plötsligt släppa ut avloppsvatten i ett vattendrag kan leda till att mängden kväve i vattnet ökar. Ett överskott av kväve kan överstimulera tillväxten av organiskt material (vattenlevande växter och alger).</text>
+            </label>
+            <label key="646efe423edf94.29365209_d4a739216bf02356982d46aa27687398_3">
+                <text>När mängden organiskt material ökar i ett vattendrag ökar också mängden nedbrytare. Nedbrytare förbrukar stora mängder upplöst syre och släpper ut koldioxid i vattnet.</text>
+            </label>
+            <label key="646efe423edf94.29365209_e3fe26601e9fd853602a88536d4115dc_4">
+                <text>Diagrammet visar förändringarna i koncentrationen av två ämnen, X och Y, i en flod som förorenats av avloppsvatten.</text>
+            </label>
+            <label key="646efe423edf94.29365209_7556d2feb4ffeedc9c104c8a06896d59_5">
+                <text>Koncentration av ämnet</text>
+            </label>
+            <label key="646efe423edf94.29365209_bfbc7070000fa8500baadb21af9a92c0_6">
+                <text>avloppsvatten tillsätts till floden här</text>
+            </label>
+            <label key="646efe423edf94.29365209_93366e06c0d2fcbce5ba81479d6f9712_7">
+                <text>Sträcka som vattnet färdats i floden</text>
+            </label>
+            <label key="646efe423edf94.29365209_4cf47bb55483d6e9a179a444ec6a6d60_8">
+                <text>ämne X</text>
+            </label>
+            <label key="646efe423edf94.29365209_a7027dfb038ede553fcd2f7a3b9632cf_9">
+                <text>ämne Y</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639fead3de55c171270c37139435c9bf38">
+            <label key="i639fead3de55c171270c37139435c9bf38_1a68df47585052fed576be75dbbc422c_1">
+                <text>Vilken eller vilka typer av föroreningar skulle metallföroreningar kunna vara?</text>
+            </label>
+            <label key="i639fead3de55c171270c37139435c9bf38_89b1c1de80f35eb0f385836481797561_2">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i639fead3de55c171270c37139435c9bf38_A_04d7eec59884253892b595d0be9955e8_3">
+                <text>biologiska föroreningar</text>
+            </label>
+            <label key="i639fead3de55c171270c37139435c9bf38_B_01e3699b1f536ea68bfb73343c2011f1_4">
+                <text>kemiska föroreningar</text>
+            </label>
+            <label key="i639fead3de55c171270c37139435c9bf38_C_e5d08e4a95c74e6f3f773593f884e4f2_5">
+                <text>radioaktiva föroreningar</text>
+            </label>
+            <label key="i639fead3de55c171270c37139435c9bf38_D_6b883cb293f2d707903ee332e704b814_6">
+                <text>värmeföroreningar</text>
+            </label>
+        </item>
+        <item id="i639fef48ebf272798af7c68c6b75e9838">
+            <label key="i639fef48ebf272798af7c68c6b75e9838_da19e1c5ef71abb5f141f55a1612ce2f_1">
+                <text>Vilken av följande kombinationer kan motsvara ämnena X och Y i diagrammet till höger?</text>
+            </label>
+            <label key="i639fef48ebf272798af7c68c6b75e9838_A_6626d2c281dacc814bcd6986afe697a8_2">
+                <text><p>X - koldioxid</p>Y - kväveföreningar</text>
+            </label>
+            <label key="i639fef48ebf272798af7c68c6b75e9838_B_a90d5602ceea35adaefc1a8e5d16daa8_3">
+                <text><p>X - kväveföreningar</p>Y - koldioxid</text>
+            </label>
+            <label key="i639fef48ebf272798af7c68c6b75e9838_C_9b7843105602b5318a9a0c9db2f2d6bc_4">
+                <text><p>X - kväveföreningar</p>Y - syre</text>
+            </label>
+            <label key="i639fef48ebf272798af7c68c6b75e9838_D_684b6a327691b88b5c2955e256e6a0ac_5">
+                <text><p>X - syre</p>Y - kväveföreningar</text>
+            </label>
+        </item>
+        <item id="i639ff1e570a6e17128cc97ebd5d86551bc">
+            <label key="i639ff1e570a6e17128cc97ebd5d86551bc_32969d66ee193fc5c3aefd666b85299d_1">
+                <text>Laila läser i tidningarna att en fabrik ska byggas nära hennes hem. Avloppsvattnet kommer att släppas ut i marken nära fabriken.</text>
+            </label>
+            <label key="i639ff1e570a6e17128cc97ebd5d86551bc_acf4a940514d7598421bcf976a1ccd9e_2">
+                <text>Laila är orolig för att utsläppet av avloppsvatten kan leda till att den lokala miljön förorenas med giftiga kemikalier.</text>
+            </label>
+            <label key="i639ff1e570a6e17128cc97ebd5d86551bc_75400a152795b3e25f33fa69fb286697_3">
+                <text>Vad kan Laila göra för att bidra till att säkerställa att avfallet hanteras korrekt?</text>
+            </label>
+            <label key="i639ff1e570a6e17128cc97ebd5d86551bc_89b1c1de80f35eb0f385836481797561_4">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i639ff1e570a6e17128cc97ebd5d86551bc_A_ec75aa103e4161c67b04c3a35d5ec250_5">
+                <text>Undersöka platser att bo på som inte ligger nära fabriken.</text>
+            </label>
+            <label key="i639ff1e570a6e17128cc97ebd5d86551bc_B_a4265ff31e1185100e2da7bbb5f5d9a4_6">
+                <text>Ta reda på om fabriken följer lokala miljölagar och riktlinjer.</text>
+            </label>
+            <label key="i639ff1e570a6e17128cc97ebd5d86551bc_C_661a0a7eac4ae891943343938d580784_7">
+                <text>Kalla till ett möte i kommunhuset för att informera andra om planen.</text>
+            </label>
+            <label key="i639ff1e570a6e17128cc97ebd5d86551bc_D_6396e5bb121ab75dab73e69a6ac3671f_8">
+                <text>Skriva till de lokala myndigheterna för att be dem att se till att fabriken hanterar sitt avloppsvatten på ett säkert och ansvarsfullt sätt.</text>
+            </label>
+        </item>
+    </items>
+</file>

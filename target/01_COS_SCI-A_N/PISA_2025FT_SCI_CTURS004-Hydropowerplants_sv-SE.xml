@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6466cc3dd8d443.96477623/passage NEW 1.xml">
+            <label key="6466cc3dd8d443.96477623_52ffcf3b7a997ba4d064880d464838eb_1">
+                <text>Vattenkraftverk</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_55fcc26c07f341d039b6454debb9b8f1_2">
+                <text>Vattenkraftverk kan utnyttja vattenflödet i älvar för att generera el. En typ av vattenkraftverk använder turbingeneratorer som är installerade i älven.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_4f6396f814c217331aef31f8e1bc5bc4_3">
+                <text>Bilden visar turbingeneratorer på tre platser i en älv. Tabellen visar mängden elektrisk energi som produceras beroende på antalet turbiner i drift och lutningen (i grader) på varje plats.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_158c79df2e047ac1fd2f088519ce8692_4">
+                <text>Lutning (°)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_fff988f2841ab7492e4de8bedef42430_5">
+                <text>Antal turbiner</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_993a5e384ad39e94cdf91a51b0ead4d6_6">
+                <text>Producerad elenergi (MWh)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_f1d122aa3a5394cb69f87e6e40340b7e_7">
+                <text>​2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_8">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c2536e521e4da82c65b564eec9f4d6cf_9">
+                <text>3,22</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_10">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_11">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c98917184d6e2e8317e4075660b2129d_12">
+                <text>6,44</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_13">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_14">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e0956a8686574d53f94db90b28594988_15">
+                <text>9,66</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_16">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_17">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_1ae67b26c55550eb095e9744d995e821_18">
+                <text>4,64</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_19">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_20">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_865e760103596bc7e4a215ceaefcedf6_21">
+                <text>9,27</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_22">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_23">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_0d756bb2f6803c25a1fa2b70fb6cce1f_24">
+                <text>13,91</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_25">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_26">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70ced5a2322e4f90c71b60c52c57016d_27">
+                <text>6,17</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_28">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_29">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_644aad9adc43f013c93baa90b9181e2e_30">
+                <text>12,33</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_31">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_32">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70fea537f793d6e6c0701efd98097d07_33">
+                <text>18,5</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6466cc3dd8d443.96477623/passage NEW 1.xml">
+            <label key="6466cc3dd8d443.96477623_52ffcf3b7a997ba4d064880d464838eb_1">
+                <text>Vattenkraftverk</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_55fcc26c07f341d039b6454debb9b8f1_2">
+                <text>Vattenkraftverk kan utnyttja vattenflödet i älvar för att generera el. En typ av vattenkraftverk använder turbingeneratorer som är installerade i älven.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_4f6396f814c217331aef31f8e1bc5bc4_3">
+                <text>Bilden visar turbingeneratorer på tre platser i en älv. Tabellen visar mängden elektrisk energi som produceras beroende på antalet turbiner i drift och lutningen (i grader) på varje plats.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_158c79df2e047ac1fd2f088519ce8692_4">
+                <text>Lutning (°)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_fff988f2841ab7492e4de8bedef42430_5">
+                <text>Antal turbiner</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_993a5e384ad39e94cdf91a51b0ead4d6_6">
+                <text>Producerad elenergi (MWh)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_f1d122aa3a5394cb69f87e6e40340b7e_7">
+                <text>​2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_8">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c2536e521e4da82c65b564eec9f4d6cf_9">
+                <text>3,22</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_10">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_11">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c98917184d6e2e8317e4075660b2129d_12">
+                <text>6,44</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_13">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_14">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e0956a8686574d53f94db90b28594988_15">
+                <text>9,66</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_16">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_17">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_1ae67b26c55550eb095e9744d995e821_18">
+                <text>4,64</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_19">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_20">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_865e760103596bc7e4a215ceaefcedf6_21">
+                <text>9,27</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_22">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_23">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_0d756bb2f6803c25a1fa2b70fb6cce1f_24">
+                <text>13,91</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_25">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_26">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70ced5a2322e4f90c71b60c52c57016d_27">
+                <text>6,17</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_28">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_29">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_644aad9adc43f013c93baa90b9181e2e_30">
+                <text>12,33</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_31">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_32">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70fea537f793d6e6c0701efd98097d07_33">
+                <text>18,5</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6466cc3dd8d443.96477623/passage NEW 1.xml">
+            <label key="6466cc3dd8d443.96477623_52ffcf3b7a997ba4d064880d464838eb_1">
+                <text>Vattenkraftverk</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_55fcc26c07f341d039b6454debb9b8f1_2">
+                <text>Vattenkraftverk kan utnyttja vattenflödet i älvar för att generera el. En typ av vattenkraftverk använder turbingeneratorer som är installerade i älven.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_4f6396f814c217331aef31f8e1bc5bc4_3">
+                <text>Bilden visar turbingeneratorer på tre platser i en älv. Tabellen visar mängden elektrisk energi som produceras beroende på antalet turbiner i drift och lutningen (i grader) på varje plats.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_158c79df2e047ac1fd2f088519ce8692_4">
+                <text>Lutning (°)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_fff988f2841ab7492e4de8bedef42430_5">
+                <text>Antal turbiner</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_993a5e384ad39e94cdf91a51b0ead4d6_6">
+                <text>Producerad elenergi (MWh)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_f1d122aa3a5394cb69f87e6e40340b7e_7">
+                <text>​2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_8">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c2536e521e4da82c65b564eec9f4d6cf_9">
+                <text>3,22</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_10">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_11">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c98917184d6e2e8317e4075660b2129d_12">
+                <text>6,44</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_13">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_14">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e0956a8686574d53f94db90b28594988_15">
+                <text>9,66</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_16">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_17">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_1ae67b26c55550eb095e9744d995e821_18">
+                <text>4,64</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_19">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_20">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_865e760103596bc7e4a215ceaefcedf6_21">
+                <text>9,27</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_22">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_23">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_0d756bb2f6803c25a1fa2b70fb6cce1f_24">
+                <text>13,91</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_25">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_26">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70ced5a2322e4f90c71b60c52c57016d_27">
+                <text>6,17</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_28">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_29">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_644aad9adc43f013c93baa90b9181e2e_30">
+                <text>12,33</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_31">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_32">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70fea537f793d6e6c0701efd98097d07_33">
+                <text>18,5</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6466cc3dd8d443.96477623/passage NEW 1.xml">
+            <label key="6466cc3dd8d443.96477623_52ffcf3b7a997ba4d064880d464838eb_1">
+                <text>Vattenkraftverk</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_55fcc26c07f341d039b6454debb9b8f1_2">
+                <text>Vattenkraftverk kan utnyttja vattenflödet i älvar för att generera el. En typ av vattenkraftverk använder turbingeneratorer som är installerade i älven.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_4f6396f814c217331aef31f8e1bc5bc4_3">
+                <text>Bilden visar turbingeneratorer på tre platser i en älv. Tabellen visar mängden elektrisk energi som produceras beroende på antalet turbiner i drift och lutningen (i grader) på varje plats.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_158c79df2e047ac1fd2f088519ce8692_4">
+                <text>Lutning (°)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_fff988f2841ab7492e4de8bedef42430_5">
+                <text>Antal turbiner</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_993a5e384ad39e94cdf91a51b0ead4d6_6">
+                <text>Producerad elenergi (MWh)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_f1d122aa3a5394cb69f87e6e40340b7e_7">
+                <text>​2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_8">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c2536e521e4da82c65b564eec9f4d6cf_9">
+                <text>3,22</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_10">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_11">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c98917184d6e2e8317e4075660b2129d_12">
+                <text>6,44</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_13">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_14">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e0956a8686574d53f94db90b28594988_15">
+                <text>9,66</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_16">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_17">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_1ae67b26c55550eb095e9744d995e821_18">
+                <text>4,64</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_19">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_20">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_865e760103596bc7e4a215ceaefcedf6_21">
+                <text>9,27</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_22">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_23">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_0d756bb2f6803c25a1fa2b70fb6cce1f_24">
+                <text>13,91</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_25">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_26">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70ced5a2322e4f90c71b60c52c57016d_27">
+                <text>6,17</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_28">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_29">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_644aad9adc43f013c93baa90b9181e2e_30">
+                <text>12,33</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_31">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_32">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70fea537f793d6e6c0701efd98097d07_33">
+                <text>18,5</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6466cc3dd8d443.96477623/passage NEW 1.xml">
+            <label key="6466cc3dd8d443.96477623_52ffcf3b7a997ba4d064880d464838eb_1">
+                <text>Vattenkraftverk</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_55fcc26c07f341d039b6454debb9b8f1_2">
+                <text>Vattenkraftverk kan utnyttja vattenflödet i älvar för att generera el. En typ av vattenkraftverk använder turbingeneratorer som är installerade i älven.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_4f6396f814c217331aef31f8e1bc5bc4_3">
+                <text>Bilden visar turbingeneratorer på tre platser i en älv. Tabellen visar mängden elektrisk energi som produceras beroende på antalet turbiner i drift och lutningen (i grader) på varje plats.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_158c79df2e047ac1fd2f088519ce8692_4">
+                <text>Lutning (°)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_fff988f2841ab7492e4de8bedef42430_5">
+                <text>Antal turbiner</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_993a5e384ad39e94cdf91a51b0ead4d6_6">
+                <text>Producerad elenergi (MWh)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_f1d122aa3a5394cb69f87e6e40340b7e_7">
+                <text>​2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_8">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c2536e521e4da82c65b564eec9f4d6cf_9">
+                <text>3,22</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_10">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_11">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c98917184d6e2e8317e4075660b2129d_12">
+                <text>6,44</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_13">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_14">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e0956a8686574d53f94db90b28594988_15">
+                <text>9,66</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_16">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_17">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_1ae67b26c55550eb095e9744d995e821_18">
+                <text>4,64</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_19">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_20">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_865e760103596bc7e4a215ceaefcedf6_21">
+                <text>9,27</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_22">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_23">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_0d756bb2f6803c25a1fa2b70fb6cce1f_24">
+                <text>13,91</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_25">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_26">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70ced5a2322e4f90c71b60c52c57016d_27">
+                <text>6,17</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_28">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_29">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_644aad9adc43f013c93baa90b9181e2e_30">
+                <text>12,33</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_31">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_32">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70fea537f793d6e6c0701efd98097d07_33">
+                <text>18,5</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6466cc3dd8d443.96477623/passage NEW 1.xml">
+            <label key="6466cc3dd8d443.96477623_52ffcf3b7a997ba4d064880d464838eb_1">
+                <text>Vattenkraftverk</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_55fcc26c07f341d039b6454debb9b8f1_2">
+                <text>Vattenkraftverk kan utnyttja vattenflödet i älvar för att generera el. En typ av vattenkraftverk använder turbingeneratorer som är installerade i älven.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_4f6396f814c217331aef31f8e1bc5bc4_3">
+                <text>Bilden visar turbingeneratorer på tre platser i en älv. Tabellen visar mängden elektrisk energi som produceras beroende på antalet turbiner i drift och lutningen (i grader) på varje plats.</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_158c79df2e047ac1fd2f088519ce8692_4">
+                <text>Lutning (°)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_fff988f2841ab7492e4de8bedef42430_5">
+                <text>Antal turbiner</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_993a5e384ad39e94cdf91a51b0ead4d6_6">
+                <text>Producerad elenergi (MWh)</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_f1d122aa3a5394cb69f87e6e40340b7e_7">
+                <text>​2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_8">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c2536e521e4da82c65b564eec9f4d6cf_9">
+                <text>3,22</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_10">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_11">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c98917184d6e2e8317e4075660b2129d_12">
+                <text>6,44</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_13">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_14">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e0956a8686574d53f94db90b28594988_15">
+                <text>9,66</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_16">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_17">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_1ae67b26c55550eb095e9744d995e821_18">
+                <text>4,64</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_19">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_20">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_865e760103596bc7e4a215ceaefcedf6_21">
+                <text>9,27</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_e4da3b7fbbce2345d7772b0674a318d5_22">
+                <text>5 år</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_23">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_0d756bb2f6803c25a1fa2b70fb6cce1f_24">
+                <text>13,91</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_25">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c4ca4238a0b923820dcc509a6f75849b_26">
+                <text>1</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70ced5a2322e4f90c71b60c52c57016d_27">
+                <text>6,17</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_28">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_c81e728d9d4c2f636f067f89cc14862c_29">
+                <text>2</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_644aad9adc43f013c93baa90b9181e2e_30">
+                <text>12,33</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_d3d9446802a44259755d38e6d163e820_31">
+                <text>10</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_eccbc87e4b5ce2fe28308fd9f2a7baf3_32">
+                <text>3</text>
+            </label>
+            <label key="6466cc3dd8d443.96477623_70fea537f793d6e6c0701efd98097d07_33">
+                <text>18,5</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a1103f3e5a12787b88dbee3ee82bdf2">
+            <label key="i63a1103f3e5a12787b88dbee3ee82bdf2_33c5ef16a0b29b6abbbfc66cf693b213_1">
+                <text>Energi omvandlas från en form till en annan i ett vattenkraftverk. </text>
+            </label>
+            <label key="i63a1103f3e5a12787b88dbee3ee82bdf2_0f89aa3d3fc6d26a27ced090d33fb772_2">
+                <text>Vilken av dessa energiomvandlingar sker?</text>
+            </label>
+            <label key="i63a1103f3e5a12787b88dbee3ee82bdf2_A_ff0947cf1a4fd3a9357d053a61a85d6a_3">
+                <text>Rörelseenergi omvandlas till kemisk energi.</text>
+            </label>
+            <label key="i63a1103f3e5a12787b88dbee3ee82bdf2_B_4c9fbbcc0b0bce840ac0da1c9908b4da_4">
+                <text>Elektrisk energi omvandlas till rörelseenergi.</text>
+            </label>
+            <label key="i63a1103f3e5a12787b88dbee3ee82bdf2_C_ca0c13480a89839bb83de0f3a5a70a6a_5">
+                <text>Kemisk energi omvandlas till elenergi.</text>
+            </label>
+            <label key="i63a1103f3e5a12787b88dbee3ee82bdf2_D_6c7dc3a778dba805a5c3125577d2014f_6">
+                <text>Rörelseenergi omvandlas till elektrisk energi.</text>
+            </label>
+        </item>
+        <item id="i63a10fd6db2822380cb0214db38edc207">
+            <label key="i63a10fd6db2822380cb0214db38edc207_225fa6b85c3b6d45807b28c37a333d26_1">
+                <text>Vilka egenskaper hos en älv är viktiga för att turbiner ska generera el?</text>
+            </label>
+            <label key="i63a10fd6db2822380cb0214db38edc207_1c94799ec3c7c8515acb805ab282c285_2">
+                <text>Välj alla korrekta alternativ.</text>
+            </label>
+            <label key="i63a10fd6db2822380cb0214db38edc207_A_c2c497d333ec00d011b115970985ce5d_3">
+                <text>vattnets flödeshastighet</text>
+            </label>
+            <label key="i63a10fd6db2822380cb0214db38edc207_B_1881c2fc02c9e821fb2996207467e4a8_4">
+                <text>älvens lutning</text>
+            </label>
+            <label key="i63a10fd6db2822380cb0214db38edc207_C_7d0b08c6f8283523de8547d883d24737_5">
+                <text>hur branta älvens kanter är</text>
+            </label>
+            <label key="i63a10fd6db2822380cb0214db38edc207_D_cbd93957cd331b98c503fa7cb93abf23_6">
+                <text>den årliga mängden regnvatten som tillförs älven</text>
+            </label>
+            <label key="i63a10fd6db2822380cb0214db38edc207_E_2ab6cee073c5d1bc4167cdc957473bea_7">
+                <text>typen av sten på älvens botten</text>
+            </label>
+        </item>
+        <item id="i63a10fc0006a228128c6b9a4ea7c9403f">
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_d5f31e5eaa271b66ef2a318939de5eee_1">
+                <text>Vad är förhållandet mellan mängden producerad elektrisk energi och antalet turbiner i drift?</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_93b3221462f2ec84f82727954750d8bb_2">
+                <text>Välj korrekt alternativ.</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_A_461309b7ebc9b46d663a46b86260f436_3">
+                <text>Mängden elenergi ökar när antalet turbiner ökar.</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_B_ff6a94da9a27e6bd5cbca940d69d1292_4">
+                <text>Mängden elenergi minskar när antalet turbiner ökar.</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_59a4d94bc39a21092a82ac9016ee9773_5">
+                <text>Välj två rader med data i tabellen som stöder ditt svar.</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_0e62b9593b53f80bd96565a2c7b797c6_6">
+                <text>Lutning (°)</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_fff988f2841ab7492e4de8bedef42430_7">
+                <text>Antal turbiner</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_993a5e384ad39e94cdf91a51b0ead4d6_8">
+                <text>Producerad elenergi (MWh)</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_c2536e521e4da82c65b564eec9f4d6cf_9">
+                <text>3,22</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_c98917184d6e2e8317e4075660b2129d_10">
+                <text>6,44</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_e0956a8686574d53f94db90b28594988_11">
+                <text>9,66</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_1ae67b26c55550eb095e9744d995e821_12">
+                <text>4,64</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_865e760103596bc7e4a215ceaefcedf6_13">
+                <text>9,27</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_0d756bb2f6803c25a1fa2b70fb6cce1f_14">
+                <text>13,91</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_70ced5a2322e4f90c71b60c52c57016d_15">
+                <text>6,17</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_644aad9adc43f013c93baa90b9181e2e_16">
+                <text>12,33</text>
+            </label>
+            <label key="i63a10fc0006a228128c6b9a4ea7c9403f_70fea537f793d6e6c0701efd98097d07_17">
+                <text>18,5</text>
+            </label>
+        </item>
+        <item id="i63a11003be43b14322fe1897d59aa611e7">
+            <label key="i63a11003be43b14322fe1897d59aa611e7_a9f24e4ded702c1bea13755f77da4fda_1">
+                <text>Det är nödvändigt att generera mer elektricitet. För att åstadkomma det har det föreslagits att fler turbiner borde sättas på en av platserna i floden.</text>
+            </label>
+            <label key="i63a11003be43b14322fe1897d59aa611e7_18f7aa80f1634a4a73cf0c4f9903e925_2">
+                <text>Person A</text>
+            </label>
+            <label key="i63a11003be43b14322fe1897d59aa611e7_8315ff480aee6e19837566d1b5e8f872_3">
+                <text>Jag tycker att vi ska installera två turbiner till på platsen med en lutning på 2°.</text>
+            </label>
+            <label key="i63a11003be43b14322fe1897d59aa611e7_a40ee2bb4eb68dc5ac76aac857a92c24_4">
+                <text>Person B</text>
+            </label>
+            <label key="i63a11003be43b14322fe1897d59aa611e7_b5059c02611e3887f23cc0b41823b523_5">
+                <text>Jag tycker att vi ska installera en turbin till på platsen med en lutning på 5°.</text>
+            </label>
+            <label key="i63a11003be43b14322fe1897d59aa611e7_a88a3bbaf94f7edae0289d48f22e536b_6">
+                <text>Vilken persons förslag har bäst stöd av data i tabellen?</text>
+            </label>
+            <label key="i63a11003be43b14322fe1897d59aa611e7_A_18f7aa80f1634a4a73cf0c4f9903e925_7">
+                <text>Person A</text>
+            </label>
+            <label key="i63a11003be43b14322fe1897d59aa611e7_B_a40ee2bb4eb68dc5ac76aac857a92c24_8">
+                <text>Person B</text>
+            </label>
+            <label key="i63a11003be43b14322fe1897d59aa611e7_5aee686fd1579af4ffaff013da3726c4_9">
+                <text>Förklara hur data stödjer denna persons förslag.</text>
+            </label>
+        </item>
+        <item id="i64127740c50a6490029509e592a2547">
+            <label key="i64127740c50a6490029509e592a2547_b6729dfb9175b59c70e631fedb122239_1">
+                <text>Man överväger fyra nya platser för turbiner.</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_40aaeb7d75762dd58fce34153a4746a2_2">
+                <text>Lutningen (i grader) vid var och en av dessa fyra platser visas i nedanstående tabell.</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_ce5bf551379459c1c61d2a204061c455_3">
+                <text>Plats</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_7fc56270e7a70fa81a5935b72eacbe29_4">
+                <text>A</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_9d5ed678fe57bcca610140957afab571_5">
+                <text>B</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_0d61f8370cad1d412f80b84d143e1257_6">
+                <text>C</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_f623e75af30e62bbd73d6df5b50bb7b5_7">
+                <text>D</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_0e62b9593b53f80bd96565a2c7b797c6_8">
+                <text>Lutning (°)</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_4885938bbcc8f927854e4d0307d4467c_9">
+                <text>1,9</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_8f14e45fceea167a5a36dedd4bea2543_10">
+                <text>7 år</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_76da8e16b4b35b8424eb298d2b37d666_11">
+                <text>8,8</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_70efdf2ec9b086079795c442636b55fb_12">
+                <text>17</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_e901a5abb5014494b07a7858fa167088_13">
+                <text>Data från de tre befintliga platserna används för att uppskatta mängden el som skulle kunna genereras av turbinerna vid var och en av dessa fyra nya platser.</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_21f207c82591bb1a91f9e9e0c2a7110a_14">
+                <text>För vilken plats skulle uppskattningen vara <strong>minst tillförlitlig</strong>?</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_A_9202549b89ec59fac66b3d9fbd1c9101_15">
+                <text>Plats A</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_B_7de0c712abfe6ad5fe91d6895e74537f_16">
+                <text>Plats B</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_C_9b7422a87fca17fafbfdcc9889fe979a_17">
+                <text>Plats C</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_D_837cf10f9c0615bcbf3f68a960c2853e_18">
+                <text>Plats D</text>
+            </label>
+            <label key="i64127740c50a6490029509e592a2547_14a742a5c8a85e7bdbb23e8e791c910b_19">
+                <text>Förklara ditt val.</text>
+            </label>
+        </item>
+        <item id="i63a11022119c828093f7ab55dd36b826f">
+            <label key="i63a11022119c828093f7ab55dd36b826f_1413156c7d572f2ba4af60ca39cd3a90_1">
+                <text>Ange en fördel och en nackdel med att använda vattenkraftverk för att generera elektrisk energi istället för att använda fossila bränslen.</text>
+            </label>
+            <label key="i63a11022119c828093f7ab55dd36b826f_50df7ea7635c6ed8d611f3aa1d2cdbf6_2">
+                <text>
+                    <strong>‌Fördel:‌</strong>
+                </text>
+            </label>
+            <label key="i63a11022119c828093f7ab55dd36b826f_c8590bfb0aef8cd28c78574b61f02b7f_3">
+                <text>
+                    <strong>‌Nackdel:‌</strong>
+                </text>
+            </label>
+        </item>
+    </items>
+</file>

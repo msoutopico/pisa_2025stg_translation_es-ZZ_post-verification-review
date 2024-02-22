@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/65541ac61d50c4.24610149/passage NEW.xml">
+            <label key="65541ac61d50c4.24610149_fa75ffdeacc23bb4b504cc9091853355_1">
+                <text>Arganträd</text>
+            </label>
+            <label key="65541ac61d50c4.24610149_6465e2bead61b88624e253320c197cc9_2">
+                <text>Arganträd växer i de torra områdena i Marocko och Algeriet. De odlas för sin olja och är en viktig källa till föda för getter.</text>
+            </label>
+            <label key="65541ac61d50c4.24610149_4e6b749b3cff0cad199194c4dd307f8f_3">
+                <text>Rotsvamp hjälper arganträd att utveckla kraftiga rotsystem. The filaments (threadlike structures) of the fungi grow into the argan tree roots enabling better transfer of water and nutrients into the trees. Svampen får istället kolhydrater som bildats av trädet genom fotosyntes.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6554571e505487.18986477/passage NEW 1.xml">
+            <label key="6554571e505487.18986477_fa75ffdeacc23bb4b504cc9091853355_1">
+                <text>Arganträd</text>
+            </label>
+            <label key="6554571e505487.18986477_6f518b28370f7f3582205bd5fbe363e2_2">
+                <text>Forskare försöker komma på sätt att förbättra tillväxten hos arganträd vid torka.</text>
+            </label>
+            <label key="6554571e505487.18986477_aca1676157a74f96c9d0f20a7c93b760_3">
+                <text>De studerade vilka effekter två sorters rotsvamp – <em>Glomus</em> sp1 och <em>Glomus</em> sp2 – hade på tillväxten hos arganträd vid torka.</text>
+            </label>
+            <label key="6554571e505487.18986477_a4b39e2e12fe70a1d5dc8e0a7a1ecf63_4">
+                <text>Grupper av arganträd odlades i jord som innehöll antingen <em>Glomus</em> sp1 eller <em>Glomus</em> sp2.</text>
+            </label>
+            <label key="6554571e505487.18986477_c73a5974fa52a6a3b1ede6d93ce8671d_5">
+                <text>En kontrollgrupp odlades i jord som inte innehöll rotsvamp.</text>
+            </label>
+            <label key="6554571e505487.18986477_a8898dd42d93d3f3f0be9a671cd078bc_6">
+                <text>Längden på huvudstammarna mättes och ett genomsnitt beräknades för varje grupp arganträd. </text>
+            </label>
+            <label key="6554571e505487.18986477_1df79d5f3e1863dfbe35f388ccf13889_7">
+                <text>Data om stamlängd visas i diagrammet nedan.</text>
+            </label>
+            <label key="6554571e505487.18986477_41b52a4ec00eb6f6d70662274c98a498_8">
+                <text>
+                    <strong>‌Genomsnittlig längd på arganträdens huvudstammar (cm)‌</strong>
+                </text>
+            </label>
+            <label key="6554571e505487.18986477_0d48669c808308072b53083388315be9_9">
+                <text>
+                    <strong>‌Tid (dagar)‌</strong>
+                </text>
+            </label>
+            <label key="6554571e505487.18986477_388d5c23eb6b8071c1cfd9646c4c2f80_10">
+                <text>kontrollgrupp</text>
+            </label>
+            <label key="6554571e505487.18986477_3cd097ffe6816c0e6c09412adcc51f87_11">
+                <text>plantor med <em>Glomus</em> sp 1</text>
+            </label>
+            <label key="6554571e505487.18986477_0ac96cb1297fb78193f0e203d6c63a00_12">
+                <text>plantor med <em>Glomus</em> sp 2</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6554571e505487.18986477/passage NEW 1.xml">
+            <label key="6554571e505487.18986477_fa75ffdeacc23bb4b504cc9091853355_1">
+                <text>Arganträd</text>
+            </label>
+            <label key="6554571e505487.18986477_6f518b28370f7f3582205bd5fbe363e2_2">
+                <text>Forskare försöker komma på sätt att förbättra tillväxten hos arganträd vid torka.</text>
+            </label>
+            <label key="6554571e505487.18986477_aca1676157a74f96c9d0f20a7c93b760_3">
+                <text>De studerade vilka effekter två sorters rotsvamp – <em>Glomus</em> sp1 och <em>Glomus</em> sp2 – hade på tillväxten hos arganträd vid torka.</text>
+            </label>
+            <label key="6554571e505487.18986477_a4b39e2e12fe70a1d5dc8e0a7a1ecf63_4">
+                <text>Grupper av arganträd odlades i jord som innehöll antingen <em>Glomus</em> sp1 eller <em>Glomus</em> sp2.</text>
+            </label>
+            <label key="6554571e505487.18986477_c73a5974fa52a6a3b1ede6d93ce8671d_5">
+                <text>En kontrollgrupp odlades i jord som inte innehöll rotsvamp.</text>
+            </label>
+            <label key="6554571e505487.18986477_a8898dd42d93d3f3f0be9a671cd078bc_6">
+                <text>Längden på huvudstammarna mättes och ett genomsnitt beräknades för varje grupp arganträd. </text>
+            </label>
+            <label key="6554571e505487.18986477_1df79d5f3e1863dfbe35f388ccf13889_7">
+                <text>Data om stamlängd visas i diagrammet nedan.</text>
+            </label>
+            <label key="6554571e505487.18986477_41b52a4ec00eb6f6d70662274c98a498_8">
+                <text>
+                    <strong>‌Genomsnittlig längd på arganträdens huvudstammar (cm)‌</strong>
+                </text>
+            </label>
+            <label key="6554571e505487.18986477_0d48669c808308072b53083388315be9_9">
+                <text>
+                    <strong>‌Tid (dagar)‌</strong>
+                </text>
+            </label>
+            <label key="6554571e505487.18986477_388d5c23eb6b8071c1cfd9646c4c2f80_10">
+                <text>kontrollgrupp</text>
+            </label>
+            <label key="6554571e505487.18986477_3cd097ffe6816c0e6c09412adcc51f87_11">
+                <text>plantor med <em>Glomus</em> sp 1</text>
+            </label>
+            <label key="6554571e505487.18986477_0ac96cb1297fb78193f0e203d6c63a00_12">
+                <text>plantor med <em>Glomus</em> sp 2</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6359fc158346022938a40d04c4c0f5748">
+            <label key="i6359fc158346022938a40d04c4c0f5748_7f2c4a9bf9de85f7bb2f94a7c78e8bbf_1">
+                <text>Vilket ord beskriver förhållandet mellan svamparna och arganträden?</text>
+            </label>
+            <label key="i6359fc158346022938a40d04c4c0f5748_A_1b75bb583ebea526ccc2a3babab58cc6_2">
+                <text>predation</text>
+            </label>
+            <label key="i6359fc158346022938a40d04c4c0f5748_B_5a8309dedb810d2322b6024d536832ba_3">
+                <text>symbios</text>
+            </label>
+            <label key="i6359fc158346022938a40d04c4c0f5748_C_409d2542644cb5b9dcf02dc5e35ec7c8_4">
+                <text>parasitism</text>
+            </label>
+            <label key="i6359fc158346022938a40d04c4c0f5748_D_14f4aeb5bebf370f95ab882c829a5a86_5">
+                <text>konkurrens</text>
+            </label>
+        </item>
+        <item id="i6359fc375c37322925cd067292088966c">
+            <label key="i6359fc375c37322925cd067292088966c_f4f91846b254d5bbe1d5b5d36f89c199_1">
+                <text>Stöds påståendena i tabellen av informationen i diagrammet?</text>
+            </label>
+            <label key="i6359fc375c37322925cd067292088966c_a8c38cd5723dd799a00d4ac84d71561e_2">
+                <text>Välj 'Ja' eller 'Nej' för varje påstående.</text>
+            </label>
+            <label key="i6359fc375c37322925cd067292088966c_Y_fdc1563a8afc5411a7aba3beeb918bd4_3">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i6359fc375c37322925cd067292088966c_N_758eaa648d8250f58a4ec4251f2ea215_4">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i6359fc375c37322925cd067292088966c_Row1_246a714efefd062e83f2ba5ba541bf73_5">
+                <text>Efter 90 dagar är den genomsnittliga längden på arganträdets huvudstammar som odlats med <em>Glomus</em> sp 1 längre än kontrollgruppens.</text>
+            </label>
+            <label key="i6359fc375c37322925cd067292088966c_Row2_823f139b4c131160e18328c2a2a8954b_6">
+                <text>Efter 30 dagar är den genomsnittliga längden på arganträdets huvudstammar som odlats med <em>Glomus</em> sp 2 längre än kontrollgruppens.</text>
+            </label>
+            <label key="i6359fc375c37322925cd067292088966c_Row3_45e6d772bdb299b3de1a0a185d4cc23e_7">
+                <text>Arganträd som odlats med <em>Glomus</em> sp1 eller <em>Glomus</em> sp2 kommer att växa bättre i torra förhållanden än arganträd som odlats utan svampar.</text>
+            </label>
+            <label key="i6359fc375c37322925cd067292088966c_Row4_5c9ba91b71553d23da1a5001bb764105_8">
+                <text>För att förbättra tillväxten hos arganträd är det bättre att odla plantor med svampen <em>Glomus</em> sp2 än med svampen <em>Glomus</em> sp1.</text>
+            </label>
+        </item>
+        <item id="i6359fc4c0e4d82288d25c90dc267a39f6">
+            <label key="i6359fc4c0e4d82288d25c90dc267a39f6_bca6a21d6fdc59803c83bf6be73b13e9_1">
+                <text>Forskarna samlade in data om biomassan som bildats av arganträden i studien.  Biomassan är det levande trädets massa förutom vatteninnehållet. </text>
+            </label>
+            <label key="i6359fc4c0e4d82288d25c90dc267a39f6_1c4b2576ff4890be7ba0526922e39289_2">
+                <text>
+                    <strong>‌Biomassa (g)‌</strong>
+                </text>
+            </label>
+            <label key="i6359fc4c0e4d82288d25c90dc267a39f6_388d5c23eb6b8071c1cfd9646c4c2f80_3">
+                <text>kontrollgrupp</text>
+            </label>
+            <label key="i6359fc4c0e4d82288d25c90dc267a39f6_3dbdced26b44d2f4559e44c1924959b1_4">
+                <text>planta med <em>Glomus</em> sp1</text>
+            </label>
+            <label key="i6359fc4c0e4d82288d25c90dc267a39f6_cc15e67eb521f3228393aae86f2d2669_5">
+                <text>planta med <em>Glomus</em> sp2</text>
+            </label>
+            <label key="i6359fc4c0e4d82288d25c90dc267a39f6_e730db5c29b7ba34f4d465b01bd33c5e_6">
+                <text>stam</text>
+            </label>
+            <label key="i6359fc4c0e4d82288d25c90dc267a39f6_c5f6f584b79463f58c223f18fef206ef_7">
+                <text>rötter</text>
+            </label>
+            <label key="i6359fc4c0e4d82288d25c90dc267a39f6_68e1a4f2531b0c8ba0a302969aea2be4_8">
+                <text>Om träden har otillräcklig tillgång till näringsämnen kommer de att bilda minskad mängd biomassa.</text>
+            </label>
+            <label key="i6359fc4c0e4d82288d25c90dc267a39f6_f08d493473d800bf0707ea06a9e57ce6_9">
+                <text>På vilket sätt är rotsvampen troligen till nytta för arganträden baserat på data i diagrammet ovan?</text>
+            </label>
+        </item>
+    </items>
+</file>

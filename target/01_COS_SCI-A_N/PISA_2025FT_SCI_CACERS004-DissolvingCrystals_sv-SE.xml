@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64659acc597381.46994188/passage NEW 12.xml">
+            <label key="64659acc597381.46994188_178babe528b8ed5a9b363099472857ed_1">
+                <text>Lösa upp kristaller</text>
+            </label>
+            <label key="64659acc597381.46994188_8cc0bf3bc2b33f593e65594cd010844b_2">
+                <text>Marion odlar kristaller hemma som hobby.</text>
+            </label>
+            <label key="64659acc597381.46994188_d6c6fc91e12c16121cbf938e3c5c6427_3">
+                <text>Marion lät ett glas med havsvatten stå på en hylla i en månad.</text>
+            </label>
+            <label key="64659acc597381.46994188_bc3b38301810dfdd10f3a7b2cece65fc_4">
+                <text>Nu är glaset tomt förutom några vita kristaller, så som visas nedan.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64659c62237ab8.04545095/passage NEW 13.xml">
+            <label key="64659c62237ab8.04545095_5f1f608ab902addf0553eecff014df7e_1">
+                <text>Lösa upp kristaller </text>
+            </label>
+            <label key="64659c62237ab8.04545095_bba69a3cdbcfb80850ebb6f01dd88723_2">
+                <text>Marion häller sockerkristaller i ett glas med vanligt vatten.</text>
+            </label>
+            <label key="64659c62237ab8.04545095_651b5d97e0902032d15059a1b3a6b75e_3">
+                <text>Hon rör om innehållet i glaset i fem minuter, men en del av sockret löser inte upp sig.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6cb617b263bb8f0922cc9/passage NEW 14.xml">
+            <label key="6cb617b263bb8f0922cc9_178babe528b8ed5a9b363099472857ed_1">
+                <text>Lösa upp kristaller</text>
+            </label>
+            <label key="6cb617b263bb8f0922cc9_de8e5fe05706cffd9d29890549465f09_2">
+                <text>Marion tänker jämföra hur kristaller växer på tre olika platser i hennes hus.</text>
+            </label>
+            <label key="6cb617b263bb8f0922cc9_b83b8de60225be0459b98079a72babe7_3">
+                <text>Hon har förberett en lösning genom att lösa upp lite kopparsulfat i en flaska. Hon rörde om i lösningen ordentligt för att lösa upp kopparsulfatet helt.</text>
+            </label>
+            <label key="6cb617b263bb8f0922cc9_573726c88ed11164a6f5493b6038df12_4">
+                <text><br/>Sedan hällde Marion lösningen i tre identiskt lika glas. </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6336581e9b89919467e31f40b90f02f628">
+            <label key="i6336581e9b89919467e31f40b90f02f628_cd1261501a25a30b9e60b5678d67ed27_1">
+                <text>Vad består de vita kristallerna av?</text>
+            </label>
+            <label key="i6336581e9b89919467e31f40b90f02f628_2570c919f5ef1d7091f0f66d54dac974_2">
+                <text>glas</text>
+            </label>
+            <label key="i6336581e9b89919467e31f40b90f02f628_ceb20772e0c9d240c75eb26b0e37abee_3">
+                <text>salt</text>
+            </label>
+            <label key="i6336581e9b89919467e31f40b90f02f628_3f01a108d7ed607934a2aced227f1c77_4">
+                <text>plast</text>
+            </label>
+            <label key="i6336581e9b89919467e31f40b90f02f628_88336b5bb2a1cc21bac7cf33fd451270_5">
+                <text>sand</text>
+            </label>
+        </item>
+        <item id="i63365981a0d294210094626a87fa6fdd6">
+            <label key="i63365981a0d294210094626a87fa6fdd6_498e4823ea2575c3a27d3a926e302f50_1">
+                <text>Det finns inte längre något vatten i Marions glas.</text>
+            </label>
+            <label key="i63365981a0d294210094626a87fa6fdd6_a71b658f2b19cfa6859237d742041560_2">
+                <text>Vilken process liknar mest sättet som vattnet försvann på?</text>
+            </label>
+            <label key="i63365981a0d294210094626a87fa6fdd6_818b923fe0bcb073743a8f8542b09572_3">
+                <text>att koka vatten i en gryta på en spis </text>
+            </label>
+            <label key="i63365981a0d294210094626a87fa6fdd6_95e3d83e016ed8fa17548881c253ad9d_4">
+                <text>att använda ett såll för att skilja fast föda från flytande föda</text>
+            </label>
+            <label key="i63365981a0d294210094626a87fa6fdd6_bf91d30ffaadcf9bfa7eb5865deeb24b_5">
+                <text>att odla kristaller i en lösning</text>
+            </label>
+            <label key="i63365981a0d294210094626a87fa6fdd6_c6a5e5713138cab7731543d927bd438b_6">
+                <text>att blanda två lösningar som reagerar med varandra för att bilda ett fast ämne</text>
+            </label>
+        </item>
+        <item id="i63365a33712081937f8e69eab564de6a5">
+            <label key="i63365a33712081937f8e69eab564de6a5_98ce1e47cd860a9131192b9ed7b3da96_1">
+                <text>Vad ska Marion göra för att få alla sockerkristaller att lösas upp?</text>
+            </label>
+            <label key="i63365a33712081937f8e69eab564de6a5_a558da4d3c7abc5510d8123b4fe80863_2">
+                <text>tillsätta mer socker</text>
+            </label>
+            <label key="i63365a33712081937f8e69eab564de6a5_9491f9d8f3b2fa2d90ec94e9baf30bd6_3">
+                <text>värma upp vattnet</text>
+            </label>
+            <label key="i63365a33712081937f8e69eab564de6a5_d9b37d363214ce84a00a4b5360b70717_4">
+                <text>röra om vattnet längre</text>
+            </label>
+            <label key="i63365a33712081937f8e69eab564de6a5_a779c111553be30606c2790a28a47cb2_5">
+                <text>filtrera lösningen</text>
+            </label>
+        </item>
+        <item id="i63365b163a5cf1947722a93d997a3cdf24">
+            <label key="i63365b163a5cf1947722a93d997a3cdf24_5860116b166302c8185a8c8829c00133_1">
+                <text>Vilken faktor är oförändrad efter att ha gjort lösningen på detta sätt?</text>
+            </label>
+            <label key="i63365b163a5cf1947722a93d997a3cdf24_1f320f5f209a12a737f9fb0e61308dea_2">
+                <text>koncentrationen av lösningen i varje glas</text>
+            </label>
+            <label key="i63365b163a5cf1947722a93d997a3cdf24_7784e062ea84e2678c611c81c9b4aa1d_3">
+                <text>volymen av lösningen i varje glas</text>
+            </label>
+            <label key="i63365b163a5cf1947722a93d997a3cdf24_63dee3e647c819b58f57f487ef0319ba_4">
+                <text>storleken på varje glas</text>
+            </label>
+            <label key="i63365b163a5cf1947722a93d997a3cdf24_15b08f422d0422570fbb2bbf9c45370b_5">
+                <text>massan av upplöst kopparsulfat i varje glas</text>
+            </label>
+        </item>
+        <item id="i63365e579b5a9194803f75a53d18a4d20a">
+            <label key="i63365e579b5a9194803f75a53d18a4d20a_efc8f8ba216ba5e958ddcdd5d0eec692_1">
+                <text>Vad är sant om jonsammansättningen hos magnesiumklorid?</text>
+            </label>
+            <label key="i63365e579b5a9194803f75a53d18a4d20a_879c0acb7bdfbe4b4f2c6fecefecb155_2">
+                <text>det går en Mg⁺-jon på två Cl⁻-joner</text>
+            </label>
+            <label key="i63365e579b5a9194803f75a53d18a4d20a_dec7833ea914d54cc57a497eb6af8405_3">
+                <text>det går en Mg²⁺-jon på två Cl⁻-joner</text>
+            </label>
+            <label key="i63365e579b5a9194803f75a53d18a4d20a_e80319c251f699bd8eae8775da0f052f_4">
+                <text>det går två Mg⁺-joner på en Cl²⁻-jon</text>
+            </label>
+            <label key="i63365e579b5a9194803f75a53d18a4d20a_f6d1714189b0a5a70c9892386ca25e6d_5">
+                <text>det går två Mg²⁺-joner på en Cl²⁻-jon</text>
+            </label>
+            <label key="i63365e579b5a9194803f75a53d18a4d20a_178babe528b8ed5a9b363099472857ed_6">
+                <text>Lösa upp kristaller</text>
+            </label>
+            <label key="i63365e579b5a9194803f75a53d18a4d20a_100dc492669e1417338d136c167acb3e_7">
+                <text>Marion har löst upp lite kristaller av magnesiumklorid (MgCl₂) i vatten.</text>
+            </label>
+            <label key="i63365e579b5a9194803f75a53d18a4d20a_51ab3e9d91f4f73d1791a57304ac324d_8">
+                <text>MgCl₂ består av magnesiumjoner och kloridjoner.</text>
+            </label>
+        </item>
+        <item id="i6336610c6281c194902c745810f8ee5">
+            <label key="i6336610c6281c194902c745810f8ee5_113536ed39805e6183fd419435a9cfdc_1">
+                <text>Vilken av bilderna är den bästa illustrationen av partiklarna som saltet består av efter att det har lösts upp i vatten?</text>
+            </label>
+            <label key="i6336610c6281c194902c745810f8ee5_178babe528b8ed5a9b363099472857ed_2">
+                <text>Lösa upp kristaller</text>
+            </label>
+            <label key="i6336610c6281c194902c745810f8ee5_6865e46da09fa78c24d47607b40c0195_3">
+                <text>Bilderna nedan illustrerar kristaller av natriumklorid (NaCl) och vatten (H₂O) i flytande form.</text>
+            </label>
+        </item>
+    </items>
+</file>

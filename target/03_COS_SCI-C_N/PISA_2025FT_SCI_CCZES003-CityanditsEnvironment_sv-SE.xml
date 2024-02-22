@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64705c737a55e5.41230531/passage NEW.xml">
+            <label key="64705c737a55e5.41230531_6b637d395416bbd36edfed7e10c55675_1">
+                <text>Staden och dess miljö</text>
+            </label>
+            <label key="64705c737a55e5.41230531_632816b2800cc27e55ed06e0ea50620a_2">
+                <text>En stig med kort gräs har klippts på denna äng. Jorden under gräset är svalare på de ställen där gräset är högt, och varmare på de ställen där gräset har klippts kort.  </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64705c737a55e5.41230531/passage NEW.xml">
+            <label key="64705c737a55e5.41230531_6b637d395416bbd36edfed7e10c55675_1">
+                <text>Staden och dess miljö</text>
+            </label>
+            <label key="64705c737a55e5.41230531_632816b2800cc27e55ed06e0ea50620a_2">
+                <text>En stig med kort gräs har klippts på denna äng. Jorden under gräset är svalare på de ställen där gräset är högt, och varmare på de ställen där gräset har klippts kort.  </text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64705c737a55e5.41230531/passage NEW.xml">
+            <label key="64705c737a55e5.41230531_6b637d395416bbd36edfed7e10c55675_1">
+                <text>Staden och dess miljö</text>
+            </label>
+            <label key="64705c737a55e5.41230531_632816b2800cc27e55ed06e0ea50620a_2">
+                <text>En stig med kort gräs har klippts på denna äng. Jorden under gräset är svalare på de ställen där gräset är högt, och varmare på de ställen där gräset har klippts kort.  </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6385931cc51e32208c67aed9a30746ffa">
+            <label key="i6385931cc51e32208c67aed9a30746ffa_c869d162ffae519ba8a7afefb660e6eb_1">
+                <text>Förutom det höga gräset, vilken annan egenskap hos det här landskapet håller jorden svalare än i fullt solsken?</text>
+            </label>
+        </item>
+        <item id="i6385933f947d7241688450ff7216ac2265">
+            <label key="i6385933f947d7241688450ff7216ac2265_469ec2433e2c5b2c14237c136e613e69_1">
+                <text>Förklara hur det högre gräset håller temperaturen i jorden under gräset svalare än där gräset är kort.</text>
+            </label>
+        </item>
+        <item id="i6385937436a37251031babca0f81ac02d">
+            <label key="i6385937436a37251031babca0f81ac02d_481ae64ae3a736589c39084904950ee5_1">
+                <text>Forskare vill ta reda på om det blir en större mångfald av pollinerande insekter om man klipper områden av gräsmattor i en viss stad. </text>
+            </label>
+            <label key="i6385937436a37251031babca0f81ac02d_e93f55445b8d0bf9cfd49aa9d3e8c4bc_2">
+                <text>De tar med två områden i studien.</text>
+            </label>
+            <label key="i6385937436a37251031babca0f81ac02d_5267d4b17a4d9b47b86538993c74808d_3">
+                <text>Yta 1 har bara högt gräs.</text>
+            </label>
+            <label key="i6385937436a37251031babca0f81ac02d_59a502a2d664c919eb66060e540ec8c3_4">
+                <text>Yta 2 har ett mönster av högt gräs och gräs som regelbundet klipps kort, så som visas här nedan.</text>
+            </label>
+            <label key="i6385937436a37251031babca0f81ac02d_9d6b4067974e7cc0aa11a8a0cd1ef0e5_5">
+                <text>kortklippt gräs</text>
+            </label>
+            <label key="i6385937436a37251031babca0f81ac02d_2f35b1a40ff549a415a861ec4cd75664_6">
+                <text>högt gräs</text>
+            </label>
+            <label key="i6385937436a37251031babca0f81ac02d_6859b2044b4d16705963ff4671b624a0_7">
+                <text>Vilken av dessa metoder är <strong>mest</strong> lämplig för forskarna att använda för studien?</text>
+            </label>
+            <label key="i6385937436a37251031babca0f81ac02d_A_540afdf8a6a8460e77b8eada06befad8_8">
+                <text>Count the insect types present only in Area 2 for two years to give the insects time to pollinate the flowers in the grass.</text>
+            </label>
+            <label key="i6385937436a37251031babca0f81ac02d_B_19461ac14aeb748419d3e9df6c05d4c6_9">
+                <text>Räkna insektsarterna som finns i fyra år i Yta 1 och Yta 2 innan områden av gräset i Yta 2 klipps.</text>
+            </label>
+            <label key="i6385937436a37251031babca0f81ac02d_C_c4ddc0cbf027c97f3124b3a446763660_10">
+                <text>Räkna insektsarterna som finns i Yta 1 och Yta 2 i två år innan områden av gräset i Yta 2 klipps, och i två år efter att områden av gräset i Yta 2 klipps.</text>
+            </label>
+            <label key="i6385937436a37251031babca0f81ac02d_D_adeb55d8eea6eecbd86c1e5d8d86e0e8_11">
+                <text>Endast räkna de insektsarter som finns i Yta 1 för att avgöra hur många olika pollinerande insekter som lever i det höga gräset.</text>
+            </label>
+        </item>
+    </items>
+</file>

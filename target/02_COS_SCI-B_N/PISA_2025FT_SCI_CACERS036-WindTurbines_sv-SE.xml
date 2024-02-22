@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/d67a0fbc636c7e4ecdc0b/passage NEW.xml">
+            <label key="d67a0fbc636c7e4ecdc0b_f40bf133d091f5f2dbaea7e6841c3abc_1">
+                <text>Vindkraftverk</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_5bbf570c00c0ac0d2052eb2563956ca5_2">
+                <text>Tre strategier som kan användas för att minska resursanvändningens negativa effekter på miljön beskriv i nedanstående tabell. </text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_83de191c12c3c109006c4593128d8bb6_3">
+                <text>Strategi</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_b5a7adde1af5c87d7fd797b6245c2a39_4">
+                <text>Beskrivning</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_e24a8b7347572bc8bae54d95deed7554_5">
+                <text>Cirkulär ekonomi</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_2822202fb9d944d586acac7aa9c7c115_6">
+                <text>Existerande produkter återanvänds, återvinns eller används på nya sätt.</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_9be0c591ae8522ce0eeccbbecc53db79_7">
+                <text>Förnybar energi</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_0e7fa0c000e4e946104d48ca9151617a_8">
+                <text>Energi kommer från källor som inte kan förbrukas.</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_bbe407d0334cd7b768980cd6a709ac9d_9">
+                <text>Koldioxidneutral energikälla</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_55ba224e05ac5daeeb8a5d90ee30820e_10">
+                <text>De energikällor som används ökar inte den totala mängden koldioxid i atmosfären.</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_35cb965000b41c3e7dbbfb2b83a78d2b_11">
+                <text>Att generera el från vindkraftverk har mindre negativ effekt på miljön än att generera el från fossila bränslen. </text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_6b8f5a740a1fefa58adce4a38b38ee38_12">
+                <text>Elektricitet genereras av att vinden pressar på vindkraftverkets blad och får dem att snurra.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/d67a0fbc636c7e4ecdc0b/passage NEW.xml">
+            <label key="d67a0fbc636c7e4ecdc0b_f40bf133d091f5f2dbaea7e6841c3abc_1">
+                <text>Vindkraftverk</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_5bbf570c00c0ac0d2052eb2563956ca5_2">
+                <text>Tre strategier som kan användas för att minska resursanvändningens negativa effekter på miljön beskriv i nedanstående tabell. </text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_83de191c12c3c109006c4593128d8bb6_3">
+                <text>Strategi</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_b5a7adde1af5c87d7fd797b6245c2a39_4">
+                <text>Beskrivning</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_e24a8b7347572bc8bae54d95deed7554_5">
+                <text>Cirkulär ekonomi</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_2822202fb9d944d586acac7aa9c7c115_6">
+                <text>Existerande produkter återanvänds, återvinns eller används på nya sätt.</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_9be0c591ae8522ce0eeccbbecc53db79_7">
+                <text>Förnybar energi</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_0e7fa0c000e4e946104d48ca9151617a_8">
+                <text>Energi kommer från källor som inte kan förbrukas.</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_bbe407d0334cd7b768980cd6a709ac9d_9">
+                <text>Koldioxidneutral energikälla</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_55ba224e05ac5daeeb8a5d90ee30820e_10">
+                <text>De energikällor som används ökar inte den totala mängden koldioxid i atmosfären.</text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_35cb965000b41c3e7dbbfb2b83a78d2b_11">
+                <text>Att generera el från vindkraftverk har mindre negativ effekt på miljön än att generera el från fossila bränslen. </text>
+            </label>
+            <label key="d67a0fbc636c7e4ecdc0b_6b8f5a740a1fefa58adce4a38b38ee38_12">
+                <text>Elektricitet genereras av att vinden pressar på vindkraftverkets blad och får dem att snurra.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65542abd78bd13.85518859/passage NEW 1.xml">
+            <label key="65542abd78bd13.85518859_f40bf133d091f5f2dbaea7e6841c3abc_1">
+                <text>Vindkraftverk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_f8d64051c0eacc9aa976bef058b72467_2">
+                <text>En rad vindkraftverk byggdes under vissa kungsörnars årliga migrationsväg. Vindkraftverken var 150 m höga.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_039a16f6daab2633f51a253ca0f282e9_3">
+                <text>En grupp forskare genomförde en fältstudie för att kartlägga flygvägarna som kungsörnar på platsen använde före och efter att kraftverken uppförts.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_6f9d184a634af213f0db811c0603bfea_4">
+                <text>Kungsörnarna övervakades inom ett 2 km stort område omkring vindkraftverken.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_5244288fdb4e0fe5ebd0a5450be8c623_5">
+                <text>Tabellen nedan listar riskzonerna som fastställts av forskarna mellan och över turbinerna.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_1d6f2e4482fab3e570878935728015fd_6">
+                <text>
+                    <strong>‌Ingen risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_344901b9d50b6e5833831e1987fd9704_7">
+                <text>mellan 100 m och 2 km horisontellt avstånd från vindkraftverken</text>
+            </label>
+            <label key="65542abd78bd13.85518859_2383476411d28fc7912ac33b5ff8f62e_8">
+                <text>
+                    <strong>‌Låg risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_24f5cb7510b25f3d0b28c136a678cc44_9">
+                <text>inom ett horisontellt avstånd på 100 m från kraftverken på en höjd över 150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_cebb1ec468e196842711c8419dc3eefa_10">
+                <text>
+                    <strong>‌Måttlig risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_a21ade126a0b4d363a9a6340ae565b71_11">
+                <text>inom ett horisontellt avstånd på 100 m från stillastående kraftverk på en höjd lägre än 150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_649cc83750d5cf31ca2944779d8b2435_12">
+                <text>
+                    <strong>‌Hög risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_805f326d91e30dda193d189576dcaf25_13">
+                <text>inom ett horisontellt avstånd på 100 m från roterande kraftverk på en höjd lägre än 150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_1aae39aca1de98a272d3d7faa1229f60_14">
+                <text>Diagrammen nedan visar riskzonerna runt kraftverken sett ovanifrån (vänster) och från sidan på marknivå (höger).</text>
+            </label>
+            <label key="65542abd78bd13.85518859_f151ff6327d7ade8cffb0e81b8b81b36_15">
+                <text>Vy av platsen ovanifrån</text>
+            </label>
+            <label key="65542abd78bd13.85518859_5b8a218b70860ea0a17687b6bf6514ae_16">
+                <text>Sidovy av vindkraftverk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_589e3ef10f11029faacf19edfa75450e_17">
+                <text>2 km</text>
+            </label>
+            <label key="65542abd78bd13.85518859_8d9ab096e96039cdbc98f547f9677632_18">
+                <text>100 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_8d9ab096e96039cdbc98f547f9677632_19">
+                <text>100 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_e5e8c28e36c1edd6201c2e733b93ee45_20">
+                <text>150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_452a11d9983c384b93af775e983fe89f_21">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend1.svg" src="9b4446d932298b2d8456087f945ef0a144dd49a0f80a1fa6451c83f4eec2f7ce" width="5%"/>‌ ingen risk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_b6f340e0bbcd2ce8cd36651d9c4f6868_22">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend2.svg" src="e8985e019c22b9ca50d7fe4c6b88bdd1ac65ed84021b6f621e841042d9960b81" width="5%"/>‌ inom 100 m från kraftverken</text>
+            </label>
+            <label key="65542abd78bd13.85518859_2b0da4cd4db0c185700ff3498b46e709_23">
+                <text>
+                     turbine location
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_5b755e94736082bc07416acdb6fcf149_24">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend4.svg" src="166a012a277f23956b2c11caf813adac5995d418f870b67f3ed230d8db88bd2b" width="5%"/>‌ låg risk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_b07fa7d8f40b36fd72c4b5317a76d26a_25">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend5.svg" src="1b316ef233e35391578a2f7081c1912bef54259f56b7ee3098cbdd064f3ef094" width="5%"/>‌ zon med medelhög risk om kraftverket står stilla, hög risk om kraftverket roterar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65542abd78bd13.85518859/passage NEW 1.xml">
+            <label key="65542abd78bd13.85518859_f40bf133d091f5f2dbaea7e6841c3abc_1">
+                <text>Vindkraftverk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_f8d64051c0eacc9aa976bef058b72467_2">
+                <text>En rad vindkraftverk byggdes under vissa kungsörnars årliga migrationsväg. Vindkraftverken var 150 m höga.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_039a16f6daab2633f51a253ca0f282e9_3">
+                <text>En grupp forskare genomförde en fältstudie för att kartlägga flygvägarna som kungsörnar på platsen använde före och efter att kraftverken uppförts.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_6f9d184a634af213f0db811c0603bfea_4">
+                <text>Kungsörnarna övervakades inom ett 2 km stort område omkring vindkraftverken.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_5244288fdb4e0fe5ebd0a5450be8c623_5">
+                <text>Tabellen nedan listar riskzonerna som fastställts av forskarna mellan och över turbinerna.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_1d6f2e4482fab3e570878935728015fd_6">
+                <text>
+                    <strong>‌Ingen risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_344901b9d50b6e5833831e1987fd9704_7">
+                <text>mellan 100 m och 2 km horisontellt avstånd från vindkraftverken</text>
+            </label>
+            <label key="65542abd78bd13.85518859_2383476411d28fc7912ac33b5ff8f62e_8">
+                <text>
+                    <strong>‌Låg risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_24f5cb7510b25f3d0b28c136a678cc44_9">
+                <text>inom ett horisontellt avstånd på 100 m från kraftverken på en höjd över 150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_cebb1ec468e196842711c8419dc3eefa_10">
+                <text>
+                    <strong>‌Måttlig risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_a21ade126a0b4d363a9a6340ae565b71_11">
+                <text>inom ett horisontellt avstånd på 100 m från stillastående kraftverk på en höjd lägre än 150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_649cc83750d5cf31ca2944779d8b2435_12">
+                <text>
+                    <strong>‌Hög risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_805f326d91e30dda193d189576dcaf25_13">
+                <text>inom ett horisontellt avstånd på 100 m från roterande kraftverk på en höjd lägre än 150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_1aae39aca1de98a272d3d7faa1229f60_14">
+                <text>Diagrammen nedan visar riskzonerna runt kraftverken sett ovanifrån (vänster) och från sidan på marknivå (höger).</text>
+            </label>
+            <label key="65542abd78bd13.85518859_f151ff6327d7ade8cffb0e81b8b81b36_15">
+                <text>Vy av platsen ovanifrån</text>
+            </label>
+            <label key="65542abd78bd13.85518859_5b8a218b70860ea0a17687b6bf6514ae_16">
+                <text>Sidovy av vindkraftverk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_589e3ef10f11029faacf19edfa75450e_17">
+                <text>2 km</text>
+            </label>
+            <label key="65542abd78bd13.85518859_8d9ab096e96039cdbc98f547f9677632_18">
+                <text>100 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_8d9ab096e96039cdbc98f547f9677632_19">
+                <text>100 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_e5e8c28e36c1edd6201c2e733b93ee45_20">
+                <text>150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_452a11d9983c384b93af775e983fe89f_21">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend1.svg" src="9b4446d932298b2d8456087f945ef0a144dd49a0f80a1fa6451c83f4eec2f7ce" width="5%"/>‌ ingen risk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_b6f340e0bbcd2ce8cd36651d9c4f6868_22">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend2.svg" src="e8985e019c22b9ca50d7fe4c6b88bdd1ac65ed84021b6f621e841042d9960b81" width="5%"/>‌ inom 100 m från kraftverken</text>
+            </label>
+            <label key="65542abd78bd13.85518859_2b0da4cd4db0c185700ff3498b46e709_23">
+                <text>
+                     turbine location
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_5b755e94736082bc07416acdb6fcf149_24">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend4.svg" src="166a012a277f23956b2c11caf813adac5995d418f870b67f3ed230d8db88bd2b" width="5%"/>‌ låg risk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_b07fa7d8f40b36fd72c4b5317a76d26a_25">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend5.svg" src="1b316ef233e35391578a2f7081c1912bef54259f56b7ee3098cbdd064f3ef094" width="5%"/>‌ zon med medelhög risk om kraftverket står stilla, hög risk om kraftverket roterar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65542abd78bd13.85518859/passage NEW 1.xml">
+            <label key="65542abd78bd13.85518859_f40bf133d091f5f2dbaea7e6841c3abc_1">
+                <text>Vindkraftverk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_f8d64051c0eacc9aa976bef058b72467_2">
+                <text>En rad vindkraftverk byggdes under vissa kungsörnars årliga migrationsväg. Vindkraftverken var 150 m höga.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_039a16f6daab2633f51a253ca0f282e9_3">
+                <text>En grupp forskare genomförde en fältstudie för att kartlägga flygvägarna som kungsörnar på platsen använde före och efter att kraftverken uppförts.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_6f9d184a634af213f0db811c0603bfea_4">
+                <text>Kungsörnarna övervakades inom ett 2 km stort område omkring vindkraftverken.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_5244288fdb4e0fe5ebd0a5450be8c623_5">
+                <text>Tabellen nedan listar riskzonerna som fastställts av forskarna mellan och över turbinerna.</text>
+            </label>
+            <label key="65542abd78bd13.85518859_1d6f2e4482fab3e570878935728015fd_6">
+                <text>
+                    <strong>‌Ingen risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_344901b9d50b6e5833831e1987fd9704_7">
+                <text>mellan 100 m och 2 km horisontellt avstånd från vindkraftverken</text>
+            </label>
+            <label key="65542abd78bd13.85518859_2383476411d28fc7912ac33b5ff8f62e_8">
+                <text>
+                    <strong>‌Låg risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_24f5cb7510b25f3d0b28c136a678cc44_9">
+                <text>inom ett horisontellt avstånd på 100 m från kraftverken på en höjd över 150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_cebb1ec468e196842711c8419dc3eefa_10">
+                <text>
+                    <strong>‌Måttlig risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_a21ade126a0b4d363a9a6340ae565b71_11">
+                <text>inom ett horisontellt avstånd på 100 m från stillastående kraftverk på en höjd lägre än 150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_649cc83750d5cf31ca2944779d8b2435_12">
+                <text>
+                    <strong>‌Hög risk‌</strong>
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_805f326d91e30dda193d189576dcaf25_13">
+                <text>inom ett horisontellt avstånd på 100 m från roterande kraftverk på en höjd lägre än 150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_1aae39aca1de98a272d3d7faa1229f60_14">
+                <text>Diagrammen nedan visar riskzonerna runt kraftverken sett ovanifrån (vänster) och från sidan på marknivå (höger).</text>
+            </label>
+            <label key="65542abd78bd13.85518859_f151ff6327d7ade8cffb0e81b8b81b36_15">
+                <text>Vy av platsen ovanifrån</text>
+            </label>
+            <label key="65542abd78bd13.85518859_5b8a218b70860ea0a17687b6bf6514ae_16">
+                <text>Sidovy av vindkraftverk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_589e3ef10f11029faacf19edfa75450e_17">
+                <text>2 km</text>
+            </label>
+            <label key="65542abd78bd13.85518859_8d9ab096e96039cdbc98f547f9677632_18">
+                <text>100 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_8d9ab096e96039cdbc98f547f9677632_19">
+                <text>100 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_e5e8c28e36c1edd6201c2e733b93ee45_20">
+                <text>150 m</text>
+            </label>
+            <label key="65542abd78bd13.85518859_452a11d9983c384b93af775e983fe89f_21">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend1.svg" src="9b4446d932298b2d8456087f945ef0a144dd49a0f80a1fa6451c83f4eec2f7ce" width="5%"/>‌ ingen risk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_b6f340e0bbcd2ce8cd36651d9c4f6868_22">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend2.svg" src="e8985e019c22b9ca50d7fe4c6b88bdd1ac65ed84021b6f621e841042d9960b81" width="5%"/>‌ inom 100 m från kraftverken</text>
+            </label>
+            <label key="65542abd78bd13.85518859_2b0da4cd4db0c185700ff3498b46e709_23">
+                <text>
+                     turbine location
+                </text>
+            </label>
+            <label key="65542abd78bd13.85518859_5b755e94736082bc07416acdb6fcf149_24">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend4.svg" src="166a012a277f23956b2c11caf813adac5995d418f870b67f3ed230d8db88bd2b" width="5%"/>‌ låg risk</text>
+            </label>
+            <label key="65542abd78bd13.85518859_b07fa7d8f40b36fd72c4b5317a76d26a_25">
+                <text><img alt="CACERS036S2_wind-turbines_T_legend5.svg" src="1b316ef233e35391578a2f7081c1912bef54259f56b7ee3098cbdd064f3ef094" width="5%"/>‌ zon med medelhög risk om kraftverket står stilla, hög risk om kraftverket roterar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/fe6e750d6476986b29c33/passage NEW 26.xml">
+            <label key="fe6e750d6476986b29c33_177139e8c8499a70d1f414f422f03d62_1">
+                <text>zon med låg risk</text>
+            </label>
+            <label key="fe6e750d6476986b29c33_d88c725a9543b8e7dd066bdb45872742_2">
+                <text>zon med medelhög risk</text>
+            </label>
+            <label key="fe6e750d6476986b29c33_8f88bfb0661efe1e53e2cef1b234c08d_3">
+                <text>zon med hög risk</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/730978446476a1b6be54b/passage NEW 27.xml">
+            <label key="730978446476a1b6be54b_d88c725a9543b8e7dd066bdb45872742_1">
+                <text>zon med medelhög risk</text>
+            </label>
+            <label key="730978446476a1b6be54b_8f88bfb0661efe1e53e2cef1b234c08d_2">
+                <text>zon med hög risk</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i636c7f0bd2c6512370af7228d8246d79a4">
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_dc55267682cdb96bb9298b74180de602_1">
+                <text>Flera energiomvandlingar sker när vindkraftverken genererar el.</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_e5919d3116c2dfab9dc510a5c7143d1f_2">
+                <text>För varje steg, välj från rullgardinsmenyerna rätt energiform före och efter de omvandlingar som sker vid varje steg.</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_0c014b1787a4ff510446fe9b8c226fb7_3">
+                <text>Två av valen har redan gjorts.</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_48c7c41b72e1d678923ce3571aa65b2d_4">
+                <text>Steg</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_ef4f3bfd468e4ec5bbe6ec24dfbbdac4_5">
+                <text>Energiform <strong>före</strong> omvandling</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_983fe994fdfc813eb84c9d202a364062_6">
+                <text>Energiform <strong>efter</strong> omvandling</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_0ee67671a8417b2f00bb69dacc0e6964_7">
+                <text>Vinden roterar bladen.</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS1_1_d4da063630f9147d07d27e430c0664b6_8">
+                <text>rörelseenergi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS1_2_b9fc81a93cd56ccc26e9f19ecc3d795e_9">
+                <text>mekanisk energi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS1_3_5d7ededaaf7a34050a55035e4ddc9ffe_10">
+                <text>ljusenergi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS1_4_50cabb82d4bfe6b5338377970175e3e6_11">
+                <text>potentiell energi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_0616fbe77335f9ce9120471a4e77eb61_12">
+                <text>→</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS2_1_d4da063630f9147d07d27e430c0664b6_13">
+                <text>rörelseenergi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS2_2_b9fc81a93cd56ccc26e9f19ecc3d795e_14">
+                <text>mekanisk energi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS2_3_5d7ededaaf7a34050a55035e4ddc9ffe_15">
+                <text>ljusenergi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS2_4_50cabb82d4bfe6b5338377970175e3e6_16">
+                <text>potentiell energi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_978f6b9f11200be1e13c3e29e6d93568_17">
+                <text>Bladens rörelse gör så att generatorn producerar el.</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS3_1_d4da063630f9147d07d27e430c0664b6_18">
+                <text>rörelseenergi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS3_2_b9fc81a93cd56ccc26e9f19ecc3d795e_19">
+                <text>mekanisk energi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS3_3_5d7ededaaf7a34050a55035e4ddc9ffe_20">
+                <text>ljusenergi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS3_4_50cabb82d4bfe6b5338377970175e3e6_21">
+                <text>potentiell energi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_0616fbe77335f9ce9120471a4e77eb61_22">
+                <text>→</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_f80072a3a01c93e5814af3ddca5575e5_23">
+                <text>elektrisk energi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_ddb1f47c88f4fda86148fc34850bcf01_24">
+                <text>Elektricitet tänder gatubelysning.</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_f80072a3a01c93e5814af3ddca5575e5_25">
+                <text>elektrisk energi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_0616fbe77335f9ce9120471a4e77eb61_26">
+                <text>→</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS4_1_d4da063630f9147d07d27e430c0664b6_27">
+                <text>rörelseenergi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS4_2_b9fc81a93cd56ccc26e9f19ecc3d795e_28">
+                <text>mekanisk energi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS4_3_5d7ededaaf7a34050a55035e4ddc9ffe_29">
+                <text>ljusenergi</text>
+            </label>
+            <label key="i636c7f0bd2c6512370af7228d8246d79a4_CACERS036Q01AS4_4_50cabb82d4bfe6b5338377970175e3e6_30">
+                <text>potentiell energi</text>
+            </label>
+        </item>
+        <item id="i636c82e51221e1237172d8be0c9dd1e29b">
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_3c574679b9b83c2404001517976883fa_1">
+                <text>Nedanstående diagram visar de olika stegen i byggandet och driften av en vindkraftverkspark.</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_832d61efd0324c49e2857b10ae4dec22_2">
+                <text>Steg 1</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_97fd9f2219171e734f4e496a0917f22e_3">
+                <text>Steg 2</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_843ab277685630f82095416c5b9ae5a1_4">
+                <text>Steg 3</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_d19c1d06230715c91a44b88a8c71cf66_5">
+                <text>Steg 4</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_8d4e8f1023b20bf9f143e73e06ef76a9_6">
+                <text>Steg 5</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_a5d194cbbb35f886e3322ee0f20b78c1_7">
+                <text>Steg 6</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_d2a022be857e8b355d659a3c8068ac6d_8">
+                <text>Steg 7</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_fd7ff84a60890373a06fe1e0c7b2fa85_9">
+                <text>Tillverkning av vindkraftverk</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_3d2575dc76097039699b7e2b51fb4d1e_10">
+                <text>Transport av vindkraftverk till platsen</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_66ffcb1b8b9dd2a6bebaa294e309c6bc_11">
+                <text>Förberedelse av mark</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_62884fb5cc8fa7ff2f14dc69b4773bae_12">
+                <text>Byggande av vindkraftverk på platsen</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_59ce432a9258cdedc8811709ae02a977_13">
+                <text>El genereras med hjälp av vind</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_c5bb566b7c70c3f8c17f84d86635e7dc_14">
+                <text>Byte av turbinblad</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_b7106ede8475a1a03101e7886820de06_15">
+                <text>Återvinning av skadade blad</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_dc191d17c4bbac21de9a259916ec4f67_16">
+                <text>Använd nedanstående rullgardinsmenyer för att fastställa på vilket stadium vindkraftsparken använder var och en av följande strategier.</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_83de191c12c3c109006c4593128d8bb6_17">
+                <text>Strategi</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_90cc111f482b6fff5e30c61034807b62_18">
+                <text>Steg under vilket strategin används</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_9be0c591ae8522ce0eeccbbecc53db79_19">
+                <text>Förnybar energi</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS1_1_c4ca4238a0b923820dcc509a6f75849b_20">
+                <text>1</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS1_2_c81e728d9d4c2f636f067f89cc14862c_21">
+                <text>2</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS1_3_eccbc87e4b5ce2fe28308fd9f2a7baf3_22">
+                <text>3</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS1_4_a87ff679a2f3e71d9181a67b7542122c_23">
+                <text>4</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS1_5_e4da3b7fbbce2345d7772b0674a318d5_24">
+                <text>5 år</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS1_6_1679091c5a880faf6fb5e6087eb1b2dc_25">
+                <text>6 år</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS1_7_8f14e45fceea167a5a36dedd4bea2543_26">
+                <text>7 år</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_e24a8b7347572bc8bae54d95deed7554_27">
+                <text>Cirkulär ekonomi</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS2_1_c4ca4238a0b923820dcc509a6f75849b_28">
+                <text>1</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS2_2_c81e728d9d4c2f636f067f89cc14862c_29">
+                <text>2</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS2_3_eccbc87e4b5ce2fe28308fd9f2a7baf3_30">
+                <text>3</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS2_4_a87ff679a2f3e71d9181a67b7542122c_31">
+                <text>4</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS2_5_e4da3b7fbbce2345d7772b0674a318d5_32">
+                <text>5 år</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS2_6_1679091c5a880faf6fb5e6087eb1b2dc_33">
+                <text>6 år</text>
+            </label>
+            <label key="i636c82e51221e1237172d8be0c9dd1e29b_CACERS036Q03AS2_7_8f14e45fceea167a5a36dedd4bea2543_34">
+                <text>7 år</text>
+            </label>
+        </item>
+        <item id="i636c85885f5783024fa18190edc5b8dd0">
+            <label key="i636c85885f5783024fa18190edc5b8dd0_4bf535874f78d1d1df8ee6e4bb8d2624_1">
+                <text>Forskarna genomförde en fältstudie istället för en datorsimulering.</text>
+            </label>
+            <label key="i636c85885f5783024fa18190edc5b8dd0_cc3c076492d6aad99045d3cae7a8a114_2">
+                <text>Vilket av följande alternativ är en fördel med att genomföra en fältstudie istället för en datorsimulering?</text>
+            </label>
+            <label key="i636c85885f5783024fa18190edc5b8dd0_A_7a391d70f200e35b9e22936d8d3a1c3a_3">
+                <text>Det är mer sannolikt att en fältstudie korrekt representerar hur fåglar beter sig.</text>
+            </label>
+            <label key="i636c85885f5783024fa18190edc5b8dd0_B_c13c02001e05000eb3246c8b334dbec7_4">
+                <text>Det är lättare att kontrollera variabler i en fältstudie.</text>
+            </label>
+            <label key="i636c85885f5783024fa18190edc5b8dd0_C_4488d67cb155a0064e79d6cc6fc1aab8_5">
+                <text>Fältstudier kräver mindre forskartid och utrustning och är därför billigare.</text>
+            </label>
+            <label key="i636c85885f5783024fa18190edc5b8dd0_D_95f7edba71c4cee5439b5054c9e5913c_6">
+                <text>Det är lättare, i fältstudier, att ha kontroll över kombinationen av variabler som kan prövas.</text>
+            </label>
+            <label key="i636c85885f5783024fa18190edc5b8dd0_48f257eab03d92522d716375cc2f88df_8">
+                <text>Some feedback text.</text>
+            </label>
+            <label key="i636c85885f5783024fa18190edc5b8dd0_feedbackModal_1_f9844bc34c2574e3dbcd53e29c74673c_7">
+                <text>modal feedback title</text>
+            </label>
+        </item>
+        <item id="i636c866596f602520479a077ff72224a3">
+            <label key="i636c866596f602520479a077ff72224a3_472b682727c97a07a12fb474ccb19c13_1">
+                <text>Data från fältstudien om kungsörnarnas flygvägar användes för att skapa två diagram.</text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_1b2ad5fb96a6b14fc42e903f1cf84ae4_2">
+                <text>
+                    <strong>‌Diagram 1 – Antal kungsörnsflygningar med risk för kollision med ett vindkraftverk ‌</strong>
+                </text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_52333ae37b242c0070c2a75dac9f679f_3">
+                <text>
+                    <strong>‌Antal flygningar ‌</strong>
+                </text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_b61ffdc5e897d452d5e0afeb307cf580_4">
+                <text>Före byggandet av vindkraftverk</text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_64c9727864a975216d6ca464496006e9_5">
+                <text>Efter byggandet av vindkraftverk</text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_b2efea01c59077499ab80e3a0039d91b_6">
+                <text>
+                    <strong>‌Tidpunkt för observationen ‌</strong>
+                </text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_fefdcb95d79fbce58c79d71d223f1a30_7">
+                <text>
+                    <strong>‌Diagram 2 – Kungsörnsflygningar med risk för kollision med ett vindkraftverk, som procentandel av alla kungsörnsflygningar ‌</strong>
+                </text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_c0b9a8501bd7dd1a1658007b1251e437_8">
+                <text>
+                    <strong>‌Andel flygningar i procent ‌</strong>
+                </text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_b61ffdc5e897d452d5e0afeb307cf580_9">
+                <text>Före byggandet av vindkraftverk</text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_64c9727864a975216d6ca464496006e9_10">
+                <text>Efter byggandet av vindkraftverk</text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_b2efea01c59077499ab80e3a0039d91b_11">
+                <text>
+                    <strong>‌Tidpunkt för observationen ‌</strong>
+                </text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_f51632a95e2e7872e198ab223c63d6fb_12">
+                <text>Vilket av diagrammen gör det möjligt att dra korrekta slutsatser om sannolikheten för kollisioner mellan kungsörnar och kraftverk?</text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_choice_1_05bc01381b3d8fea4f2e572779b16244_13">
+                <text>Diagram 1 eftersom skillnaden före och efter uppförandet av kraftverken är mer uppenbar.</text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_choice_2_dfa0fd9f58ae0b2389c3449bf377c270_14">
+                <text>Diagram 2 eftersom det är möjligt att göra en jämförelse som tar hänsyn till eventuella skillnader i det totala antalet kungsörnsflygningar som observerats i varje del av studien.</text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_choice_3_2139fa3cfeb292694999cc17db1e0f0f_15">
+                <text>Inget av diagrammen eftersom de inte tar hänsyn till det totala antalet observerade kungsörnsflygningar.</text>
+            </label>
+            <label key="i636c866596f602520479a077ff72224a3_choice_4_a44a72a9f22863222c54b34e8a51c6d4_16">
+                <text>Båda diagrammen eftersom de gör det möjligt att avgöra sannolikheten för kollision före och efter uppförandet av kraftverken.</text>
+            </label>
+        </item>
+        <item id="i636c86a9570072522cac712284df1234c">
+            <label key="i636c86a9570072522cac712284df1234c_40edd2f0eacd364716c4ef1281461d71_1">
+                <text>Följande diagram visar hur vindriktningen påverkade kungsörnsflygningar i riskzoner för kollision före och efter uppförandet av vindkraftverken.</text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_10d0febb2a96a145419640cd50752057_2">
+                <text>
+                    <strong>‌Örnarnas flygvägar i motvind ‌</strong>
+                </text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_c0b9a8501bd7dd1a1658007b1251e437_3">
+                <text>
+                    <strong>‌Andel flygningar i procent ‌</strong>
+                </text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_b61ffdc5e897d452d5e0afeb307cf580_4">
+                <text>Före byggandet av vindkraftverk</text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_64c9727864a975216d6ca464496006e9_5">
+                <text>Efter byggandet av vindkraftverk</text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_b2efea01c59077499ab80e3a0039d91b_6">
+                <text>
+                    <strong>‌Tidpunkt för observationen ‌</strong>
+                </text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_01551b0700f7e9dedf4375fc05c9f27d_7">
+                <text>
+                    <strong>‌Örnarnas flygvägar i medvind ‌</strong>
+                </text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_c0b9a8501bd7dd1a1658007b1251e437_8">
+                <text>
+                    <strong>‌Andel flygningar i procent ‌</strong>
+                </text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_b61ffdc5e897d452d5e0afeb307cf580_9">
+                <text>Före byggandet av vindkraftverk</text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_64c9727864a975216d6ca464496006e9_10">
+                <text>Efter byggandet av vindkraftverk</text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_b2efea01c59077499ab80e3a0039d91b_11">
+                <text>
+                    <strong>‌Tidpunkt för observationen ‌</strong>
+                </text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_34695e57df51b52bcafc50ca3024cbce_12">
+                <text>Vilken slutsats stöds av resultaten av denna studie?</text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_choice_1_263278ac752fc615d51097ac3d4a280d_13">
+                <text>Vindriktningen påverkar inte örnarnas flygvägar i närheten av vindkraftverk.</text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_choice_2_ddf32e3f46b570fe3fe9106b63d1ad5c_14">
+                <text>Det finns stöd för att örnar kan identifiera och undvika vindkraftverk.</text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_choice_3_9e16abfd4b2b605bd495e80353025641_15">
+                <text>Vindriktningen påverkar inte örnars flygväg där det inte finns några vindkraftverk.</text>
+            </label>
+            <label key="i636c86a9570072522cac712284df1234c_choice_4_0e5d0059a46d605a0b19b514eaccbba4_16">
+                <text>Efter att ett vindkraftverk har byggts, är det mer sannolikt att örnar flyger in i högriskzonen om det är medvind.</text>
+            </label>
+        </item>
+    </items>
+</file>

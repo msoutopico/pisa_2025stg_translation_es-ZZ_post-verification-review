@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6470384c783885.38877100/passage NEW.xml">
+            <label key="6470384c783885.38877100_0975a5a853771f76da694c4563ec157c_1">
+                <text>Syror och baser</text>
+            </label>
+            <label key="6470384c783885.38877100_ad9bd1a569613162fb84c118d9fabe7e_2">
+                <text>En <strong>pH-skala</strong> kan användas för att klassificera <strong>lösningar</strong> som sura, basiska eller neutrala.</text>
+            </label>
+            <label key="6470384c783885.38877100_1d4226bdedc3857f0e2dd15ea83a8393_3">
+                <text>En lösnings pH avgörs genom att tillsätta en vätska som kallas universalindikator och matcha den resulterande lösningens färg med pH-skalan.</text>
+            </label>
+            <label key="6470384c783885.38877100_dfe6076e1d429c24edcbb2686bb39567_4">
+                <text>Färg</text>
+            </label>
+            <label key="6470384c783885.38877100_397dff207259b09d62f6c7436fc1ae27_5">
+                <text>pH</text>
+            </label>
+            <label key="6470384c783885.38877100_ee38e4d5dd68c4e440825018d549cb47_6">
+                <text>Röd</text>
+            </label>
+            <label key="6470384c783885.38877100_909cea0c97058cfe2e3ea8d675cb08e1_7">
+                <text>Orange</text>
+            </label>
+            <label key="6470384c783885.38877100_c4ca4238a0b923820dcc509a6f75849b_8">
+                <text>1</text>
+            </label>
+            <label key="6470384c783885.38877100_9768feb3fdb1f267b06093bc572952dd_9">
+                <text>Orangegul</text>
+            </label>
+            <label key="6470384c783885.38877100_c81e728d9d4c2f636f067f89cc14862c_10">
+                <text>2</text>
+            </label>
+            <label key="6470384c783885.38877100_51e6cd92b6c45f9affdc158ecca2b8b8_11">
+                <text>Gul</text>
+            </label>
+            <label key="6470384c783885.38877100_eccbc87e4b5ce2fe28308fd9f2a7baf3_12">
+                <text>3</text>
+            </label>
+            <label key="6470384c783885.38877100_985679536bf2de0c75dffcef84333f10_13">
+                <text>sur</text>
+            </label>
+            <label key="6470384c783885.38877100_fc1cebf02dc2ee68655f3e7bf1b84230_14">
+                <text>Limegrön</text>
+            </label>
+            <label key="6470384c783885.38877100_a87ff679a2f3e71d9181a67b7542122c_15">
+                <text>4</text>
+            </label>
+            <label key="6470384c783885.38877100_1381943e2d50b6c3f80280ecc3754ac8_16">
+                <text>Ljusgrön</text>
+            </label>
+            <label key="6470384c783885.38877100_e4da3b7fbbce2345d7772b0674a318d5_17">
+                <text>5</text>
+            </label>
+            <label key="6470384c783885.38877100_d382816a3cbeed082c9e216e7392eed1_18">
+                <text>Grön</text>
+            </label>
+            <label key="6470384c783885.38877100_1679091c5a880faf6fb5e6087eb1b2dc_19">
+                <text>6</text>
+            </label>
+            <label key="6470384c783885.38877100_8ecb7f14228dc685950168845c5a8b36_20">
+                <text>Skogsgrön</text>
+            </label>
+            <label key="6470384c783885.38877100_8f14e45fceea167a5a36dedd4bea2543_21">
+                <text>7</text>
+            </label>
+            <label key="6470384c783885.38877100_5da248ea6840aca1ae2b417b17982a89_22">
+                <text>neutral</text>
+            </label>
+            <label key="6470384c783885.38877100_e20385a2b41df1743f787ebef18222b8_23">
+                <text>Blågrön</text>
+            </label>
+            <label key="6470384c783885.38877100_c9f0f895fb98ab9159f51fd0297e236d_24">
+                <text>8</text>
+            </label>
+            <label key="6470384c783885.38877100_da3a4f0a911cebe3bc75f6e39c324696_25">
+                <text>Turkos</text>
+            </label>
+            <label key="6470384c783885.38877100_45c48cce2e2d7fbdea1afc51c7c6ad26_26">
+                <text>9</text>
+            </label>
+            <label key="6470384c783885.38877100_f1d3fa772227a7b3904108cc2094c6d9_27">
+                <text>Himmelsblå</text>
+            </label>
+            <label key="6470384c783885.38877100_d3d9446802a44259755d38e6d163e820_28">
+                <text>10</text>
+            </label>
+            <label key="6470384c783885.38877100_31d8951fd7b5a71cad225c230f6264ae_29">
+                <text>Kungsblå</text>
+            </label>
+            <label key="6470384c783885.38877100_6512bd43d9caa6e02c990b0a82652dca_30">
+                <text>11</text>
+            </label>
+            <label key="6470384c783885.38877100_f17aaabc20bfe045075927934fed52d2_31">
+                <text>basisk</text>
+            </label>
+            <label key="6470384c783885.38877100_e346c232ce72c429ea0995de9f63f551_32">
+                <text>Lavendel</text>
+            </label>
+            <label key="6470384c783885.38877100_c20ad4d76fe97759aa27a0c99bff6710_33">
+                <text>12</text>
+            </label>
+            <label key="6470384c783885.38877100_93df2c41a9abe4a797371f5c761adbfe_34">
+                <text>Plommon</text>
+            </label>
+            <label key="6470384c783885.38877100_c51ce410c124a10e0db5e4b97fc2af39_35">
+                <text>13</text>
+            </label>
+            <label key="6470384c783885.38877100_b9ba865fec061c9706d2fd7ce49c0cc7_36">
+                <text>Lila</text>
+            </label>
+            <label key="6470384c783885.38877100_aab3238922bcc25a6f606eb525ffdc56_37">
+                <text>14</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639b9a577bb9c46293c88c8663de58468b">
+            <label key="i639b9a577bb9c46293c88c8663de58468b_9847447ec6af38656097d87190e605ef_1">
+                <text>Använd pH-skalan för att klassificera varje lösning som sur eller basisk.</text>
+            </label>
+            <label key="i639b9a577bb9c46293c88c8663de58468b_0c2dfe179849aec4f24d84839e6aaa1a_2">
+                <text>Välj 'Sur' eller 'Basisk' för varje lösning.</text>
+            </label>
+            <label key="i639b9a577bb9c46293c88c8663de58468b_A_42ae5cad2a84e9960142931e6707160d_3">
+                <text>
+                    <strong>‌Sur‌</strong>
+                </text>
+            </label>
+            <label key="i639b9a577bb9c46293c88c8663de58468b_B_e58ebd883c1dba6ce21a52b341370311_4">
+                <text>
+                    <strong>‌Basisk‌</strong>
+                </text>
+            </label>
+            <label key="i639b9a577bb9c46293c88c8663de58468b_Row1_1f32b23ac39df95c0cff746e9fd61e73_5">
+                <text>En kopp svart kaffe, pH 5</text>
+            </label>
+            <label key="i639b9a577bb9c46293c88c8663de58468b_Row2_273763ec5bb82c5e5ad7c12726108aad_6">
+                <text>Såpvatten, pH 10</text>
+            </label>
+            <label key="i639b9a577bb9c46293c88c8663de58468b_Row3_6048c413e5bd2d9cccac869bce9b23ce_7">
+                <text>Tomatjuice, pH 4</text>
+            </label>
+        </item>
+        <item id="i639b9a6ef18a312645e7993605af2471fd">
+            <label key="i639b9a6ef18a312645e7993605af2471fd_5a508b45baac20ea083d76d712145007_1">
+                <text>Använd simuleringen och pH-skalan för att avgöra vilken typ av lösning som har en högre koncentration H⁺-joner än OH⁻-joner.</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_5ed450df9cf2a59b8a938ef226938946_2">
+                <text>Välj ett alternativ.</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_A_cefc599930e4bbf30279bc8060542bd9_3">
+                <text>sur lösning</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_B_27ff08bd2314e242418f7429332de2a1_4">
+                <text>neutral lösning</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_choice_3_f8e18684864949490bc893cc095d031e_5">
+                <text>basisk lösning</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_dfe6076e1d429c24edcbb2686bb39567_6">
+                <text>Färg</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_397dff207259b09d62f6c7436fc1ae27_7">
+                <text>pH</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_ee38e4d5dd68c4e440825018d549cb47_8">
+                <text>Röd</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_909cea0c97058cfe2e3ea8d675cb08e1_9">
+                <text>Orange</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_9768feb3fdb1f267b06093bc572952dd_10">
+                <text>Orangegul</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_51e6cd92b6c45f9affdc158ecca2b8b8_11">
+                <text>Gul</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_fc1cebf02dc2ee68655f3e7bf1b84230_12">
+                <text>Limegrön</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_1381943e2d50b6c3f80280ecc3754ac8_13">
+                <text>Ljusgrön</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_d382816a3cbeed082c9e216e7392eed1_14">
+                <text>Grön</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_8ecb7f14228dc685950168845c5a8b36_15">
+                <text>Skogsgrön</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_e20385a2b41df1743f787ebef18222b8_16">
+                <text>Blågrön</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_da3a4f0a911cebe3bc75f6e39c324696_17">
+                <text>Turkos</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_f1d3fa772227a7b3904108cc2094c6d9_18">
+                <text>Himmelsblå</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_31d8951fd7b5a71cad225c230f6264ae_19">
+                <text>Kungsblå</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_e346c232ce72c429ea0995de9f63f551_20">
+                <text>Lavendel</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_93df2c41a9abe4a797371f5c761adbfe_21">
+                <text>Plommon</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_b9ba865fec061c9706d2fd7ce49c0cc7_22">
+                <text>Lila</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_985679536bf2de0c75dffcef84333f10_23">
+                <text>sur</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_5da248ea6840aca1ae2b417b17982a89_24">
+                <text>neutral</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_f17aaabc20bfe045075927934fed52d2_25">
+                <text>basisk</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_c4ca4238a0b923820dcc509a6f75849b_26">
+                <text>1</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_c81e728d9d4c2f636f067f89cc14862c_27">
+                <text>2</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_eccbc87e4b5ce2fe28308fd9f2a7baf3_28">
+                <text>3</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_a87ff679a2f3e71d9181a67b7542122c_29">
+                <text>4</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_e4da3b7fbbce2345d7772b0674a318d5_30">
+                <text>5</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_1679091c5a880faf6fb5e6087eb1b2dc_31">
+                <text>6</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_8f14e45fceea167a5a36dedd4bea2543_32">
+                <text>7</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_c9f0f895fb98ab9159f51fd0297e236d_33">
+                <text>8</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_45c48cce2e2d7fbdea1afc51c7c6ad26_34">
+                <text>9</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_d3d9446802a44259755d38e6d163e820_35">
+                <text>10</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_6512bd43d9caa6e02c990b0a82652dca_36">
+                <text>11</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_c20ad4d76fe97759aa27a0c99bff6710_37">
+                <text>12</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_c51ce410c124a10e0db5e4b97fc2af39_38">
+                <text>13</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_aab3238922bcc25a6f606eb525ffdc56_39">
+                <text>14</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_0975a5a853771f76da694c4563ec157c_40">
+                <text>Syror och baser</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_e7624fbe92dd39da1b4ec52bb11fb503_41">
+                <text>The simulation shows what happens when a solution containing either OH⁻ or H⁺ ions is added to a neutral solution (pH 7).</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_25f2036c2eac3c0694de65cf7a3d71f8_42">
+                <text>Simuleringen är en representation av de växlande koncentrationerna och visar inte det faktiska antalet joner som tillsätts.</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_092987615891eb3d04de42de26c892e2_43">
+                <text>
+                    Instruktioner
+                </text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_e4d6fd0291bbe1ed0a26bdc2365b11d0_44">
+                <text>Markera vilken typ av lösning du skulle vilja tillsätta.</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_fe3519668c71d7b3e09096d2b4522ff1_45">
+                <text>Tillsätt lösningen genom att trycka på pipetten.</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_70f0905de21a8fb543d44300473cd4f4_46">
+                <text>Du kan tillsätta mer än en droppe.</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_87d1160eeff8aed8873ee930ea5fbdd1_47">
+                <text>
+                    solution containing H⁺ ions
+                    <span id="first-span">
+                    </span>
+                    <label class="form-check-label" for="radio1"/>
+                </text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_e8a34e59bad13f84573a453557622aa4_48">
+                <text>
+                    solution containing OH⁻ ions
+                    <span id="second-span">
+                    </span>
+                    <label class="form-check-label" for="radio2"/>
+                </text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_feea6133d0ce4a3e711279935cc38fdc_49">
+                <text>pH 7</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_8ecb7f14228dc685950168845c5a8b36_50">
+                <text>Skogsgrön</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_a319899707075032675dca52bf2db3c7_51">
+                <text>
+                    Relativ koncentration av joner:
+                </text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_57605b8e099b8e10a47a0f83639e1fd5_52">
+                <text>OH⁻ = H⁺</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_e0fa50fd0dbfe80de6cfe67798481b87_53">
+                <text>OH⁻ &lt; H⁺</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_9526622b071e64f54d9f0800cbdd791a_54">
+                <text>OH⁻ &gt; H⁺</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_211dca3b0583757d42c3ce484101e51b_55">
+                <text>Maximum number of drops used</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_d382816a3cbeed082c9e216e7392eed1_56">
+                <text>Grön</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_1381943e2d50b6c3f80280ecc3754ac8_57">
+                <text>Ljusgrön</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_fc1cebf02dc2ee68655f3e7bf1b84230_58">
+                <text>Limegrön</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_51e6cd92b6c45f9affdc158ecca2b8b8_59">
+                <text>Gul</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_9768feb3fdb1f267b06093bc572952dd_60">
+                <text>Orangegul</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_909cea0c97058cfe2e3ea8d675cb08e1_61">
+                <text>Orange</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_ee38e4d5dd68c4e440825018d549cb47_62">
+                <text>Röd</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_e20385a2b41df1743f787ebef18222b8_63">
+                <text>Blågrön</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_da3a4f0a911cebe3bc75f6e39c324696_64">
+                <text>Turkos</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_f1d3fa772227a7b3904108cc2094c6d9_65">
+                <text>Himmelsblå</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_31d8951fd7b5a71cad225c230f6264ae_66">
+                <text>Kungsblå</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_e346c232ce72c429ea0995de9f63f551_67">
+                <text>Lavendel</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_93df2c41a9abe4a797371f5c761adbfe_68">
+                <text>Plommon</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_b9ba865fec061c9706d2fd7ce49c0cc7_69">
+                <text>Lila</text>
+            </label>
+            <label key="i639b9a6ef18a312645e7993605af2471fd_8ecb7f14228dc685950168845c5a8b36_70">
+                <text>Skogsgrön</text>
+            </label>
+        </item>
+        <item id="i639b9a8925209126506eec6b1bad160003">
+            <label key="i639b9a8925209126506eec6b1bad160003_5af37951a3699fa7015b7824341601b0_1">
+                <text>Den första typen av spillvatten som ska behandlas har ett pH-värde på 2.</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_cd15e8c50c2437bc11e2db8823f6f449_2">
+                <text>Använd simuleringen för att avgöra om behandlingslösning 1 eller behandlingslösning 2 ska tillsättas till spillvattnet innan det släpps ut i floden.</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_5ed450df9cf2a59b8a938ef226938946_3">
+                <text>Välj ett alternativ.</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_A_eb5db9e0ab74cb56706f2508863043c7_4">
+                <text>Behandlingslösning 1</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_B_92e4fdc6d98c461d2e05d20b6f1b7393_5">
+                <text>Behandlingslösning 2</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_14a742a5c8a85e7bdbb23e8e791c910b_6">
+                <text>Förklara ditt val.</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_dfe6076e1d429c24edcbb2686bb39567_8">
+                <text>Färg</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_397dff207259b09d62f6c7436fc1ae27_9">
+                <text>pH</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_ee38e4d5dd68c4e440825018d549cb47_10">
+                <text>Röd</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_909cea0c97058cfe2e3ea8d675cb08e1_11">
+                <text>Orange</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_9768feb3fdb1f267b06093bc572952dd_12">
+                <text>Orangegul</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_51e6cd92b6c45f9affdc158ecca2b8b8_13">
+                <text>Gul</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_fc1cebf02dc2ee68655f3e7bf1b84230_14">
+                <text>Limegrön</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_1381943e2d50b6c3f80280ecc3754ac8_15">
+                <text>Ljusgrön</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_d382816a3cbeed082c9e216e7392eed1_16">
+                <text>Grön</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_8ecb7f14228dc685950168845c5a8b36_17">
+                <text>Skogsgrön</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_e20385a2b41df1743f787ebef18222b8_18">
+                <text>Blågrön</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_da3a4f0a911cebe3bc75f6e39c324696_19">
+                <text>Turkos</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_f1d3fa772227a7b3904108cc2094c6d9_20">
+                <text>Himmelsblå</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_31d8951fd7b5a71cad225c230f6264ae_21">
+                <text>Kungsblå</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_e346c232ce72c429ea0995de9f63f551_22">
+                <text>Lavendel</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_93df2c41a9abe4a797371f5c761adbfe_23">
+                <text>Plommon</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_b9ba865fec061c9706d2fd7ce49c0cc7_24">
+                <text>Lila</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_985679536bf2de0c75dffcef84333f10_25">
+                <text>sur</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_5da248ea6840aca1ae2b417b17982a89_26">
+                <text>neutral</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_f17aaabc20bfe045075927934fed52d2_27">
+                <text>basisk</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_c4ca4238a0b923820dcc509a6f75849b_28">
+                <text>1</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_c81e728d9d4c2f636f067f89cc14862c_29">
+                <text>2</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_eccbc87e4b5ce2fe28308fd9f2a7baf3_30">
+                <text>3</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_a87ff679a2f3e71d9181a67b7542122c_31">
+                <text>4</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_e4da3b7fbbce2345d7772b0674a318d5_32">
+                <text>5</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_1679091c5a880faf6fb5e6087eb1b2dc_33">
+                <text>6</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_8f14e45fceea167a5a36dedd4bea2543_34">
+                <text>7</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_c9f0f895fb98ab9159f51fd0297e236d_35">
+                <text>8</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_45c48cce2e2d7fbdea1afc51c7c6ad26_36">
+                <text>9</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_d3d9446802a44259755d38e6d163e820_37">
+                <text>10</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_6512bd43d9caa6e02c990b0a82652dca_38">
+                <text>11</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_c20ad4d76fe97759aa27a0c99bff6710_39">
+                <text>12</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_c51ce410c124a10e0db5e4b97fc2af39_40">
+                <text>13</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_aab3238922bcc25a6f606eb525ffdc56_41">
+                <text>14</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_0975a5a853771f76da694c4563ec157c_42">
+                <text>Syror och baser</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_a94e5a411422d38aaad39599d727777e_43">
+                <text>pH-värden visar hur sur en lösning är. A pH of 7 means that a solution is neutral – neither acidic or basic.</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_d67d1c566415d1bfdd2b4623bf6b1b28_44">
+                <text>Ju mer ett pH-värde avviker (genom att minska eller öka) från värdet 7, desto mer sannolikt är det att lösningen kommer att vara skadlig för miljön.</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_48f7b168a31048e05d32b2639304b939_45">
+                <text>En fabrik producerar tre olika typer av spillvatten som måste behandlas så att pH-värdet är så nära 7 som möjligt innan det släpps ut i en lokal flod.</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_4ea4efcac71f5ad7d1ce72f27032a4c5_46">
+                <text>The following simulation shows how the addition of different treatment solutions changes the pH of the wastewater that has an initial pH of 2.</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_092987615891eb3d04de42de26c892e2_47">
+                <text>
+                    Instruktioner
+                </text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_e12d90e2402c765f074a268a757473e4_48">
+                <text>Markera vilken typ av lösning som ska tillsättas.</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_2f5876c7bcd3513a3738828c2d546e29_49">
+                <text>Markera hur stor volym av lösning som ska tillsättas</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_3f2253ce9383867962692b73ef003eb7_50">
+                <text>Klicka på knappen "Kör".</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_0964b5dd4f3c250834a29418104cf24a_51">
+                <text>Förändringar av spillvattnets pH</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_6c813a6a4b50668e4dcb74cff653150c_52">
+                <text>Ursprungligt pH-värde för spillvattnet</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_b612cd4e3f7d8aa56eaca7e3dc4bc4ba_53">
+                <text>pH 2                </text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_9768feb3fdb1f267b06093bc572952dd_54">
+                <text>Orangegul</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_d9abc73d6f8cb9ad70ad089e270ba933_55">
+                <text>pH 2</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_9768feb3fdb1f267b06093bc572952dd_56">
+                <text>Orangegul</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_8efc6f0a5ff090631f432c4a9025f74b_57">
+                <text>Volym tillsatt behandlingslösning (ml)</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_6754c43773771aa252e2a1a56bdac3ee_58">
+                <text>Behandlingslösning</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_c0c7c76d30bd3dcaefc96f40275bdc0a_59">
+                <text>50</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_f899139df5e1059396431415e770c6dd_60">
+                <text>100</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_7ef605fc8dba5425d6965fbd4c8fbe1f_61">
+                <text>150</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_4c4ac06fd21d631f7c21330fa8027002_62">
+                <text>Behandling</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_e716feae626e219fd7aa76cde5065399_63">
+                <text>Lösning 1:</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_4c4ac06fd21d631f7c21330fa8027002_64">
+                <text>Behandling</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_650791369befd60e6ee467a8d8f89882_65">
+                <text>Lösning 2:</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_312e8871e100927905ef41f52831a16c_66">
+                <text>
+                    <button class="btn" id="run-button">Kör</button>
+                </text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_fd69c5cf902969e6fb71d043085ddee6_67">
+                <text>Resultat</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_8efc6f0a5ff090631f432c4a9025f74b_68">
+                <text>Volym tillsatt behandlingslösning (ml)</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_6754c43773771aa252e2a1a56bdac3ee_69">
+                <text>Behandlingslösning</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_c0c7c76d30bd3dcaefc96f40275bdc0a_70">
+                <text>50</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_f899139df5e1059396431415e770c6dd_71">
+                <text>100</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_7ef605fc8dba5425d6965fbd4c8fbe1f_72">
+                <text>150</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_fa10dff6428d64dd70bea89c1dcdc9c4_73">
+                <text>Behandlingslösning 1</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_92e4fdc6d98c461d2e05d20b6f1b7393_74">
+                <text>Behandlingslösning 2</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_9768feb3fdb1f267b06093bc572952dd_75">
+                <text>Orangegul</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_51e6cd92b6c45f9affdc158ecca2b8b8_76">
+                <text>Gul</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_fc1cebf02dc2ee68655f3e7bf1b84230_77">
+                <text>Limegrön</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_1381943e2d50b6c3f80280ecc3754ac8_78">
+                <text>Ljusgrön</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_909cea0c97058cfe2e3ea8d675cb08e1_79">
+                <text>Orange</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_ee38e4d5dd68c4e440825018d549cb47_80">
+                <text>Röd</text>
+            </label>
+            <label key="i639b9a8925209126506eec6b1bad160003_f7b5dc9238afdd6c98fe09c62f0a8497_81">
+                <text>Please select a solution.</text>
+            </label>
+        </item>
+        <item id="i639b9a9caf69b12636ae5429e6195008b0">
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_b2be27c60cc658d21f2d88b6da4a45bd_1">
+                <text>Den andra typen av spillvatten i fabriken har ett pH på 14.</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_9869b0821e736d07eeaf609479131600_2">
+                <text>Fabriken har två olika behandlingslösningar som kan användas. Båda behandlingarna kostar lika mycket per liter.</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_510ec3cb5c8bfda74dafd27727499c9f_3">
+                <text>Använd simuleringen för att avgöra vilken behandling som skulle vara mest kostnadseffektiv vid behandling av spillvatten.</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_a20fb46c7d3cee75f86b0c16f18bcebe_4">
+                <text>Välj ett alternativ</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_A_e0033e90a4c563b4ece52f1e9bba5458_5">
+                <text>Behandlingslösning 3</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_B_3ec35e8a588178f8f3fdbedc598e106c_6">
+                <text>Behandlingslösning 4</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_14a742a5c8a85e7bdbb23e8e791c910b_7">
+                <text>Förklara ditt val.</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_dfe6076e1d429c24edcbb2686bb39567_9">
+                <text>Färg</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_397dff207259b09d62f6c7436fc1ae27_10">
+                <text>pH</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_ee38e4d5dd68c4e440825018d549cb47_11">
+                <text>Röd</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_909cea0c97058cfe2e3ea8d675cb08e1_12">
+                <text>Orange</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_9768feb3fdb1f267b06093bc572952dd_13">
+                <text>Orangegul</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_51e6cd92b6c45f9affdc158ecca2b8b8_14">
+                <text>Gul</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_fc1cebf02dc2ee68655f3e7bf1b84230_15">
+                <text>Limegrön</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_1381943e2d50b6c3f80280ecc3754ac8_16">
+                <text>Ljusgrön</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_d382816a3cbeed082c9e216e7392eed1_17">
+                <text>Grön</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_8ecb7f14228dc685950168845c5a8b36_18">
+                <text>Skogsgrön</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_e20385a2b41df1743f787ebef18222b8_19">
+                <text>Blågrön</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_da3a4f0a911cebe3bc75f6e39c324696_20">
+                <text>Turkos</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_f1d3fa772227a7b3904108cc2094c6d9_21">
+                <text>Himmelsblå</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_31d8951fd7b5a71cad225c230f6264ae_22">
+                <text>Kungsblå</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_e346c232ce72c429ea0995de9f63f551_23">
+                <text>Lavendel</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_93df2c41a9abe4a797371f5c761adbfe_24">
+                <text>Plommon</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_b9ba865fec061c9706d2fd7ce49c0cc7_25">
+                <text>Lila</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_985679536bf2de0c75dffcef84333f10_26">
+                <text>sur</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_5da248ea6840aca1ae2b417b17982a89_27">
+                <text>neutral</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_f17aaabc20bfe045075927934fed52d2_28">
+                <text>basisk</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_c4ca4238a0b923820dcc509a6f75849b_29">
+                <text>1</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_c81e728d9d4c2f636f067f89cc14862c_30">
+                <text>2</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_eccbc87e4b5ce2fe28308fd9f2a7baf3_31">
+                <text>3</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_a87ff679a2f3e71d9181a67b7542122c_32">
+                <text>4</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_e4da3b7fbbce2345d7772b0674a318d5_33">
+                <text>5</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_1679091c5a880faf6fb5e6087eb1b2dc_34">
+                <text>6</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_8f14e45fceea167a5a36dedd4bea2543_35">
+                <text>7</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_c9f0f895fb98ab9159f51fd0297e236d_36">
+                <text>8</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_45c48cce2e2d7fbdea1afc51c7c6ad26_37">
+                <text>9</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_d3d9446802a44259755d38e6d163e820_38">
+                <text>10</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_6512bd43d9caa6e02c990b0a82652dca_39">
+                <text>11</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_c20ad4d76fe97759aa27a0c99bff6710_40">
+                <text>12</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_c51ce410c124a10e0db5e4b97fc2af39_41">
+                <text>13</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_aab3238922bcc25a6f606eb525ffdc56_42">
+                <text>14</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_0975a5a853771f76da694c4563ec157c_43">
+                <text>Syror och baser</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_a94e5a411422d38aaad39599d727777e_44">
+                <text>pH-värden visar hur sur en lösning är. A pH of 7 means that a solution is neutral – neither acidic or basic.</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_d67d1c566415d1bfdd2b4623bf6b1b28_45">
+                <text>Ju mer ett pH-värde avviker (genom att minska eller öka) från värdet 7, desto mer sannolikt är det att lösningen kommer att vara skadlig för miljön.</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_48f7b168a31048e05d32b2639304b939_46">
+                <text>En fabrik producerar tre olika typer av spillvatten som måste behandlas så att pH-värdet är så nära 7 som möjligt innan det släpps ut i en lokal flod.</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_11b4a7575fb48b1bc3b1eee992ffceb3_47">
+                <text>The following simulation shows how the addition of different treatment solutions changes the pH of the wastewater that has an initial pH of 14.</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_092987615891eb3d04de42de26c892e2_48">
+                <text>
+                    Instruktioner
+                </text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_e12d90e2402c765f074a268a757473e4_49">
+                <text>Markera vilken typ av lösning som ska tillsättas.</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_2f5876c7bcd3513a3738828c2d546e29_50">
+                <text>Markera hur stor volym av lösning som ska tillsättas</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_3f2253ce9383867962692b73ef003eb7_51">
+                <text>Klicka på knappen "Kör".</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_3b468262c380046c7309158a947c5913_52">
+                <text>Förändringar i spillvattnets pH</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_6c813a6a4b50668e4dcb74cff653150c_53">
+                <text>Ursprungligt pH-värde för spillvattnet</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_eef04e05083f9681fc91de569196bebd_54">
+                <text>pH 14</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_b9ba865fec061c9706d2fd7ce49c0cc7_55">
+                <text>Lila</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_eef04e05083f9681fc91de569196bebd_56">
+                <text>pH 14</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_b9ba865fec061c9706d2fd7ce49c0cc7_57">
+                <text>Lila</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_8efc6f0a5ff090631f432c4a9025f74b_58">
+                <text>Volym tillsatt behandlingslösning (ml)</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_6754c43773771aa252e2a1a56bdac3ee_59">
+                <text>Behandlingslösning</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_c0c7c76d30bd3dcaefc96f40275bdc0a_60">
+                <text>50</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_f899139df5e1059396431415e770c6dd_61">
+                <text>100</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_7ef605fc8dba5425d6965fbd4c8fbe1f_62">
+                <text>150</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_4c4ac06fd21d631f7c21330fa8027002_63">
+                <text>Behandling</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_b8facd64c89bf9478883b083c8b7d8ed_64">
+                <text>Lösning 3:</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_4c4ac06fd21d631f7c21330fa8027002_65">
+                <text>Behandling</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_52de7eb45bbb3e2eab9f1efd326e8b38_66">
+                <text>Lösning 4:</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_312e8871e100927905ef41f52831a16c_67">
+                <text>
+                    <button class="btn" id="run-button">Kör</button>
+                </text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_fd69c5cf902969e6fb71d043085ddee6_68">
+                <text>Resultat</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_8efc6f0a5ff090631f432c4a9025f74b_69">
+                <text>Volym tillsatt behandlingslösning (ml)</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_6754c43773771aa252e2a1a56bdac3ee_70">
+                <text>Behandlingslösning</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_c0c7c76d30bd3dcaefc96f40275bdc0a_71">
+                <text>50</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_f899139df5e1059396431415e770c6dd_72">
+                <text>100</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_7ef605fc8dba5425d6965fbd4c8fbe1f_73">
+                <text>150</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_e0033e90a4c563b4ece52f1e9bba5458_74">
+                <text>Behandlingslösning 3</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_3ec35e8a588178f8f3fdbedc598e106c_75">
+                <text>Behandlingslösning 4</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_b9ba865fec061c9706d2fd7ce49c0cc7_76">
+                <text>Lila</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_93df2c41a9abe4a797371f5c761adbfe_77">
+                <text>Plommon</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_e346c232ce72c429ea0995de9f63f551_78">
+                <text>Lavendel</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_31d8951fd7b5a71cad225c230f6264ae_79">
+                <text>Kungsblå</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_f1d3fa772227a7b3904108cc2094c6d9_80">
+                <text>Himmelsblå</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_e20385a2b41df1743f787ebef18222b8_81">
+                <text>Blågrön</text>
+            </label>
+            <label key="i639b9a9caf69b12636ae5429e6195008b0_f7b5dc9238afdd6c98fe09c62f0a8497_82">
+                <text>Please select a solution.</text>
+            </label>
+        </item>
+        <item id="i639b9a9266857126444b1def9de4fabd5e">
+            <label key="i639b9a9266857126444b1def9de4fabd5e_212747f540c48e9f5cab60ea30b1ae3f_1">
+                <text>Den tredje typen av spillvatten som ska renas har ett pH på 8.</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_29fce95cfd18d2c40587665a9aa942d7_2">
+                <text>Fabriken har två olika behandlingslösningar som kan användas.</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_52f5ba5d3dde1d8ffbf8ce8043a863fd_3">
+                <text>Använd simuleringen för att avgöra vilken behandlingslösning som mest sannolikt producerar neutralt spillvatten, även om några misstag görs med mängden behandlingslösning som tillsätts.</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_5ed450df9cf2a59b8a938ef226938946_4">
+                <text>Välj ett alternativ.</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_A_062dacf6f93b05da2db6f99e7a5ca6d1_5">
+                <text>Behandlingslösning 5</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_B_396cf7c8e5f0fec36da8f763f52a1296_6">
+                <text>Behandlingslösning 6</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_14a742a5c8a85e7bdbb23e8e791c910b_7">
+                <text>Förklara ditt val.</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_dfe6076e1d429c24edcbb2686bb39567_9">
+                <text>Färg</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_397dff207259b09d62f6c7436fc1ae27_10">
+                <text>pH</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_ee38e4d5dd68c4e440825018d549cb47_11">
+                <text>Röd</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_909cea0c97058cfe2e3ea8d675cb08e1_12">
+                <text>Orange</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_9768feb3fdb1f267b06093bc572952dd_13">
+                <text>Orangegul</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_51e6cd92b6c45f9affdc158ecca2b8b8_14">
+                <text>Gul</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_fc1cebf02dc2ee68655f3e7bf1b84230_15">
+                <text>Limegrön</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_1381943e2d50b6c3f80280ecc3754ac8_16">
+                <text>Ljusgrön</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_d382816a3cbeed082c9e216e7392eed1_17">
+                <text>Grön</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_8ecb7f14228dc685950168845c5a8b36_18">
+                <text>Skogsgrön</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_e20385a2b41df1743f787ebef18222b8_19">
+                <text>Blågrön</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_da3a4f0a911cebe3bc75f6e39c324696_20">
+                <text>Turkos</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_f1d3fa772227a7b3904108cc2094c6d9_21">
+                <text>Himmelsblå</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_31d8951fd7b5a71cad225c230f6264ae_22">
+                <text>Kungsblå</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_e346c232ce72c429ea0995de9f63f551_23">
+                <text>Lavendel</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_93df2c41a9abe4a797371f5c761adbfe_24">
+                <text>Plommon</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_b9ba865fec061c9706d2fd7ce49c0cc7_25">
+                <text>Lila</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_985679536bf2de0c75dffcef84333f10_26">
+                <text>sur</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_5da248ea6840aca1ae2b417b17982a89_27">
+                <text>neutral</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_f17aaabc20bfe045075927934fed52d2_28">
+                <text>basisk</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_c4ca4238a0b923820dcc509a6f75849b_29">
+                <text>1</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_c81e728d9d4c2f636f067f89cc14862c_30">
+                <text>2</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_eccbc87e4b5ce2fe28308fd9f2a7baf3_31">
+                <text>3</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_a87ff679a2f3e71d9181a67b7542122c_32">
+                <text>4</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_e4da3b7fbbce2345d7772b0674a318d5_33">
+                <text>5</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_1679091c5a880faf6fb5e6087eb1b2dc_34">
+                <text>6</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_8f14e45fceea167a5a36dedd4bea2543_35">
+                <text>7</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_c9f0f895fb98ab9159f51fd0297e236d_36">
+                <text>8</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_45c48cce2e2d7fbdea1afc51c7c6ad26_37">
+                <text>9</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_d3d9446802a44259755d38e6d163e820_38">
+                <text>10</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_6512bd43d9caa6e02c990b0a82652dca_39">
+                <text>11</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_c20ad4d76fe97759aa27a0c99bff6710_40">
+                <text>12</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_c51ce410c124a10e0db5e4b97fc2af39_41">
+                <text>13</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_aab3238922bcc25a6f606eb525ffdc56_42">
+                <text>14</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_0975a5a853771f76da694c4563ec157c_43">
+                <text>Syror och baser</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_a94e5a411422d38aaad39599d727777e_44">
+                <text>pH-värden visar hur sur en lösning är. A pH of 7 means that a solution is neutral – neither acidic or basic.</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_d67d1c566415d1bfdd2b4623bf6b1b28_45">
+                <text>Ju mer ett pH-värde avviker (genom att minska eller öka) från värdet 7, desto mer sannolikt är det att lösningen kommer att vara skadlig för miljön.</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_48f7b168a31048e05d32b2639304b939_46">
+                <text>En fabrik producerar tre olika typer av spillvatten som måste behandlas så att pH-värdet är så nära 7 som möjligt innan det släpps ut i en lokal flod.</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_cd4a4e603307b4f21add858ea2ff837f_47">
+                <text>The following simulation shows how the addition of different treatment solutions changes the pH of the wastewater that has an initial pH of 8.</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_092987615891eb3d04de42de26c892e2_48">
+                <text>
+                    Instruktioner
+                </text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_e12d90e2402c765f074a268a757473e4_49">
+                <text>Markera vilken typ av lösning som ska tillsättas.</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_2f5876c7bcd3513a3738828c2d546e29_50">
+                <text>Markera hur stor volym av lösning som ska tillsättas</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_3f2253ce9383867962692b73ef003eb7_51">
+                <text>Klicka på knappen "Kör".</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_0964b5dd4f3c250834a29418104cf24a_52">
+                <text>Förändringar av spillvattnets pH</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_6c813a6a4b50668e4dcb74cff653150c_53">
+                <text>Ursprungligt pH-värde för spillvattnet</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_fd0c9dc27e70c2ba8aede38f32d1e38b_54">
+                <text>pH 8                </text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_e20385a2b41df1743f787ebef18222b8_55">
+                <text>Blågrön</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_2214ca354a0f89855a69f94938414952_56">
+                <text>pH 8</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_e20385a2b41df1743f787ebef18222b8_57">
+                <text>Blågrön</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_8efc6f0a5ff090631f432c4a9025f74b_58">
+                <text>Volym tillsatt behandlingslösning (ml)</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_6754c43773771aa252e2a1a56bdac3ee_59">
+                <text>Behandlingslösning</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_c0c7c76d30bd3dcaefc96f40275bdc0a_60">
+                <text>50</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_f899139df5e1059396431415e770c6dd_61">
+                <text>100</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_7ef605fc8dba5425d6965fbd4c8fbe1f_62">
+                <text>150</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_4c4ac06fd21d631f7c21330fa8027002_63">
+                <text>Behandling</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_b3da6056ce489e50a6533cb6be35ef8f_64">
+                <text>Lösning 5:</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_4c4ac06fd21d631f7c21330fa8027002_65">
+                <text>Behandling</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_ad7f35b6600d75a2953213f690ed1baf_66">
+                <text>Lösning 6:</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_312e8871e100927905ef41f52831a16c_67">
+                <text>
+                    <button class="btn" id="run-button">Kör</button>
+                </text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_fd69c5cf902969e6fb71d043085ddee6_68">
+                <text>Resultat</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_8efc6f0a5ff090631f432c4a9025f74b_69">
+                <text>Volym tillsatt behandlingslösning (ml)</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_6754c43773771aa252e2a1a56bdac3ee_70">
+                <text>Behandlingslösning</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_c0c7c76d30bd3dcaefc96f40275bdc0a_71">
+                <text>50</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_f899139df5e1059396431415e770c6dd_72">
+                <text>100</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_7ef605fc8dba5425d6965fbd4c8fbe1f_73">
+                <text>150</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_062dacf6f93b05da2db6f99e7a5ca6d1_74">
+                <text>Behandlingslösning 5</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_396cf7c8e5f0fec36da8f763f52a1296_75">
+                <text>Behandlingslösning 6</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_8ecb7f14228dc685950168845c5a8b36_76">
+                <text>Skogsgrön</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_e20385a2b41df1743f787ebef18222b8_77">
+                <text>Blågrön</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_1381943e2d50b6c3f80280ecc3754ac8_78">
+                <text>Ljusgrön</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_d382816a3cbeed082c9e216e7392eed1_79">
+                <text>Grön</text>
+            </label>
+            <label key="i639b9a9266857126444b1def9de4fabd5e_f7b5dc9238afdd6c98fe09c62f0a8497_80">
+                <text>Please select a solution.</text>
+            </label>
+        </item>
+    </items>
+</file>

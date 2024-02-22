@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64c1c6507260c5.60044867/passage NEW.xml">
+            <label key="64c1c6507260c5.60044867_d4926d89778b9e8d318c9e4a21bae6b5_1">
+                <text>PET-undersökningar</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_320e7a2ea8ca0542a6fe485b62bb940c_2">
+                <text>En undersökning med positronemissionstomografi (PET) är en medicinsk avbildningsteknik som används för att diagnostisera och övervaka vissa sjukdomar.</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_7fd7999a2cd31f2523a369e50055d0e8_3">
+                <text>Före PET-undersökningen injicerar läkaren en liten mängd lösning av ett ”radioaktivt spårämne” i patientens kropp. Sjuka celler absorberar mer av lösningen än normala celler.</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_dd10242a2ec5f8d887b457da17ce0611_4">
+                <text>Spårämnet innehåller radioaktiva atomer (kallade radioisotoper) som sönderfaller (avger strålning som energi eller partiklar). När de sönderfaller avger de radioaktiva atomerna par av gammafotoner. Ringskannern detekterar gammafotonerna som slår emot den.</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_3211886dc1aedb6b046743a0dcf736dd_5">
+                <text>Alla radioaktiva isotoper har en ”halveringstid”. Halveringstiden är den tid det tar för hälften av alla radioaktiva atomer i ett prov att sönderfalla.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c1c6507260c5.60044867/passage NEW.xml">
+            <label key="64c1c6507260c5.60044867_d4926d89778b9e8d318c9e4a21bae6b5_1">
+                <text>PET-undersökningar</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_320e7a2ea8ca0542a6fe485b62bb940c_2">
+                <text>En undersökning med positronemissionstomografi (PET) är en medicinsk avbildningsteknik som används för att diagnostisera och övervaka vissa sjukdomar.</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_7fd7999a2cd31f2523a369e50055d0e8_3">
+                <text>Före PET-undersökningen injicerar läkaren en liten mängd lösning av ett ”radioaktivt spårämne” i patientens kropp. Sjuka celler absorberar mer av lösningen än normala celler.</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_dd10242a2ec5f8d887b457da17ce0611_4">
+                <text>Spårämnet innehåller radioaktiva atomer (kallade radioisotoper) som sönderfaller (avger strålning som energi eller partiklar). När de sönderfaller avger de radioaktiva atomerna par av gammafotoner. Ringskannern detekterar gammafotonerna som slår emot den.</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_3211886dc1aedb6b046743a0dcf736dd_5">
+                <text>Alla radioaktiva isotoper har en ”halveringstid”. Halveringstiden är den tid det tar för hälften av alla radioaktiva atomer i ett prov att sönderfalla.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c1c6507260c5.60044867/passage NEW.xml">
+            <label key="64c1c6507260c5.60044867_d4926d89778b9e8d318c9e4a21bae6b5_1">
+                <text>PET-undersökningar</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_320e7a2ea8ca0542a6fe485b62bb940c_2">
+                <text>En undersökning med positronemissionstomografi (PET) är en medicinsk avbildningsteknik som används för att diagnostisera och övervaka vissa sjukdomar.</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_7fd7999a2cd31f2523a369e50055d0e8_3">
+                <text>Före PET-undersökningen injicerar läkaren en liten mängd lösning av ett ”radioaktivt spårämne” i patientens kropp. Sjuka celler absorberar mer av lösningen än normala celler.</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_dd10242a2ec5f8d887b457da17ce0611_4">
+                <text>Spårämnet innehåller radioaktiva atomer (kallade radioisotoper) som sönderfaller (avger strålning som energi eller partiklar). När de sönderfaller avger de radioaktiva atomerna par av gammafotoner. Ringskannern detekterar gammafotonerna som slår emot den.</text>
+            </label>
+            <label key="64c1c6507260c5.60044867_3211886dc1aedb6b046743a0dcf736dd_5">
+                <text>Alla radioaktiva isotoper har en ”halveringstid”. Halveringstiden är den tid det tar för hälften av alla radioaktiva atomer i ett prov att sönderfalla.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64701bdbba5438.37763733/passage NEW 9.xml">
+            <label key="64701bdbba5438.37763733_0b53430a0876b0be939de4fb183a9a2b_1">
+                <text>PET-undersökningar </text>
+            </label>
+            <label key="64701bdbba5438.37763733_1e218b864eb5d610bf8369512a242ffc_2">
+                <text>Läkaren väljer vilken typ av radioaktivt spårämne som ska ges, beroende på syftet med PET-undersökningen. Tabellen innehåller några exempel på radioaktiva isotoper och vad de används för.</text>
+            </label>
+            <label key="64701bdbba5438.37763733_8d56bf504198b53dfa3915dc01f5d0ef_3">
+                <text>
+                    <strong>‌Exempel på radioaktiva isotoper‌</strong>
+                </text>
+            </label>
+            <label key="64701bdbba5438.37763733_9fd9fd9e30246647483411a11025415a_4">
+                <text>Radioaktiv isotop</text>
+            </label>
+            <label key="64701bdbba5438.37763733_8392e263086ff6e6d0e09d037bac13b0_5">
+                <text>Halveringstid (minuter)</text>
+            </label>
+            <label key="64701bdbba5438.37763733_8ae2a5b447f654bd4d75d5ec3c40a4c8_6">
+                <text>Användningsområden</text>
+            </label>
+            <label key="64701bdbba5438.37763733_229a3a03aac1c7a8fd547131c07243f6_7">
+                <text>Kväve-13</text>
+            </label>
+            <label key="64701bdbba5438.37763733_aa34b2f2e67e23c5138130f2ec59cae1_8">
+                <text>10,0</text>
+            </label>
+            <label key="64701bdbba5438.37763733_a08c2c645b6065bf20aef702e382e043_9">
+                <text>Bildundersökning av hjärtmuskeln</text>
+            </label>
+            <label key="64701bdbba5438.37763733_449e4d94148dd513f3fe9c9feb38ab66_10">
+                <text>Syre-15</text>
+            </label>
+            <label key="64701bdbba5438.37763733_c81e728d9d4c2f636f067f89cc14862c_11">
+                <text>2</text>
+            </label>
+            <label key="64701bdbba5438.37763733_f56cff80050d97359703e6bc0f0606d0_12">
+                <text>Bildundersökning av hjärnan</text>
+            </label>
+            <label key="64701bdbba5438.37763733_7bdeba3261d3645c386baeec7132b98f_13">
+                <text>Fluor-18</text>
+            </label>
+            <label key="64701bdbba5438.37763733_56840d7cb2afb124162df2c9dc2a9562_14">
+                <text>109,8</text>
+            </label>
+            <label key="64701bdbba5438.37763733_e415a0b93cfc773d2a4c3a41fd4ece84_15">
+                <text>Avbildning av hjärna, ben och muskler, upptäckt av sjukdomar, avbildning av bakterieinfektioner</text>
+            </label>
+            <label key="64701bdbba5438.37763733_7e232fb5795f5ac34ce355de3ebec648_16">
+                <text>Gallium-68</text>
+            </label>
+            <label key="64701bdbba5438.37763733_403903d29f2a3201130e952ee827a55b_17">
+                <text>67,7</text>
+            </label>
+            <label key="64701bdbba5438.37763733_efd7d3ccc5826928e91a107831679576_18">
+                <text>Upptäckt av sjukdomar</text>
+            </label>
+            <label key="64701bdbba5438.37763733_fcf5497e876a408e9f942bfda873ed43_19">
+                <text>Rubidium-82</text>
+            </label>
+            <label key="64701bdbba5438.37763733_0b0ec9f1cc28b3c19dc6c36dcd5af7cc_20">
+                <text>1,3</text>
+            </label>
+            <label key="64701bdbba5438.37763733_6b6318e1cb994ec901216f9787b60257_21">
+                <text>Blodflödesanalys</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64701bf37e3ad7.65487018/passage NEW 11.xml">
+            <label key="64701bf37e3ad7.65487018_d4926d89778b9e8d318c9e4a21bae6b5_1">
+                <text>PET-undersökningar</text>
+            </label>
+            <label key="64701bf37e3ad7.65487018_290de04b5e0e9331dc2514fd66e4fbdb_2">
+                <text>En liten mängd radioaktivt material finns i ett prov som har placerats inuti en PET-kamera.</text>
+            </label>
+            <label key="64701bf37e3ad7.65487018_a6397ed7362e2bc7f2d3f665f9a6b78b_3">
+                <text>När materialet sönderfaller avger atomerna i den radioaktiva isotopen gammafotoner parvis (samtidigt). </text>
+            </label>
+            <label key="64701bf37e3ad7.65487018_4669a8b1b9ea8eb8229ad7f4a73f41d1_4">
+                <text>Gammafotoner färdas i en rät linje. Varje gammafoton i ett par färdas i motsatt riktning jämfört med den andra gammafotonen enligt diagrammet nedan.</text>
+            </label>
+            <label key="64701bf37e3ad7.65487018_389727a5739f38297f4e8468ada594b1_5">
+                <text>Ringkameran identifierar gammafotonerna som träffar den.</text>
+            </label>
+            <label key="64701bf37e3ad7.65487018_5e8ff9bf55ba3508199d22e984129be6_6">
+                <text>prov</text>
+            </label>
+            <label key="64701bf37e3ad7.65487018_310a527ef670406c234a4d6af4d49891_7">
+                <text>par av gammafotoner</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i633a576cb877f188123dcfaab49503bec7">
+            <label key="i633a576cb877f188123dcfaab49503bec7_db24afb9f81f2eebd442ac2c90f3c71d_1">
+                <text><div>Halveringstiden för radioisotopen fluor-18 är ungefär 110 minuter.</div><div></div>Femtio radioaktiva fluor-18-atomer representeras av punkterna i detta rutnät. <img alt="CACERS028Q01_PET-scans.svg" src="assets/4709e22e6343a59b0ce4b.svg" type="image/svg+xml" width="64%"/>‌<p>Vilket av dessa rutnät representerar bäst det förväntade antalet fluor-18-atomer som finns kvar i provet efter 4 timmar?</p></text>
+            </label>
+        </item>
+        <item id="i633a58f059d081880243f7e8a4e49f6973">
+            <label key="i633a58f059d081880243f7e8a4e49f6973_32eab7253fa502342933fe9a40d4d918_1">
+                <text>Diagrammet visar sönderfallshastigheten hos radioaktiva isotoper i 3 prover med radioaktiva spårämnen.</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_c999fabd3b3733a27863ccd34fbfcdf9_2">
+                <text>Två av proverna är kol-11.</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_b85dc195ce5cefa0c9f42fd9615e8fe7_3">
+                <text>
+                    <strong>‌Antal atomer som sönderfaller per sekund‌</strong>
+                </text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_100d0e4580991f8b8450856ae09b2cdf_4">
+                <text>
+                    <strong>‌Tid (minuter)‌</strong>
+                </text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_a9b7ba70783b617e9998dc4dd82eb3c5_5">
+                <text>1000</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_acf4b89d3d503d8252c9c4ba75ddbf6d_6">
+                <text>900</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_7a53928fa4dd31e82c6ef826f341daec_7">
+                <text>800</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_e5841df2166dd424a57127423d276bbe_8">
+                <text>700</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_d490d7b4576290fa60eb31b5fc917ad1_9">
+                <text>600</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_cee631121c2ec9232f3a2f028ad5c89b_10">
+                <text>500</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_18d8042386b79e2c279fd162df0205c8_11">
+                <text>400</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_94f6d7e04a4d452035300f18b984988c_12">
+                <text>300</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_3644a684f98ea8fe223c713b77189a77_13">
+                <text>200</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_f899139df5e1059396431415e770c6dd_14">
+                <text>100</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_745ff6ed7b33845d04eea363ec7f5ccf_15">
+                <text>radioaktivt spårämne A (kol-11)</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_3fb18d9b462d8af43c4897e5a8c123a1_16">
+                <text>radioaktivt spårämne B</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_58dfb12e8d81991f2d243679f02fde67_17">
+                <text>Är följande påståenden sanna eller falska?</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_118eed61599a262f87b3aff78388ed7f_18">
+                <text>Välj 'Sant' eller 'Falskt' för varje påstående.</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_choice_1_bbe8aa754f002dd291d09b5d296f9cfd_19">
+                <text>
+                    <strong>‌Sant‌</strong>
+                </text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_choice_2_b6dc149fd600b0a957303d963b95d4b5_20">
+                <text>
+                    <strong>‌Falskt‌</strong>
+                </text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_choice_3_1ab40927614d97fee0184fdacab9599e_21">
+                <text>Halveringstiden för kol-11 är 20 minuter.</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_choice_4_bbcfef2dd79ec83dfed9304bfb3f9ac5_22">
+                <text>Det radioaktiva spårämnet B är fluor-18.</text>
+            </label>
+            <label key="i633a58f059d081880243f7e8a4e49f6973_choice_5_16ac62b0c5de382d2c56ef907ba99a9c_23">
+                <text>Halveringstiden för ett prov beror på det ursprungliga antalet radioaktiva atomer i provet.</text>
+            </label>
+        </item>
+        <item id="i633a5ad3e0ba91880717cb99eebee81374">
+            <label key="i633a5ad3e0ba91880717cb99eebee81374_1de8647c232029bd7b1e806b0435db35_1">
+                <text>Alla radioaktiva spårämnen för PET-undersökning har korta halveringstider.</text>
+            </label>
+            <label key="i633a5ad3e0ba91880717cb99eebee81374_55247ea168113922740078ae932a77bb_2">
+                <text>Ange en fördel med att använda ett radioaktivt spårämne med kort halveringstid för PET-undersökningar.</text>
+            </label>
+            <label key="i633a5ad3e0ba91880717cb99eebee81374_f0f3926fb4b071c012df3bd1b4cf8a63_3">
+                <text>Ange en nackdel med att använda ett radioaktivt spårämne med kort halveringstid för PET-undersökningar.</text>
+            </label>
+        </item>
+        <item id="i633a5bb1a5b6d1623ebe91c57302fab01">
+            <label key="i633a5bb1a5b6d1623ebe91c57302fab01_f07355b824137c4877df6a85223c1f46_1">
+                <text>Ange två anledningar till varför ett radioaktivt spårämne av typen fluor-18 kan vara mer effektivt än ett radioaktivt spårämne av typen syre-15.</text>
+            </label>
+            <label key="i633a5bb1a5b6d1623ebe91c57302fab01_3e95066b0b2446c24198c96815233c3e_2">
+                <text>Skäl 1</text>
+            </label>
+            <label key="i633a5bb1a5b6d1623ebe91c57302fab01_ddda06bb66b991b95c3df5e6ed3fe1f0_3">
+                <text>Skäl 2</text>
+            </label>
+        </item>
+        <item id="i633a62085c29e18812ccbe9a25562ea3c2">
+            <label key="i633a62085c29e18812ccbe9a25562ea3c2_fa98480df2ef9f5cdf57fc621f3918ab_1">
+                <text>Diagrammet nedan visar en PET-kamera som registrerar två par av gammafotoner.</text>
+            </label>
+            <label key="i633a62085c29e18812ccbe9a25562ea3c2_e2de875a0690ab223f358dba3c0d5e7d_2">
+                <text>Det ena paret betecknas '1' och det andra paret betecknas '2'.</text>
+            </label>
+            <label key="i633a62085c29e18812ccbe9a25562ea3c2_6c1c77c0063ad43a353e284f5e8afcba_3">
+                <text>De två paren avges från ett enda prov i skannern.</text>
+            </label>
+            <label key="i633a62085c29e18812ccbe9a25562ea3c2_812bab0d152db0232b4eaa16227231e7_4">
+                <text>Provet befinner sig på en av de fyra möjliga platserna som är markerade med små cirklar inuti kameran.</text>
+            </label>
+            <label key="i633a62085c29e18812ccbe9a25562ea3c2_b8824d8e4da7e15ac6b1deec8c19eca9_5">
+                <text>Positionerna där varje par gammafotoner registrerades visas runt kameraringen.</text>
+            </label>
+            <label key="i633a62085c29e18812ccbe9a25562ea3c2_817005336281a63829a9f6e24f0b31a5_6">
+                <text>Välj den mest sannolika platsen för provet.</text>
+            </label>
+            <label key="i633a62085c29e18812ccbe9a25562ea3c2_d071efef44bfe1fba7fad1bd63ec7f1b_7">
+                <text>registrerad gammafoton</text>
+            </label>
+            <label key="i633a62085c29e18812ccbe9a25562ea3c2_d071efef44bfe1fba7fad1bd63ec7f1b_8">
+                <text>registrerad gammafoton</text>
+            </label>
+        </item>
+    </items>
+</file>

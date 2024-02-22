@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/649cff3009bce4.69185879/passage NEW.xml">
+            <label key="649cff3009bce4.69185879_ec538c520f18d9f13cb908ee4e300100_1">
+                <text>Global uppvärmning och klimatförändringar</text>
+            </label>
+            <label key="649cff3009bce4.69185879_34914d788cee555170dbed98723b9ae3_2">
+                <text>Sedan den industriella revolutionen i mitten av 1800-talet har koncentrationerna av gaser som bidrar till att fånga värme i atmosfären ökat.</text>
+            </label>
+            <label key="649cff3009bce4.69185879_f15b3cf6ef0e8550528dad7e2ca26536_3">
+                <text>Klimatforskare är överens om att detta har lett till en ökad total uppvärmning av jordens atmosfär (global uppvärmning).</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649cff3009bce4.69185879/passage NEW.xml">
+            <label key="649cff3009bce4.69185879_ec538c520f18d9f13cb908ee4e300100_1">
+                <text>Global uppvärmning och klimatförändringar</text>
+            </label>
+            <label key="649cff3009bce4.69185879_34914d788cee555170dbed98723b9ae3_2">
+                <text>Sedan den industriella revolutionen i mitten av 1800-talet har koncentrationerna av gaser som bidrar till att fånga värme i atmosfären ökat.</text>
+            </label>
+            <label key="649cff3009bce4.69185879_f15b3cf6ef0e8550528dad7e2ca26536_3">
+                <text>Klimatforskare är överens om att detta har lett till en ökad total uppvärmning av jordens atmosfär (global uppvärmning).</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655417769a3093.87345081/passage NEW 1.xml">
+            <label key="655417769a3093.87345081_ec538c520f18d9f13cb908ee4e300100_1">
+                <text>Global uppvärmning och klimatförändringar</text>
+            </label>
+            <label key="655417769a3093.87345081_d2f63d98c6c436b57e4001070d953289_2">
+                <text>This graph below shows the concentration of carbon dioxide in Earth’s atmosphere in the years between 1850 and 2020 (solid line) and the predicted concentration of carbon dioxide in the atmosphere from 2020 to 2050 (dashed line).</text>
+            </label>
+            <label key="655417769a3093.87345081_f165e92b388660b3362d08bf8972e37f_3">
+                <text>atmospheric CO₂ (ppm)</text>
+            </label>
+            <label key="655417769a3093.87345081_dba95dfb4f5c89e20c2a0b897d934b95_4">
+                <text>​Years</text>
+            </label>
+            <label key="655417769a3093.87345081_b14399cbaac6da4b5b733b483106383f_5">
+                <text>0.05</text>
+            </label>
+            <label key="655417769a3093.87345081_0d28f736bdc82fae2f0155098aa2c954_6">
+                <text>0.045</text>
+            </label>
+            <label key="655417769a3093.87345081_e38502749f773d33ee02de5c2f61d6f3_7">
+                <text>0.04</text>
+            </label>
+            <label key="655417769a3093.87345081_672993ff02105f59c446cbe8f8e301f4_8">
+                <text>0.035</text>
+            </label>
+            <label key="655417769a3093.87345081_0574a27738923dd052ed0b873c176afc_9">
+                <text>0.03</text>
+            </label>
+            <label key="655417769a3093.87345081_22b994c4dd523797be87328cf7d03047_10">
+                <text>0.025</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655417769a3093.87345081/passage NEW 1.xml">
+            <label key="655417769a3093.87345081_ec538c520f18d9f13cb908ee4e300100_1">
+                <text>Global uppvärmning och klimatförändringar</text>
+            </label>
+            <label key="655417769a3093.87345081_d2f63d98c6c436b57e4001070d953289_2">
+                <text>This graph below shows the concentration of carbon dioxide in Earth’s atmosphere in the years between 1850 and 2020 (solid line) and the predicted concentration of carbon dioxide in the atmosphere from 2020 to 2050 (dashed line).</text>
+            </label>
+            <label key="655417769a3093.87345081_f165e92b388660b3362d08bf8972e37f_3">
+                <text>atmospheric CO₂ (ppm)</text>
+            </label>
+            <label key="655417769a3093.87345081_dba95dfb4f5c89e20c2a0b897d934b95_4">
+                <text>​Years</text>
+            </label>
+            <label key="655417769a3093.87345081_b14399cbaac6da4b5b733b483106383f_5">
+                <text>0.05</text>
+            </label>
+            <label key="655417769a3093.87345081_0d28f736bdc82fae2f0155098aa2c954_6">
+                <text>0.045</text>
+            </label>
+            <label key="655417769a3093.87345081_e38502749f773d33ee02de5c2f61d6f3_7">
+                <text>0.04</text>
+            </label>
+            <label key="655417769a3093.87345081_672993ff02105f59c446cbe8f8e301f4_8">
+                <text>0.035</text>
+            </label>
+            <label key="655417769a3093.87345081_0574a27738923dd052ed0b873c176afc_9">
+                <text>0.03</text>
+            </label>
+            <label key="655417769a3093.87345081_22b994c4dd523797be87328cf7d03047_10">
+                <text>0.025</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649cff77d94174.35976602/passage NEW 2.xml">
+            <label key="649cff77d94174.35976602_ec538c520f18d9f13cb908ee4e300100_1">
+                <text>Global uppvärmning och klimatförändringar</text>
+            </label>
+            <label key="649cff77d94174.35976602_45f058fb04ffba7a896a181acec43fa0_2">
+                <text>Den svarta linjen på kartan nedan representerar gränsen för havsisen runt Nordpolen 1979.</text>
+            </label>
+            <label key="649cff77d94174.35976602_30c1513043b6f08be62b3f93921439bd_3">
+                <text>Det vita området visar utbredningen av havsis runt Nordpolen 2004.</text>
+            </label>
+            <label key="649cff77d94174.35976602_0d3bc08e712ce178b0fb262f27623430_4">
+                <text>Nordpolen</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63a116bd8e3d32809191d84f8652c4762">
+            <label key="i63a116bd8e3d32809191d84f8652c4762_c4e884e499d4161732a2af736e997d1c_1">
+                <text>Beskriver följande påståenden troliga konsekvenser av global uppvärmning?</text>
+            </label>
+            <label key="i63a116bd8e3d32809191d84f8652c4762_a8c38cd5723dd799a00d4ac84d71561e_2">
+                <text>Välj 'Ja' eller 'Nej' för varje påstående.</text>
+            </label>
+            <label key="i63a116bd8e3d32809191d84f8652c4762_Y_fdc1563a8afc5411a7aba3beeb918bd4_3">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i63a116bd8e3d32809191d84f8652c4762_N_758eaa648d8250f58a4ec4251f2ea215_4">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i63a116bd8e3d32809191d84f8652c4762_Row1_e9c3b2786c4479990a1192cd53cb4f21_5">
+                <text>Många människor kommer att behöva flytta och bo på nya platser.</text>
+            </label>
+            <label key="i63a116bd8e3d32809191d84f8652c4762_Row2_5ea6f5f3d02210105ea63782b4134ce5_6">
+                <text>Högre temperaturer i vissa områden kommer att leda till en ökning av dödstalen bland människor.</text>
+            </label>
+            <label key="i63a116bd8e3d32809191d84f8652c4762_Row3_8c3ed6917a98ad60f15a9f5939d1e423_7">
+                <text>Växternas tillväxttakt kommer att minska.</text>
+            </label>
+            <label key="i63a116bd8e3d32809191d84f8652c4762_Row4_e4ae456d0318e0136c7b69e66d296581_8">
+                <text>Hålet i atmosfärens ozonlager kommer att bli större.</text>
+            </label>
+            <label key="i63a116bd8e3d32809191d84f8652c4762_Row5_d091fa4b5d5295015017c2b3668c6f07_9">
+                <text>När permafrost (ständigt frusen mark) smälter kommer det att leda till utsläpp av koldioxid.</text>
+            </label>
+        </item>
+        <item id="i63a1176ee6ed72811edf49bcbfe8d322e">
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_d2d6049fb5aadbc5afa8244fabbc203c_1">
+                <text>En ökning av mängden koldioxid i atmosfären bidrar till den globala uppvärmningen. Carbon dioxide concentration is usually measured in parts per million (ppm).</text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_9f7e58884832e2067f406259192e00d1_2">
+                <text>The atmosphere currently has a concentration of carbon dioxide of approximately 380 ppm.</text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_1c30fada61d60093961b1d1ca2fbf023_3">
+                <text>This concentration was 275 ppm in the atmosphere before the industrial revolution.</text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_3e84b12d650d253444c54b08778dd021_4">
+                <text>Could the changes in the table occur because of global warming?</text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_6bcffb8a9b66c387ad32ad022f04212a_5">
+                <text>Välj 'Ja' eller 'Nej' för varje förändring.</text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_Y_fdc1563a8afc5411a7aba3beeb918bd4_6">
+                <text>
+                    <strong>‌Ja‌</strong>
+                </text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_N_758eaa648d8250f58a4ec4251f2ea215_7">
+                <text>
+                    <strong>‌Nej‌</strong>
+                </text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_Row1_dd0e2bcf2acd6b6afd6fed1529c96da9_8">
+                <text>smältande glaciärer</text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_Row2_45e26ff70ce34a6fb7ee4aff0bfb72d3_9">
+                <text>ökat antal översvämningar</text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_Row3_0d4e1cc788b1d44602a139dcfcc52cb7_10">
+                <text>ökad försurning av havsvatten</text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_Row4_17d04457903677d369d30ecf8cfe5d2f_11">
+                <text>expansion of deserts and longer, more frequent droughts</text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_Row5_29a7176015312b1bb3246386c3d9a9c1_12">
+                <text>ökad vulkanisk aktivitet</text>
+            </label>
+            <label key="i63a1176ee6ed72811edf49bcbfe8d322e_Row6_81fe34e3366b74d6b108f981b9bece12_13">
+                <text>befolkningsökning på jorden</text>
+            </label>
+        </item>
+        <item id="i63a1178a5f58f16514c32e2f78072fa367">
+            <label key="i63a1178a5f58f16514c32e2f78072fa367_ea5f9e2c5d2e584f97ee549fbe67f9f6_1">
+                <text>What does the graph show about the change in the concentration of carbon dioxide in the atmosphere over time?</text>
+            </label>
+        </item>
+        <item id="i63a1177d0ba3d1436123e6c52864b803c7">
+            <label key="i63a1177d0ba3d1436123e6c52864b803c7_0177f30fb7e6ee4caeacccac840c14d2_1">
+                <text>Give a likely reason that scientists are predicting the change in atmospheric carbon dioxide concentration shown on the graph from 2020 to 2050.</text>
+            </label>
+        </item>
+        <item id="i63a116f36d89b2380589569327ec4b983">
+            <label key="i63a116f36d89b2380589569327ec4b983_2975b59017c96152c4551fbd7b6076c3_1">
+                <text>Jämför ytorna med havsis under åren 1979 och 2004.</text>
+            </label>
+            <label key="i63a116f36d89b2380589569327ec4b983_33393a05d1c4f03d5d242a239e3d35ac_2">
+                <text>Är jämförelsen tillräckligt med bevis för att den globala uppvärmningen leder till att havsisen vid Nordpolen minskar?</text>
+            </label>
+            <label key="i63a116f36d89b2380589569327ec4b983_A_a6105c0a611b41b08f1209506350279e_3">
+                <text>ja</text>
+            </label>
+            <label key="i63a116f36d89b2380589569327ec4b983_B_7fa3b767c460b54a2be4d49030b349c7_4">
+                <text>nej</text>
+            </label>
+            <label key="i63a116f36d89b2380589569327ec4b983_de03d051471bf1872104f26fc81d6982_5">
+                <text>Motivera ditt svar.</text>
+            </label>
+        </item>
+    </items>
+</file>

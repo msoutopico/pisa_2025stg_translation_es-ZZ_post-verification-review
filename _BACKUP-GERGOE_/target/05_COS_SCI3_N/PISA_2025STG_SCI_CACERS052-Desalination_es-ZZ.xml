@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns="http://www.imsglobal.org/xsd/imsqti_v2p2" xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6465b36cce9301.01327767/passage NEW.xml">
+            <label key="6465b36cce9301.01327767_16b87351140bbd12e96503539795d1cf_1">
+                <text>Desalination</text>
+            </label>
+            <label key="6465b36cce9301.01327767_a7caafd247a887aa5ae77210e27a05b8_2">
+                <text>Large scale desalination plants produce freshwater from seawater.</text>
+            </label>
+            <label key="6465b36cce9301.01327767_46c4941d56a24771c51af9d1d26e5f92_3">
+                <text>One technique used in these plants is reverse osmosis.</text>
+            </label>
+            <label key="6465b36cce9301.01327767_d3906c40b48f407496f34ea265cc5003_4">
+                <text>Reverse osmosis involves forcing seawater onto a semi-permeable membrane. The membrane only allows small, non-charged particles to pass through.</text>
+            </label>
+            <label key="6465b36cce9301.01327767_479758bc3435d23ea1537db80b0e335c_5">
+                <text>This process produces freshwater and a highly concentrated salt solution (brine). Brine is commonly released into rivers or the sea.</text>
+            </label>
+            <label key="6465b36cce9301.01327767_db91b98df0315a51bea9d856775d33db_6">
+                <text>
+                    incoming salt water (HIGH PRESSURE)
+                </text>
+            </label>
+            <label key="6465b36cce9301.01327767_2d9c360fce717bb5c7a886f473d81e26_7">
+                <text>
+                    water particle
+                </text>
+            </label>
+            <label key="6465b36cce9301.01327767_ba764fc06e616d607a616344e9e3c5c5_8">
+                <text>
+                    particles from dissolved salt
+                </text>
+            </label>
+            <label key="6465b36cce9301.01327767_f1163821fdac2f5936f7b8c182383a6b_9">
+                <text>
+                    semi-permeable membrane
+                </text>
+            </label>
+            <label key="6465b36cce9301.01327767_d591d41093a98f67f42bc55b6688834c_10">
+                <text>
+                    some particles pass through
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639fa77c178ca17156bd3f28d8349069a5">
+            <label key="i639fa77c178ca17156bd3f28d8349069a5_c2fa79d3e31c791d3d67ded317ac855e_1">
+                <text>Which type of particle will pass through the semi-permeable membrane?</text>
+            </label>
+            <label key="i639fa77c178ca17156bd3f28d8349069a5_4b3e6cb70a889418bf45bcb43594faac_2">
+                <text>Select the correct answer.</text>
+            </label>
+        </item>
+        <item id="i639fa7905ad0250710e088f3095d9faaf0">
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_2d044099521f3a9ab296c31e336c5e23_1">
+                <text>This graph shows how salt concentration affects the number of species in aquatic environments.</text>
+            </label>
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_8e747a15d9e5d0b8a19f1fdde3c1d29b_2">
+                <text>Number of species<br/>Freshwater<br/>Estuarine water<br/>Seawater<br/><strong>Salt water concentration (g/L)‌</strong></text>
+            </label>
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_d6fe2911582b2ed4899eff1c1bffb5a0_3">
+                <text><img alt="" src="" type="image/svg+xml" width="5%"/>‌‌Diadromous species – travel between salt and freshwater</text>
+            </label>
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_04e003091ce5c95fffc2ecdf2a500e86_4">
+                <text>
+                    <img alt="" src="" type="image/svg+xml" width="5%"/>‌‌Freshwater species – mainly found in freshwater
+                </text>
+            </label>
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_425ac707864a34ff89b95b5b1fec6f8a_5">
+                <text><img alt="" src="" type="image/svg+xml" width="5%"/>‌‌Estuarine species – mainly live where the river meets the sea</text>
+            </label>
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_b818f639615b86a512c212acf4efdaf1_6">
+                <text>
+                    <img alt="" src="" type="image/svg+xml" width="5%"/>‌‌Marine species – mainly found in the sea
+                </text>
+            </label>
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_411fe9b4847d0e86cb2f8da6bd5d2859_7">
+                <text>A typical river system has freshwater upstream of the estuary (towards the river source). The estuary is where the river meets the sea and freshwater mixes with salty seawater.</text>
+            </label>
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_9d33b28d276256841df006b99fbd9afa_8">
+                <text>Which one of the following conclusions best describes what would happen to the number of aquatic species if brine was released into a river or the sea?</text>
+            </label>
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_ccdcfc4f93fe1e5f3ff2a1bd531fd0ae_9">
+                <text>There would be no effect if the brine released into the seawater had a salt concentration of 37 g/L.</text>
+            </label>
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_78a89a5680ae79148ad22fe71da3f747_10">
+                <text>If the brine was released into freshwater, it would only affect the number of freshwater species.</text>
+            </label>
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_8cb7a84d36a87163d5690baab02dce6a_11">
+                <text>The greatest change in the number of species would occur if brine was released into estuarine water.</text>
+            </label>
+            <label key="i639fa7905ad0250710e088f3095d9faaf0_2b9733f4a48af55ef035fdd55ddb643a_12">
+                <text>Releasing brine into any part of a river system would eliminate all the freshwater species.</text>
+            </label>
+        </item>
+        <item id="i639fa7b669e0f50705301fa8ff1e163543">
+            <label key="i639fa7b669e0f50705301fa8ff1e163543_64539652aee9c275fc44b795c93db910_1">
+                <text>All of the following statements about desalination are true.</text>
+            </label>
+            <label key="i639fa7b669e0f50705301fa8ff1e163543_fadd352accee5d4447d23280d8d22083_2">
+                <text>Which statement justifies the use of desalination plants to allow all people equal access to essential resources?</text>
+            </label>
+            <label key="i639fa7b669e0f50705301fa8ff1e163543_8b0c240e65739d23d0e7ad91a4347a59_3">
+                <text>Desalination plants provide a reliable source of freshwater, ensuring that water supplies for manufacturing can be maintained.</text>
+            </label>
+            <label key="i639fa7b669e0f50705301fa8ff1e163543_d4eea79667e73cdd2c621cdd7e5ffc74_4">
+                <text>Desalination technology has been proven to work: almost 16,000 desalination plants are operating in about 180 countries.</text>
+            </label>
+            <label key="i639fa7b669e0f50705301fa8ff1e163543_b5a3cabe7648e84b0d51a183a932c13c_5">
+                <text>The environmental impact of desalination plants can be reduced if carbon-neutral energy sources are used and the disposal of brine is carefully managed.</text>
+            </label>
+            <label key="i639fa7b669e0f50705301fa8ff1e163543_0636bdb8a92f5e24919a43ea26012038_6">
+                <text>Use of desalination plants can provide water security for regions of the world where water scarcity can lead to poor hygiene and increased rates of disease.</text>
+            </label>
+        </item>
+        <item id="i639fa7cb4e7f9171359534ff2798836263">
+            <label key="i639fa7cb4e7f9171359534ff2798836263_06ee6cdd393cc3adda3f12d6fdc38ff9_1">
+                <text>Increasing the saltiness of freshwater (upstream) will greatly reduce the number of all types of aquatic species whereas increasing the water in an estuary is more likely to cause an increase in the number of most aquatic species.</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_e84c22405dd0d88a1f73e8d3a9365676_2">
+                <text>This graph shows how salt concentration affects the number of aquatic species found in these environments.</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_b289b69923711e752d8ac57fce32bc0d_3">
+                <text>Number of species</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_99ab1d3cb5074dcc3d3919400c292437_4">
+                <text>Estuarine water</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_d76c42088faf18eec02a010e3a79ca5b_5">
+                <text>Freshwater</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_f69eb4c8bac4951b4bd335da7c8a4ba2_6">
+                <text>Seawater</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_24d88b6fe3a7d9cbbf7f1c9526e00c64_7">
+                <text>
+                    <strong>‌Salt water concentration (g/L)‌</strong>
+                </text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_d6fe2911582b2ed4899eff1c1bffb5a0_8">
+                <text><img alt="" src="" type="image/svg+xml" width="5%"/>‌‌Diadromous species – travel between salt and freshwater</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_e3837b1d9d68763e73538b27588a3beb_9">
+                <text><img alt="" src="" type="image/svg+xml" width="5%"/>‌‌Freshwater species – mainly found in freshwater</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_425ac707864a34ff89b95b5b1fec6f8a_10">
+                <text><img alt="" src="" type="image/svg+xml" width="5%"/>‌‌Estuarine species – mainly live where the river meets the sea</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_6107be298a65e9484a5c45b51a84ceec_11">
+                <text><img alt="" src="" type="image/svg+xml" width="5%"/>‌‌Marine species – mainly found in the sea</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_411fe9b4847d0e86cb2f8da6bd5d2859_12">
+                <text>A typical river system has freshwater upstream of the estuary (towards the river source). The estuary is where the river meets the sea and freshwater mixes with salty seawater.</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_2f4231dc2c44b86cb0ffc838c55473cc_13">
+                <text>Two locations are being considered for a desalination plant. At either location, the release of brine will increase the salt concentration of the water by approximately 15 g/L.</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_befcd5e344345b5088f792c936c894b6_14">
+                <text>Which of these locations is likely to have the least impact on the number of aquatic species?</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_ee75e429605b1c461f15dbf8c1df98a8_15">
+                <text>estuary (where the river meets the sea)</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_2342993e387a58c696ea77e527788c1d_16">
+                <text>upstream (freshwater)</text>
+            </label>
+            <label key="i639fa7cb4e7f9171359534ff2798836263_4fd72ad9efa6be34b8ac1f513e76dfb5_17">
+                <text>Explain your answer.</text>
+            </label>
+        </item>
+        <item id="i639fa7cf9afbe1713928383077be459ba5">
+            <label key="i639fa7cf9afbe1713928383077be459ba5_1a0eede577b6afeacc0c541fbd156b24_1">
+                <text>Operating desalination plants is expensive.</text>
+            </label>
+            <label key="i639fa7cf9afbe1713928383077be459ba5_c892b42fb8ac8ae2798fc34d0dbad0ed_2">
+                <text>Why are costs reduced if desalination plants are located close to where freshwater is needed?</text>
+            </label>
+            <label key="i639fa7cf9afbe1713928383077be459ba5_b4d33fe7b1b917e1795c94e609abf573_3">
+                <text>It avoids the need to protect the local environment.</text>
+            </label>
+            <label key="i639fa7cf9afbe1713928383077be459ba5_06e9f53077801bc1a8885c6f4553e0d2_4">
+                <text>It reduces the energy needed to power the desalination plants.</text>
+            </label>
+            <label key="i639fa7cf9afbe1713928383077be459ba5_4766a61627a5449c70326e90026f2cae_5">
+                <text>It increases the productivity of the workforce.</text>
+            </label>
+            <label key="i639fa7cf9afbe1713928383077be459ba5_cbbd77a790db2ab7d974f90300e93126_6">
+                <text>It reduces the distance over which the freshwater is transported.</text>
+            </label>
+        </item>
+        <item id="i6407bc8ea857648235e69d4b76af1a441b">
+            <label key="i6407bc8ea857648235e69d4b76af1a441b_9ccdfe7946b39d76decafa45820715f2_1">
+                <text>Water conservation can be an effective way for communities to overcome water shortages.</text>
+            </label>
+            <label key="i6407bc8ea857648235e69d4b76af1a441b_542a8fa19e162d75f3f152a2022c2049_2">
+                <text>What is one way that communities can conserve water?</text>
+            </label>
+            <label key="i6407bc8ea857648235e69d4b76af1a441b_4fd5cfebbe19fe7819a22eaf05707e99_3">
+                <text>build a desalination plant</text>
+            </label>
+            <label key="i6407bc8ea857648235e69d4b76af1a441b_da55dff30b38c2cb2794fb6c152b5231_4">
+                <text>install rainwater tanks</text>
+            </label>
+            <label key="i6407bc8ea857648235e69d4b76af1a441b_7b41cfde57ae8c48b63ef65dcf188ff4_5">
+                <text>use groundwater</text>
+            </label>
+            <label key="i6407bc8ea857648235e69d4b76af1a441b_22f719d10914432c3eddbcc20868835b_6">
+                <text>provide free bottled water&#x00a0;</text>
+            </label>
+        </item>
+    </items>
+</file>

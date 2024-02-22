@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/646409a05f8903.44126507/passage NEW.xml">
+            <label key="646409a05f8903.44126507_91ab7918256c3413198b43e0b2e85443_1">
+                <text>Jordens rörelse</text>
+            </label>
+            <label key="646409a05f8903.44126507_ef6572e4cd58bb39a3f4e82fc64fe9f0_2">
+                <text>Solen</text>
+            </label>
+            <label key="646409a05f8903.44126507_a76631b1fda373017969461bbed39ba9_3">
+                <text>Jordaxeln</text>
+            </label>
+            <label key="646409a05f8903.44126507_5cdd21c97f86686cc505e02fd32a7523_4">
+                <text>Jorden</text>
+            </label>
+            <label key="646409a05f8903.44126507_423ed53031547bf4978a9c9c9ef39bd5_5">
+                <text>Detta diagram representerar jorden när den roterar runt sin egen axel och rör sig i sin bana runt solen (inte skalenligt).</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646409a05f8903.44126507/passage NEW.xml">
+            <label key="646409a05f8903.44126507_91ab7918256c3413198b43e0b2e85443_1">
+                <text>Jordens rörelse</text>
+            </label>
+            <label key="646409a05f8903.44126507_ef6572e4cd58bb39a3f4e82fc64fe9f0_2">
+                <text>Solen</text>
+            </label>
+            <label key="646409a05f8903.44126507_a76631b1fda373017969461bbed39ba9_3">
+                <text>Jordaxeln</text>
+            </label>
+            <label key="646409a05f8903.44126507_5cdd21c97f86686cc505e02fd32a7523_4">
+                <text>Jorden</text>
+            </label>
+            <label key="646409a05f8903.44126507_423ed53031547bf4978a9c9c9ef39bd5_5">
+                <text>Detta diagram representerar jorden när den roterar runt sin egen axel och rör sig i sin bana runt solen (inte skalenligt).</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/646409a05f8903.44126507/passage NEW.xml">
+            <label key="646409a05f8903.44126507_91ab7918256c3413198b43e0b2e85443_1">
+                <text>Jordens rörelse</text>
+            </label>
+            <label key="646409a05f8903.44126507_ef6572e4cd58bb39a3f4e82fc64fe9f0_2">
+                <text>Solen</text>
+            </label>
+            <label key="646409a05f8903.44126507_a76631b1fda373017969461bbed39ba9_3">
+                <text>Jordaxeln</text>
+            </label>
+            <label key="646409a05f8903.44126507_5cdd21c97f86686cc505e02fd32a7523_4">
+                <text>Jorden</text>
+            </label>
+            <label key="646409a05f8903.44126507_423ed53031547bf4978a9c9c9ef39bd5_5">
+                <text>Detta diagram representerar jorden när den roterar runt sin egen axel och rör sig i sin bana runt solen (inte skalenligt).</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i633285d5bab1416164cdd114a5e06e19dc">
+            <label key="i633285d5bab1416164cdd114a5e06e19dc_eb1f5e3683f912e5c2c2bf377a040ca2_1">
+                <text>24</text>
+            </label>
+            <label key="i633285d5bab1416164cdd114a5e06e19dc_027032c7ace53516c72713780d3b5706_2">
+                <text>Hur många timmar tar det för jorden att rotera ett varv runt sin egen axel?</text>
+            </label>
+            <label key="i633285d5bab1416164cdd114a5e06e19dc_6e19870e953e5b469bfc83574d8024ec_3">
+                <text>Avrunda ditt svar till närmaste heltal och skriv det med siffertangenterna.</text>
+            </label>
+            <label key="i633285d5bab1416164cdd114a5e06e19dc_f0e709530a4042adf66fc449d297b9c1_4">
+                <text>Antal timmar: <textEntryInteraction base="10" expectedLength="4" patternMask="" placeholderText="" responseIdentifier="CACERS007Q01AS"/></text>
+            </label>
+        </item>
+        <item id="i63328901ee1fd1627fdd7b576145248ee">
+            <label key="i63328901ee1fd1627fdd7b576145248ee_45bb9d68a4a170cbcca9a3ebd478e038_1">
+                <text>Hur lång tid tar det för jorden att röra sig ett varv runt solen?</text>
+            </label>
+            <label key="i63328901ee1fd1627fdd7b576145248ee_A_c44937e1574710ed87dccec3e0e6fc63_2">
+                <text>en dag</text>
+            </label>
+            <label key="i63328901ee1fd1627fdd7b576145248ee_B_ef83a44d72dfa06a566745b4603d4b53_3">
+                <text>en vecka</text>
+            </label>
+            <label key="i63328901ee1fd1627fdd7b576145248ee_C_8e4b8ddfa77a3ee13264d11693f14fc1_4">
+                <text>en månad</text>
+            </label>
+            <label key="i63328901ee1fd1627fdd7b576145248ee_D_377ae60a5dcbce524642a80baef3f746_5">
+                <text>ett år</text>
+            </label>
+        </item>
+        <item id="i633289bc127d415591e5fbdf133771f150">
+            <label key="i633289bc127d415591e5fbdf133771f150_da4b2b68cb3ae1ce618bf2daf53b9413_1">
+                <text>Varför är det dag och natt på jorden?</text>
+            </label>
+            <label key="i633289bc127d415591e5fbdf133771f150_A_0cad1811bd8722e423bb5f9e34e94cb7_2">
+                <text>Jordaxeln lutar.</text>
+            </label>
+            <label key="i633289bc127d415591e5fbdf133771f150_B_0c0596d54277b3ad448d30a8b96a64d4_3">
+                <text>Jorden rör sig moturs runt solen.</text>
+            </label>
+            <label key="i633289bc127d415591e5fbdf133771f150_C_587e93bdc33e34d438d34fec5092726e_4">
+                <text>Varje plats på jorden får olika avstånd till solen när jorden rör sig runt solen.</text>
+            </label>
+            <label key="i633289bc127d415591e5fbdf133771f150_D_230342df66ff06e08f495988f10ea31a_5">
+                <text>Varje plats på jorden är vänd mot eller bort från solen när jorden roterar runt sin axel.</text>
+            </label>
+        </item>
+    </items>
+</file>

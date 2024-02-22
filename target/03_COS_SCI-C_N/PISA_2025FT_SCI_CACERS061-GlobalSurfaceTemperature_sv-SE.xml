@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/655431bb9d3551.60371821/passage NEW.xml">
+            <label key="655431bb9d3551.60371821_6516943b23308a054e79ae0dbc97e7a3_1">
+                <text>Temperatur vid jordens yta</text>
+            </label>
+            <label key="655431bb9d3551.60371821_1223945ad962c572503f3939ed31bc36_2">
+                <text>Tre oberoende forskningsgrupper har övervakat medeltemperaturen vid jordytan (global temperatur) de senaste 120 åren. Varje forskningsgrupp använder en unik datakälla.</text>
+            </label>
+            <label key="655431bb9d3551.60371821_d41cafb39860e0618688ece5d6b5f014_3">
+                <text>The graph shows the global temperature for every year as a difference (°C) relative to the average global temperature for the entire period from 1900 - 2020.</text>
+            </label>
+            <label key="655431bb9d3551.60371821_fe8e712b5eb6f8b3025c327f440fd9d3_4">
+                <text>Data från de tre studierna representeras av de individuella linjerna i diagrammet.</text>
+            </label>
+            <label key="655431bb9d3551.60371821_feca17d09a33dc4178330872d462c57f_5">
+                <text>
+                    <strong>‌Förändringar i global temperatur‌</strong>
+                </text>
+            </label>
+            <label key="655431bb9d3551.60371821_5038dff6edbf14549cdda87f4973581a_6">
+                <text>
+                    <strong>‌Difference relative to average global temperature of the entire period 1900 - 2020 (°C)‌</strong>
+                </text>
+            </label>
+            <label key="655431bb9d3551.60371821_ea79fec51d5e73af1b2d808ecfe375b5_7">
+                <text>
+                    <strong>‌​Year‌</strong>
+                </text>
+            </label>
+            <label key="655431bb9d3551.60371821_c4ca4238a0b923820dcc509a6f75849b_8">
+                <text>1</text>
+            </label>
+            <label key="655431bb9d3551.60371821_57eeec0a6974ecb4e9fcf68fab052f7b_9">
+                <text>0,8</text>
+            </label>
+            <label key="655431bb9d3551.60371821_e95e1ca27d0e39aa03eb5a611ce4122f_10">
+                <text>0,6</text>
+            </label>
+            <label key="655431bb9d3551.60371821_54fbf38cf649866815e0fefc46a1f6c7_11">
+                <text>0,4</text>
+            </label>
+            <label key="655431bb9d3551.60371821_3d522deaf85577451c01974654b36ad3_12">
+                <text>0,2</text>
+            </label>
+            <label key="655431bb9d3551.60371821_65b55f9cf93fe88e02a5d53a3e7e503c_13">
+                <text>-0.2</text>
+            </label>
+            <label key="655431bb9d3551.60371821_d1ab6103a7baf2fcf7a1611ac2299261_14">
+                <text>-0.4</text>
+            </label>
+            <label key="655431bb9d3551.60371821_58caf77267e2fe1236a852aed9727d90_15">
+                <text>-0.6</text>
+            </label>
+            <label key="655431bb9d3551.60371821_d1873f932094965046189f6d523b6ea2_16">
+                <text>-0.8</text>
+            </label>
+            <label key="655431bb9d3551.60371821_21a4cad8c877d2951bed94b5bc4e00b5_17">
+                <text>Grupp 1</text>
+            </label>
+            <label key="655431bb9d3551.60371821_a7db0ae147a372b050834dff7d9a5d16_18">
+                <text>Grupp 2</text>
+            </label>
+            <label key="655431bb9d3551.60371821_c48fb586bafceade4dc798035d1b71f9_19">
+                <text>Grupp 3</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/655431bb9d3551.60371821/passage NEW.xml">
+            <label key="655431bb9d3551.60371821_6516943b23308a054e79ae0dbc97e7a3_1">
+                <text>Temperatur vid jordens yta</text>
+            </label>
+            <label key="655431bb9d3551.60371821_1223945ad962c572503f3939ed31bc36_2">
+                <text>Tre oberoende forskningsgrupper har övervakat medeltemperaturen vid jordytan (global temperatur) de senaste 120 åren. Varje forskningsgrupp använder en unik datakälla.</text>
+            </label>
+            <label key="655431bb9d3551.60371821_d41cafb39860e0618688ece5d6b5f014_3">
+                <text>The graph shows the global temperature for every year as a difference (°C) relative to the average global temperature for the entire period from 1900 - 2020.</text>
+            </label>
+            <label key="655431bb9d3551.60371821_fe8e712b5eb6f8b3025c327f440fd9d3_4">
+                <text>Data från de tre studierna representeras av de individuella linjerna i diagrammet.</text>
+            </label>
+            <label key="655431bb9d3551.60371821_feca17d09a33dc4178330872d462c57f_5">
+                <text>
+                    <strong>‌Förändringar i global temperatur‌</strong>
+                </text>
+            </label>
+            <label key="655431bb9d3551.60371821_5038dff6edbf14549cdda87f4973581a_6">
+                <text>
+                    <strong>‌Difference relative to average global temperature of the entire period 1900 - 2020 (°C)‌</strong>
+                </text>
+            </label>
+            <label key="655431bb9d3551.60371821_ea79fec51d5e73af1b2d808ecfe375b5_7">
+                <text>
+                    <strong>‌​Year‌</strong>
+                </text>
+            </label>
+            <label key="655431bb9d3551.60371821_c4ca4238a0b923820dcc509a6f75849b_8">
+                <text>1</text>
+            </label>
+            <label key="655431bb9d3551.60371821_57eeec0a6974ecb4e9fcf68fab052f7b_9">
+                <text>0,8</text>
+            </label>
+            <label key="655431bb9d3551.60371821_e95e1ca27d0e39aa03eb5a611ce4122f_10">
+                <text>0,6</text>
+            </label>
+            <label key="655431bb9d3551.60371821_54fbf38cf649866815e0fefc46a1f6c7_11">
+                <text>0,4</text>
+            </label>
+            <label key="655431bb9d3551.60371821_3d522deaf85577451c01974654b36ad3_12">
+                <text>0,2</text>
+            </label>
+            <label key="655431bb9d3551.60371821_65b55f9cf93fe88e02a5d53a3e7e503c_13">
+                <text>-0.2</text>
+            </label>
+            <label key="655431bb9d3551.60371821_d1ab6103a7baf2fcf7a1611ac2299261_14">
+                <text>-0.4</text>
+            </label>
+            <label key="655431bb9d3551.60371821_58caf77267e2fe1236a852aed9727d90_15">
+                <text>-0.6</text>
+            </label>
+            <label key="655431bb9d3551.60371821_d1873f932094965046189f6d523b6ea2_16">
+                <text>-0.8</text>
+            </label>
+            <label key="655431bb9d3551.60371821_21a4cad8c877d2951bed94b5bc4e00b5_17">
+                <text>Grupp 1</text>
+            </label>
+            <label key="655431bb9d3551.60371821_a7db0ae147a372b050834dff7d9a5d16_18">
+                <text>Grupp 2</text>
+            </label>
+            <label key="655431bb9d3551.60371821_c48fb586bafceade4dc798035d1b71f9_19">
+                <text>Grupp 3</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65543212e12fd8.94255959/passage NEW 3.xml">
+            <label key="65543212e12fd8.94255959_6516943b23308a054e79ae0dbc97e7a3_1">
+                <text>Temperatur vid jordens yta</text>
+            </label>
+            <label key="65543212e12fd8.94255959_bfecc5b04bf9aa1479818cc240394785_2">
+                <text>De två diagrammen representerar förändringar av den globala havsnivån och medeltemperaturen för perioden 1900-2020.</text>
+            </label>
+            <label key="65543212e12fd8.94255959_ea4e78559019a42fcaa61a1ffe6bda91_3">
+                <text>This graph shows the global temperature for every year as a difference (°C) relative to the average global temperature of the entire period 1900 - 2020.</text>
+            </label>
+            <label key="65543212e12fd8.94255959_feca17d09a33dc4178330872d462c57f_4">
+                <text>
+                    <strong>‌Förändringar i global temperatur‌</strong>
+                </text>
+            </label>
+            <label key="65543212e12fd8.94255959_5038dff6edbf14549cdda87f4973581a_5">
+                <text>
+                    <strong>‌Difference relative to average global temperature of the entire period 1900 - 2020 (°C)‌</strong>
+                </text>
+            </label>
+            <label key="65543212e12fd8.94255959_83c8d5cd2d88af2e5a3f8321f823dc19_6">
+                <text>
+                    <strong>‌År‌</strong>
+                </text>
+            </label>
+            <label key="65543212e12fd8.94255959_c4ca4238a0b923820dcc509a6f75849b_7">
+                <text>1</text>
+            </label>
+            <label key="65543212e12fd8.94255959_57eeec0a6974ecb4e9fcf68fab052f7b_8">
+                <text>0,8</text>
+            </label>
+            <label key="65543212e12fd8.94255959_e95e1ca27d0e39aa03eb5a611ce4122f_9">
+                <text>0,6</text>
+            </label>
+            <label key="65543212e12fd8.94255959_54fbf38cf649866815e0fefc46a1f6c7_10">
+                <text>0,4</text>
+            </label>
+            <label key="65543212e12fd8.94255959_3d522deaf85577451c01974654b36ad3_11">
+                <text>0,2</text>
+            </label>
+            <label key="65543212e12fd8.94255959_65b55f9cf93fe88e02a5d53a3e7e503c_12">
+                <text>-0.2</text>
+            </label>
+            <label key="65543212e12fd8.94255959_d1ab6103a7baf2fcf7a1611ac2299261_13">
+                <text>-0.4</text>
+            </label>
+            <label key="65543212e12fd8.94255959_58caf77267e2fe1236a852aed9727d90_14">
+                <text>-0.6</text>
+            </label>
+            <label key="65543212e12fd8.94255959_d1873f932094965046189f6d523b6ea2_15">
+                <text>-0.8</text>
+            </label>
+            <label key="65543212e12fd8.94255959_21a4cad8c877d2951bed94b5bc4e00b5_16">
+                <text>Grupp 1</text>
+            </label>
+            <label key="65543212e12fd8.94255959_a7db0ae147a372b050834dff7d9a5d16_17">
+                <text>Grupp 2</text>
+            </label>
+            <label key="65543212e12fd8.94255959_c48fb586bafceade4dc798035d1b71f9_18">
+                <text>Grupp 3</text>
+            </label>
+            <label key="65543212e12fd8.94255959_fcabb942f30af7403a3bc0ac2c2edc49_19">
+                <text>This graph shows the average global sea level for every year as a difference (mm) relative to the average global sea level of the entire period 1900 - 2020.</text>
+            </label>
+            <label key="65543212e12fd8.94255959_4e7791ef118e838f5964a6fba5cfdbe3_20">
+                <text>
+                    <strong>‌Förändring i global havsnivå‌</strong>
+                </text>
+            </label>
+            <label key="65543212e12fd8.94255959_c393aeadbc10467123b1718b1676dfe4_21">
+                <text>
+                    <strong>‌Difference relative to average global sea level of the entire period 1900 - 2020 (mm)‌</strong>
+                </text>
+            </label>
+            <label key="65543212e12fd8.94255959_83c8d5cd2d88af2e5a3f8321f823dc19_22">
+                <text>
+                    <strong>‌År‌</strong>
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i639a5318dce1b45818b4cba1475727bb83">
+            <label key="i639a5318dce1b45818b4cba1475727bb83_a0e038c40e94807516bda363f5797610_1">
+                <text>Vilka av följande anledningar förklarar varför det är fördelaktigt att jämföra uppgifterna om globala temperaturer från de olika källorna?</text>
+            </label>
+            <label key="i639a5318dce1b45818b4cba1475727bb83_89b1c1de80f35eb0f385836481797561_2">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i639a5318dce1b45818b4cba1475727bb83_A_79d884e5705199d8e20a78bd93d5f0c8_3">
+                <text>Forskargrupper kommunicerar sällan med varandra.</text>
+            </label>
+            <label key="i639a5318dce1b45818b4cba1475727bb83_B_e7f24eb2b3c249b26cf1aa5215343cfb_4">
+                <text>Skillnader i data från varje källa för varje år gör det möjligt att uppskatta fel.</text>
+            </label>
+            <label key="i639a5318dce1b45818b4cba1475727bb83_C_6c563f7ab8d0853465df4dcb857b6e05_5">
+                <text>Genom att jämföra olika data från olika källor kan varje forskargrupp identifiera och korrigera sina felaktiga mätningar.</text>
+            </label>
+            <label key="i639a5318dce1b45818b4cba1475727bb83_D_d51457426f5ad9a12266b2b452a605da_6">
+                <text>Eftersom uppgifterna från källorna skiljer sig åt kan noggrannheten i metoderna som används bedömas.</text>
+            </label>
+        </item>
+        <item id="i639a52b06e8e9458375c35e38d96274879">
+            <label key="i639a52b06e8e9458375c35e38d96274879_97dbf086011eb35f1be306059fba7381_1">
+                <text>Granska data för den globala temperaturen för de två perioderna 1900-1920 och 1950-1970</text>
+            </label>
+            <label key="i639a52b06e8e9458375c35e38d96274879_0b95267f89fc4823325af6e035e4a66b_2">
+                <text>Vilken slutsats kan dras från en jämförelse av data från dessa perioder?</text>
+            </label>
+            <label key="i639a52b06e8e9458375c35e38d96274879_A_f8273808cf7c1d3b4c6236c7a28fd35f_3">
+                <text>Den globala temperaturen varierar för mycket under var och en av de två perioderna för att man ska kunna dra slutsatsen att jordens temperatur stiger över tid.</text>
+            </label>
+            <label key="i639a52b06e8e9458375c35e38d96274879_B_aeeb55f27f8f09131d808803d919989e_4">
+                <text>Inom varje 20-årsperiod förändrades den globala temperaturen lite totalt sett. Vi kan förvänta oss ännu en period (2020-2040) när den globala temperaturen förändras lite totalt sett.</text>
+            </label>
+            <label key="i639a52b06e8e9458375c35e38d96274879_C_6310dedbd61f8a5a6aadf210ede9fe6c_5">
+                <text>Det finns år efter var och en av de två perioderna 1940–1945 och 1980–1985 där den globala temperaturen knappt förändras. Det tyder på att det inte sker någon verklig ökning av den globala temperaturen över tid.</text>
+            </label>
+            <label key="i639a52b06e8e9458375c35e38d96274879_D_fbd286dc564719eec8e1ab7d2a7f3dac_6">
+                <text>Perioden 1950–1970 hade en högre genomsnittlig global temperatur än perioden 1900–1920. This confirms the hypothesis that global temperature is increasing over time.</text>
+            </label>
+        </item>
+        <item id="i639a52d55f3241945859d34c36063d20b9">
+            <label key="i639a52d55f3241945859d34c36063d20b9_746c04481c52e76e19dd011daf4b660d_1">
+                <text>Två personer diskuterar det möjliga förhållandet mellan de två graferna.</text>
+            </label>
+            <label key="i639a52d55f3241945859d34c36063d20b9_eeee8b2f63852df8fff10a0d8212a68a_2">
+                <text>Sharmin</text>
+            </label>
+            <label key="i639a52d55f3241945859d34c36063d20b9_d271cd9f316c6d89e708bdae87700194_3">
+                <text>Stigande medeltemperatur är den enda orsaken till stigande havsnivåer.</text>
+            </label>
+            <label key="i639a52d55f3241945859d34c36063d20b9_194cd2f711cebc782ada13e259bf61dd_4">
+                <text>Isabella</text>
+            </label>
+            <label key="i639a52d55f3241945859d34c36063d20b9_d77073b3a402627e57077d9f6fef9819_5">
+                <text>Faktorer förutom global temperatur påverkar havsnivåns höjning.</text>
+            </label>
+            <label key="i639a52d55f3241945859d34c36063d20b9_94a8f29ce6f8920946c8f44a29488325_6">
+                <text>Förklara hur data i de två diagrammen kan användas för att stödja Isabellas åsikt.</text>
+            </label>
+        </item>
+    </items>
+</file>

@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64aff0632e3a10.22959786/passage NEW 2.xml">
+            <label key="64aff0632e3a10.22959786_29c4f2ba36d71a4f3138d40acdf34477_1">
+                <text>Sjunkande städer</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_7fe6272b26f668a1d76dfd288ec27d54_2">
+                <text>Kuststäder löper stor risk att påverkas av stigande havsnivåer. Risken ökar om marken som städerna är byggda på sjunker. Detta sjunkande kallas sättning (vertikal nedåtrörelse av jordytan).</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_dd1f45a25828b298d08255ac5bc7a89d_3">
+                <text>Vissa av de mest befolkade kuststäderna sjunker snabbare än vad havsnivåerna stiger.</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_27cd3e272e585df87b5d4130d7d0f96c_4">
+                <text>Tabellen visar den maximala takten som vissa städer har sjunkit med under de senaste 20 åren.</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_3e66364d8275101a203f513c1f03ea73_5">
+                <text>Klimattyp</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_0bb9e10a3c4b03e6119e6c10b20d6869_6">
+                <text>Kontinent</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_59716c97497eb9694541f7c3d37b1a4d_7">
+                <text>Land</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_57d056ed0984166336b7879c2af3657f_8">
+                <text>Stad</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_262cb832bee8ae3f5cb1b06b7054eaf1_9">
+                <text>Maximal sättningsgrad</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_14664c942a201a778fcf603ece8128f5_10">
+                <text>(mm/år)</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_11">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_aab422acb3d2334a6deca0e1495745c2_12">
+                <text>Sydamerika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_3536be57ce0713954e454ae6c53ec023_13">
+                <text>Argentina</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_464f18360a31a99b8003db4c668244c0_14">
+                <text>Buenos Aires</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e4da3b7fbbce2345d7772b0674a318d5_15">
+                <text>5</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_16">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_5ffec2d87ab548202f8b549af380913a_17">
+                <text>Nordamerika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_1f122dd19db580fd03635dd699fb49de_18">
+                <text>Amerikas förenta stater</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_87809c954948d8a20507bee3648281b3_19">
+                <text>New York</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e4da3b7fbbce2345d7772b0674a318d5_20">
+                <text>5</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_21">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_154a67340e8c14dd5253dc4ff6120197_22">
+                <text>Asien</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_53a577bb3bc587b0c28ab808390f1c9b_23">
+                <text>Japan</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_62413a57c5e3dc51177995fa175d3286_24">
+                <text>Tokyo</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e4da3b7fbbce2345d7772b0674a318d5_25">
+                <text>5</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_4616594df26c58d9dbed290898452f67_26">
+                <text>Tropiskt</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_f5cd262901883dff68d06b215fb0f28e_27">
+                <text>Afrika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_c03b1123e45fa00da3142e0424ee5eec_28">
+                <text>Tanzania</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_cde2d5e4d7c441ee80fcd3d7b328bebf_29">
+                <text>Dar es Salaam</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_d3d9446802a44259755d38e6d163e820_30">
+                <text>10</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_cf9aa4a8c7ba117f298a2b52cc38a2d1_31">
+                <text>Torrt</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_aab422acb3d2334a6deca0e1495745c2_32">
+                <text>Sydamerika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_84c8fa2341f7d052a1ee3a36ff043798_33">
+                <text>Peru</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_0cb9cde516c38ed84dc1f3f2b5556ed3_34">
+                <text>Lima</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_d3d9446802a44259755d38e6d163e820_35">
+                <text>10</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_36">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_912d59cdf1d3f551fae21f6f0062258f_37">
+                <text>Europa</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_907eba32d950bfab68227fd7ea22999b_38">
+                <text>Spanien</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_550d05ab240ec337038af814ff0de287_39">
+                <text>Barcelona</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_9bf31c7ff062936a96d3c8bd1f8f2ff3_40">
+                <text>15</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_41">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_912d59cdf1d3f551fae21f6f0062258f_42">
+                <text>Europa</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_89f9c9f489be2a83cf57e53b9197d288_43">
+                <text>Storbritannien</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_59ead8d1e124ccfb79f3ace06f43e703_44">
+                <text>London</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_9bf31c7ff062936a96d3c8bd1f8f2ff3_45">
+                <text>15</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_4616594df26c58d9dbed290898452f67_46">
+                <text>Tropiskt</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_f5cd262901883dff68d06b215fb0f28e_47">
+                <text>Afrika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_5d839147c83e283c1d1bb705dc50586f_48">
+                <text>Nigeria</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_8db95c71eae98cf838c50d8916379eef_49">
+                <text>Lagos</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_34173cb38f07f89ddbebc2ac9128303f_50">
+                <text>30</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_51">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_5ffec2d87ab548202f8b549af380913a_52">
+                <text>Nordamerika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_1f122dd19db580fd03635dd699fb49de_53">
+                <text>Amerikas förenta stater</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_a25b2dff7d13c650e6c7e6bfb3bba5a3_54">
+                <text>Houston</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_34173cb38f07f89ddbebc2ac9128303f_55">
+                <text>30</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_bee7bcaf2383651ed979f96d82078465_56">
+                <text>Torrt/kontinentalt</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_154a67340e8c14dd5253dc4ff6120197_57">
+                <text>Asien</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_ae54a5c026f31ada088992587d92cb3a_58">
+                <text>Kina</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_fe3697ee52d5d2841541ce5808afea1c_59">
+                <text>Tianjin</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_d09bf41544a3365a46c9077ebb5e35c3_60">
+                <text>75</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_4616594df26c58d9dbed290898452f67_61">
+                <text>Tropiskt</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_154a67340e8c14dd5253dc4ff6120197_62">
+                <text>Asien</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_fdef6daa799e80dbce1b561577b21181_63">
+                <text>Vietnam</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e584f78d3cccdd5071a8b5ae30e0f6ae_64">
+                <text>Ho Chi Minh-staden</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_f033ab37c30201f73f142449d037028d_65">
+                <text>80</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64aff0632e3a10.22959786/passage NEW 2.xml">
+            <label key="64aff0632e3a10.22959786_29c4f2ba36d71a4f3138d40acdf34477_1">
+                <text>Sjunkande städer</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_7fe6272b26f668a1d76dfd288ec27d54_2">
+                <text>Kuststäder löper stor risk att påverkas av stigande havsnivåer. Risken ökar om marken som städerna är byggda på sjunker. Detta sjunkande kallas sättning (vertikal nedåtrörelse av jordytan).</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_dd1f45a25828b298d08255ac5bc7a89d_3">
+                <text>Vissa av de mest befolkade kuststäderna sjunker snabbare än vad havsnivåerna stiger.</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_27cd3e272e585df87b5d4130d7d0f96c_4">
+                <text>Tabellen visar den maximala takten som vissa städer har sjunkit med under de senaste 20 åren.</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_3e66364d8275101a203f513c1f03ea73_5">
+                <text>Klimattyp</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_0bb9e10a3c4b03e6119e6c10b20d6869_6">
+                <text>Kontinent</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_59716c97497eb9694541f7c3d37b1a4d_7">
+                <text>Land</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_57d056ed0984166336b7879c2af3657f_8">
+                <text>Stad</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_262cb832bee8ae3f5cb1b06b7054eaf1_9">
+                <text>Maximal sättningsgrad</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_14664c942a201a778fcf603ece8128f5_10">
+                <text>(mm/år)</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_11">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_aab422acb3d2334a6deca0e1495745c2_12">
+                <text>Sydamerika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_3536be57ce0713954e454ae6c53ec023_13">
+                <text>Argentina</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_464f18360a31a99b8003db4c668244c0_14">
+                <text>Buenos Aires</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e4da3b7fbbce2345d7772b0674a318d5_15">
+                <text>5</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_16">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_5ffec2d87ab548202f8b549af380913a_17">
+                <text>Nordamerika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_1f122dd19db580fd03635dd699fb49de_18">
+                <text>Amerikas förenta stater</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_87809c954948d8a20507bee3648281b3_19">
+                <text>New York</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e4da3b7fbbce2345d7772b0674a318d5_20">
+                <text>5</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_21">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_154a67340e8c14dd5253dc4ff6120197_22">
+                <text>Asien</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_53a577bb3bc587b0c28ab808390f1c9b_23">
+                <text>Japan</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_62413a57c5e3dc51177995fa175d3286_24">
+                <text>Tokyo</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e4da3b7fbbce2345d7772b0674a318d5_25">
+                <text>5</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_4616594df26c58d9dbed290898452f67_26">
+                <text>Tropiskt</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_f5cd262901883dff68d06b215fb0f28e_27">
+                <text>Afrika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_c03b1123e45fa00da3142e0424ee5eec_28">
+                <text>Tanzania</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_cde2d5e4d7c441ee80fcd3d7b328bebf_29">
+                <text>Dar es Salaam</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_d3d9446802a44259755d38e6d163e820_30">
+                <text>10</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_cf9aa4a8c7ba117f298a2b52cc38a2d1_31">
+                <text>Torrt</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_aab422acb3d2334a6deca0e1495745c2_32">
+                <text>Sydamerika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_84c8fa2341f7d052a1ee3a36ff043798_33">
+                <text>Peru</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_0cb9cde516c38ed84dc1f3f2b5556ed3_34">
+                <text>Lima</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_d3d9446802a44259755d38e6d163e820_35">
+                <text>10</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_36">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_912d59cdf1d3f551fae21f6f0062258f_37">
+                <text>Europa</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_907eba32d950bfab68227fd7ea22999b_38">
+                <text>Spanien</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_550d05ab240ec337038af814ff0de287_39">
+                <text>Barcelona</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_9bf31c7ff062936a96d3c8bd1f8f2ff3_40">
+                <text>15</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_41">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_912d59cdf1d3f551fae21f6f0062258f_42">
+                <text>Europa</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_89f9c9f489be2a83cf57e53b9197d288_43">
+                <text>Storbritannien</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_59ead8d1e124ccfb79f3ace06f43e703_44">
+                <text>London</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_9bf31c7ff062936a96d3c8bd1f8f2ff3_45">
+                <text>15</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_4616594df26c58d9dbed290898452f67_46">
+                <text>Tropiskt</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_f5cd262901883dff68d06b215fb0f28e_47">
+                <text>Afrika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_5d839147c83e283c1d1bb705dc50586f_48">
+                <text>Nigeria</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_8db95c71eae98cf838c50d8916379eef_49">
+                <text>Lagos</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_34173cb38f07f89ddbebc2ac9128303f_50">
+                <text>30</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e83280629ee0ad3886e8921fb8927ced_51">
+                <text>Tempererat</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_5ffec2d87ab548202f8b549af380913a_52">
+                <text>Nordamerika</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_1f122dd19db580fd03635dd699fb49de_53">
+                <text>Amerikas förenta stater</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_a25b2dff7d13c650e6c7e6bfb3bba5a3_54">
+                <text>Houston</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_34173cb38f07f89ddbebc2ac9128303f_55">
+                <text>30</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_bee7bcaf2383651ed979f96d82078465_56">
+                <text>Torrt/kontinentalt</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_154a67340e8c14dd5253dc4ff6120197_57">
+                <text>Asien</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_ae54a5c026f31ada088992587d92cb3a_58">
+                <text>Kina</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_fe3697ee52d5d2841541ce5808afea1c_59">
+                <text>Tianjin</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_d09bf41544a3365a46c9077ebb5e35c3_60">
+                <text>75</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_4616594df26c58d9dbed290898452f67_61">
+                <text>Tropiskt</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_154a67340e8c14dd5253dc4ff6120197_62">
+                <text>Asien</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_fdef6daa799e80dbce1b561577b21181_63">
+                <text>Vietnam</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_e584f78d3cccdd5071a8b5ae30e0f6ae_64">
+                <text>Ho Chi Minh-staden</text>
+            </label>
+            <label key="64aff0632e3a10.22959786_f033ab37c30201f73f142449d037028d_65">
+                <text>80</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64aff0af7f4f44.42761095/passage NEW 3.xml">
+            <label key="64aff0af7f4f44.42761095_29c4f2ba36d71a4f3138d40acdf34477_1">
+                <text>Sjunkande städer</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_52dc91b47d1cc552ed6a0b4190cbb433_2">
+                <text>Följande faktorer påverkar sättningen (successiv marksänkning):</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_db43c3f4c433cce1e2c2549a2f505d9a_3">
+                <text>vilken typ av material som lagren under ytan består av</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_55bbd04f8a6853c01b144f0ab63889f2_4">
+                <text>hur de olika lagren pressas samman när en fluid (till exempel gas, olja eller vatten) avlägsnas.</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_80b6c808128cc0e7f1953f70140d5f72_5">
+                <text>
+                    Städer använder ofta borrhåll (brunnar) för att ta upp grundvatten till ytan för sin vattenförsörjning.
+                     
+                </text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_3b05cd3b2d113b6754d8165b610d97ac_6">
+                <text>Nedanstående diagram visar hur ett borrhål kan göra så att en stad sjunker.</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_4f3434f92514eca194282613de0641e3_7">
+                <text>borrhål</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_12a055bf01a31369fe81ac35d85c7bc1_8">
+                <text>djup</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_d9885150bd759b4712bd60085616c80a_9">
+                <text>jordlager</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_820345b26c5c06335e45c9e68ee664e1_10">
+                <text>underjordisk vattennivå </text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_26b10f41cc5375f5642b30461955f388_11">
+                <text>sandlager</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_c8e4eaa5e9962afcb380eaabca6843e5_12">
+                <text>jordrörelse</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_18a96d19fcc7de134202f6708dd5f01c_13">
+                <text>lerlager</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_7e8673665e052154b057a6751147ad90_14">
+                <text>vattenrörelse</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64aff0af7f4f44.42761095/passage NEW 3.xml">
+            <label key="64aff0af7f4f44.42761095_29c4f2ba36d71a4f3138d40acdf34477_1">
+                <text>Sjunkande städer</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_52dc91b47d1cc552ed6a0b4190cbb433_2">
+                <text>Följande faktorer påverkar sättningen (successiv marksänkning):</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_db43c3f4c433cce1e2c2549a2f505d9a_3">
+                <text>vilken typ av material som lagren under ytan består av</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_55bbd04f8a6853c01b144f0ab63889f2_4">
+                <text>hur de olika lagren pressas samman när en fluid (till exempel gas, olja eller vatten) avlägsnas.</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_80b6c808128cc0e7f1953f70140d5f72_5">
+                <text>
+                    Städer använder ofta borrhåll (brunnar) för att ta upp grundvatten till ytan för sin vattenförsörjning.
+                     
+                </text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_3b05cd3b2d113b6754d8165b610d97ac_6">
+                <text>Nedanstående diagram visar hur ett borrhål kan göra så att en stad sjunker.</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_4f3434f92514eca194282613de0641e3_7">
+                <text>borrhål</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_12a055bf01a31369fe81ac35d85c7bc1_8">
+                <text>djup</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_d9885150bd759b4712bd60085616c80a_9">
+                <text>jordlager</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_820345b26c5c06335e45c9e68ee664e1_10">
+                <text>underjordisk vattennivå </text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_26b10f41cc5375f5642b30461955f388_11">
+                <text>sandlager</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_c8e4eaa5e9962afcb380eaabca6843e5_12">
+                <text>jordrörelse</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_18a96d19fcc7de134202f6708dd5f01c_13">
+                <text>lerlager</text>
+            </label>
+            <label key="64aff0af7f4f44.42761095_7e8673665e052154b057a6751147ad90_14">
+                <text>vattenrörelse</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63929eb35208523322c654befc919bd2c">
+            <label key="i63929eb35208523322c654befc919bd2c_a80413ab352dda52fd0af7fe5b6e9b5e_1">
+                <text>Orsakerna till sättning omfattar bland annat avlägsnande av grundvatten, utvinning av olja och gas samt vikten från byggnader.</text>
+            </label>
+            <label key="i63929eb35208523322c654befc919bd2c_ad29b2a880f26b349034beefb23bf620_2">
+                <text>Vilken av dessa ytterligare faktorer skulle också kunna orsaka sättning?</text>
+            </label>
+            <label key="i63929eb35208523322c654befc919bd2c_89b1c1de80f35eb0f385836481797561_3">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i63929eb35208523322c654befc919bd2c_A_903a27988610264db7bb749fb5b3e218_4">
+                <text>bevattning av odlingar med regnvatten som lagrats i tankar</text>
+            </label>
+            <label key="i63929eb35208523322c654befc919bd2c_B_dd0e2bcf2acd6b6afd6fed1529c96da9_5">
+                <text>smältande glaciärer</text>
+            </label>
+            <label key="i63929eb35208523322c654befc919bd2c_C_2da8fe1e938432cfed1a686cecdb57b1_6">
+                <text>rörelsen hos tektoniska plattor</text>
+            </label>
+            <label key="i63929eb35208523322c654befc919bd2c_D_8926c466fae77198cf3bc79d04da8fc1_7">
+                <text>säsongsvariationer i floders vattenflöde</text>
+            </label>
+        </item>
+        <item id="i63929e97a6e16175052131484edd5b98b1">
+            <label key="i63929e97a6e16175052131484edd5b98b1_db955e41785d87c166b01498964e6b26_1">
+                <text>En nyhetsartikel påstår att ”sättning är ett allvarligt problem som <strong>endast</strong> påverkar tropiska städer i Asien”. </text>
+            </label>
+            <label key="i63929e97a6e16175052131484edd5b98b1_e3bf924a05642700f1a803b35d31a84f_2">
+                <text>En redaktör använder tabellen till höger för att faktagranska artikeln.</text>
+            </label>
+            <label key="i63929e97a6e16175052131484edd5b98b1_70e556e23c83f135d053a33ec894200b_3">
+                <text>Redaktören beslutar att påståendet är felaktigt.</text>
+            </label>
+            <label key="i63929e97a6e16175052131484edd5b98b1_69766e3f918cc695d4d5bf731c3cdad9_4">
+                <text>Vilka av följande påståenden ger stöd åt redaktörens beslut?</text>
+            </label>
+            <label key="i63929e97a6e16175052131484edd5b98b1_89b1c1de80f35eb0f385836481797561_5">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i63929e97a6e16175052131484edd5b98b1_A_e7bbd75cf2dc892abefcffc3889c3bbb_6">
+                <text>De städer som påverkas mest av sättningen ligger i Asien.  </text>
+            </label>
+            <label key="i63929e97a6e16175052131484edd5b98b1_B_cdc12de1e89e66121c2443f18d8aacd6_7">
+                <text>Tokyo, Tianjin och New York påverkas av sättning.</text>
+            </label>
+            <label key="i63929e97a6e16175052131484edd5b98b1_C_57e2706a0e26ecadcd9246b1e90b77f0_8">
+                <text>London och Barcelona sjunker med 15 mm/år.</text>
+            </label>
+            <label key="i63929e97a6e16175052131484edd5b98b1_D_645eb1e71e504f0a3d5f3d2e0855ad80_9">
+                <text>Ho Chi Minh-staden har sjunkit med en takt av 80 mm/år de senaste 20 åren. </text>
+            </label>
+        </item>
+        <item id="i63929e75e9b46174553720433c5e3bbc1e">
+            <label key="i63929e75e9b46174553720433c5e3bbc1e_d2b5831ed246ec12665b138b97eb36b5_1">
+                <text>Diagrammet till höger visar en process som får städer att sjunka.</text>
+            </label>
+            <label key="i63929e75e9b46174553720433c5e3bbc1e_4ade6a07d44d7151565006de94e2714f_2">
+                <text>Vilken av följande meningar förklarar bäst hur städer sjunker genom denna process?</text>
+            </label>
+            <label key="i63929e75e9b46174553720433c5e3bbc1e_A_c82e24677ef30b1d7b35203159fda79f_3">
+                <text>Vatten avlägsnas från sandlagret, vilket gör att sanden pressas in i lerlagret.</text>
+            </label>
+            <label key="i63929e75e9b46174553720433c5e3bbc1e_B_9603a0a83efaba1aaf0b4b16e8a36267_4">
+                <text>Vatten avlägsnas från lerlagret, vilket gör att leran pressas in i sandlagret.</text>
+            </label>
+            <label key="i63929e75e9b46174553720433c5e3bbc1e_C_c5cdd77e050b4d4ac82935eeb5f0149b_5">
+                <text>Vatten rör sig från sandlagret in i lerlagret vilket gör att sandlagret pressas samman.</text>
+            </label>
+            <label key="i63929e75e9b46174553720433c5e3bbc1e_D_2dc3d6ec767502d963582fcebecd9ea0_6">
+                <text>Vatten rör sig från lerlagret in i sandlagret, vilket gör att lerlagret pressa samman. </text>
+            </label>
+        </item>
+        <item id="i63bb5d5a0ef3623216846038fab25e5283">
+            <label key="i63bb5d5a0ef3623216846038fab25e5283_b6851c0161a62d780411e14d1977029d_1">
+                <text>Koldioxidinfångning, en metod för att ta bort överskott av koldioxid (CO₂) från atmosfären, skulle kunna bidra till att minska sättningen.</text>
+            </label>
+            <label key="i63bb5d5a0ef3623216846038fab25e5283_75bb8c94e4d7ff629117033e345a4b7c_2">
+                <text>En typ av koldioxidinfångning är att pressa in CO₂ i porös berggrund som olja tidigare har utvunnits från.</text>
+            </label>
+            <label key="i63bb5d5a0ef3623216846038fab25e5283_a387b86d4eaa93f9bf16d3da9d84c254_3">
+                <text>Beslutsfattare behöver tillförlitlig information för att avgöra vilken åtgärd som behövs för att minska mängden CO₂ i atmosfären och minska sättningen.</text>
+            </label>
+            <label key="i63bb5d5a0ef3623216846038fab25e5283_3c00e462e178cbb1c55ba7141749acfe_4">
+                <text>Vilken av följande informationskällor om koldioxidinfångning är <strong>mest</strong> tillförlitlig?</text>
+            </label>
+            <label key="i63bb5d5a0ef3623216846038fab25e5283_A_8295d30429b9238dce40a8caea2323bd_5">
+                <text>en tävling på sociala medier för att hitta den bästa tekniken för koldioxidinfångning</text>
+            </label>
+            <label key="i63bb5d5a0ef3623216846038fab25e5283_B_0fc4dba963f3d40369099a02965714e6_6">
+                <text>en debattartikel i tidskriften <em>Hållbara planetälskare</em> som innehåller debatt mellan vetenskapsjournalister</text>
+            </label>
+            <label key="i63bb5d5a0ef3623216846038fab25e5283_C_1e638b1eb5afc12fa509b53f92c78a73_7">
+                <text>en ledare i <em>en bankförenings nyhetsblad</em> som diskuterar koldioxidinfångning och sannolikheten för att CO₂ blir kvar under jorden</text>
+            </label>
+            <label key="i63bb5d5a0ef3623216846038fab25e5283_choice_1_877dde8e46eb4a1de646bb0cd7166e5a_8">
+                <text>en artikel i tidskriften <em>Science of Carbon Journal</em> granskad av experter på området, om energikostnader i samband med koldioxidinfångning.</text>
+            </label>
+            <label key="i63bb5d5a0ef3623216846038fab25e5283_14a742a5c8a85e7bdbb23e8e791c910b_9">
+                <text>Förklara ditt val.</text>
+            </label>
+        </item>
+    </items>
+</file>

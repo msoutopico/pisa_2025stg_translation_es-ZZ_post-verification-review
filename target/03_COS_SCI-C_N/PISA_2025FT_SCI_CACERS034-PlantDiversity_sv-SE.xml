@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64c0762d409599.90436102/passage NEW 7.xml">
+            <label key="64c0762d409599.90436102_e7a98ad17f31c49a225f3fa8aa222e8f_1">
+                <text>Mångfald av växter</text>
+            </label>
+            <label key="64c0762d409599.90436102_080d216caf7f030f17a5c0211be73f94_2">
+                <text>En savann (en typ av gräsmark med glest utspridda träd) med <strong>långbarrig tall</strong> avverkades och ersattes av en tallodling med tätt odlad <strong>loblollytall</strong>.</text>
+            </label>
+            <label key="64c0762d409599.90436102_90049641a86156abbdbb553328406ea4_3">
+                <text>Efter tjugo år avverkade forskare några områden, så kallade 'odlingsytor', i loblollytallodlingen.  De satte plantor av långbarrig tall på dessa odlingsytor.</text>
+            </label>
+            <label key="64c0762d409599.90436102_cc1d28369ac5178565d89a9bccbe5c2c_4">
+                <text>Odlingsytorna anlades i loblollyplanteringen så som visas i diagrammet nedan.</text>
+            </label>
+            <label key="64c0762d409599.90436102_19c99b65e9f79425ff870dd1647fc371_5">
+                <text>En odlingsyta i mitten (M) på 1 hektar omgavs av fyra större odlingsytor på 1,4 hektar vardera.</text>
+            </label>
+            <label key="64c0762d409599.90436102_49d5f344eca3d6bcfcb1a2ebf0c4a7e5_6">
+                <text>En avverkad korridor band samman odlingsytan i mitten med odlingsyta (C).</text>
+            </label>
+            <label key="64c0762d409599.90436102_c1275b3f49f58260b23620b6ba314a86_7">
+                <text>Två odlingsytor (W1 och W2) hade avverkade förlängningar som liknade den sammanbindande korridoren men utan att sitta ihop med någon annan odlingsyta.</text>
+            </label>
+            <label key="64c0762d409599.90436102_843ee6703e04175f1cc88768f022cc1d_8">
+                <text>Den sista odlingsytan (R) är en rektangel utan korridor eller förlängningar.</text>
+            </label>
+            <label key="64c0762d409599.90436102_5d8c075eb10b285c98efe49489e2d819_9">
+                <text>
+                    <strong>‌Odlingsytor omgivna av tätt odlad loblollytall‌</strong>
+                </text>
+            </label>
+            <label key="64c0762d409599.90436102_1e9944dfac1eac7a602d65620b492a48_10">
+                <text>W1</text>
+            </label>
+            <label key="64c0762d409599.90436102_432203f5791033ff8940e17055c1b08a_11">
+                <text>separat odlingsyta med förlängningar </text>
+            </label>
+            <label key="64c0762d409599.90436102_7e53baa89e649aacfb8c65185dc79089_12">
+                <text>odlingsyta som sitter ihop med en annan odlingsyta</text>
+            </label>
+            <label key="64c0762d409599.90436102_0d61f8370cad1d412f80b84d143e1257_13">
+                <text>C</text>
+            </label>
+            <label key="64c0762d409599.90436102_d6fe1d0be6347b8ef2427fa629c04485_14">
+                <text>korridor </text>
+            </label>
+            <label key="64c0762d409599.90436102_69691c7bdcc3ce6d5d8a1361f22d04ac_15">
+                <text>M</text>
+            </label>
+            <label key="64c0762d409599.90436102_6b60a1f67ad094bb406f337ba18995d9_16">
+                <text>odlingsytan i mitten</text>
+            </label>
+            <label key="64c0762d409599.90436102_e5e8c28e36c1edd6201c2e733b93ee45_17">
+                <text>150 m</text>
+            </label>
+            <label key="64c0762d409599.90436102_8d9ab096e96039cdbc98f547f9677632_18">
+                <text>100 m</text>
+            </label>
+            <label key="64c0762d409599.90436102_e1e1d3d40573127e9ee0480caf1283d6_19">
+                <text>R</text>
+            </label>
+            <label key="64c0762d409599.90436102_0ef000c711bc7cde3c2bbcc008ed33b8_20">
+                <text>separat rektangulär odlingsyta</text>
+            </label>
+            <label key="64c0762d409599.90436102_6636b1bcdba2ece333b879b21ffb949d_21">
+                <text>W2</text>
+            </label>
+            <label key="64c0762d409599.90436102_9d09eaa3488b31ecf98045c5f022df0f_22">
+                <text>separat odlingsyta med förlängningar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c0762d409599.90436102/passage NEW 7.xml">
+            <label key="64c0762d409599.90436102_e7a98ad17f31c49a225f3fa8aa222e8f_1">
+                <text>Mångfald av växter</text>
+            </label>
+            <label key="64c0762d409599.90436102_080d216caf7f030f17a5c0211be73f94_2">
+                <text>En savann (en typ av gräsmark med glest utspridda träd) med <strong>långbarrig tall</strong> avverkades och ersattes av en tallodling med tätt odlad <strong>loblollytall</strong>.</text>
+            </label>
+            <label key="64c0762d409599.90436102_90049641a86156abbdbb553328406ea4_3">
+                <text>Efter tjugo år avverkade forskare några områden, så kallade 'odlingsytor', i loblollytallodlingen.  De satte plantor av långbarrig tall på dessa odlingsytor.</text>
+            </label>
+            <label key="64c0762d409599.90436102_cc1d28369ac5178565d89a9bccbe5c2c_4">
+                <text>Odlingsytorna anlades i loblollyplanteringen så som visas i diagrammet nedan.</text>
+            </label>
+            <label key="64c0762d409599.90436102_19c99b65e9f79425ff870dd1647fc371_5">
+                <text>En odlingsyta i mitten (M) på 1 hektar omgavs av fyra större odlingsytor på 1,4 hektar vardera.</text>
+            </label>
+            <label key="64c0762d409599.90436102_49d5f344eca3d6bcfcb1a2ebf0c4a7e5_6">
+                <text>En avverkad korridor band samman odlingsytan i mitten med odlingsyta (C).</text>
+            </label>
+            <label key="64c0762d409599.90436102_c1275b3f49f58260b23620b6ba314a86_7">
+                <text>Två odlingsytor (W1 och W2) hade avverkade förlängningar som liknade den sammanbindande korridoren men utan att sitta ihop med någon annan odlingsyta.</text>
+            </label>
+            <label key="64c0762d409599.90436102_843ee6703e04175f1cc88768f022cc1d_8">
+                <text>Den sista odlingsytan (R) är en rektangel utan korridor eller förlängningar.</text>
+            </label>
+            <label key="64c0762d409599.90436102_5d8c075eb10b285c98efe49489e2d819_9">
+                <text>
+                    <strong>‌Odlingsytor omgivna av tätt odlad loblollytall‌</strong>
+                </text>
+            </label>
+            <label key="64c0762d409599.90436102_1e9944dfac1eac7a602d65620b492a48_10">
+                <text>W1</text>
+            </label>
+            <label key="64c0762d409599.90436102_432203f5791033ff8940e17055c1b08a_11">
+                <text>separat odlingsyta med förlängningar </text>
+            </label>
+            <label key="64c0762d409599.90436102_7e53baa89e649aacfb8c65185dc79089_12">
+                <text>odlingsyta som sitter ihop med en annan odlingsyta</text>
+            </label>
+            <label key="64c0762d409599.90436102_0d61f8370cad1d412f80b84d143e1257_13">
+                <text>C</text>
+            </label>
+            <label key="64c0762d409599.90436102_d6fe1d0be6347b8ef2427fa629c04485_14">
+                <text>korridor </text>
+            </label>
+            <label key="64c0762d409599.90436102_69691c7bdcc3ce6d5d8a1361f22d04ac_15">
+                <text>M</text>
+            </label>
+            <label key="64c0762d409599.90436102_6b60a1f67ad094bb406f337ba18995d9_16">
+                <text>odlingsytan i mitten</text>
+            </label>
+            <label key="64c0762d409599.90436102_e5e8c28e36c1edd6201c2e733b93ee45_17">
+                <text>150 m</text>
+            </label>
+            <label key="64c0762d409599.90436102_8d9ab096e96039cdbc98f547f9677632_18">
+                <text>100 m</text>
+            </label>
+            <label key="64c0762d409599.90436102_e1e1d3d40573127e9ee0480caf1283d6_19">
+                <text>R</text>
+            </label>
+            <label key="64c0762d409599.90436102_0ef000c711bc7cde3c2bbcc008ed33b8_20">
+                <text>separat rektangulär odlingsyta</text>
+            </label>
+            <label key="64c0762d409599.90436102_6636b1bcdba2ece333b879b21ffb949d_21">
+                <text>W2</text>
+            </label>
+            <label key="64c0762d409599.90436102_9d09eaa3488b31ecf98045c5f022df0f_22">
+                <text>separat odlingsyta med förlängningar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c0762d409599.90436102/passage NEW 7.xml">
+            <label key="64c0762d409599.90436102_e7a98ad17f31c49a225f3fa8aa222e8f_1">
+                <text>Mångfald av växter</text>
+            </label>
+            <label key="64c0762d409599.90436102_080d216caf7f030f17a5c0211be73f94_2">
+                <text>En savann (en typ av gräsmark med glest utspridda träd) med <strong>långbarrig tall</strong> avverkades och ersattes av en tallodling med tätt odlad <strong>loblollytall</strong>.</text>
+            </label>
+            <label key="64c0762d409599.90436102_90049641a86156abbdbb553328406ea4_3">
+                <text>Efter tjugo år avverkade forskare några områden, så kallade 'odlingsytor', i loblollytallodlingen.  De satte plantor av långbarrig tall på dessa odlingsytor.</text>
+            </label>
+            <label key="64c0762d409599.90436102_cc1d28369ac5178565d89a9bccbe5c2c_4">
+                <text>Odlingsytorna anlades i loblollyplanteringen så som visas i diagrammet nedan.</text>
+            </label>
+            <label key="64c0762d409599.90436102_19c99b65e9f79425ff870dd1647fc371_5">
+                <text>En odlingsyta i mitten (M) på 1 hektar omgavs av fyra större odlingsytor på 1,4 hektar vardera.</text>
+            </label>
+            <label key="64c0762d409599.90436102_49d5f344eca3d6bcfcb1a2ebf0c4a7e5_6">
+                <text>En avverkad korridor band samman odlingsytan i mitten med odlingsyta (C).</text>
+            </label>
+            <label key="64c0762d409599.90436102_c1275b3f49f58260b23620b6ba314a86_7">
+                <text>Två odlingsytor (W1 och W2) hade avverkade förlängningar som liknade den sammanbindande korridoren men utan att sitta ihop med någon annan odlingsyta.</text>
+            </label>
+            <label key="64c0762d409599.90436102_843ee6703e04175f1cc88768f022cc1d_8">
+                <text>Den sista odlingsytan (R) är en rektangel utan korridor eller förlängningar.</text>
+            </label>
+            <label key="64c0762d409599.90436102_5d8c075eb10b285c98efe49489e2d819_9">
+                <text>
+                    <strong>‌Odlingsytor omgivna av tätt odlad loblollytall‌</strong>
+                </text>
+            </label>
+            <label key="64c0762d409599.90436102_1e9944dfac1eac7a602d65620b492a48_10">
+                <text>W1</text>
+            </label>
+            <label key="64c0762d409599.90436102_432203f5791033ff8940e17055c1b08a_11">
+                <text>separat odlingsyta med förlängningar </text>
+            </label>
+            <label key="64c0762d409599.90436102_7e53baa89e649aacfb8c65185dc79089_12">
+                <text>odlingsyta som sitter ihop med en annan odlingsyta</text>
+            </label>
+            <label key="64c0762d409599.90436102_0d61f8370cad1d412f80b84d143e1257_13">
+                <text>C</text>
+            </label>
+            <label key="64c0762d409599.90436102_d6fe1d0be6347b8ef2427fa629c04485_14">
+                <text>korridor </text>
+            </label>
+            <label key="64c0762d409599.90436102_69691c7bdcc3ce6d5d8a1361f22d04ac_15">
+                <text>M</text>
+            </label>
+            <label key="64c0762d409599.90436102_6b60a1f67ad094bb406f337ba18995d9_16">
+                <text>odlingsytan i mitten</text>
+            </label>
+            <label key="64c0762d409599.90436102_e5e8c28e36c1edd6201c2e733b93ee45_17">
+                <text>150 m</text>
+            </label>
+            <label key="64c0762d409599.90436102_8d9ab096e96039cdbc98f547f9677632_18">
+                <text>100 m</text>
+            </label>
+            <label key="64c0762d409599.90436102_e1e1d3d40573127e9ee0480caf1283d6_19">
+                <text>R</text>
+            </label>
+            <label key="64c0762d409599.90436102_0ef000c711bc7cde3c2bbcc008ed33b8_20">
+                <text>separat rektangulär odlingsyta</text>
+            </label>
+            <label key="64c0762d409599.90436102_6636b1bcdba2ece333b879b21ffb949d_21">
+                <text>W2</text>
+            </label>
+            <label key="64c0762d409599.90436102_9d09eaa3488b31ecf98045c5f022df0f_22">
+                <text>separat odlingsyta med förlängningar</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/64c0762d409599.90436102/passage NEW 7.xml">
+            <label key="64c0762d409599.90436102_e7a98ad17f31c49a225f3fa8aa222e8f_1">
+                <text>Mångfald av växter</text>
+            </label>
+            <label key="64c0762d409599.90436102_080d216caf7f030f17a5c0211be73f94_2">
+                <text>En savann (en typ av gräsmark med glest utspridda träd) med <strong>långbarrig tall</strong> avverkades och ersattes av en tallodling med tätt odlad <strong>loblollytall</strong>.</text>
+            </label>
+            <label key="64c0762d409599.90436102_90049641a86156abbdbb553328406ea4_3">
+                <text>Efter tjugo år avverkade forskare några områden, så kallade 'odlingsytor', i loblollytallodlingen.  De satte plantor av långbarrig tall på dessa odlingsytor.</text>
+            </label>
+            <label key="64c0762d409599.90436102_cc1d28369ac5178565d89a9bccbe5c2c_4">
+                <text>Odlingsytorna anlades i loblollyplanteringen så som visas i diagrammet nedan.</text>
+            </label>
+            <label key="64c0762d409599.90436102_19c99b65e9f79425ff870dd1647fc371_5">
+                <text>En odlingsyta i mitten (M) på 1 hektar omgavs av fyra större odlingsytor på 1,4 hektar vardera.</text>
+            </label>
+            <label key="64c0762d409599.90436102_49d5f344eca3d6bcfcb1a2ebf0c4a7e5_6">
+                <text>En avverkad korridor band samman odlingsytan i mitten med odlingsyta (C).</text>
+            </label>
+            <label key="64c0762d409599.90436102_c1275b3f49f58260b23620b6ba314a86_7">
+                <text>Två odlingsytor (W1 och W2) hade avverkade förlängningar som liknade den sammanbindande korridoren men utan att sitta ihop med någon annan odlingsyta.</text>
+            </label>
+            <label key="64c0762d409599.90436102_843ee6703e04175f1cc88768f022cc1d_8">
+                <text>Den sista odlingsytan (R) är en rektangel utan korridor eller förlängningar.</text>
+            </label>
+            <label key="64c0762d409599.90436102_5d8c075eb10b285c98efe49489e2d819_9">
+                <text>
+                    <strong>‌Odlingsytor omgivna av tätt odlad loblollytall‌</strong>
+                </text>
+            </label>
+            <label key="64c0762d409599.90436102_1e9944dfac1eac7a602d65620b492a48_10">
+                <text>W1</text>
+            </label>
+            <label key="64c0762d409599.90436102_432203f5791033ff8940e17055c1b08a_11">
+                <text>separat odlingsyta med förlängningar </text>
+            </label>
+            <label key="64c0762d409599.90436102_7e53baa89e649aacfb8c65185dc79089_12">
+                <text>odlingsyta som sitter ihop med en annan odlingsyta</text>
+            </label>
+            <label key="64c0762d409599.90436102_0d61f8370cad1d412f80b84d143e1257_13">
+                <text>C</text>
+            </label>
+            <label key="64c0762d409599.90436102_d6fe1d0be6347b8ef2427fa629c04485_14">
+                <text>korridor </text>
+            </label>
+            <label key="64c0762d409599.90436102_69691c7bdcc3ce6d5d8a1361f22d04ac_15">
+                <text>M</text>
+            </label>
+            <label key="64c0762d409599.90436102_6b60a1f67ad094bb406f337ba18995d9_16">
+                <text>odlingsytan i mitten</text>
+            </label>
+            <label key="64c0762d409599.90436102_e5e8c28e36c1edd6201c2e733b93ee45_17">
+                <text>150 m</text>
+            </label>
+            <label key="64c0762d409599.90436102_8d9ab096e96039cdbc98f547f9677632_18">
+                <text>100 m</text>
+            </label>
+            <label key="64c0762d409599.90436102_e1e1d3d40573127e9ee0480caf1283d6_19">
+                <text>R</text>
+            </label>
+            <label key="64c0762d409599.90436102_0ef000c711bc7cde3c2bbcc008ed33b8_20">
+                <text>separat rektangulär odlingsyta</text>
+            </label>
+            <label key="64c0762d409599.90436102_6636b1bcdba2ece333b879b21ffb949d_21">
+                <text>W2</text>
+            </label>
+            <label key="64c0762d409599.90436102_9d09eaa3488b31ecf98045c5f022df0f_22">
+                <text>separat odlingsyta med förlängningar</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i636aec7e436821909657881dcc9da07a26">
+            <label key="i636aec7e436821909657881dcc9da07a26_185526fe76d7d1b26cb040f1e6586341_1">
+                <text>Tabellen nedan visar några frågor som forskarna vill undersöka. <br/>För att göra detta, ska de då jämföra C, W1, W2 och R med varandra eller ska de jämföra C med en kombination av W1, W2 och R?</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_2b269865aa8341e7b14067274f902e99_2">
+                <text>Välj 'Ja' eller 'Nej' för varje fråga.</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_ad233898a9778d8ae81be6fd3187cae4_3">
+                <text>jämföra C, W1, W2 och R med varandra</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_9d8b9ef48756c135edd0a1875cec4f5f_4">
+                <text>jämföra C med en kombination av W1, W2 och R </text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_6d8d15daf1a3fcc8b95f5ccd66bb8dbe_5">
+                <text>Påverkar korridorer den biologiska mångfalden i de sammanbundna odlingsytorna?</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_y_a6105c0a611b41b08f1209506350279e_6">
+                <text>ja</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_n_7fa3b767c460b54a2be4d49030b349c7_7">
+                <text>nej</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_choice_19_a6105c0a611b41b08f1209506350279e_8">
+                <text>ja</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_choice_20_7fa3b767c460b54a2be4d49030b349c7_9">
+                <text>nej</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_9261b1875dda6d11d56dcb46ec985fc3_10">
+                <text>Påverkar korridorer biologisk mångfald när förhållandet mellan omkrets och area i odlingsytorna ökar?</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_choice_4_a6105c0a611b41b08f1209506350279e_11">
+                <text>ja</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_choice_5_7fa3b767c460b54a2be4d49030b349c7_12">
+                <text>nej</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_choice_22_a6105c0a611b41b08f1209506350279e_13">
+                <text>ja</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_choice_23_7fa3b767c460b54a2be4d49030b349c7_14">
+                <text>nej</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_626db7f3ceb38383a4fbb374b6a1a6ac_15">
+                <text>Påverkar korridorer biologisk mångfald när arean hos odlingsytorna ökar?</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_choice_7_a6105c0a611b41b08f1209506350279e_16">
+                <text>ja</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_choice_8_7fa3b767c460b54a2be4d49030b349c7_17">
+                <text>nej</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_choice_25_a6105c0a611b41b08f1209506350279e_18">
+                <text>ja</text>
+            </label>
+            <label key="i636aec7e436821909657881dcc9da07a26_choice_26_7fa3b767c460b54a2be4d49030b349c7_19">
+                <text>nej</text>
+            </label>
+        </item>
+        <item id="i636aec09d7efb14157657ed9717a5123cc">
+            <label key="i636aec09d7efb14157657ed9717a5123cc_1693fe91de7f9fc2bd945302e2e0f8f2_1">
+                <text>För att undersöka effekten på biologisk mångfald räknar forskarna antalet växtarter som finns i varje odlingsyta en gång om året.</text>
+            </label>
+            <label key="i636aec09d7efb14157657ed9717a5123cc_ec83d00a064df3c49c272fecf86fadff_2">
+                <text>De beräknar andelen (i procent) växtarter som kommit till sedan föregående år (koloniseringshastighet) och andelen (i procent) arter som förlorats sedan föregående år (utrotningshastighet).</text>
+            </label>
+            <label key="i636aec09d7efb14157657ed9717a5123cc_70c26beb18ad422cf04063d02bc02639_3">
+                <text>Grafen visar skillnaden mellan odlingsytor som är sammanbundna med en korridor (SBO) och separata odlingsytor (SO) för både koloniseringshastighet och utrotningshastighet (skillnad = SBO-SO).</text>
+            </label>
+            <label key="i636aec09d7efb14157657ed9717a5123cc_7f034bd8c4e2ec81f029d2477e354e64_4">
+                <text>
+                    <strong>‌Skillnad i hastighet mellan sammanbundna och separata odlingsytor (procent)‌</strong>
+                </text>
+            </label>
+            <label key="i636aec09d7efb14157657ed9717a5123cc_a8c9de23bc153367edfba454462820fd_5">
+                <text>
+                    <strong>‌Tid (år)‌</strong>
+                </text>
+            </label>
+            <label key="i636aec09d7efb14157657ed9717a5123cc_21474d052182966be974161bb2ee107e_6">
+                <text>skillnad i koloniseringshastighet</text>
+            </label>
+            <label key="i636aec09d7efb14157657ed9717a5123cc_1503f65e8630d890c5ba887a175ba684_7">
+                <text>skillnad i utrotningshastighet</text>
+            </label>
+            <label key="i636aec09d7efb14157657ed9717a5123cc_8663e9b5f3e5cbea8705baedd31be7c8_8">
+                <text><p>Ökade antalet växtarter i sammanbundna odlingsytor snabbare än i separata odlingsytor under experimentet?</p><p></p>Välj antingen 'Ja' eller 'Nej'.</text>
+            </label>
+            <label key="i636aec09d7efb14157657ed9717a5123cc_choice_1_93cba07454f06a4a960172bbd6e2a435_9">
+                <text>Ja</text>
+            </label>
+            <label key="i636aec09d7efb14157657ed9717a5123cc_choice_2_bafd7322c6e97d25b6299b5d6fe8920b_10">
+                <text>Nej</text>
+            </label>
+            <label key="i636aec09d7efb14157657ed9717a5123cc_4fd72ad9efa6be34b8ac1f513e76dfb5_11">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+        <item id="i636aeca4e2238141470009b83d801a2344">
+            <label key="i636aeca4e2238141470009b83d801a2344_1693fe91de7f9fc2bd945302e2e0f8f2_1">
+                <text>För att undersöka effekten på biologisk mångfald räknar forskarna antalet växtarter som finns i varje odlingsyta en gång om året.</text>
+            </label>
+            <label key="i636aeca4e2238141470009b83d801a2344_6d767badaf31a3280a9a7132c88f2da5_2">
+                <text>De beräknar andelen (i procent) av växtarter som <strong>kommit till</strong> det senaste året (koloniseringshastighet) och andelen (i procent) av växter som <strong>förlorats</strong> det senaste året (utrotningshastighet).</text>
+            </label>
+            <label key="i636aeca4e2238141470009b83d801a2344_70c26beb18ad422cf04063d02bc02639_3">
+                <text>Grafen visar skillnaden mellan odlingsytor som är sammanbundna med en korridor (SBO) och separata odlingsytor (SO) för både koloniseringshastighet och utrotningshastighet (skillnad = SBO-SO).</text>
+            </label>
+            <label key="i636aeca4e2238141470009b83d801a2344_7f034bd8c4e2ec81f029d2477e354e64_4">
+                <text>
+                    <strong>‌Skillnad i hastighet mellan sammanbundna och separata odlingsytor (procent)‌</strong>
+                </text>
+            </label>
+            <label key="i636aeca4e2238141470009b83d801a2344_a8c9de23bc153367edfba454462820fd_5">
+                <text>
+                    <strong>‌Tid (år)‌</strong>
+                </text>
+            </label>
+            <label key="i636aeca4e2238141470009b83d801a2344_21474d052182966be974161bb2ee107e_6">
+                <text>skillnad i koloniseringshastighet</text>
+            </label>
+            <label key="i636aeca4e2238141470009b83d801a2344_1503f65e8630d890c5ba887a175ba684_7">
+                <text>skillnad i utrotningshastighet</text>
+            </label>
+            <label key="i636aeca4e2238141470009b83d801a2344_17c31dc4fd9353d0781c3be73517c81e_8">
+                <text>Över tid, vilken typ av livsmiljö kommer troligen att bildas i odlingsytorna?</text>
+            </label>
+            <label key="i636aeca4e2238141470009b83d801a2344_choice_1_e79a99ab9909172fef65fc9e33829de2_9">
+                <text>tallodling med endast tätt odlad loblollytall</text>
+            </label>
+            <label key="i636aeca4e2238141470009b83d801a2344_choice_2_f5a0963a0ed20fb9d9f4a53c6004e3d7_10">
+                <text>savann med endast långbarrig tall</text>
+            </label>
+            <label key="i636aeca4e2238141470009b83d801a2344_choice_3_3919c0d657e6be5030ea9caba2d4cb89_11">
+                <text>en ny livsmiljö som innehåller växter från både loblollytallodlingen och savannen med långbarrig tall</text>
+            </label>
+            <label key="i636aeca4e2238141470009b83d801a2344_choice_4_ba1b2821370954427e7532f93b7730ec_12">
+                <text>en ny livsmiljö som innehåller växter från varken loblollytallodlingen eller savannen med långbarrig tall</text>
+            </label>
+        </item>
+        <item id="i636aecc0d152f14233da7c19f06de2b059">
+            <label key="i636aecc0d152f14233da7c19f06de2b059_ea5950a1711c8fa245996d798413b23c_1">
+                <text>En webbplats hävdar att vi bör bevara stora områden av en livsmiljö istället för att skapa smala korridorer för att binda samman mindre områden av en och samma livsmiljö.</text>
+            </label>
+            <label key="i636aecc0d152f14233da7c19f06de2b059_4c56287c5588dc3aa635c1564ef742aa_2">
+                <text>Vilket av följande påståenden stödjer detta argument?</text>
+            </label>
+            <label key="i636aecc0d152f14233da7c19f06de2b059_89b1c1de80f35eb0f385836481797561_3">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i636aecc0d152f14233da7c19f06de2b059_A_4a3aaea746504f4d4d606eac9cbbc677_4">
+                <text>Mark behövs för att skapa jobb och bostäder.</text>
+            </label>
+            <label key="i636aecc0d152f14233da7c19f06de2b059_B_19ee85610d18f0d8551e6146fe7575d7_5">
+                <text>Att skapa eller bygga korridorer är bättre än att inte göra någonting. </text>
+            </label>
+            <label key="i636aecc0d152f14233da7c19f06de2b059_C_6dda63e8bebb8c0ee4363ee8ab27a8a7_6">
+                <text>Att skapa korridorer i andra områden har resulterat i att myndigheterna har minskat det totala området av bevarade livsmiljöer.</text>
+            </label>
+            <label key="i636aecc0d152f14233da7c19f06de2b059_D_dce75813514115683411bf3358b24934_7">
+                <text>Större markområden upprätthåller en större biologisk mångfald än mindre områden.</text>
+            </label>
+            <label key="i636aecc0d152f14233da7c19f06de2b059_E_01d779be12b1fd834127deff81cb0f6f_8">
+                <text>Smala korridorer kanske inte är lämpliga för stora djurs förflyttningar.</text>
+            </label>
+            <label key="i636aecc0d152f14233da7c19f06de2b059_F_85e05325e34860910e71dcc2764672b8_9">
+                <text>När klimatet förändras gör smala korridorer det möjligt för arter att förflytta sig dit förhållandena är mer lämpliga.</text>
+            </label>
+        </item>
+    </items>
+</file>

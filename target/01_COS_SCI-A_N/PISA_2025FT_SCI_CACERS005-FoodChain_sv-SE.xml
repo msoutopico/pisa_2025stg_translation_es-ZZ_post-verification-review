@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/64659a002d3637.38256348/passage NEW.xml">
+            <label key="64659a002d3637.38256348_13dac68220f1c8b7541fa2bd99859234_1">
+                <text>Näringskedja</text>
+            </label>
+            <label key="64659a002d3637.38256348_a08932450b2a571cfb686c791477e52b_2">
+                <text>Levande varelser behöver energi för att överleva. </text>
+            </label>
+            <label key="64659a002d3637.38256348_830d82f95fdceef066c5dc76dee4b518_3">
+                <text>Näringskedjor är modeller som representerar flödet av materia och energi i naturen.</text>
+            </label>
+            <label key="64659a002d3637.38256348_7dab8940b2ff58f482db379e8b44bbf1_4">
+                <text>Bilden nedanför visar flödet av energi i en näringskedja. </text>
+            </label>
+            <label key="64659a002d3637.38256348_d6dbdd89dc49c68a1881e1c1a711a198_5">
+                <text>Ett exempel i den här näringskedjan är att fågeln får sin energi genom att äta grodor.</text>
+            </label>
+            <label key="64659a002d3637.38256348_01b8216039a1f50f6264f1346e14e779_6">
+                <text>(Organismerna är inte skalenliga.)</text>
+            </label>
+            <label key="64659a002d3637.38256348_1aa05b393d140662e01f5f1f941ca83a_7">
+                <text>
+                    vattenväxter
+                </text>
+            </label>
+            <label key="64659a002d3637.38256348_a22432c4dd1711aef9f470329394465f_8">
+                <text>
+                    mygglarver
+                </text>
+            </label>
+            <label key="64659a002d3637.38256348_e68b50244cbb8eb21ab0e2bccbe63682_9">
+                <text>
+                    grodor
+                </text>
+            </label>
+            <label key="64659a002d3637.38256348_d4eac7596167aefe361c2880b2c97594_10">
+                <text>
+                    fåglar
+                </text>
+            </label>
+            <label key="64659a002d3637.38256348_73b033701789edad96ae7bba473ec4c0_11">
+                <text>
+                    ödlor
+                </text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i632816a963c4615517e6fd75d084b21">
+            <label key="i632816a963c4615517e6fd75d084b21_17fe5b5733f1e6a97a0f4388bb88b743_1">
+                <text>Varifrån får vattenväxterna den energi de behöver för att växa?</text>
+            </label>
+            <label key="i632816a963c4615517e6fd75d084b21_9460370bb0ca1c98a779b1bcc6861c2c_2">
+                <text>vatten</text>
+            </label>
+            <label key="i632816a963c4615517e6fd75d084b21_6124d98749365e3db2c9e5b27ca04db6_3">
+                <text>syre</text>
+            </label>
+            <label key="i632816a963c4615517e6fd75d084b21_6ee3d2bff78cc5c543a5096822c3df69_4">
+                <text>solljus</text>
+            </label>
+            <label key="i632816a963c4615517e6fd75d084b21_698b5c7a7c9bab08425d48a039b6af93_5">
+                <text>mineraler</text>
+            </label>
+        </item>
+        <item id="i6328194908c131849fa4e40c3620b4a">
+            <label key="i6328194908c131849fa4e40c3620b4a_60a7942a9ddc5ea51e2c02f9390dea49_1">
+                <text>Vilket begrepp beskriver grodans roll korrekt i denna näringskedja?</text>
+            </label>
+            <label key="i6328194908c131849fa4e40c3620b4a_f18122ddebc4341b4ed758b3f0817da8_2">
+                <text>producent</text>
+            </label>
+            <label key="i6328194908c131849fa4e40c3620b4a_1005b14bd29466723ace30d26f602f5b_3">
+                <text>konsument</text>
+            </label>
+            <label key="i6328194908c131849fa4e40c3620b4a_cb30cc351cf12e5acceb218e8ea673ab_4">
+                <text>nedbrytare</text>
+            </label>
+        </item>
+        <item id="i63281a3a4572e155171ad567b2d5616">
+            <label key="i63281a3a4572e155171ad567b2d5616_8da524365805cc0d14dfbfb095b2a23b_1">
+                <text>Vilken av följande förändringar kommer att inträffa <strong>först</strong> om antalet fåglar minskar? </text>
+            </label>
+            <label key="i63281a3a4572e155171ad567b2d5616_60e0bceac32db5ed84b1d1618bd0dc95_2">
+                <text>antalet ödlor kommer att öka</text>
+            </label>
+            <label key="i63281a3a4572e155171ad567b2d5616_8b55b35cfe8bf2f72d4085193596f334_3">
+                <text>antalet grodor kommer att öka</text>
+            </label>
+            <label key="i63281a3a4572e155171ad567b2d5616_9ad82a94ffd960b23484a120335aa227_4">
+                <text>antalet mygglarver kommer att öka</text>
+            </label>
+            <label key="i63281a3a4572e155171ad567b2d5616_dcada0211d8d7d0f1d100bcb999fef47_5">
+                <text>antalet vattenväxter kommer att öka</text>
+            </label>
+        </item>
+        <item id="i63281afe92211155270777be8741967">
+            <label key="i63281afe92211155270777be8741967_c9e2b71fd489ccf5f6bae613078ef14b_1">
+                <text>Vilken av följande typer av organismer visas inte i näringskedjan?</text>
+            </label>
+            <label key="i63281afe92211155270777be8741967_f18122ddebc4341b4ed758b3f0817da8_2">
+                <text>producent</text>
+            </label>
+            <label key="i63281afe92211155270777be8741967_1005b14bd29466723ace30d26f602f5b_3">
+                <text>konsument</text>
+            </label>
+            <label key="i63281afe92211155270777be8741967_cb30cc351cf12e5acceb218e8ea673ab_4">
+                <text>nedbrytare</text>
+            </label>
+            <label key="i63281afe92211155270777be8741967_a573f12ada396d2ff2f87ce41764427c_5">
+                <text>rovdjur</text>
+            </label>
+        </item>
+        <item id="i63281c070370a15546701e21f78d546">
+            <label key="i63281c070370a15546701e21f78d546_15844bd4bb8b01ff209dc500e7eebc10_1">
+                <text>Vilket djur i denna näringskedja lever både i vatten och på land?</text>
+            </label>
+            <label key="i63281c070370a15546701e21f78d546_eaf9a775476bd68d146b828d0617e787_2">
+                <text>mygglarv</text>
+            </label>
+            <label key="i63281c070370a15546701e21f78d546_938c2cc0dcc05f2b68c4287040cfcf71_3">
+                <text>groda</text>
+            </label>
+            <label key="i63281c070370a15546701e21f78d546_abaecf8ca3f98dc13eeecbac263cd3ed_4">
+                <text>fågel</text>
+            </label>
+            <label key="i63281c070370a15546701e21f78d546_5046a43fd3f8184be864359e3d5c9bda_5">
+                <text>ödla</text>
+            </label>
+        </item>
+    </items>
+</file>

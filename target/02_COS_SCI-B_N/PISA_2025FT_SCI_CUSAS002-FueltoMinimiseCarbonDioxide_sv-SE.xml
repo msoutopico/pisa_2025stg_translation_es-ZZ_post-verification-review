@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/649d00b5a10885.93217472/passage NEW.xml">
+            <label key="649d00b5a10885.93217472_5d9cdec658ec1abe61491e2ba51f44e7_1">
+                <text>Bränsle för att minimera koldioxid</text>
+            </label>
+            <label key="649d00b5a10885.93217472_afa6ba116f65a92d7de383d199a2b625_2">
+                <text>Det finns planer på att bygga ett kraftverk i Zedland för att omvandla värmeenergi till elektrisk energi.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_0032870a1e03d19a8560e46a1041dd37_3">
+                <text>Ökad mängd koldioxid (CO₂) i atmosfären bidrar till den globala uppvärmningen.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_a214bfa3d5e2964c99adf76f72906ad9_4">
+                <text>Regeringen i Zedland vill välja ett bränsle för det nya kraftverket som minimerar mängden CO₂ som produceras i förhållande till mängden elektrisk energi som genereras.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_239206ec52a23cfb98eed407a48e99c9_5">
+                <text>När ett bränsle förbränns reagerar det med syre och värmeenergi frigörs. Vanliga bränslen som används av kraftverk är bland annat kol (fast), metangas (gas) och diesel (vätska).</text>
+            </label>
+            <label key="649d00b5a10885.93217472_f47828d7a13b99e7d08e5da67b39eb88_6">
+                <text>Kol (bränsle) består huvudsakligen av grundämnet kol (och vatten). När grundämnet kol (C) i kolet förbränns produceras CO₂ och energi frigörs (mätt i joule).</text>
+            </label>
+            <label key="649d00b5a10885.93217472_e48b7f8e04bc57dadb53237d9b5fc8bd_7">
+                <text>C + O₂ → CO₂ + värmeenergi</text>
+            </label>
+            <label key="649d00b5a10885.93217472_e22430c24109ccbeef47cf3e76e3c70a_8">
+                <text>När metan (CH₄) förbränns produceras CO₂ och vatten och värmeenergi frigörs.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_22c007925c0f8f88d95d5fe36a6a3a6e_9">
+                <text>CH₄ + 2O₂ → CO₂ + 2H₂O + värmeenergi</text>
+            </label>
+            <label key="649d00b5a10885.93217472_95b19419df48c847d49fc50ae4cde14f_10">
+                <text>Diesel är en vätska som består av många olika typer av kolväten (molekyler som består av väte- och kolatomer). När diesel förbränns produceras koldioxid och vatten, och värmeenergi frigörs.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_9fbe19d0b4a7c3c60f7f0358a952a1da_11">
+                <text>Effektiviteten i omvandlingen av värmeenergi till elektrisk energi är densamma för alla bränslen.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649d00b5a10885.93217472/passage NEW.xml">
+            <label key="649d00b5a10885.93217472_5d9cdec658ec1abe61491e2ba51f44e7_1">
+                <text>Bränsle för att minimera koldioxid</text>
+            </label>
+            <label key="649d00b5a10885.93217472_afa6ba116f65a92d7de383d199a2b625_2">
+                <text>Det finns planer på att bygga ett kraftverk i Zedland för att omvandla värmeenergi till elektrisk energi.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_0032870a1e03d19a8560e46a1041dd37_3">
+                <text>Ökad mängd koldioxid (CO₂) i atmosfären bidrar till den globala uppvärmningen.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_a214bfa3d5e2964c99adf76f72906ad9_4">
+                <text>Regeringen i Zedland vill välja ett bränsle för det nya kraftverket som minimerar mängden CO₂ som produceras i förhållande till mängden elektrisk energi som genereras.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_239206ec52a23cfb98eed407a48e99c9_5">
+                <text>När ett bränsle förbränns reagerar det med syre och värmeenergi frigörs. Vanliga bränslen som används av kraftverk är bland annat kol (fast), metangas (gas) och diesel (vätska).</text>
+            </label>
+            <label key="649d00b5a10885.93217472_f47828d7a13b99e7d08e5da67b39eb88_6">
+                <text>Kol (bränsle) består huvudsakligen av grundämnet kol (och vatten). När grundämnet kol (C) i kolet förbränns produceras CO₂ och energi frigörs (mätt i joule).</text>
+            </label>
+            <label key="649d00b5a10885.93217472_e48b7f8e04bc57dadb53237d9b5fc8bd_7">
+                <text>C + O₂ → CO₂ + värmeenergi</text>
+            </label>
+            <label key="649d00b5a10885.93217472_e22430c24109ccbeef47cf3e76e3c70a_8">
+                <text>När metan (CH₄) förbränns produceras CO₂ och vatten och värmeenergi frigörs.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_22c007925c0f8f88d95d5fe36a6a3a6e_9">
+                <text>CH₄ + 2O₂ → CO₂ + 2H₂O + värmeenergi</text>
+            </label>
+            <label key="649d00b5a10885.93217472_95b19419df48c847d49fc50ae4cde14f_10">
+                <text>Diesel är en vätska som består av många olika typer av kolväten (molekyler som består av väte- och kolatomer). När diesel förbränns produceras koldioxid och vatten, och värmeenergi frigörs.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_9fbe19d0b4a7c3c60f7f0358a952a1da_11">
+                <text>Effektiviteten i omvandlingen av värmeenergi till elektrisk energi är densamma för alla bränslen.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649d00b5a10885.93217472/passage NEW.xml">
+            <label key="649d00b5a10885.93217472_5d9cdec658ec1abe61491e2ba51f44e7_1">
+                <text>Bränsle för att minimera koldioxid</text>
+            </label>
+            <label key="649d00b5a10885.93217472_afa6ba116f65a92d7de383d199a2b625_2">
+                <text>Det finns planer på att bygga ett kraftverk i Zedland för att omvandla värmeenergi till elektrisk energi.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_0032870a1e03d19a8560e46a1041dd37_3">
+                <text>Ökad mängd koldioxid (CO₂) i atmosfären bidrar till den globala uppvärmningen.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_a214bfa3d5e2964c99adf76f72906ad9_4">
+                <text>Regeringen i Zedland vill välja ett bränsle för det nya kraftverket som minimerar mängden CO₂ som produceras i förhållande till mängden elektrisk energi som genereras.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_239206ec52a23cfb98eed407a48e99c9_5">
+                <text>När ett bränsle förbränns reagerar det med syre och värmeenergi frigörs. Vanliga bränslen som används av kraftverk är bland annat kol (fast), metangas (gas) och diesel (vätska).</text>
+            </label>
+            <label key="649d00b5a10885.93217472_f47828d7a13b99e7d08e5da67b39eb88_6">
+                <text>Kol (bränsle) består huvudsakligen av grundämnet kol (och vatten). När grundämnet kol (C) i kolet förbränns produceras CO₂ och energi frigörs (mätt i joule).</text>
+            </label>
+            <label key="649d00b5a10885.93217472_e48b7f8e04bc57dadb53237d9b5fc8bd_7">
+                <text>C + O₂ → CO₂ + värmeenergi</text>
+            </label>
+            <label key="649d00b5a10885.93217472_e22430c24109ccbeef47cf3e76e3c70a_8">
+                <text>När metan (CH₄) förbränns produceras CO₂ och vatten och värmeenergi frigörs.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_22c007925c0f8f88d95d5fe36a6a3a6e_9">
+                <text>CH₄ + 2O₂ → CO₂ + 2H₂O + värmeenergi</text>
+            </label>
+            <label key="649d00b5a10885.93217472_95b19419df48c847d49fc50ae4cde14f_10">
+                <text>Diesel är en vätska som består av många olika typer av kolväten (molekyler som består av väte- och kolatomer). När diesel förbränns produceras koldioxid och vatten, och värmeenergi frigörs.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_9fbe19d0b4a7c3c60f7f0358a952a1da_11">
+                <text>Effektiviteten i omvandlingen av värmeenergi till elektrisk energi är densamma för alla bränslen.</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/649d00b5a10885.93217472/passage NEW.xml">
+            <label key="649d00b5a10885.93217472_5d9cdec658ec1abe61491e2ba51f44e7_1">
+                <text>Bränsle för att minimera koldioxid</text>
+            </label>
+            <label key="649d00b5a10885.93217472_afa6ba116f65a92d7de383d199a2b625_2">
+                <text>Det finns planer på att bygga ett kraftverk i Zedland för att omvandla värmeenergi till elektrisk energi.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_0032870a1e03d19a8560e46a1041dd37_3">
+                <text>Ökad mängd koldioxid (CO₂) i atmosfären bidrar till den globala uppvärmningen.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_a214bfa3d5e2964c99adf76f72906ad9_4">
+                <text>Regeringen i Zedland vill välja ett bränsle för det nya kraftverket som minimerar mängden CO₂ som produceras i förhållande till mängden elektrisk energi som genereras.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_239206ec52a23cfb98eed407a48e99c9_5">
+                <text>När ett bränsle förbränns reagerar det med syre och värmeenergi frigörs. Vanliga bränslen som används av kraftverk är bland annat kol (fast), metangas (gas) och diesel (vätska).</text>
+            </label>
+            <label key="649d00b5a10885.93217472_f47828d7a13b99e7d08e5da67b39eb88_6">
+                <text>Kol (bränsle) består huvudsakligen av grundämnet kol (och vatten). När grundämnet kol (C) i kolet förbränns produceras CO₂ och energi frigörs (mätt i joule).</text>
+            </label>
+            <label key="649d00b5a10885.93217472_e48b7f8e04bc57dadb53237d9b5fc8bd_7">
+                <text>C + O₂ → CO₂ + värmeenergi</text>
+            </label>
+            <label key="649d00b5a10885.93217472_e22430c24109ccbeef47cf3e76e3c70a_8">
+                <text>När metan (CH₄) förbränns produceras CO₂ och vatten och värmeenergi frigörs.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_22c007925c0f8f88d95d5fe36a6a3a6e_9">
+                <text>CH₄ + 2O₂ → CO₂ + 2H₂O + värmeenergi</text>
+            </label>
+            <label key="649d00b5a10885.93217472_95b19419df48c847d49fc50ae4cde14f_10">
+                <text>Diesel är en vätska som består av många olika typer av kolväten (molekyler som består av väte- och kolatomer). När diesel förbränns produceras koldioxid och vatten, och värmeenergi frigörs.</text>
+            </label>
+            <label key="649d00b5a10885.93217472_9fbe19d0b4a7c3c60f7f0358a952a1da_11">
+                <text>Effektiviteten i omvandlingen av värmeenergi till elektrisk energi är densamma för alla bränslen.</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6385557c0c55c139634c99e9f100a1ae0c">
+            <label key="i6385557c0c55c139634c99e9f100a1ae0c_caae0e17f2a4bace3715c8483a57a8f8_1">
+                <text>Tänk på en last med kol (bränsle) som består nästan helt av kol (grundämne).</text>
+            </label>
+            <label key="i6385557c0c55c139634c99e9f100a1ae0c_8f542c0671d32dc510f3c78fce0a0fdc_2">
+                <text>Vilket av följande värden är den närmaste uppskattningen av mängden CO₂ som produceras när 1 ton av detta kol förbränns helt?</text>
+            </label>
+            <label key="i6385557c0c55c139634c99e9f100a1ae0c_A_d2d532e4f14ae3e57cf923f9d55d2f4a_3">
+                <text>0,03 ton CO₂</text>
+            </label>
+            <label key="i6385557c0c55c139634c99e9f100a1ae0c_B_09e7be8163847ee1fb22ba2826bad63f_4">
+                <text>0,3 ton CO₂</text>
+            </label>
+            <label key="i6385557c0c55c139634c99e9f100a1ae0c_C_f147854266dff0e261c9fee2dc1ec7d9_5">
+                <text>1 ton CO₂</text>
+            </label>
+            <label key="i6385557c0c55c139634c99e9f100a1ae0c_D_fe569c4782c7d94fe8bc540cc83a0e62_6">
+                <text>3 ton CO₂</text>
+            </label>
+        </item>
+        <item id="i638555a0f26084006705e086281e196919">
+            <label key="i638555a0f26084006705e086281e196919_ecce2d13867ec9f1f0f03478a1487af0_1">
+                <text>Vilken information behöver Zedlands regering för att avgöra vilket bränsle som minimerar mängden CO₂ som produceras av kraftverket?</text>
+            </label>
+            <label key="i638555a0f26084006705e086281e196919_89b1c1de80f35eb0f385836481797561_2">
+                <text>Välj alla korrekta svar.</text>
+            </label>
+            <label key="i638555a0f26084006705e086281e196919_A_d04526594d9b64e773c3141012b41212_3">
+                <text>mängden värmeenergi som genereras per kilogram för varje bränsle</text>
+            </label>
+            <label key="i638555a0f26084006705e086281e196919_B_0410ac3287a0af17031f45bcc57e8a64_4">
+                <text>kostnaden per kilogram för varje bränsle</text>
+            </label>
+            <label key="i638555a0f26084006705e086281e196919_C_d3ce2f2ddb08aa527af0f0cb4ee77c03_5">
+                <text>the mass of CO₂ produced per kilogram for each fuel that is burned</text>
+            </label>
+            <label key="i638555a0f26084006705e086281e196919_D_38cdacdfbba541b0778d7b4e3aac0c43_6">
+                <text>massan per kubikmeter för varje bränsle</text>
+            </label>
+            <label key="i638555a0f26084006705e086281e196919_E_dbcf76d31001972c859b63a970b1c5d8_7">
+                <text>den temperatur vid vilken varje bränsle förbränns</text>
+            </label>
+            <label key="i638555a0f26084006705e086281e196919_F_f308fc8420c55aa188033093d6130ec1_8">
+                <text>mängden energi som Zedland förväntas behöva</text>
+            </label>
+        </item>
+        <item id="i638555da4491b40072530c634d7ffe649b">
+            <label key="i638555da4491b40072530c634d7ffe649b_d7fbca6e377ade7e46a2fa9c67dc813a_1">
+                <text>En elev har hittat information som jämför två flytande bränslen, i nedanstående tabell.</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_94fc563c7130bb29e3860f2ad076b575_2">
+                <text>Bränsle</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_6ed8380e4f6b57de4fd859a75e6de623_3">
+                <text>Mängd bränsle<br/>(liter)</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_9ee3204ee6e2dcb054dfc4f325d0d100_4">
+                <text>Producerad koldioxid<br/>(kilogram)</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_13b249d0dffb4995fee2cf812735ab4c_5">
+                <text>Värmeenergi som frigörs<br/>(megajoule)</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_50e3f78febd100e041cd07d86c18e0a2_6">
+                <text>Bränsle 1</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_c4ca4238a0b923820dcc509a6f75849b_7">
+                <text>1</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_3f414920b4430dcb9bacbd135d531910_8">
+                <text>2,67</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_a5771bce93e200c36f7cd9dfd0e5deaa_9">
+                <text>38</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_f098db4281fc598bf2d9e5c35a68f46f_10">
+                <text>Bränsle 2</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_a9b7ba70783b617e9998dc4dd82eb3c5_11">
+                <text>1000</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_4d94637ae0517d8f08c8601a21085ab5_12">
+                <text>1085,7</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_e5d0c0f640f991e813ca43d1be9c5b3e_13">
+                <text>17978</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_dfcdb2dcb7facc3e10abeeda4950d6ea_14">
+                <text><div>Eleven påstår att informationen i tabellen visar att förbränning av bränsle 1 frigör mindre värmeenergi än förbränning av bränsle 2.</div><p></p><div></div>Är påståendet korrekt?</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_choice_1_93cba07454f06a4a960172bbd6e2a435_15">
+                <text>Ja</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_choice_2_bafd7322c6e97d25b6299b5d6fe8920b_16">
+                <text>Nej</text>
+            </label>
+            <label key="i638555da4491b40072530c634d7ffe649b_6ef9fce7de37be0fa8ab14ea103cd35e_17">
+                <text>Motivera ditt svar med hjälp av information från tabellen.</text>
+            </label>
+        </item>
+        <item id="i63855610c53bf40063a0d2dfd3ffad3c89">
+            <label key="i63855610c53bf40063a0d2dfd3ffad3c89_e3c2fe298b74df378e832b2f4651993a_1">
+                <text>Metangas bildas djupt nere i marken genom nedbrytning av organiskt material. Den kan utvinnas genom att borra djupt ner i marken.</text>
+            </label>
+            <label key="i63855610c53bf40063a0d2dfd3ffad3c89_762963e9f110a55b8331d3af576720a5_2">
+                <text>Metan produceras även när organiskt material bryts ner på soptippar. Om det inte samlas in släpps det ut i atmosfären.</text>
+            </label>
+            <label key="i63855610c53bf40063a0d2dfd3ffad3c89_1cf6110e9b207d34754c51bb70568dee_3">
+                <text>Utsläpp av metan i atmosfären bidrar också till den globala uppvärmningen.</text>
+            </label>
+            <label key="i63855610c53bf40063a0d2dfd3ffad3c89_53d53ff61a8402b27105112cd1f411d3_4">
+                <text>Vilken metod för <strong>utvinning</strong> av metan kommer att minimera utsläppen av metan i atmosfären?</text>
+            </label>
+            <label key="i63855610c53bf40063a0d2dfd3ffad3c89_A_370bba7014b4c77633d1a986f12fc45b_5">
+                <text>att borra efter metan</text>
+            </label>
+            <label key="i63855610c53bf40063a0d2dfd3ffad3c89_B_7620d675f776504fa1fe3dc05be70901_6">
+                <text>att samla in metan från soptippar</text>
+            </label>
+            <label key="i63855610c53bf40063a0d2dfd3ffad3c89_C_2851ccc7d3b7d035e9c0fcd06400f79d_7">
+                <text>Det gör ingen skillnad vilken metod som används.</text>
+            </label>
+            <label key="i63855610c53bf40063a0d2dfd3ffad3c89_4fd72ad9efa6be34b8ac1f513e76dfb5_8">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+    </items>
+</file>

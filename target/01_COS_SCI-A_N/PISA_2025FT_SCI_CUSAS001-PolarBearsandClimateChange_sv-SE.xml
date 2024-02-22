@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/65545481a82d90.82233297/passage NEW 1.xml">
+            <label key="65545481a82d90.82233297_61e09a4fc843ed8413561abf8234004d_1">
+                <text>Isbjörnar</text>
+            </label>
+            <label key="65545481a82d90.82233297_f7ca86988175c0e88465e7cd03745154_2">
+                <text>Under de senare årtiondena har isbjörnar tillbringat mer tid på land, vilket har lett till fler kontakter med människor.</text>
+            </label>
+            <label key="65545481a82d90.82233297_868454a0e87dc3404dbfc0245a324750_3">
+                <text>I vissa fall orsakar dessa kontakter allvarliga konflikter som kan utsätta människor för livsfara eller skada egendom som till exempel bostäder och fordon.</text>
+            </label>
+            <label key="65545481a82d90.82233297_20d71f677f55745516ec3730c15bb040_4">
+                <text>Detta diagram är en sammanställning av de typer av kontakter mellan björnar och människor som lett till allvarliga konflikter. Data samlades in från byar i området kring Tjuktjerhavet.</text>
+            </label>
+            <label key="65545481a82d90.82233297_51afa18bf6c9fdde1ecac3c61a568bbf_5">
+                <text>Björnar hittar människoföda eller sopor <strong>31 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_803f9e159343a47aed90ff7313ec3cf2_6">
+                <text>Säkerhetspersonal hanterar björnar för att skydda samhället <strong>15 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_c37a2443d0fab290f47bb415963ac196_7">
+                <text>Björn närmar sig hund <strong>15 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_d1fed8ee0c8648670628703bc41c5ead_8">
+                <text>Mänskliga aktiviteter pågår på isbjörnens revir <strong>9 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_9c5cc2f4097b5be682cc4f41bb645654_9">
+                <text>Björn attackerar människa <strong>6 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_c457b3e7d3219bd3958a34bd260b66e7_10">
+                <text>Björn skyddar ungar <strong>6 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_445adabc0972a0864eb580cfe885817d_11">
+                <text>Bear is aggressive to human <strong>4%</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_be295b1e17bb36aafc7c915145c5e891_12">
+                <text>Människa provocerar björn <strong>4 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_ab16a0bfe4f27aa10fd80a2d2d0e05b3_13">
+                <text>Människa närmar sig björn av nyfikenhet <strong>4 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_904c4da462284d067437944c7f8baf40_14">
+                <text>Björn försvarar mat (djurkadaver) <strong>2 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_32bedf96eb090673581ab263c1793e48_15">
+                <text>Björn rör sig genom människobebott område <strong>2 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_569d47b0ae2599bd06a2fcc67596d51b_16">
+                <text>Människa skjuter och skadar björn <strong>2 %</strong></text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/65545481a82d90.82233297/passage NEW 1.xml">
+            <label key="65545481a82d90.82233297_61e09a4fc843ed8413561abf8234004d_1">
+                <text>Isbjörnar</text>
+            </label>
+            <label key="65545481a82d90.82233297_f7ca86988175c0e88465e7cd03745154_2">
+                <text>Under de senare årtiondena har isbjörnar tillbringat mer tid på land, vilket har lett till fler kontakter med människor.</text>
+            </label>
+            <label key="65545481a82d90.82233297_868454a0e87dc3404dbfc0245a324750_3">
+                <text>I vissa fall orsakar dessa kontakter allvarliga konflikter som kan utsätta människor för livsfara eller skada egendom som till exempel bostäder och fordon.</text>
+            </label>
+            <label key="65545481a82d90.82233297_20d71f677f55745516ec3730c15bb040_4">
+                <text>Detta diagram är en sammanställning av de typer av kontakter mellan björnar och människor som lett till allvarliga konflikter. Data samlades in från byar i området kring Tjuktjerhavet.</text>
+            </label>
+            <label key="65545481a82d90.82233297_51afa18bf6c9fdde1ecac3c61a568bbf_5">
+                <text>Björnar hittar människoföda eller sopor <strong>31 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_803f9e159343a47aed90ff7313ec3cf2_6">
+                <text>Säkerhetspersonal hanterar björnar för att skydda samhället <strong>15 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_c37a2443d0fab290f47bb415963ac196_7">
+                <text>Björn närmar sig hund <strong>15 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_d1fed8ee0c8648670628703bc41c5ead_8">
+                <text>Mänskliga aktiviteter pågår på isbjörnens revir <strong>9 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_9c5cc2f4097b5be682cc4f41bb645654_9">
+                <text>Björn attackerar människa <strong>6 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_c457b3e7d3219bd3958a34bd260b66e7_10">
+                <text>Björn skyddar ungar <strong>6 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_445adabc0972a0864eb580cfe885817d_11">
+                <text>Bear is aggressive to human <strong>4%</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_be295b1e17bb36aafc7c915145c5e891_12">
+                <text>Människa provocerar björn <strong>4 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_ab16a0bfe4f27aa10fd80a2d2d0e05b3_13">
+                <text>Människa närmar sig björn av nyfikenhet <strong>4 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_904c4da462284d067437944c7f8baf40_14">
+                <text>Björn försvarar mat (djurkadaver) <strong>2 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_32bedf96eb090673581ab263c1793e48_15">
+                <text>Björn rör sig genom människobebott område <strong>2 %</strong></text>
+            </label>
+            <label key="65545481a82d90.82233297_569d47b0ae2599bd06a2fcc67596d51b_16">
+                <text>Människa skjuter och skadar björn <strong>2 %</strong></text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i63574781e3ad6194519c11d475a0d8166a">
+            <label key="i63574781e3ad6194519c11d475a0d8166a_f4aff5a19a5c67248d77737ceef0a981_1">
+                <text>Under ett lokalt möte sa en bybo från området kring Tjuktjerhavet att björnarna inte skadar oss så länge vi inte närmar oss isbjörnarna. </text>
+            </label>
+            <label key="i63574781e3ad6194519c11d475a0d8166a_46058032bcf480a27673dd7bb3f0e32d_2">
+                <text>Stödjer data i diagrammet detta påstående?</text>
+            </label>
+            <label key="i63574781e3ad6194519c11d475a0d8166a_A_93cba07454f06a4a960172bbd6e2a435_3">
+                <text>Ja</text>
+            </label>
+            <label key="i63574781e3ad6194519c11d475a0d8166a_B_bafd7322c6e97d25b6299b5d6fe8920b_4">
+                <text>Nej</text>
+            </label>
+            <label key="i63574781e3ad6194519c11d475a0d8166a_4fd72ad9efa6be34b8ac1f513e76dfb5_5">
+                <text>Förklara ditt svar.</text>
+            </label>
+        </item>
+        <item id="i635747b475dad2694a89a3a127a0ac698">
+            <label key="i635747b475dad2694a89a3a127a0ac698_287ba11bdd1590670dde59b150f65d43_1">
+                <text>Baserat på data i diagrammet, beskriv en åtgärd som byborna skulle kunna vidta för att ta itu med den viktigaste orsaken till allvarliga konflikter mellan björnar och människor.</text>
+            </label>
+        </item>
+    </items>
+</file>

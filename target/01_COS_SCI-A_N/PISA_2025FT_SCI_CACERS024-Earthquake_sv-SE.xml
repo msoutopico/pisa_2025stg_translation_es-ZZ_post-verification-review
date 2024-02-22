@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:qh5="http://www.imsglobal.org/xsd/imsqtiv2p2_html5_v1p0" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <sharedstimuli>
+        <sharedstimulus id="assets/6554502f0e7d96.44213877/passage NEW.xml">
+            <label key="6554502f0e7d96.44213877_90146b8f4c6eb5e1c3bb64e643cacda4_1">
+                <text>Jordbävningar</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_b833fb8843fa87dd9cfa06a1ba446382_2">
+                <text>En seismisk zon är ett område där det är sannolikt att jordbävningar inträffar.</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_a04b17ec3f4de49fa58fdc6fb511515d_3">
+                <text>Ett land kan ha olika seismiska zoner beroende på frekvensen och intensiteten av tidigare jordbävningar. Intensiteten är ett mått på hur kraftiga skakningar som inträffar på en given plats.</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_106f17ba89d402a06b8ca2723fbfc219_4">
+                <text>Kartan visar fördelningen av seismiska zoner i Indien.</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_1f5ffef44e91da2dbe5e1558d11b75f2_5">
+                <text>Fyra platser markerade på kartan ligger på följande höjder:</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_f548d082e7e1ab700ed8a445c2ca64e5_6">
+                <text>P ligger 3 500 m över havet.</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_0083746c4967f7ef4260eb042231a1b3_7">
+                <text>R och S ligger mellan 500 och 1 000 m över havet.</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_a4a7f9303be7c6605e3c53d9ab69d0cb_8">
+                <text>Q ligger 100 m under havet.</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_152a88492475590ae335b2c5ad063c5b_9">
+                <text>30°N</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_28c1e37e317b935a387dbe232bc9f803_10">
+                <text>latitud</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_d9e6d34af968b782b931fde877d63618_11">
+                <text>20°N</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_b5a9a650557c327bc571ed4c8f66088f_12">
+                <text>10°N</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_9e04dcb13e36d8ea0d7cc25ac82e8c40_13">
+                <text>Arabiska havet</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_030eabf34091c8523365fbdce52be4fe_14">
+                <text>Bengaliska bukten</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_4158d5d55fec5eb386b8de0add9f474c_15">
+                <text>70°E</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_d2113867fe9ecd10091c718b05f061a7_16">
+                <text>80°E</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_77a00791d4090d7dd975e7c2ae44f9f4_17">
+                <text>90°E</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_ba569b80f7bb7762f073f1be57cc36aa_18">
+                <text>longitud</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_44c29edb103a2872f519ad0c9a0fdaaa_19">
+                <text>P</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_f09564c9ca56850d4cd6b3319e541aee_20">
+                <text>Q</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_e1e1d3d40573127e9ee0480caf1283d6_21">
+                <text>R</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_5dbc98dcc983a70728bd082d1a47546e_22">
+                <text>S</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_6b5f9752b60710f3f3eaa686c28347f2_23">
+                <text>
+                    <strong>‌Zon‌</strong>
+                </text>
+            </label>
+            <label key="6554502f0e7d96.44213877_0288378e05a887968ffc0f508a051ac8_24">
+                <text>
+                    <strong>‌Intensitet‌</strong>
+                </text>
+            </label>
+            <label key="6554502f0e7d96.44213877_b7940d5c6b5f602d63f3094d579978e4_25">
+                <text>Mycket hög risk</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_741fee4006e9a588dfcb6625b1379321_26">
+                <text>Hög risk</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_9934455b9e4f8718ce3528a8ea900819_27">
+                <text>Måttlig risk</text>
+            </label>
+            <label key="6554502f0e7d96.44213877_a5f59ae30e8cbfc2f8b3f32428ea0446_28">
+                <text>Låg risk</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6464101dbb7ad7.48393315/passage NEW 8.xml">
+            <label key="6464101dbb7ad7.48393315_90146b8f4c6eb5e1c3bb64e643cacda4_1">
+                <text>Jordbävningar</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_4f4d49c310e8fdd6398a6d2fe5d7deb8_2">
+                <text>En seismograf mäter intensiteten i en jordbävning.</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_256bd814ba6fcaabc5a17219085390b6_3">
+                <text>Figuren visar hur en seismograf fungerar.</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_d16671f09c81df8fea5e98c03724996e_4">
+                <text>papper (rör sig i pilens riktning)</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_d90ccffa01275a7a7795fb6d1274e75f_5">
+                <text>vikt</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_03f00e8e9d0d0847bb10a3a22334274a_6">
+                <text>penna</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_aa09ea1bcca2c8771d4710f6d7d84cc2_7">
+                <text>grafisk registrering på papper (seismogram)</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_6c4949400f734876e010ee627fcc2c81_8">
+                <text>Jordens rörelse till följd av en jordbävning</text>
+            </label>
+        </sharedstimulus>
+        <sharedstimulus id="assets/6464101dbb7ad7.48393315/passage NEW 8.xml">
+            <label key="6464101dbb7ad7.48393315_90146b8f4c6eb5e1c3bb64e643cacda4_1">
+                <text>Jordbävningar</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_4f4d49c310e8fdd6398a6d2fe5d7deb8_2">
+                <text>En seismograf mäter intensiteten i en jordbävning.</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_256bd814ba6fcaabc5a17219085390b6_3">
+                <text>Figuren visar hur en seismograf fungerar.</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_d16671f09c81df8fea5e98c03724996e_4">
+                <text>papper (rör sig i pilens riktning)</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_d90ccffa01275a7a7795fb6d1274e75f_5">
+                <text>vikt</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_03f00e8e9d0d0847bb10a3a22334274a_6">
+                <text>penna</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_aa09ea1bcca2c8771d4710f6d7d84cc2_7">
+                <text>grafisk registrering på papper (seismogram)</text>
+            </label>
+            <label key="6464101dbb7ad7.48393315_6c4949400f734876e010ee627fcc2c81_8">
+                <text>Jordens rörelse till följd av en jordbävning</text>
+            </label>
+        </sharedstimulus>
+    </sharedstimuli>
+    <items>
+        <item id="i6371724acfc40405799d347da93896e91e">
+            <label key="i6371724acfc40405799d347da93896e91e_ae4b6809d6904868ffca440bed0abcd6_1">
+                <text>Vilket av följande påståenden om intensiteten i jordbävningar i Indien stöds bäst av data på kartan?</text>
+            </label>
+            <label key="i6371724acfc40405799d347da93896e91e_A_169d01fa7fafe595bfbdc695d6e5f43d_2">
+                <text>Intensiteten tenderar att öka från södra till norra Indien.</text>
+            </label>
+            <label key="i6371724acfc40405799d347da93896e91e_B_81c3061c9aa0bcbe881159f3609f8ba6_3">
+                <text>Intensiteten tenderar att minska från västra till östra Indien.</text>
+            </label>
+            <label key="i6371724acfc40405799d347da93896e91e_C_5b02b8212f98524603fe019f9975532c_4">
+                <text>Intensiteten tenderar att öka med minskande höjd över havet.</text>
+            </label>
+            <label key="i6371724acfc40405799d347da93896e91e_D_8cc11113b0f0366cf3ac17cf5bcec278_5">
+                <text>Intensiteten tenderar att minska med ökande avstånd från havet.</text>
+            </label>
+        </item>
+        <item id="i63745d9aaed2625895584507ca2fe5f">
+            <label key="i63745d9aaed2625895584507ca2fe5f_36df419741d8f84bc87c9942d3698edc_1">
+                <text>Intensiteten på en jordbävning är ett mått på hur kraftiga skakningarna är på en given plats.</text>
+            </label>
+            <label key="i63745d9aaed2625895584507ca2fe5f_c09c0bc62432d505917f333aa1040369_2">
+                <text>Följande seismogram är registreringar av de skakningar som orsakats av olika jordbävningar som inträffat på samma plats.</text>
+            </label>
+            <label key="i63745d9aaed2625895584507ca2fe5f_5d76f0236238714b4279d60e223bc8a1_3">
+                <text>Välj det seismogram som representerar jordbävningen med lägst intensitet.</text>
+            </label>
+        </item>
+        <item id="i63717288799ec40579823c48ca4711600d">
+            <label key="i63717288799ec40579823c48ca4711600d_44d46d47c37d7eae8991126e62481d5e_1">
+                <text>Pennan på seismografen är fäst vid en vikt.</text>
+            </label>
+            <label key="i63717288799ec40579823c48ca4711600d_bdacb66ec45de6bcde645194da897540_2">
+                <text>En av viktens funktioner är att pressa ner pennan mot pappret.</text>
+            </label>
+            <label key="i63717288799ec40579823c48ca4711600d_fda515ca8c05058570018ff49f9b719e_3">
+                <text>Vad är en annan funktion vikten har?</text>
+            </label>
+        </item>
+    </items>
+</file>
